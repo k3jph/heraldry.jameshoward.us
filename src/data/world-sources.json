@@ -684,5 +684,116 @@
         "english": "rock-art source identified by government"
       }
     ]
+  },
+  {
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied.",
+    "accessed": "2026-10-08",
+    "id": "lv-heraldry-law",
+    "area": "Latvia",
+    "language": "lv",
+    "holding": "Latvijas Republikas Saeima · Likumi.lv",
+    "titleOriginal": "Ģerboņu likums",
+    "titleEnglish": "Coats of Arms Law",
+    "url": "https://likumi.lv/ta/id/123815-gerbonu-likums",
+    "kind": "consolidated statute",
+    "authority": "official legislation",
+    "englishSynopsis": "The Latvian Coats of Arms Law regulates registration, legal protection and use of heraldic arms other than the state arms. Its definition includes symbols of municipalities and other public entities as well as private legal and natural persons. Applications for registration pass through the Ministry of Culture and the State Heraldry Commission; the public register contains designs, descriptions, and registration information. Some identity data are sensitive; the public teaching project should not copy personal identifiers from official filings. The consolidated law has amendments and must be dated for legal comparison.",
+    "glossary": [
+      {
+        "term": "ģerbonis",
+        "english": "coat of arms"
+      },
+      {
+        "term": "ģerboņu reģistrs",
+        "english": "register of coats of arms"
+      },
+      {
+        "term": "Valsts Heraldikas komisija",
+        "english": "State Heraldry Commission"
+      },
+      {
+        "term": "Kultūras ministrija",
+        "english": "Ministry of Culture"
+      },
+      {
+        "term": "tiesiskā aizsardzība",
+        "english": "legal protection"
+      }
+    ]
+  },
+  {
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied.",
+    "accessed": "2026-10-08",
+    "id": "lt-heraldry-act",
+    "area": "Lithuania",
+    "language": "lt",
+    "holding": "Lietuvos Respublikos Seimas · e-TAR legal acts",
+    "titleOriginal": "Lietuvos Respublikos valstybės herbo, kitų herbų ir herbinių ženklų įstatymas",
+    "titleEnglish": "Law of Lithuania on the State Coat of Arms, Other Coats of Arms and Heraldic Signs",
+    "url": "https://e-tar.lt/rs/actualedition/TAR.55B9E4E382B3/KccWpcqpst/",
+    "kind": "consolidated statute and official legal publication",
+    "authority": "official legislation",
+    "englishSynopsis": "Lithuania's legislation distinguishes the state arms, approved armorial standards for counties, municipalities and towns, and other official heraldic signs. Article 10 concerns the presidential approval of certain public coats of arms on the proposal of the Lithuanian Heraldry Commission. The same text governs how standards and derivative official graphics are retained and used. The official text includes amendments: a source check must identify the specific legislative version and should not characterize this public-symbol approval scheme as a universal rule for private family arms.",
+    "glossary": [
+      {
+        "term": "herbas",
+        "english": "coat of arms"
+      },
+      {
+        "term": "savivaldybė",
+        "english": "municipality"
+      },
+      {
+        "term": "herbo etalonas",
+        "english": "official coat-of-arms standard"
+      },
+      {
+        "term": "Lietuvos heraldikos komisija",
+        "english": "Lithuanian Heraldry Commission"
+      },
+      {
+        "term": "Respublikos Prezidentas",
+        "english": "President of the Republic"
+      }
+    ]
+  },
+  {
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied.",
+    "accessed": "2026-10-08",
+    "id": "fi-kuntalaki",
+    "area": "Finland",
+    "language": "fi",
+    "holding": "Suomen säädöskokoelma · Finlex",
+    "titleOriginal": "Kuntalaki (410/2015), 5 § Kunnanvaakuna",
+    "titleEnglish": "Municipalities Act (410/2015), section 5: Municipal coats of arms",
+    "url": "https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2015/410",
+    "kind": "official statute",
+    "authority": "official legislation",
+    "englishSynopsis": "Section 5 of Finland's 2015 Municipalities Act provides that a municipality may have a coat of arms approved by its council, but before approval it must seek a statement from the National Archives. The municipal executive or other authority designated by local rules supervises use. This is a particular administrative design and approval process, distinct from Latvia's registration framework and Lithuania's presidential approval of specified public armorial standards. Study the Finnish words for permission, approval, opinion, and oversight as separate actions.",
+    "glossary": [
+      {
+        "term": "kunnanvaakuna",
+        "english": "municipal coat of arms"
+      },
+      {
+        "term": "valtuusto",
+        "english": "municipal council"
+      },
+      {
+        "term": "hyväksyä",
+        "english": "to approve"
+      },
+      {
+        "term": "Kansallisarkisto",
+        "english": "National Archives"
+      },
+      {
+        "term": "lausunto",
+        "english": "statement or opinion"
+      }
+    ]
   }
 ]
