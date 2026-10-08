@@ -365,5 +365,108 @@
     "translationStatus": "source-checked short working translation, independent specialist review outstanding",
     "usage": "short attributed quotation; full original remains with authority",
     "accessed": "2026-10-08"
+  },
+  {
+    "accessed": "2026-10-08",
+    "translationStatus": "Original-source short excerpt with draft editorial English translation; independent specialist review pending",
+    "usage": "Brief attributed excerpt. Full text and historical witnesses remain at linked institution.",
+    "id": "hungary-arany-descent",
+    "region": "Hungary",
+    "language": "hu",
+    "sourceId": "hu-arany-1634",
+    "sourceTitle": "A nagyfalusi Arany család címereslevele és nemességvitató pere",
+    "locator": "Hungarian National Archives, Avar Anton's dated 27 February 2017 explanatory essay; paragraph on the attempted 1815 litigation, related charter MNL OL R 64, item 1, no. 325",
+    "url": "https://mnl.gov.hu/mnl/ol/hirek/zart_sisakon_s_pajzson_kezbe_kivont_kardu/nagyfalusi_arany_szalontai_hajdu",
+    "sourceType": "Modern Hungarian archival interpretation of an authentic 1634 charter and later litigation",
+    "original": "az armálisban szereplő Ferenctől való közvetlen leszármazásukat nem tudták bebizonyítani",
+    "translation": "they could not prove their direct descent from Ferenc named in the armorial charter",
+    "vocabulary": [
+      {
+        "term": "armális",
+        "translation": "armorial charter"
+      },
+      {
+        "term": "közvetlen leszármazás",
+        "translation": "direct descent"
+      },
+      {
+        "term": "nem tudták bebizonyítani",
+        "translation": "were unable to prove"
+      }
+    ],
+    "analysis": "The Hungarian National Archives article traces litigation concerning the Arany family's hereditary claim from 1778 through 1815. The sentence reports failure to prove direct descent from the beneficiary Ferenc named in a genuine princely charter of 1634. This is the modern archivist's Hungarian interpretation of the evidence, not a quotation from the original Latin grant. Its distinction is critical: original authentic evidence of an armorial grant does not fill every gap in genealogical descent.",
+    "assignment": "Consult the original Hungarian article and separate what the 1634 charter proves from what the later 1815 proceedings required. Draw a document dependency diagram with the original parchment, later heraldic illustration, proclamation endorsement, genealogical witnesses and state adjudications.",
+    "rights": "Brief modern archival prose excerpt attributed to the Hungarian National Archives.",
+    "review": "Original archive essay excerpt checked; English is editorial interpretation pending a Hungarian-language specialist."
+  },
+  {
+    "accessed": "2026-10-08",
+    "translationStatus": "Original-source short excerpt with draft editorial English translation; independent specialist review pending",
+    "usage": "Brief attributed excerpt. Full text and historical witnesses remain at linked institution.",
+    "id": "croatia-shield-only",
+    "region": "Croatia",
+    "language": "hr",
+    "sourceId": "hr-consolidated-2013",
+    "sourceTitle": "Zakon o lokalnoj i područnoj (regionalnoj) samoupravi (pročišćeni tekst)",
+    "locator": "2013 consolidated statute Article 10, sentences on civic coat's heraldic correctness and shield-only composition",
+    "url": "https://narodne-novine.nn.hr/clanci/sluzbeni/full/2013_02_19_323.html",
+    "sourceType": "Croatian consolidated national statutory text",
+    "original": "Grb mora biti heraldički ispravan i opisan po pravilima heraldike.",
+    "translation": "The coat of arms must be heraldically correct and described according to the rules of heraldry.",
+    "vocabulary": [
+      {
+        "term": "grb",
+        "translation": "coat of arms"
+      },
+      {
+        "term": "mora biti",
+        "translation": "must be"
+      },
+      {
+        "term": "heraldički ispravan",
+        "translation": "heraldically correct"
+      },
+      {
+        "term": "opisan po pravilima heraldike",
+        "translation": "described according to the rules of heraldry"
+      }
+    ],
+    "analysis": "Article 10 concerns the official arms of units of local and regional self-government. Its following sentence confines the coat to the shield and its contents. A reader who knows only English personal achievements might assume a crest and supporters could be included automatically; the Croatian civic rule establishes a more restricted public-body object. The source is a 2013 consolidated text, not proof that all later amendments are represented.",
+    "assignment": "Translate Article 10's next sentence about the shield and its contents. Compare it with one historic fully ornamented achievement. Explain why the statute regulates a particular category of civic arms rather than redefining all European coats.",
+    "rights": "Eleven-word excerpt from Croatian official gazette; full text remains linked.",
+    "review": "Original statutory line checked in Croatian official consolidated text; English rendering is editorial."
+  },
+  {
+    "accessed": "2026-10-08",
+    "translationStatus": "Original-source short excerpt with draft editorial English translation; independent specialist review pending",
+    "usage": "Brief attributed excerpt. Full text and historical witnesses remain at linked institution.",
+    "id": "slovenia-mining",
+    "region": "Slovenia",
+    "language": "sl",
+    "sourceId": "sl-mezica-2025",
+    "sourceTitle": "Statut Občine Mežica",
+    "locator": "Municipality of Mežica statute adopted 18 June 2025, Article 6(1), description of official coat",
+    "url": "https://pisrs.si/pregledPredpisa?sop=2025-01-2085",
+    "sourceType": "Official Slovenian municipality statute",
+    "original": "na osrednjem zelenem polju so prekrižana rudarska kladiva",
+    "translation": "Crossed mining hammers appear on the central green field.",
+    "vocabulary": [
+      {
+        "term": "osrednjem zelenem polju",
+        "translation": "central green field (locative)"
+      },
+      {
+        "term": "prekrižana",
+        "translation": "crossed"
+      },
+      {
+        "term": "rudarska kladiva",
+        "translation": "mining hammers"
+      }
+    ],
+    "analysis": "The text specifies particular local industrial symbolism in an official civic graphic. The same paragraph explains hills, the Mount Peca landscape and legendary King Matjaž; those meanings are attributed to the municipality rather than to a generic universal symbolism chart. The words belong to a modern Slovenian municipal statute, not to a medieval armorial grant. Drawing only crossed hammers would not reproduce the full official graphic.",
+    "assignment": "Read Article 6(1) and create an English prose description of the landscape, colour fields, mining devices and King Matjaž. Identify which words provide geometry, which express intended symbolism, and which specify governmental use.",
+    "rights": "Very short excerpt from a local statute; full document linked.",
+    "review": "Short Slovenian clause checked against official PISRS source; English editorial rendering requires specialist review."
   }
 ]
