@@ -102,3 +102,12 @@ test('decoder rejects unsupported complex constructions instead of guessing',()=
   assert.equal(parseBlazon('').ok,false);
   assert.equal(parseBlazon('<script>alert(1)</script>').ok,false);
 });
+
+test('monochrome SVG preserves armorial identity using traditional hatching patterns',()=>{
+  const shield=armsSVG({field:'gules',ordinary:'fess',ordinaryTincture:'or',charge:'mullet',chargeTincture:'sable'},'hatched-specimen',true);
+  assert.match(shield,/hatch-hatched-specimen-gules/);
+  assert.match(shield,/hatch-hatched-specimen-or/);
+  assert.match(shield,/hatch-hatched-specimen-sable/);
+  assert.ok(shield.includes('<pattern'));
+  assert.match(shield,/aria-label="Gules, on a fess Or/);
+});
