@@ -124,8 +124,8 @@ export function starPoints(outer=23,inner=10,n=5) {
   return points.join(" ");
 }
 
-export function chargeSVG(kind,color,x,y,size=40) {
-  const fill=TINCTURES[color]?.value || TINCTURES.or.value;
+export function chargeSVG(kind,color,x,y,size=40,monochrome=false,uid='') {
+  const fill=monochrome?'url(#hatch-'+uid+'-'+color+')':(TINCTURES[color]?.value || TINCTURES.or.value);
   let shape="";
   const outline='stroke="#1b2d32" stroke-width="1.1" stroke-linejoin="round"';
   switch(kind){
@@ -142,12 +142,25 @@ export function chargeSVG(kind,color,x,y,size=40) {
   return '<g transform="translate('+x+' '+y+') scale('+(size/48).toFixed(4)+')" fill="'+fill+'" '+outline+'>'+shape+'</g>';
 }
 
-export function armsSVG(input={},identifier="heraldic-study") {
+function hatchDefs(uid) {
+  const strokes = {
+    or: '<circle cx="2" cy="2" r="1.05" fill="#1b262c"/>',
+    argent: '',
+    gules: '<path d="M4 0V8" stroke="#1b262c" stroke-width="1.3"/>',
+    azure: '<path d="M0 4H8" stroke="#1b262c" stroke-width="1.3"/>',
+    sable: '<path d="M4 0V8M0 4H8" stroke="#1b262c" stroke-width="1.1"/>',
+    vert: '<path d="M-8 0L0 8M0 0L8 8M8 0L16 8" stroke="#1b262c" stroke-width="1.3"/>',
+    purpure: '<path d="M-8 8L0 0M0 8L8 0M8 8L16 0" stroke="#1b262c" stroke-width="1.3"/>'
+  };
+  return Object.entries(strokes).map(([name,art])=>'<pattern id="hatch-'+uid+'-'+name+'" patternUnits="userSpaceOnUse" width="8" height="8"><rect width="8" height="8" fill="#fffdf8"/>'+art+'</pattern>').join('');
+}
+
+export function armsSVG(input={},identifier="heraldic-study",monochrome=false) {
   const d=normalizeDesign(input);
   const uid=(""+identifier).replace(/[^a-zA-Z0-9_-]/g,"-");
   const id="clip-"+uid;
   const p="M75 6 C96 7 117 8 139 6 L139 83 C138 121 116 147 75 165 C34 147 12 121 11 83 L11 6 C33 8 54 7 75 6Z";
-  const col=t=>TINCTURES[t].value;
+  const col=t=>monochrome?'url(#hatch-'+uid+'-'+t+')':TINCTURES[t].value;
   const clip='clip-path="url(#'+id+')"';
   let ground='<path d="'+p+'" fill="'+col(d.field)+'"/>';
   if(d.division==="per-pale") ground+='<rect x="75" width="75" height="172" fill="'+col(d.secondary)+'"/>';
@@ -186,9 +199,9 @@ export function armsSVG(input={},identifier="heraldic-study") {
     } else {
       coordinates=[[47,46,33],[103,46,33],[75,112,33]];
     }
-    charge=coordinates.map(c=>chargeSVG(d.charge,d.chargeTincture,c[0],c[1],c[2])).join("");
+    charge=coordinates.map(c=>chargeSVG(d.charge,d.chargeTincture,c[0],c[1],c[2],monochrome,uid)).join("");
   }
-  const svg='<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 174" role="img" aria-label="'+blazon(d).replace(/"/g,"&quot;")+'"><defs><clipPath id="'+id+'"><path d="'+p+'"/></clipPath></defs><g '+clip+'>'+ground+ordinary+charge+'</g><path d="'+p+'" fill="none" stroke="#172c33" stroke-width="3.3" stroke-linejoin="round"/></svg>';
+  const svg='<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 174" role="img" aria-label="'+blazon(d).replace(/"/g,"&quot;")+'"><defs><clipPath id="'+id+'"><path d="'+p+'"/></clipPath>'+(monochrome?hatchDefs(uid):'')+'</defs><g '+clip+'>'+ground+ordinary+charge+'</g><path d="'+p+'" fill="none" stroke="#172c33" stroke-width="3.3" stroke-linejoin="round"/></svg>';
   return svg;
 }
 
