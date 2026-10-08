@@ -1,13 +1,13 @@
 # The Heraldry Project
 
-**The language of arms, opened to everyone.** A free, independent, interactive school of heraldry at [heraldry.jameshoward.us](https://heraldryproject.org/).
+**The language of arms, opened to everyone.** A free, independent, interactive school of heraldry at [heraldryproject.org](https://heraldryproject.org/).
 
 Built with [Astro](https://astro.build/) and published using **GitHub Pages**.
 
 ## Learn, draw, research
 
-- **Academy:** 12 substantial self-paced lessons covering medieval origins, tinctures, ordinaries, charges, blazon, cadency, marshalling, and heraldic law.
-- **Guided lectures:** 12 interactive chapter-by-chapter presentations with a readable transcript and optional browser-native spoken narration.
+- **Academy:** 12 expanded self-paced readings in `src/content/foundation/`, covering visual identity, tinctures, geometry, charges, blazon, cadency, marshalling, institutions and documentary research. Footnotes, chapter navigation, worked problems, answer discussions, and a capstone are rendered as static HTML. First teaching drafts await specialist review and further expansion.
+- **Guided lectures:** 12 shorter introductory presentations with readable scripts and optional browser-native narration, linked to the expanded chapters.
 - **Atelier:** Design original vector shields using field divisions, tinctures, ordinaries and charges. Switch to engraved hatching, view an introductory blazon, export SVG or PNG, and share a design by URL.
 - **Blazon decoder:** Write a supported simple blazon to generate an illustration; the parser declines unsupported constructions rather than guessing.
 - **Tincture laboratory:** View heraldic colours, historical monochrome hatching, and a 49-cell contrast matrix.
@@ -60,3 +60,4 @@ The six graduate-methods seminars in `src/content/seminars/` cover archival sour
 ### Parallel primary texts
 
 The original-language exercises at `/translation-lab/` present a growing set of source-checked short excerpts from actual documents in multiple non-English languages. Every extract has a precise source locator, original text, a cautious English translation, terminology, historical/legal commentary, and a graduate follow-up exercise. Full texts are linked rather than copied wholesale.
+

@@ -3,10 +3,20 @@ import Base from '../../layouts/Base.astro';
 import Shield from '../../components/Shield.astro';
 import lessons from '../../data/course.json';
 import { blazon } from '../../lib/heraldry.js';
-export function getStaticPaths() {
-  return lessons.map((lesson,index)=>({params:{slug:lesson.slug},props:{lesson,index}}));
+import { getCollection, render } from 'astro:content';
+import { chapterReadMinutes } from '../../lib/foundation.js';
+export async function getStaticPaths() {
+  const chapters = await getCollection('foundation');
+  return lessons.map((lesson,index)=>{
+    const chapter = chapters.find(item=>item.id===lesson.slug);
+    if (!chapter) throw new Error('Missing foundation chapter: '+lesson.slug);
+    return {params:{slug:lesson.slug},props:{lesson,index,chapter}};
+  });
 }
-const {lesson,index} = Astro.props;
+const {lesson,index,chapter} = Astro.props;
+const {Content,headings} = await render(chapter);
+const minutes = chapterReadMinutes(chapter.body);
+const chapterHeadings = headings.filter(heading=>heading.depth===2);
 const previous=lessons[index-1];
 const next=lessons[index+1];
 ---
@@ -27,17 +37,19 @@ const next=lessons[index+1];
       <a href="/academy/" class="text-link" style="margin-top:25px;display:inline-block">Full curriculum ↗</a>
     </aside>
     <article class="lesson-content">
-      <div class="lesson-meta"><span>UNIT {String(lesson.number).padStart(2,'0')} OF 12</span><span>{lesson.minutes} MIN READ</span><span>SELF-PACED</span><span>3 QUESTION CHECK</span></div>
+      <div class="lesson-meta"><span>UNIT {String(lesson.number).padStart(2,'0')} OF 12</span><span>ABOUT {minutes} MIN READ</span><span>EXERCISES ADDITIONAL</span><span>3 QUESTION CHECK</span></div>
       <p class="lesson-lead">{lesson.description}</p>
-      <div class="notice-box" style="display:flex;align-items:center;justify-content:space-between;gap:20px;flex-wrap:wrap;margin-bottom:32px"><div><strong>Prefer a guided lecture?</strong><p>The same material is available as a chapter-by-chapter presentation with optional device-based spoken narration.</p></div><a class="btn btn-dark" href={'/lecture/'+lesson.slug+'/'}>Enter the lecture hall ↗</a></div>
+      <div class="notice-box" style="display:flex;align-items:center;justify-content:space-between;gap:20px;flex-wrap:wrap;margin-bottom:32px"><div><strong>Start with a guided introduction.</strong><p>The shorter presentation introduces the unit. Continue here for the expanded reading, source notes, and documentary workshop.</p></div><a class="btn btn-dark" href={'/lecture/'+lesson.slug+'/'}>Enter the lecture hall ↗</a></div>
       <div class="lesson-outcomes"><h2>After this lesson, you should be able to…</h2><ul>{lesson.objectives.map(goal=><li>{goal}</li>)}</ul></div>
       <div class="lesson-visual"><div><p class="eyebrow"><span class="star">✦</span> One shield, one thought</p><p>{blazon(lesson.example)}</p><small>Original teaching illustration · not a grant or register entry.</small></div><Shield design={lesson.example} id={'lesson-'+lesson.number}/></div>
-      {lesson.sections.map((section,i)=><section id={'reading-'+(i+1)}><p class="eyebrow"><span class="star">✦</span> Part {String(i+1).padStart(2,'0')}</p><h2>{section.heading}</h2>{section.paragraphs.map(paragraph=><p>{paragraph}</p>)}</section>)}
+      <nav class="chapter-toc" aria-label="In this chapter"><h2>In this chapter</h2><ol>{chapterHeadings.map(heading=><li><a href={'#'+heading.slug}>{heading.text}</a></li>)}</ol></nav>
+      <div class="chapter-status"><p><strong>{chapter.data.status}.</strong> Updated <time datetime={chapter.data.updated}>{chapter.data.updated}</time>. Sources and constructed examples are identified in the text.</p></div>
+      <div class="foundation-chapter"><Content /></div>
       <aside class="lesson-exercise"><p class="eyebrow"><span class="star">✦</span> Put it to work</p><h2>{lesson.exercise.title}</h2><p>{lesson.exercise.prompt}</p>{lesson.exercise.link&&<a class="btn btn-gold" href={lesson.exercise.link}>Open the atelier ↗</a>}</aside>
       <form class="lesson-quiz" id="knowledge-check" data-slug={lesson.slug}>
         <p class="eyebrow"><span class="star">✦</span> Check what you learned</p>
         <h2>Three questions.<br/>No surprises.</h2>
-        <p class="section-subtitle">Aim for at least two correct answers to mark the unit complete. You can try again as often as you like.</p>
+        <p class="section-subtitle">This checks introductory comprehension. Aim for at least two correct answers to mark the browser checklist. The chapter's documentary workshop develops the deeper skills; the checklist is not an academic qualification.</p>
         {lesson.quiz.map((q,i)=><div class="quiz-question"><fieldset data-question data-correct={q.correct} data-explanation={q.explanation}><legend>{i+1}. {q.question}</legend>{q.choices.map((choice,j)=><label class="quiz-option"><input type="radio" name={'q-'+i} value={j} required /> <span>{choice}</span></label>)}<div class="quiz-feedback" data-feedback aria-live="polite"></div></fieldset></div>)}
         <button type="submit" class="btn btn-dark">Check my answers ↗</button>
         <div class="quiz-result" id="quiz-result" role="status" aria-live="polite"></div>
@@ -77,3 +89,4 @@ const next=lessons[index+1];
     });
   </script>
 </Base>
+

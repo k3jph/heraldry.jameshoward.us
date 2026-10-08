@@ -22,6 +22,15 @@ const seminarSchema = z.object({
 });
 
 export const collections = {
+  foundation: defineCollection({
+    loader: glob({ pattern: '**/*.md', base: './src/content/foundation' }),
+    schema: z.object({
+      title: z.string(),
+      unit: z.number().int().min(1).max(12),
+      updated: z.string(),
+      status: z.literal('Expanded teaching draft; specialist review pending'),
+    }),
+  }),
   seminars: defineCollection({
     loader: glob({ pattern: '**/*.md', base: './src/content/seminars' }),
     schema: seminarSchema,
@@ -31,3 +40,4 @@ export const collections = {
     schema: traditionSchema,
   }),
 };
+

@@ -6,8 +6,11 @@ import glossary from '../data/glossary.json';
 import showcase from '../data/showcase.json';
 import { blazon } from '../lib/heraldry.js';
 import { getCollection } from 'astro:content';
+import { chapterReadMinutes } from '../lib/foundation.js';
 import worldSources from '../data/world-sources.json';
 const worldCount=(await getCollection('traditions')).length;
+const foundation=await getCollection('foundation');
+const lessonMinutes=(slug:string)=>chapterReadMinutes(foundation.find(chapter=>chapter.id===slug)?.body);
 const example={field:'azure',division:'none',ordinary:'fess',ordinaryTincture:'or',charge:'martlet',chargeTincture:'gules',count:3};
 const cards=[
   {symbol:'Ⅰ',title:'Learn the language',description:'Twelve self-paced university-style units. From the first field to the law of arms.',link:'/academy/',action:'Enter the academy'},
@@ -76,7 +79,7 @@ const cards=[
     <div class="wrap">
       <div class="rule-heading"><div><p class="eyebrow"><span class="star">✦</span> A real course, not a list of links</p><h2 class="section-title">The academy.</h2></div><div><p>Start in the twelfth century. Finish by researching and designing a defensible original armorial study.</p><a class="text-link" href="/academy/">View the full curriculum ↗</a></div></div>
       <div class="module-grid">
-        {lessons.slice(0,6).map(lesson => <a class="card module-card" href={'/academy/'+lesson.slug+'/'}><div class="module-top"><span class="module-number">{String(lesson.number).padStart(2,'0')}</span><span class="module-duration">{lesson.minutes} min</span></div><h3>{lesson.title}</h3><p>{lesson.description}</p><div class="module-foot"><span>{lesson.eyebrow}</span><span aria-hidden="true">↗</span></div></a>)}
+        {lessons.slice(0,6).map(lesson => <a class="card module-card" href={'/academy/'+lesson.slug+'/'}><div class="module-top"><span class="module-number">{String(lesson.number).padStart(2,'0')}</span><span class="module-duration">About {lessonMinutes(lesson.slug)} min reading</span></div><h3>{lesson.title}</h3><p>{lesson.description}</p><div class="module-foot"><span>{lesson.eyebrow}</span><span aria-hidden="true">↗</span></div></a>)}
       </div>
       <div style="text-align:center;margin-top:35px"><a href="/academy/" class="btn btn-dark">All twelve units <span aria-hidden="true">→</span></a></div>
     </div>
@@ -124,3 +127,4 @@ const cards=[
     </div>
   </section>
 </Base>
+

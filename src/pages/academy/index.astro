@@ -2,18 +2,27 @@
 import Base from '../../layouts/Base.astro';
 import PageIntro from '../../components/PageIntro.astro';
 import lessons from '../../data/course.json';
-const hours=Math.round(lessons.reduce((t,l)=>t+l.minutes,0)/60);
+import { getCollection } from 'astro:content';
+import { chapterReadMinutes, chapterWordCount } from '../../lib/foundation.js';
+const chapters=await getCollection('foundation');
+const curriculum=lessons.map(lesson=>{
+  const chapter=chapters.find(item=>item.id===lesson.slug);
+  if(!chapter)throw new Error('Missing foundation chapter: '+lesson.slug);
+  return {...lesson,minutes:chapterReadMinutes(chapter.body)};
+});
+const totalMinutes=curriculum.reduce((t,l)=>t+l.minutes,0);
+const totalWords=chapters.reduce((total,chapter)=>total+chapterWordCount(chapter.body),0);
 const schema={'@context':'https://schema.org','@type':'Course',name:'An introduction to heraldry',description:'Independent free twelve-unit heraldry course with self-assessment and practical exercises.',provider:{'@type':'Person',name:'James P. Howard, II',url:'https://jameshoward.us/'},isAccessibleForFree:true,inLanguage:'en',educationalLevel:'Introductory undergraduate / self-paced',hasCourseInstance:{'@type':'CourseInstance',courseMode:'online',courseWorkload:'Self-paced'}};
 ---
 <Base title="The Academy" description="A free twelve-unit, university-style introduction to heraldic history, tinctures, geometry, blazon, cadency, marshalling, law, and original design.">
   <script type="application/ld+json" set:html={JSON.stringify(schema)} />
-  <PageIntro eyebrow="The full learning programme" title="The academy." description="Twelve rigorous, readable units. Each with a visual example, an exercise, selected primary-source reading, and a short assessment. Start anywhere. Finish understanding the language."/>
+  <PageIntro eyebrow="The foundation course" title="The academy." description="Twelve expanded readings, with worked examples, documentary workshops, source notes, and guided introductions. Learn to read the design and test the claims made about it."/>
   <section class="section">
     <div class="wrap">
       <div class="notice-box" style="margin-bottom:38px"><strong>Your progress belongs to you.</strong><p><span data-completion-count>0</span> of 12 units assessed successfully. We store progress only in this browser; there are no accounts, tracking cookies or issued academic credits.</p><div class="progress-rail"><span class="progress-fill" data-course-progress></span></div></div>
-      <div class="rule-heading"><div><p class="eyebrow"><span class="star">✦</span> Core curriculum</p><h2 class="section-title">Read. Understand.<br/>Demonstrate.</h2></div><p>Roughly {hours} hours of primary reading, plus your own time on the drawing and research exercises. You set the pace.</p></div>
+      <div class="rule-heading"><div><p class="eyebrow"><span class="star">✦</span> Core curriculum</p><h2 class="section-title">Read. Understand.<br/>Demonstrate.</h2></div><p>{totalWords.toLocaleString('en-US')} words of chapter prose. About {totalMinutes} minutes of reading, estimated at 220 words per minute; drawing, source consultation, and research exercises take additional time. These expanded teaching drafts await specialist review.</p></div>
       <div style="margin-bottom:26px"><a class="btn btn-dark" href="/lecture/the-visual-language/">Start with guided lecture 01 ↗</a><span class="caption" style="display:inline-block;margin-left:15px;margin-top:10px">Read along, use arrow keys to move through chapters, or enable narration.</span></div><div class="module-grid">
-        {lessons.map(lesson => <a class="card module-card" href={'/academy/'+lesson.slug+'/'} data-lesson-id={lesson.slug}><div class="module-top"><span class="module-number">{String(lesson.number).padStart(2,'0')}</span><span class="module-duration">{lesson.minutes} min reading <span class="progress-dot" title="Assessment status"></span></span></div><h3>{lesson.title}</h3><p>{lesson.description}</p><div class="module-foot"><span>{lesson.eyebrow}</span><span>Study ↗</span></div></a>)}
+        {curriculum.map(lesson => <a class="card module-card" href={'/academy/'+lesson.slug+'/'} data-lesson-id={lesson.slug}><div class="module-top"><span class="module-number">{String(lesson.number).padStart(2,'0')}</span><span class="module-duration">About {lesson.minutes} min reading <span class="progress-dot" title="Assessment status"></span></span></div><h3>{lesson.title}</h3><p>{lesson.description}</p><div class="module-foot"><span>{lesson.eyebrow}</span><span>Study ↗</span></div></a>)}
       </div>
     </div>
   </section>
@@ -36,3 +45,4 @@ const schema={'@context':'https://schema.org','@type':'Course',name:'An introduc
     if(rail) rail.style.width=(Math.min(completed.length,12)/12*100)+'%';
   </script>
 </Base>
+

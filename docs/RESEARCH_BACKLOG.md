@@ -10,6 +10,17 @@ Last updated: 2026-10-08. This queue is ordered for **coverage gaps and primary 
 - [x] Link international source dossiers to comparative chapters, graduate seminars, and source-language reading exercises.
 - [x] Create preliminary original-language terminology concordances in the atlas, regional chapters and parallel-text reading lab; still requires full philological review and regional expansion.
 
+## Foundation expansion — first substantial draft delivered
+
+- [x] Add an independently editable Markdown reading for each of the twelve Academy routes. The first expansion contains 17,402 words excluding source-note definitions, measured by `src/lib/foundation.js`; approximately 1,244–1,938 words per unit.
+- [x] Render footnotes, in-chapter navigation, constructed worked problems, documentary workshops, and answer discussions without requiring JavaScript.
+- [x] Introduce catalogue-mediated encounters with the Dering Roll, Met objects 25.26.1 and 12.137.2, dated Canadian institutional records, and the Great Seal documentation. These are source-linked teaching encounters, **not newly authenticated museum entries or inspected full documentary editions**.
+- [x] Add documentary/design capstone routes, witness inventory, claim ledger, and a transparent self-assessment rubric.
+- [x] Calculate reading estimates from expanded prose; identify the existing lecture player as a shorter introduction. Existing three-question checks remain introductory browser checklists.
+- [ ] Extend every chapter toward the proposed 5,000–8,000-word depth, with broader bibliography, direct image and manuscript examination, extended assessment, and competent specialist review.
+- [ ] Reduce reliance on one historical British manual through additional dated and original-language witnesses. The current technical vocabulary cites Fox-Davies (1909) explicitly as historical instructional evidence.
+- [ ] Build reviewed object studies with separately verified image rights; do not relabel catalogue descriptions as original artifact authentication.
+
 ## Stage B — substantive continental survey
 
 - [ ] France: medieval armorials, blasonnement, d'Hozier, the 1696 fiscal registration, Revolutionary rupture, public symbolism.
@@ -54,3 +65,4 @@ Last updated: 2026-10-08. This queue is ordered for **coverage gaps and primary 
 Completion criteria apply **per topic**, not to the entire site. A profile marked `source-ledger` is reconnaissance, `synthesized` is an original English research note, and `reviewed` requires human specialist review. The number of covered regions is not a substitute for depth.
 
 Continuous goal: eliminate gaps in this backlog, add newly discovered source traditions, and revisit contested scholarship. A checkmark is not a stopping signal.
+
