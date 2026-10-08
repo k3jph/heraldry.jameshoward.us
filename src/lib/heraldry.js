@@ -195,7 +195,7 @@ export function blazon(input={}) {
   const ordinaries={fess:"fess",pale:"pale",bend:"bend","bend-sinister":"bend sinister",chief:"chief",chevron:"chevron",cross:"cross",saltire:"saltire",bordure:"bordure"};
   const charges={mullet:["mullet","mullets"],fleur:["fleur-de-lis","fleurs-de-lis"],martlet:["martlet","martlets"],rose:["rose","roses"],escallop:["escallop","escallops"],roundel:["roundel","roundels"],annulet:["annulet","annulets"],crosslet:["cross crosslet","crosses crosslet"]};
   const field=d.division==="none"?word(d.field):divisions[d.division]+" "+word(d.field)+" and "+word(d.secondary);
-  const chargeText=d.charge==="none"?"":(d.count===1?"a "+charges[d.charge][0]:"three "+charges[d.charge][1])+" "+word(d.chargeTincture);
+  const chargeText=d.charge==="none"?"":(d.count===1?(/^[aeiou]/i.test(charges[d.charge][0])?"an ":"a ")+charges[d.charge][0]:"three "+charges[d.charge][1])+" "+word(d.chargeTincture);
   if(d.ordinary==="none") return field+(chargeText?", "+(d.division==="none"?"":"overall ")+chargeText:"")+".";
   const ordinary="a "+ordinaries[d.ordinary]+" "+word(d.ordinaryTincture);
   return field+", "+(chargeText?"on "+ordinary+" "+chargeText:ordinary)+".";

@@ -4,6 +4,7 @@ import {readFileSync} from 'node:fs';
 import {fileURLToPath} from 'node:url';
 import {dirname,resolve} from 'node:path';
 import {TINCTURES,DEFAULT_DESIGN,normalizeDesign,armsSVG,blazon,assessDesign} from '../src/lib/heraldry.js';
+import {parseBlazon} from '../src/lib/blazon-parser.js';
 const dir=dirname(fileURLToPath(import.meta.url));
 const read=(name)=>JSON.parse(readFileSync(resolve(dir,'../src/data/'+name+'.json'),'utf8'));
 
@@ -85,4 +86,19 @@ test('reference sources are annotated and use HTTPS',()=>{
   const sources=read('resources');
   assert.ok(sources.length>=10);
   assert.ok(sources.every(r=>r.url.startsWith('https://')&&r.description.length>20));
+});
+
+test('introductory blazons decode back to their teaching designs',()=>{
+  for(const item of read('showcase')){
+    const rendered=blazon(item.design);
+    const result=parseBlazon(rendered);
+    assert.equal(result.ok,true,rendered+' should be recognized: '+(result.error||''));
+    assert.equal(result.canonical,rendered);
+  }
+});
+
+test('decoder rejects unsupported complex constructions instead of guessing',()=>{
+  assert.equal(parseBlazon('Or, a lion rampant Gules.').ok,false);
+  assert.equal(parseBlazon('').ok,false);
+  assert.equal(parseBlazon('<script>alert(1)</script>').ok,false);
 });
