@@ -2,6 +2,7 @@
 import Base from '../../layouts/Base.astro';
 import {getCollection,render} from 'astro:content';
 import worldSources from '../../data/world-sources.json';
+import parallelReadings from '../../data/parallel-readings.json';
 export async function getStaticPaths(){
   const entries=await getCollection('traditions');
   return entries.map(entry=>({params:{slug:entry.id},props:{entry}}));
@@ -9,6 +10,7 @@ export async function getStaticPaths(){
 const {entry}=Astro.props;
 const {Content}=await render(entry);
 const related=worldSources.filter(source=>entry.data.sourceIds.includes(source.id));
+const translations=parallelReadings.filter(reading=>entry.data.sourceIds.includes(reading.sourceId));
 const bibliography=related.map(source=>({name:source.titleOriginal,description:source.englishSynopsis,author:source.holding,url:source.url}));
 const schema={'@context':'https://schema.org','@type':'LearningResource',name:entry.data.title,description:entry.data.description,inLanguage:'en',educationalLevel:entry.data.level,learningResourceType:'Comparative research chapter',isAccessibleForFree:true,author:{'@type':'Person',name:'James P. Howard, II'},citation:bibliography.map(b=>b.url)};
 ---
@@ -28,7 +30,7 @@ const schema={'@context':'https://schema.org','@type':'LearningResource',name:en
       <p class="eyebrow"><span class="star">✦</span> A substantive research chapter</p>
       <Content/>
       <div class="notice-box" style="margin-top:48px"><strong>Academic honesty is part of the syllabus.</strong><p>These essays are original English-language syntheses with visible archival and institutional citations. They have not been independently reviewed by regional specialists. Readers should check consequential assertions against the linked source language and current law.</p></div>
-      <div style="display:flex;gap:12px;flex-wrap:wrap;margin-top:25px"><a href="/traditions/" class="btn btn-dark">All regional chapters ↗</a><a href="/seminars/" class="btn btn-line">Graduate seminars ↗</a></div>
+      <div style="display:flex;gap:12px;flex-wrap:wrap;margin-top:25px">{translations.length>0&&<a href={"/translation-lab/#translation-"+translations[0].id} class="btn btn-line">Translate a source in this chapter ↗</a>}<a href="/traditions/" class="btn btn-dark">All regional chapters ↗</a><a href="/seminars/" class="btn btn-line">Graduate seminars ↗</a></div>
     </article>
     <aside class="world-sidebar">
       <div class="world-sidebar-box"><span class="smallcaps" style="color:var(--red)">Source dossier</span><h2 class="small-title">Read the originals.</h2><p>Never let the English explanation replace the document.</p>
