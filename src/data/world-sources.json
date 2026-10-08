@@ -873,5 +873,301 @@
     "reviewStatus": "original-language legislative source examined; independent specialist review pending",
     "reproductionPolicy": "Short attributed excerpts and original research summaries only; no third-party imagery reproduced.",
     "accessed": "2026-10-08"
+  },
+  {
+    "accessed": "2026-10-08",
+    "reviewStatus": "Institutional/original-language source located; English editorial synthesis, specialist review pending",
+    "reproductionPolicy": "External source linked; original English synopsis only. Do not host archive photographs or full contemporary copyrighted text without permission.",
+    "id": "hu-armalis-db",
+    "area": "Hungary",
+    "language": "hu",
+    "holding": "Magyar Nemzeti Levéltár · National Archives of Hungary",
+    "titleOriginal": "Az MNL címereslevelei — Címereslevél-adatbázis",
+    "titleEnglish": "National Archives of Hungary: Armorial Letters Database",
+    "url": "https://aol.mnl.gov.hu/adatbazis/cimereslevel-adatbazis/informacio",
+    "kind": "National archival database and collection-level explanatory essay",
+    "authority": "national archive",
+    "englishSynopsis": "The Hungarian National Archives introduces a database of armorial letters, or litterae armales, from 1326 to 1918. Its collection-level essay identifies early dated grants, including a 1326 crest grant to Nicholas son of Emeric (MNL OL DF 262464) and a 1332 armorial letter (MNL OL DL 50508). It describes approximately 2,500 original armorial charters in the central national collection and a much larger historical output, with only a minority surviving. The records support a study of diplomatics, heraldic painting, genealogical declarations and the survival of original documents—not a surname-keyed entitlement lookup.",
+    "glossary": [
+      {
+        "term": "címereslevél",
+        "english": "armorial charter or letters granting arms"
+      },
+      {
+        "term": "armális",
+        "english": "armorial grant/charter, from Latin litterae armales"
+      },
+      {
+        "term": "adomány",
+        "english": "grant"
+      },
+      {
+        "term": "paleográfia",
+        "english": "paleography"
+      },
+      {
+        "term": "szfragisztika",
+        "english": "sigillography"
+      }
+    ]
+  },
+  {
+    "accessed": "2026-10-08",
+    "reviewStatus": "Institutional/original-language source located; English editorial synthesis, specialist review pending",
+    "reproductionPolicy": "External source linked; original English synopsis only. Do not host archive photographs or full contemporary copyrighted text without permission.",
+    "id": "hu-hunyadi-1453",
+    "area": "Hungary",
+    "language": "hu",
+    "holding": "Magyar Nemzeti Levéltár · Országos Levéltár",
+    "titleOriginal": "Hunyadi János címerbővítése",
+    "titleEnglish": "The augmentation of John Hunyadi's arms",
+    "url": "https://mnl.gov.hu/mnl/ol/hirek/hunyadi_janos_cimerbovitese",
+    "kind": "Archival commentary with dated charter, original Latin witness and Hungarian translation referenced",
+    "authority": "national archive",
+    "englishSynopsis": "A published National Archives study identifies the royal charter of 1 February 1453 issued at Pozsony by Ladislaus V augmenting John Hunyadi's traditional raven-and-ring arms with a red lion holding a gold crown on a white field, arranged in a quartered shield. It gives the precise archival location MNL OL, Mohács előtti Gyűjtemény, DL 24762. Exceptionally, the grant itself explains the lion and crown as allusions to Hunyadi's service as governor and the return of royal authority. The archive essay is modern commentary about the original charter, not a second charter; its images have a separate photographer credit.",
+    "glossary": [
+      {
+        "term": "címerbővítés",
+        "english": "augmentation of arms"
+      },
+      {
+        "term": "négyelt pajzs",
+        "english": "quartered shield"
+      },
+      {
+        "term": "holló",
+        "english": "raven"
+      },
+      {
+        "term": "gyűrű",
+        "english": "ring"
+      },
+      {
+        "term": "oklevél",
+        "english": "charter or documentary instrument"
+      }
+    ]
+  },
+  {
+    "accessed": "2026-10-08",
+    "reviewStatus": "Institutional/original-language source located; English editorial synthesis, specialist review pending",
+    "reproductionPolicy": "External source linked; original English synopsis only. Do not host archive photographs or full contemporary copyrighted text without permission.",
+    "id": "hu-arany-1634",
+    "area": "Hungary",
+    "language": "hu",
+    "holding": "Magyar Nemzeti Levéltár · Országos Levéltár",
+    "titleOriginal": "A nagyfalusi Arany család címereslevele és nemességvitató pere",
+    "titleEnglish": "The Nagyfalu Arany family's charter of arms and contested nobility lawsuit",
+    "url": "https://mnl.gov.hu/mnl/ol/hirek/zart_sisakon_s_pajzson_kezbe_kivont_kardu/nagyfalusi_arany_szalontai_hajdu",
+    "kind": "Dated archival object and interpretive history of court disputes",
+    "authority": "national archive",
+    "englishSynopsis": "A 1634 Transylvanian armorial grant of Prince George I Rákóczi to Arany János and Ferenc survives as MNL OL, R 64, 1st item, no. 325. The official archive essay distinguishes the Latin written shield description from a later painted version: the added rendering repeats a sword-bearing arm in the crest and depicts an open barred helm although the text describes a closed helm. An originally authentic family charter did not by itself establish every later bearer's genealogical link. A series of noble-status proceedings from 1778 to 1815 ultimately failed to demonstrate the necessary direct descent. This is an exceptionally strong graduate source-criticism exercise.",
+    "glossary": [
+      {
+        "term": "címeres nemeslevél",
+        "english": "armorial letters of nobility"
+      },
+      {
+        "term": "nemességvitató per",
+        "english": "litigation disputing noble status"
+      },
+      {
+        "term": "leszármazás",
+        "english": "descent"
+      },
+      {
+        "term": "kihirdetés",
+        "english": "formal proclamation/announcement"
+      },
+      {
+        "term": "zárt sisak",
+        "english": "closed helm"
+      }
+    ]
+  },
+  {
+    "accessed": "2026-10-08",
+    "reviewStatus": "Institutional/original-language source located; English editorial synthesis, specialist review pending",
+    "reproductionPolicy": "External source linked; original English synopsis only. Do not host archive photographs or full contemporary copyrighted text without permission.",
+    "id": "hr-municipal-law-2001",
+    "area": "Croatia",
+    "language": "hr",
+    "holding": "Narodne novine · Hrvatski sabor",
+    "titleOriginal": "Zakon o lokalnoj i područnoj (regionalnoj) samoupravi",
+    "titleEnglish": "Act on Local and Regional Self-Government",
+    "url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_04_33_569.html",
+    "kind": "National legislation, original 2001 enactment",
+    "authority": "official legislation",
+    "englishSynopsis": "Article 10 of Croatia's 2001 local and regional self-government law permits counties, municipalities and cities to adopt arms and flags and requires a heraldically correct shield containing the relevant charges. Its historical-rule provision encourages using a local body's established emblem, and the procedure requires approval through national administrative channels. The 2001 text should not be silently described as the law currently in force: a 2012 amendment changed approval terminology and authorized administrative-court review. Compare the original enactment, a later consolidated edition and specific ministerial regulations.",
+    "glossary": [
+      {
+        "term": "grb",
+        "english": "coat of arms"
+      },
+      {
+        "term": "zastava",
+        "english": "flag"
+      },
+      {
+        "term": "županija",
+        "english": "county"
+      },
+      {
+        "term": "heraldički ispravan",
+        "english": "heraldically correct"
+      },
+      {
+        "term": "štit",
+        "english": "shield"
+      }
+    ]
+  },
+  {
+    "accessed": "2026-10-08",
+    "reviewStatus": "Institutional/original-language source located; English editorial synthesis, specialist review pending",
+    "reproductionPolicy": "External source linked; original English synopsis only. Do not host archive photographs or full contemporary copyrighted text without permission.",
+    "id": "hr-consolidated-2013",
+    "area": "Croatia",
+    "language": "hr",
+    "holding": "Narodne novine · Hrvatski sabor",
+    "titleOriginal": "Zakon o lokalnoj i područnoj (regionalnoj) samoupravi (pročišćeni tekst)",
+    "titleEnglish": "Consolidated Act on Local and Regional Self-Government",
+    "url": "https://narodne-novine.nn.hr/clanci/sluzbeni/full/2013_02_19_323.html",
+    "kind": "Consolidated national statutory text showing amendments",
+    "authority": "official legislation",
+    "englishSynopsis": "The 2013 Croatian consolidated statute displays Article 10 as amended, including the deletion of 'previous' from the ministerial-approval wording in 2012 and the addition of an express administrative decision and judicial challenge procedure. It retains the rule that the official coat comprises only shield and content, without a full personal achievement. The source demonstrates how law evolves and why historians must cite the operative version when evaluating a municipal design or government decision. A post-2013 amendment check remains necessary before calling this consolidated edition current.",
+    "glossary": [
+      {
+        "term": "pročišćeni tekst",
+        "english": "consolidated text"
+      },
+      {
+        "term": "rješenje",
+        "english": "formal administrative decision"
+      },
+      {
+        "term": "upravni spor",
+        "english": "administrative lawsuit/review"
+      },
+      {
+        "term": "prethodno odobrenje",
+        "english": "prior approval"
+      },
+      {
+        "term": "grb i zastava",
+        "english": "arms and flag"
+      }
+    ]
+  },
+  {
+    "accessed": "2026-10-08",
+    "reviewStatus": "Institutional/original-language source located; English editorial synthesis, specialist review pending",
+    "reproductionPolicy": "External source linked; original English synopsis only. Do not host archive photographs or full contemporary copyrighted text without permission.",
+    "id": "hr-regulation-1998",
+    "area": "Croatia",
+    "language": "hr",
+    "holding": "Narodne novine · Ministarstvo uprave",
+    "titleOriginal": "Pravilnik o postupku davanja odobrenja grba i zastave jedinici lokalne samouprave",
+    "titleEnglish": "Rules on the procedure for approving municipal coats of arms and flags",
+    "url": "https://narodne-novine.nn.hr/clanci/sluzbeni/full/1998_07_94_1289.html",
+    "kind": "Historic administrative regulation, published 1998",
+    "authority": "official legislation",
+    "englishSynopsis": "The 1998 Croatian regulation documents an interdisciplinary review process for local governmental arms. Application materials include a proposed description, artistic drawings and a written Croatian State Archives statement about historical arms. Article 6 establishes a committee comprising legal, heraldic, archival, artistic and historical expertise; the opinion is distinct from the Ministry's actual approval under Article 11. Article 12 contemplates a commemorative or formal grbovnica after decision, not an independent grant of personal arms. This historic regulation is dated and may have been superseded; students must not claim that every detail remains current without checking amendments.",
+    "glossary": [
+      {
+        "term": "Pravilnik",
+        "english": "administrative regulation/rules"
+      },
+      {
+        "term": "Hrvatski državni arhiv",
+        "english": "Croatian State Archives"
+      },
+      {
+        "term": "Povjerenstvo",
+        "english": "commission/committee"
+      },
+      {
+        "term": "mišljenje",
+        "english": "opinion"
+      },
+      {
+        "term": "grbovnica",
+        "english": "armorial diploma/certificate"
+      }
+    ]
+  },
+  {
+    "accessed": "2026-10-08",
+    "reviewStatus": "Institutional/original-language source located; English editorial synthesis, specialist review pending",
+    "reproductionPolicy": "External source linked; original English synopsis only. Do not host archive photographs or full contemporary copyrighted text without permission.",
+    "id": "sl-ajdovscina-2012",
+    "area": "Slovenia",
+    "language": "sl",
+    "holding": "Pravno-informacijski sistem Republike Slovenije · Občina Ajdovščina",
+    "titleOriginal": "Statut Občine Ajdovščina",
+    "titleEnglish": "Statute of the Municipality of Ajdovščina",
+    "url": "https://pisrs.si/pregledPredpisa?sop=2012-01-1843",
+    "kind": "Published municipal statute, 2012",
+    "authority": "official local legislation",
+    "englishSynopsis": "Article 7 of Ajdovščina's 2012 municipal statute provides a written description of the municipality's arms, flag and municipal seal. The shield is described through its shape, battlement-like geometry, wavy lines and the municipality's name. The statute also explains how the design appears in the flag and on the seal and provides for a further implementing ordinance. This is an example of civic graphical identity described by local statute, not evidence of a historic private family's armorial entitlement. Translating the original requires attention to specific shape, symbol and legal-instrument terminology.",
+    "glossary": [
+      {
+        "term": "Statut",
+        "english": "municipal statute"
+      },
+      {
+        "term": "občina",
+        "english": "municipality"
+      },
+      {
+        "term": "grb",
+        "english": "coat of arms/emblem"
+      },
+      {
+        "term": "zastava",
+        "english": "flag"
+      },
+      {
+        "term": "žig",
+        "english": "official seal/stamp"
+      }
+    ]
+  },
+  {
+    "accessed": "2026-10-08",
+    "reviewStatus": "Institutional/original-language source located; English editorial synthesis, specialist review pending",
+    "reproductionPolicy": "External source linked; original English synopsis only. Do not host archive photographs or full contemporary copyrighted text without permission.",
+    "id": "sl-mezica-2025",
+    "area": "Slovenia",
+    "language": "sl",
+    "holding": "Pravno-informacijski sistem Republike Slovenije · Občina Mežica",
+    "titleOriginal": "Statut Občine Mežica",
+    "titleEnglish": "Statute of the Municipality of Mežica",
+    "url": "https://pisrs.si/pregledPredpisa?sop=2025-01-2085",
+    "kind": "Municipal statute adopted 18 June 2025, effective 19 July 2025",
+    "authority": "official local legislation",
+    "englishSynopsis": "Mežica's 2025 municipal statute describes a coat featuring a mountainous landscape associated with Peca, five surrounding hills, crossed mining hammers and a stylized figure of King Matjaž. Its own explanation ties the artwork to local landscape, industry and folklore. The same provision describes a green municipal flag and seal and defers detailed display rules to a further ordinance. This is particularly useful to challenge a narrow English-centric definition of permitted shield compositions: a local statutory device may use modern symbolic graphics in forms not captured by our simplified blazon generator.",
+    "glossary": [
+      {
+        "term": "grb občine",
+        "english": "municipal coat of arms"
+      },
+      {
+        "term": "rudarska kladiva",
+        "english": "mining hammers"
+      },
+      {
+        "term": "gora Peca",
+        "english": "Mount Peca"
+      },
+      {
+        "term": "Kralj Matjaž",
+        "english": "King Matjaž / legendary King Matthias"
+      },
+      {
+        "term": "občinski svet",
+        "english": "municipal council"
+      }
+    ]
   }
 ]
