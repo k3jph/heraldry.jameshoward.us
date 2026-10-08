@@ -1,0 +1,123 @@
+---
+import Base from '../../layouts/Base.astro';
+import PageIntro from '../../components/PageIntro.astro';
+import readings from '../../data/parallel-readings.json';
+
+const languageNames:Record<string,string>={fr:'French',de:'German',nl:'Dutch',es:'Spanish',it:'Italian',ja:'Japanese'};
+const keys=[...new Set(readings.map(r=>r.language))];
+---
+<Base title="Parallel Text Translation Laboratory" description="Study seven verified short passages from original-language heraldic documents in German, Dutch, Spanish, French, Italian and Japanese, with annotated English translations and source context.">
+  <PageIntro eyebrow="Original words, accountable translations" title="The translation laboratory." description="A small document can teach an enormous lesson. Read exactly what an authority wrote, attempt your own translation, and compare it against a documented English rendering—with the historical and legal context intact."/>
+  <section class="section">
+    <div class="wrap">
+      <div class="notice-box" style="margin-bottom:35px"><strong>Parallel editions, not a pirated library.</strong><p>These are short, attributed passages checked against original published sources. They are not machine-translated books, official translations, or complete critical editions. Our English renderings and notes are original editorial work, and independent specialist review remains outstanding. The full texts stay linked to their original institutional publishers.</p></div>
+      <div class="lab-toolbar">
+        <div><p class="eyebrow"><span class="star">✦</span> The document set</p><h2 class="small-title">{readings.length} primary-source reading exercises.</h2></div>
+        <div class="lab-controls">
+          <label for="reading-language">Filter by source language</label>
+          <select id="reading-language" class="select"><option value="">All six languages</option>{keys.map(l=><option value={l}>{languageNames[l]} · {l.toUpperCase()}</option>)}</select>
+          <button class="btn btn-line" type="button" id="reveal-all">Reveal all translations</button>
+        </div>
+      </div>
+      <div id="translation-count" class="caption" role="status" aria-live="polite">{readings.length} records</div>
+      <div class="parallel-list">
+        {readings.map((r,i)=><article class="parallel-record" data-lang={r.language} id={'translation-'+r.id}>
+          <div class="record-heading"><span class="record-number">{String(i+1).padStart(2,'0')}</span><div><p class="eyebrow"><span class="star">✦</span> {r.region} · {languageNames[r.language]}</p><h2>{r.sourceTitle}</h2><p class="caption">{r.locator}</p></div></div>
+          <div class="parallel-panes">
+            <div class="source-pane"><span class="smallcaps">Original-language excerpt · {r.language.toUpperCase()}</span><blockquote lang={r.language}>{r.original}</blockquote><p class="caption">{r.sourceType}. Brief, attributed quotation; see full source linked below.</p></div>
+            <div class="translation-pane" data-english-pane>
+              <span class="smallcaps">Working translation · English</span>
+              <div class="translation-covered" data-translation-hidden>
+                <p>Before revealing the translation, identify the operative noun, verb, and institutional context. What could a careless English rendering get wrong?</p>
+                <button class="btn btn-dark" type="button" data-reveal>Reveal translation ↗</button>
+              </div>
+              <div data-translation-visible hidden><blockquote>{r.translation}</blockquote><p class="caption">{r.review}</p><button class="chip" type="button" data-conceal>Hide translation ↑</button></div>
+            </div>
+          </div>
+          <div class="analysis-grid">
+            <section><h3>The problem this translation solves</h3><p>{r.analysis}</p></section>
+            <section class="lexical-notes"><h3>Terminology to watch</h3><dl>{r.vocabulary.map(v=><div><dt lang={r.language}>{v.term}</dt><dd>{v.translation}</dd></div>)}</dl></section>
+          </div>
+          <div class="exercise"><span class="smallcaps">Graduate document exercise</span><p>{r.assignment}</p></div>
+          <div class="reading-footer"><a href={r.url} target="_blank" rel="noopener noreferrer" class="text-link">Consult the source in {languageNames[r.language]} ↗</a><span class="caption">Exact document locator above · Source reviewed 8 October 2026</span></div>
+        </article>)}
+      </div>
+      <p id="translation-empty" class="empty-state" hidden>No documents match this language yet. Choose a different source language.</p>
+      <div class="international-intro" style="margin-top:60px">
+        <div><p class="eyebrow"><span class="star">✦</span> Graduate philology</p><h2>A translation without a source is just an assertion.</h2></div>
+        <div><p>The complete graduate approach requires document witnesses, original text, an editorial apparatus, evidence for each reading, accurate dating, legal and artistic context, and attribution. These exercises are the first layer of that larger collection.</p><a class="btn btn-dark" href="/seminars/02-philology-and-translation/">Read the translation seminar ↗</a><a class="btn btn-line" style="margin-top:9px" href="/source-atlas/">All original sources ↗</a></div>
+      </div>
+    </div>
+  </section>
+  <script>
+    const filter=document.querySelector<HTMLSelectElement>('#reading-language');
+    const records=document.querySelectorAll<HTMLElement>('.parallel-record');
+    const count=document.querySelector<HTMLElement>('#translation-count');
+    const empty=document.querySelector<HTMLElement>('#translation-empty');
+    const reveal=(card:HTMLElement,on:boolean)=>{
+      const covered=card.querySelector<HTMLElement>('[data-translation-hidden]');
+      const exposed=card.querySelector<HTMLElement>('[data-translation-visible]');
+      if(covered)covered.hidden=on;
+      if(exposed)exposed.hidden=!on;
+    };
+    records.forEach(card=>{
+      card.querySelector('[data-reveal]')?.addEventListener('click',()=>reveal(card,true));
+      card.querySelector('[data-conceal]')?.addEventListener('click',()=>reveal(card,false));
+    });
+    const update=()=>{
+      const l=filter?.value||'';
+      let visible=0;records.forEach(card=>{card.hidden=!!l&&card.dataset.lang!==l;if(!card.hidden)visible++;});
+      if(count)count.textContent=visible+' source passage'+(visible===1?'':'s');
+      if(empty)empty.hidden=visible!==0;
+      const p=new URLSearchParams(location.search);if(l)p.set('lang',l);else p.delete('lang');
+      history.replaceState(null,'',location.pathname+(p.toString()?'?'+p.toString():''));
+    };
+    if(filter)filter.value=new URLSearchParams(location.search).get('lang')||'';
+    filter?.addEventListener('change',update);
+    document.querySelector('#reveal-all')?.addEventListener('click',(event)=>{
+      const b=event.currentTarget as HTMLButtonElement;
+      const shown=b.dataset.open==='true';
+      records.forEach(card=>reveal(card,!shown));
+      b.dataset.open=shown?'false':'true';
+      b.textContent=shown?'Reveal all translations':'Hide all translations';
+    });
+    update();
+  </script>
+  <style>
+    .lab-toolbar{display:flex;justify-content:space-between;align-items:end;flex-wrap:wrap;gap:22px;border-bottom:1px solid var(--line);padding-bottom:24px;margin:45px 0 12px;}
+    .lab-controls{display:flex;flex-wrap:wrap;align-items:center;gap:9px;}
+    .lab-controls label{font-size:.75rem;font-weight:700;}
+    .lab-controls select{min-width:175px;max-width:240px;}
+    .parallel-list{display:grid;gap:28px;margin-top:28px;}
+    .parallel-record{background:white;border:1px solid var(--line);padding:clamp(22px,4vw,43px);scroll-margin-top:115px;}
+    .parallel-record:target{outline:3px solid var(--gold);outline-offset:3px;}
+    .record-heading{display:flex;align-items:start;gap:22px;margin-bottom:30px;}
+    .record-number{font:500 3.7rem/1 var(--serif);color:var(--red);letter-spacing:-.06em;flex-shrink:0;}
+    .record-heading h2{font:500 clamp(1.7rem,3vw,2.5rem)/1.1 var(--serif);margin:0 0 .55rem;}
+    .record-heading .caption{line-height:1.5;}
+    .parallel-panes{display:grid;grid-template-columns:1fr 1fr;gap:0;border:1px solid var(--line);min-height:215px;}
+    .source-pane,.translation-pane{padding:clamp(20px,3vw,31px);display:flex;flex-direction:column;align-items:start;}
+    .source-pane{background:#eee4d4;}
+    .translation-pane{background:var(--midnight);color:#f7eedb;}
+    .translation-pane .smallcaps{color:var(--gold-light);}
+    .source-pane blockquote,.translation-pane blockquote{font:italic clamp(1.22rem,2.1vw,1.7rem)/1.45 var(--serif);margin:17px 0;color:inherit;}
+    .translation-pane [data-translation-hidden]{margin:auto 0;width:100%;}
+    .translation-pane [data-translation-hidden] p{color:#b8cac6;line-height:1.65;font-size:.85rem;}
+    .translation-pane [data-translation-visible] .caption{color:#bac9c5;}
+    .translation-pane [data-conceal]{border-color:var(--gold-light);color:var(--gold-light);margin-top:8px;}
+    .translation-pane [data-conceal]:hover{color:var(--midnight);}
+    .analysis-grid{display:grid;grid-template-columns:1.4fr .9fr;gap:25px;margin-top:29px;}
+    .analysis-grid h3{font:500 1.6rem/1.12 var(--serif);margin:0 0 12px;}
+    .analysis-grid p{color:var(--ink-2);line-height:1.78;font-size:.88rem;}
+    .lexical-notes{background:var(--paper);padding:22px;}
+    .lexical-notes dl{display:grid;gap:10px;margin:0;}
+    .lexical-notes dl>div{border-top:1px solid var(--line);padding-top:9px;}
+    .lexical-notes dt{font-weight:750;font-size:.82rem;overflow-wrap:anywhere;}
+    .lexical-notes dd{color:var(--muted);margin:3px 0 0;font-size:.75rem;}
+    .exercise{background:#ede2ce;padding:24px;margin:22px 0;}
+    .exercise .smallcaps{color:var(--red);}
+    .exercise p{font-size:.86rem;line-height:1.72;margin:10px 0 0;color:var(--ink-2);}
+    .reading-footer{display:flex;align-items:center;justify-content:space-between;gap:20px;flex-wrap:wrap;}
+    @media(max-width:800px){.parallel-panes,.analysis-grid{grid-template-columns:1fr;}.record-number{font-size:2.5rem;}.lab-controls{align-items:stretch;}.lab-controls label{align-self:center;}.lab-controls select{max-width:100%;}}
+  </style>
+</Base>
