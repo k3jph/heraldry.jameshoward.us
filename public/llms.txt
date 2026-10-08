@@ -34,3 +34,5 @@ All new drawings presented as teaching examples are original project illustratio
 The expansion is ongoing. English-language notes should never be mistaken for official institutional translations or independently peer-reviewed critical editions.
 
 Graduate studies include six research seminars at /seminars/, each with a dedicated text chapter, primary-source references and a research assignment.
+
+- [Parallel translation laboratory](https://heraldry.jameshoward.us/translation-lab/): source-checked short excerpts from German, Dutch, French, Spanish, Italian and Japanese institutional texts with scholarly English notes and vocabulary.
