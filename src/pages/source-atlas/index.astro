@@ -1,0 +1,69 @@
+---
+import Base from '../../layouts/Base.astro';
+import PageIntro from '../../components/PageIntro.astro';
+import sources from '../../data/world-sources.json';
+const sorted=[...sources].sort((a,b)=>a.area.localeCompare(b.area)||a.titleOriginal.localeCompare(b.titleOriginal));
+const languages=[...new Set(sorted.map(s=>s.language))].sort();
+const regions=[...new Set(sorted.map(s=>s.area))].sort();
+const languageLabels={fr:'French',de:'German',nl:'Dutch',sv:'Swedish',es:'Spanish',pt:'Portuguese',it:'Italian',pl:'Polish',cs:'Czech',ja:'Japanese',en:'English'};
+---
+<Base title="International Source Atlas" description="A searchable, source-provenanced atlas of heraldic archives, registers, legal records and specialist institutions in eleven languages, with original English synopses and bilingual terminology.">
+  <PageIntro eyebrow="Read the world in its own words" title="The source atlas." description="Original-language documents, archival guides, statutes and research literature from around the world. Every entry links to its source, gives an English analysis, and preserves vocabulary you would otherwise have to guess."/>
+  <section class="section">
+    <div class="wrap">
+      <div class="notice-box"><strong>Original English synopses—not pirated translations.</strong><p>Each note explains what a source is and what conclusions it can responsibly support. Original titles, languages, authorities and links are retained. Full-text translations require verified public-domain status, an appropriate licence, or permission. Never mistake a catalogue listing for proof of an individual heraldic entitlement.</p></div>
+      <div class="atlas-tools">
+        <label for="atlas-search"><span class="smallcaps">Search documents, terms and commentary</span><input id="atlas-search" type="search" placeholder="Try ‘Wappenrolle’, ‘1696’, ‘municipal’, ‘家紋’…" autocomplete="off"/></label>
+        <label for="atlas-language"><span class="smallcaps">Source language</span><select id="atlas-language"><option value="">All languages</option>{languages.map(lang=><option value={lang}>{languageLabels[lang]||lang}</option>)}</select></label>
+        <label for="atlas-region"><span class="smallcaps">Tradition / region</span><select id="atlas-region"><option value="">All regions</option>{regions.map(region=><option value={region}>{region}</option>)}</select></label>
+      </div>
+      <div class="atlas-resultbar"><p id="atlas-results" role="status" aria-live="polite">{sources.length} source dossiers</p><button id="atlas-reset" class="chip" type="button">Clear filters ↺</button></div>
+      <div class="atlas-grid">
+        {sorted.map(source=><article class="atlas-card" id={'source-'+source.id} data-lang={source.language} data-region={source.area} data-text={(source.titleOriginal+' '+source.titleEnglish+' '+source.holding+' '+source.englishSynopsis+' '+source.glossary.map(t=>t.term+' '+t.english).join(' ')).toLowerCase()}>
+          <div class="atlas-top"><span class="atlas-language">{source.language.toUpperCase()}</span><span class="smallcaps">{source.area}</span></div>
+          <h2 lang={source.language}>{source.titleOriginal}</h2><p class="atlas-translation">{source.titleEnglish}</p>
+          <p class="atlas-holding">{source.holding} · {source.kind}</p>
+          <div class="atlas-summary"><h3>English editorial synopsis</h3><p>{source.englishSynopsis}</p></div>
+          <div class="atlas-glossary"><h3>Source-language vocabulary</h3><dl>{source.glossary.map(t=><div><dt lang={source.language}>{t.term}</dt><dd>{t.english}</dd></div>)}</dl></div>
+          <p class="atlas-provenance"><strong>Evidence class:</strong> {source.authority}. <strong>Rights:</strong> metadata and original synopsis only. <strong>Review:</strong> editorial research note, specialist review pending.</p>
+          <a href={source.url} class="btn btn-dark" target="_blank" rel="noopener noreferrer">Read original source ↗</a>
+        </article>)}
+        <p class="empty-state" id="atlas-empty" hidden>No matching documents. Clear a filter or try a broader term.</p>
+      </div>
+      <p class="caption" style="margin-top:32px">Source survey begun 8 October 2026. Records reflect source availability at research time, not perpetual validation of linked content. Historical rights and image copyright must be assessed separately.</p>
+    </div>
+  </section>
+  <script>
+    const search=document.querySelector<HTMLInputElement>('#atlas-search');
+    const language=document.querySelector<HTMLSelectElement>('#atlas-language');
+    const region=document.querySelector<HTMLSelectElement>('#atlas-region');
+    const entries=document.querySelectorAll<HTMLElement>('.atlas-card');
+    const status=document.querySelector<HTMLElement>('#atlas-results');
+    const empty=document.querySelector<HTMLElement>('#atlas-empty');
+    const apply=()=>{
+      const q=(search?.value||'').trim().toLowerCase();
+      const l=language?.value||'';
+      const r=region?.value||'';
+      let found=0;
+      entries.forEach(entry=>{
+        const visible=(!l||entry.dataset.lang===l)&&(!r||entry.dataset.region===r)&&(!q||entry.dataset.text?.includes(q));
+        entry.hidden=!visible;
+        if(visible)found++;
+      });
+      if(status)status.textContent=found+' source dossier'+(found===1?'':'s');
+      if(empty)empty.hidden=found!==0;
+      const params=new URLSearchParams();if(q)params.set('q',q);if(l)params.set('lang',l);if(r)params.set('region',r);
+      history.replaceState(null,'',location.pathname+(params.toString()?'?'+params.toString():'')+location.hash);
+    };
+    const params=new URLSearchParams(location.search);
+    if(search)search.value=params.get('q')||'';
+    if(language)language.value=params.get('lang')||'';
+    if(region)region.value=params.get('region')||'';
+    [search,language,region].forEach(element=>element?.addEventListener('input',apply));
+    document.querySelector('#atlas-reset')?.addEventListener('click',()=>{
+      if(search)search.value='';if(language)language.value='';if(region)region.value='';
+      apply();search?.focus();
+    });
+    apply();
+  </script>
+</Base>
