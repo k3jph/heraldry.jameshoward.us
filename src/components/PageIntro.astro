@@ -1,0 +1,11 @@
+---
+const { eyebrow, title, description, dark = false } = Astro.props;
+---
+<section class:list={['page-intro', dark && 'page-intro-dark']}>
+  <div class="wrap page-intro-inner">
+    <p class="eyebrow"><span class="star">✦</span> {eyebrow}</p>
+    <h1 class="display-serif">{title}</h1>
+    <p class="page-intro-description">{description}</p>
+    <slot />
+  </div>
+</section>

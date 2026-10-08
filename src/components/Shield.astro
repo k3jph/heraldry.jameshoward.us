@@ -1,0 +1,5 @@
+---
+import { armsSVG } from '../lib/heraldry.js';
+const { design = {}, id = 'shield-illustration', className = '' } = Astro.props;
+---
+<div class:list={['shield-illustration', className]} set:html={armsSVG(design, id)}></div>

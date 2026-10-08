@@ -1,0 +1,108 @@
+---
+import '../styles/global.css';
+import BrandMark from '../components/BrandMark.astro';
+const {
+  title = 'The language of arms',
+  description = 'The Heraldry Project: a free, interactive school of heraldry with lessons, a drawing atelier, armorial examples and an encyclopedic lexicon.',
+  image = '/social-card.svg',
+} = Astro.props;
+const pageTitle = title === 'The language of arms' ? 'The Heraldry Project — The language of arms' : title + ' · The Heraldry Project';
+const canonical = new URL(Astro.url.pathname, Astro.site ?? 'https://heraldry.jameshoward.us').toString();
+const current = Astro.url.pathname;
+const nav = [
+  {label:'Academy', href:'/academy/'},
+  {label:'Atelier', href:'/atelier/'},
+  {label:'Armorial', href:'/armorial/'},
+  {label:'Lexicon', href:'/lexicon/'},
+  {label:'Field guide', href:'/field-guide/'},
+  {label:'Resources', href:'/resources/'},
+];
+const ld = {
+  '@context':'https://schema.org',
+  '@type':'WebSite',
+  name:'The Heraldry Project',
+  description,
+  url:'https://heraldry.jameshoward.us/',
+  creator: {'@type':'Person', name:'James P. Howard, II', url:'https://jameshoward.us/'},
+  inLanguage:'en',
+  potentialAction: {'@type':'SearchAction', target:'https://heraldry.jameshoward.us/lexicon/?q={search_term_string}', 'query-input':'required name=search_term_string'}
+};
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#173541" />
+  <meta name="description" content={description} />
+  <meta name="author" content="James P. Howard, II" />
+  <link rel="canonical" href={canonical} />
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  <link rel="manifest" href="/manifest.webmanifest" />
+  <link rel="me" href="https://jameshoward.us/" />
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="The Heraldry Project" />
+  <meta property="og:title" content={pageTitle} />
+  <meta property="og:description" content={description} />
+  <meta property="og:url" content={canonical} />
+  <meta property="og:image" content={new URL(image, Astro.site ?? 'https://heraldry.jameshoward.us').toString()} />
+  <meta name="twitter:card" content="summary_large_image" />
+  <title>{pageTitle}</title>
+  <script type="application/ld+json" set:html={JSON.stringify(ld)} />
+</head>
+<body>
+  <a class="skip-link" href="#main-content">Skip to content</a>
+  <div class="utility-bar"><div class="wrap utility-content"><span>AN INDEPENDENT SCHOOL OF HERALDRY</span><a href="/about/">BY JAMES P. HOWARD, II <span aria-hidden="true">↗</span></a></div></div>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="brand" href="/" aria-label="The Heraldry Project — home">
+        <BrandMark />
+        <span class="brand-type"><strong>THE HERALDRY<br/>PROJECT</strong><small>Ars heraldica · Est. MMXXVI</small></span>
+      </a>
+      <nav class="site-nav" aria-label="Main navigation">
+        {nav.map(item => <a href={item.href} aria-current={current.startsWith(item.href) ? 'page' : undefined}>{item.label}</a>)}
+      </nav>
+      <div class="header-actions">
+        <a class="header-study" href="/practice/">Start practicing <span aria-hidden="true">↗</span></a>
+        <details class="mobile-nav">
+          <summary aria-label="Open navigation"><span class="menu-lines" aria-hidden="true">☰</span> Menu</summary>
+          <nav aria-label="Mobile navigation">
+            {nav.map(item => <a href={item.href} aria-current={current.startsWith(item.href) ? 'page' : undefined}>{item.label}</a>)}
+            <a href="/practice/">Practice</a>
+            <a href="/about/">About the project</a>
+          </nav>
+        </details>
+      </div>
+    </div>
+  </header>
+  <main id="main-content"><slot /></main>
+  <footer class="site-footer">
+    <div class="wrap">
+      <div class="footer-grid">
+        <div class="footer-about">
+          <div class="footer-brand"><BrandMark /><span>THE HERALDRY<br/>PROJECT</span></div>
+          <p>Old knowledge. New tools. A practical, generous education in the language of arms.</p>
+          <a class="footer-sig" href="https://jameshoward.us/" rel="author">A project of James P. Howard, II ↗</a>
+        </div>
+        <div><h2>Explore</h2><a href="/academy/">The academy</a><a href="/atelier/">The atelier</a><a href="/armorial/">Teaching armorial</a><a href="/practice/">Practice & quizzes</a></div>
+        <div><h2>Reference</h2><a href="/lexicon/">Heraldic lexicon</a><a href="/field-guide/">Field guide</a><a href="/resources/">Research sources</a><a href="/about/">About the project</a></div>
+        <div class="footer-quote"><p>“A coat of arms is a story told in a grammar of shapes.”</p><span>Made for the curious.</span></div>
+      </div>
+      <div class="footer-bottom">
+        <span>© {new Date().getFullYear()} James P. Howard, II · An independent educational project.</span>
+        <span>Not a heraldic authority. No accounts. No tracking of course progress.</span>
+        <a href="#main-content" aria-label="Back to the top">Back to top ↑</a>
+      </div>
+    </div>
+  </footer>
+  <script>
+    const header = document.querySelector('.site-header');
+    const onScroll = () => header?.classList.toggle('scrolled', window.scrollY > 12);
+    window.addEventListener('scroll', onScroll, {passive:true});
+    onScroll();
+    document.querySelectorAll('.mobile-nav nav a').forEach(link => link.addEventListener('click', () => {
+      const details = link.closest('details'); if(details) details.open = false;
+    }));
+  </script>
+</body>
+</html>
