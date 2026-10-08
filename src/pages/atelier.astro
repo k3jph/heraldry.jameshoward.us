@@ -1,0 +1,149 @@
+---
+import Base from '../layouts/Base.astro';
+import PageIntro from '../components/PageIntro.astro';
+import { TINCTURES, FIELD_VALUES, DIVISIONS, ORDINARIES, CHARGES, DEFAULT_DESIGN, armsSVG, blazon } from '../lib/heraldry.js';
+const divisions=[['none','Undivided field'],['per-pale','Per pale'],['per-fess','Per fess'],['per-bend','Per bend'],['quarterly','Quarterly']];
+const ordinaries=[['none','No ordinary'],['fess','Fess'],['pale','Pale'],['bend','Bend'],['bend-sinister','Bend sinister'],['chief','Chief'],['chevron','Chevron'],['cross','Cross'],['saltire','Saltire'],['bordure','Bordure']];
+const charges=[['none','No charge'],['mullet','Mullet · star'],['fleur','Fleur-de-lis'],['martlet','Martlet'],['rose','Rose'],['escallop','Escallop'],['roundel','Roundel'],['annulet','Annulet'],['crosslet','Cross crosslet']];
+const fields=['field','ordinaryTincture','chargeTincture'];
+const fieldLabels={field:'Field tincture',ordinaryTincture:'Ordinary tincture',chargeTincture:'Charge tincture'};
+---
+<Base title="The Blazon Atelier" description="Create an original heraldic shield study. Change tinctures, field divisions, ordinaries and charges; see a live SVG, introductory blazon and contrast advice, then export your design.">
+  <PageIntro eyebrow="The experimental workshop" title="The blazon atelier." description="Heraldry is a visual language. The fastest way to learn it is to change a word and watch a shield change with it. This is your laboratory."/>
+  <section class="section-tight">
+    <div class="wrap atelier-layout">
+      <div class="atelier-controls">
+        <p class="eyebrow"><span class="star">✦</span> Your instruments</p>
+        <h2>Compose a shield.</h2>
+        <p class="small-desc">Every control changes the illustration and its introductory blazon. Start with a strong, simple idea.</p>
+        <form id="atelier-form">
+          <div class="control-section">
+            <div class="control-title"><span>01 · The field</span><small>Background</small></div>
+            <label class="form-label" for="division">Field division</label>
+            <select class="select" id="division" name="division">{divisions.map(([value,label])=><option value={value} selected={value===DEFAULT_DESIGN.division}>{label}</option>)}</select>
+            <div style="margin-top:16px"><span class="form-label">{fieldLabels.field}</span><div class="swatches" role="group" aria-label="Field tincture">{FIELD_VALUES.map(value=><label class="swatch" title={TINCTURES[value].name}><span style={'background:'+TINCTURES[value].value}></span><input type="radio" name="field" value={value} checked={value===DEFAULT_DESIGN.field} aria-label={TINCTURES[value].name+' field'}/></label>)}</div></div>
+            <div style="margin-top:15px" data-secondary-section><label class="form-label" for="secondary">Second field tincture</label><select class="select" name="secondary" id="secondary">{FIELD_VALUES.map(value=><option value={value} selected={value===DEFAULT_DESIGN.secondary}>{TINCTURES[value].name} · {TINCTURES[value].meaning}</option>)}</select></div>
+          </div>
+          <div class="control-section">
+            <div class="control-title"><span>02 · The ordinary</span><small>Big geometry</small></div>
+            <label class="form-label" for="ordinary">Ordinary</label>
+            <select class="select" id="ordinary" name="ordinary">{ordinaries.map(([value,label])=><option value={value} selected={value===DEFAULT_DESIGN.ordinary}>{label}</option>)}</select>
+            <div style="margin-top:16px"><span class="form-label">{fieldLabels.ordinaryTincture}</span><div class="swatches" role="group" aria-label="Ordinary tincture">{FIELD_VALUES.map(value=><label class="swatch" title={TINCTURES[value].name}><span style={'background:'+TINCTURES[value].value}></span><input type="radio" name="ordinaryTincture" value={value} checked={value===DEFAULT_DESIGN.ordinaryTincture} aria-label={TINCTURES[value].name+' ordinary'}/></label>)}</div></div>
+          </div>
+          <div class="control-section">
+            <div class="control-title"><span>03 · The charge</span><small>The emblem</small></div>
+            <div class="control-pair">
+              <div><label class="form-label" for="charge">Figure</label><select class="select" id="charge" name="charge">{charges.map(([value,label])=><option value={value} selected={value===DEFAULT_DESIGN.charge}>{label}</option>)}</select></div>
+              <div><label class="form-label" for="count">How many?</label><select class="select" id="count" name="count"><option value="1">One</option><option value="3" selected>Three</option></select></div>
+            </div>
+            <div style="margin-top:16px"><span class="form-label">{fieldLabels.chargeTincture}</span><div class="swatches" role="group" aria-label="Charge tincture">{FIELD_VALUES.map(value=><label class="swatch" title={TINCTURES[value].name}><span style={'background:'+TINCTURES[value].value}></span><input type="radio" name="chargeTincture" value={value} checked={value===DEFAULT_DESIGN.chargeTincture} aria-label={TINCTURES[value].name+' charge'}/></label>)}</div></div>
+          </div>
+          <div style="display:flex;gap:8px;flex-wrap:wrap"><button class="btn btn-quiet" type="button" id="random-design">Surprise me ✦</button><button class="btn btn-quiet" type="button" id="reset-design">Start again ↺</button></div>
+        </form>
+      </div>
+      <div class="atelier-right">
+        <div class="atelier-stage">
+          <span class="stage-kicker">Original study · live composition</span>
+          <div id="live-shield" class="shield-illustration" set:html={armsSVG(DEFAULT_DESIGN,'atelier-live')}></div>
+          <span class="stage-corner">Vector illustration · SVG</span>
+        </div>
+        <div class="atelier-output">
+          <p class="eyebrow"><span class="star">✦</span> Your introductory blazon</p>
+          <p id="live-blazon" class="blazon-display" aria-live="polite">{blazon(DEFAULT_DESIGN)}</p>
+          <div class="atelier-actions">
+            <button class="btn btn-dark" type="button" id="download-svg">Download SVG ↓</button>
+            <button class="btn btn-line" type="button" id="download-png">Save PNG ↓</button>
+            <button class="btn btn-quiet" type="button" id="copy-blazon">Copy blazon</button>
+            <button class="btn btn-quiet" type="button" id="copy-link">Share this study ↗</button>
+          </div>
+          <p class="caption" id="atelier-message" role="status" aria-live="polite">The URL updates with your design; share it to reproduce the shield.</p>
+          <div class="assessment"><span class="status" id="contrast-status"></span><ul id="contrast-list"></ul><p class="notice">A contrast advisory is not a legal or scholarly certification. Different heraldic traditions have genuine exceptions.</p></div>
+        </div>
+      </div>
+    </div>
+    <div class="wrap atelier-note"><div class="notice-box"><strong>A designed shield is not a grant of arms.</strong><p>The Atelier is intentionally a simplified teaching model. It does not test for uniqueness or registrability and cannot establish entitlement. Read the <a href="/academy/jurisdictions/">lesson on authorities</a> before making legal or genealogical claims. Its blazons are introductory examples, not exhaustive formal descriptions.</p></div></div>
+  </section>
+  <script>
+    import {TINCTURES,FIELD_VALUES,DIVISIONS,ORDINARIES,CHARGES,DEFAULT_DESIGN,normalizeDesign,armsSVG,blazon,assessDesign} from '../lib/heraldry.js';
+    const form=document.querySelector<HTMLFormElement>('#atelier-form');
+    const stage=document.querySelector<HTMLElement>('#live-shield');
+    const text=document.querySelector<HTMLElement>('#live-blazon');
+    const status=document.querySelector<HTMLElement>('#contrast-status');
+    const list=document.querySelector<HTMLElement>('#contrast-list');
+    const message=document.querySelector<HTMLElement>('#atelier-message');
+    let current=normalizeDesign(DEFAULT_DESIGN);
+    const readForm=()=>{
+      if(!form)return normalizeDesign(DEFAULT_DESIGN);
+      const data=new FormData(form);
+      return normalizeDesign(Object.fromEntries(data.entries()));
+    };
+    const setForm=(design:ReturnType<typeof normalizeDesign>)=>{
+      if(!form)return;
+      form.querySelectorAll<HTMLInputElement>('input[type="radio"]').forEach(input=>{input.checked=design[input.name]===input.value;});
+      form.querySelectorAll<HTMLSelectElement>('select').forEach(select=>{select.value=String(design[select.name]??'');});
+    };
+    const update=()=>{
+      current=readForm();
+      if(stage)stage.innerHTML=armsSVG(current,'atelier-live');
+      if(text)text.textContent=blazon(current);
+      const check=assessDesign(current);
+      if(status){status.className='status '+check.level;status.textContent=check.level==='good'?'✦ Contrast check: looks promising':'⚑ Contrast: review needed';}
+      if(list){list.replaceChildren(...check.messages.map((t:string)=>{const el=document.createElement('li');el.textContent=t;return el;}));}
+      const secondary=document.querySelector<HTMLElement>('[data-secondary-section]');
+      if(secondary)secondary.hidden=current.division==='none';
+      const params=new URLSearchParams();
+      Object.entries(current).forEach(([key,value])=>params.set(key,String(value)));
+      history.replaceState(null,'',location.pathname+'?'+params.toString());
+    };
+    const choose=(values:Record<string,string|number>)=>{setForm(normalizeDesign(values));update();};
+    const announce=(s:string)=>{if(message)message.textContent=s;};
+    const saveBlob=(blob:Blob,filename:string)=>{const url=URL.createObjectURL(blob);const a=document.createElement('a');a.href=url;a.download=filename;document.body.append(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(url),1500);};
+    function fromURL() {
+      const params=new URLSearchParams(location.search);
+      if(!params.has('field')&&!params.has('ordinary'))return normalizeDesign(DEFAULT_DESIGN);
+      return normalizeDesign(Object.fromEntries(params.entries()));
+    }
+    setForm(fromURL()); update();
+    form?.addEventListener('input',update);
+    form?.addEventListener('change',update);
+    window.addEventListener('popstate',()=>{setForm(fromURL());update();});
+    document.getElementById('random-design')?.addEventListener('click',()=>{
+      const pick=(arr:string[])=>arr[Math.floor(Math.random()*arr.length)];
+      const field=pick(FIELD_VALUES);const opposite=FIELD_VALUES.filter((x:string)=>TINCTURES[x].kind!==TINCTURES[field].kind);
+      const ordinary=pick(ORDINARIES);
+      const ordinaryTincture=pick(opposite);
+      const surface=ordinary==='none'?field:ordinaryTincture;
+      const chargeTincture=pick(FIELD_VALUES.filter((x:string)=>TINCTURES[x].kind!==TINCTURES[surface].kind));
+      choose({field,secondary:pick(FIELD_VALUES),division:pick(DIVISIONS),ordinary,ordinaryTincture,charge:pick(CHARGES.slice(1)),chargeTincture,count:Math.random()<.5?1:3});
+      announce('A fresh study, entirely your own.');
+    });
+    document.getElementById('reset-design')?.addEventListener('click',()=>{choose(DEFAULT_DESIGN);announce('Restored the original shield.');});
+    document.getElementById('copy-blazon')?.addEventListener('click',async()=>{
+      try{await navigator.clipboard.writeText(blazon(current));announce('Blazon copied to clipboard.');}
+      catch{announce('Clipboard access is unavailable. Select the blazon above to copy it.');}
+    });
+    document.getElementById('copy-link')?.addEventListener('click',async()=>{
+      try{await navigator.clipboard.writeText(location.href);announce('Link copied. It recreates this design.');}
+      catch{announce('Copy the URL in your address bar to share this design.');}
+    });
+    document.getElementById('download-svg')?.addEventListener('click',()=>{
+      const svg=armsSVG(current,'heraldry-export');
+      saveBlob(new Blob([svg],{type:'image/svg+xml;charset=utf-8'}),'heraldic-study.svg');
+      announce('SVG export created. This is educational artwork, not a grant.');
+    });
+    document.getElementById('download-png')?.addEventListener('click',()=>{
+      const svg=armsSVG(current,'heraldry-raster');
+      const url=URL.createObjectURL(new Blob([svg],{type:'image/svg+xml;charset=utf-8'}));
+      const img=new Image();
+      img.onload=()=>{
+        const canvas=document.createElement('canvas');canvas.width=900;canvas.height=1044;
+        const ctx=canvas.getContext('2d');if(!ctx){announce('PNG export unavailable in this browser.');URL.revokeObjectURL(url);return;}
+        ctx.clearRect(0,0,canvas.width,canvas.height);
+        ctx.drawImage(img,0,0,900,1044);
+        canvas.toBlob(blob=>{if(blob){saveBlob(blob,'heraldic-study.png');announce('PNG export created.');}else announce('PNG export unavailable.');URL.revokeObjectURL(url);},'image/png');
+      };
+      img.onerror=()=>{URL.revokeObjectURL(url);announce('PNG export failed; please use SVG instead.');};
+      img.src=url;
+    });
+  </script>
+</Base>
