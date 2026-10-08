@@ -1,0 +1,75 @@
+---
+import Base from '../layouts/Base.astro';
+import PageIntro from '../components/PageIntro.astro';
+import Shield from '../components/Shield.astro';
+import timeline from '../data/timeline.json';
+const shield={field:'azure',secondary:'or',division:'none',ordinary:'fess',ordinaryTincture:'or',charge:'martlet',chargeTincture:'gules',count:3};
+const anatomy=[
+  {part:'Field',meaning:'The underlying blue area of the shield: Azure.'},
+  {part:'Ordinary',meaning:'A broad horizontal band, or fess, here painted Or.'},
+  {part:'Charges',meaning:'Three red heraldic birds (martlets) placed on the fess.'},
+  {part:'Chief',meaning:'The upper region of a shield; also the name of an ordinary.'},
+  {part:'Dexter',meaning:"The bearer's right, appearing on your left as you view the shield."},
+  {part:'Base',meaning:'The lower part of the shield.'}
+];
+const myths=[
+  {myth:'“Everyone named Smith has the same coat of arms.”',answer:"No. Armorial entitlement usually rests on a grant or documented inheritance under the relevant tradition. A shared surname proves neither."},
+  {myth:'“A crest is the shield.”',answer:"No. The crest belongs above a heraldic helm. The shield carries the arms; the surrounding assembly is the achievement."},
+  {myth:'“There is one universal law of heraldry.”',answer:"No. English, Scottish, Canadian, continental, and American practices differ in law, regulation, recording and usage."},
+  {myth:'“The rule of tincture has no exceptions.”',answer:"No. It is a useful introductory convention with historic exceptions involving partitions, furs, charges proper, and differing traditions."}
+];
+const comparisons=[
+{place:'England & Wales',institution:'College of Arms',summary:'Official authority for grants and relevant armorial recording. It also serves several other jurisdictions.',url:'https://www.college-of-arms.gov.uk/'},
+{place:'Scotland',institution:'Court of the Lord Lyon',summary:'Distinct authority operating a formal legal and registration tradition, including grants and matriculations.',url:'https://www.courtofthelordlyon.scot/'},
+{place:'Canada',institution:'Canadian Heraldic Authority',summary:'Established in 1988; records grants, registrations, confirmations and approvals in its Public Register.',url:'https://gg.ca/en/heraldry/public-register'},
+{place:'United States',institution:'No federal personal-grant authority',summary:'A mixed environment of assumed, inherited and foreign-granted arms, voluntary practice and separate legal questions.',url:'https://www.americanheraldry.org/education-resources/resources-key-documents/articles-and-recommended-reading/'}
+];
+---
+<Base title="A Field Guide to Heraldry" description="A practical illustrated guide to the parts of a heraldic shield, common heraldry myths, key historical dates, and legal jurisdictions.">
+  <PageIntro eyebrow="The map of the territory" title="The field guide." description="A little orientation goes a long way. Learn what you are looking at, why the symbols survived, and which confident-sounding stories deserve a second look."/>
+  <section class="section">
+    <div class="wrap">
+      <div class="rule-heading"><div><p class="eyebrow"><span class="star">✦</span> First, learn to look</p><h2 class="section-title">Anatomy of a shield.</h2></div><p>Six landmarks are enough to start reading simple arms. Read the diagram from field to ordinary to charges.</p></div>
+      <figure class="anatomy-diagram">
+        <Shield design={shield} id="anatomy-shield"/>
+        <figcaption class="anatomy-parts">{anatomy.map(item=><div class="anatomy-part"><strong>{item.part}</strong><span>{item.meaning}</span></div>)}</figcaption>
+      </figure>
+      <p class="caption">Original pedagogical shield: Azure, on a fess Or three martlets Gules. The illustration shows the shield alone; a complete achievement may have further components.</p>
+      <div class="field-grid" style="margin-top:25px">
+        <div class="field-panel"><p class="eyebrow"><span class="star">✦</span> Above</p><h3>The helm & crest</h3><p>A helmet may stand above a shield, ornamented with a wreath and a crest. The crest is one component, never the name for the whole coat of arms.</p></div>
+        <div class="field-panel"><p class="eyebrow"><span class="star">✦</span> Around</p><h3>Mantling & supporters</h3><p>Decorative mantling flows from the helm. Supporters, if authorized or customary for the armiger, stand alongside the shield, sometimes upon a compartment.</p></div>
+        <div class="field-panel"><p class="eyebrow"><span class="star">✦</span> Below</p><h3>The motto</h3><p>A motto may accompany an achievement, commonly on a scroll. Whether it is treated as part of a formal grant varies across heraldic traditions.</p></div>
+      </div>
+    </div>
+  </section>
+  <section class="section section-toned">
+    <div class="wrap">
+      <div class="rule-heading"><div><p class="eyebrow"><span class="star">✦</span> A very abbreviated chronology</p><h2 class="section-title">Nearly nine<br/>centuries of arms.</h2></div><p>Heraldry is not a single invention on a single afternoon. This timeline marks useful institutional and cultural turning points rather than every regional development.</p></div>
+      <div class="split">
+        <ol class="timeline">{timeline.map(item=><li><time>{item.when}</time><h3>{item.title}</h3><p>{item.description}</p></li>)}</ol>
+        <div style="align-self:start">
+          <div class="field-panel"><p class="eyebrow"><span class="star">✦</span> Historical method</p><h3>Ask what the record actually proves.</h3><p>A coloured picture may tell you what someone displayed. It may not tell you who authorized it, whether it was inherited, when the particular drawing was made, or how its blazon appeared in a contemporary document.</p><p>Heraldic research works best when visual description, documentary provenance, genealogical claims, and jurisdiction are treated as related but separate questions.</p><a class="text-link" href="/academy/reading-the-evidence/">Study source criticism ↗</a></div>
+          <div class="field-panel" style="margin-top:17px;background:var(--midnight);color:white"><p class="eyebrow eyebrow-on-dark"><span class="star">✦</span> A useful exercise</p><h3 style="color:var(--paper)">Can you spot a bad source?</h3><p style="color:#c1d0ce">Find a commercial armorial illustration. Can you identify the grant, bearer, date, registered blazon, and authoritative source? If not, you probably have an illustration rather than evidence.</p><a class="btn btn-gold" href="/resources/">Research the originals ↗</a></div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="section">
+    <div class="wrap">
+      <div class="rule-heading"><div><p class="eyebrow"><span class="star">✦</span> Mythbusting is part of the syllabus</p><h2 class="section-title">Things heraldry<br/>does not mean.</h2></div><p>Most persistent misconceptions are understandable. They are also surprisingly easy to correct once we keep design, evidence and entitlement apart.</p></div>
+      <div class="myth-grid">{myths.map(item=><article class="myth"><span class="myth-label">The claim</span><h3>{item.myth}</h3><span class="myth-label">The correction</span><p>{item.answer}</p></article>)}</div>
+    </div>
+  </section>
+  <section class="section section-toned">
+    <div class="wrap">
+      <div class="rule-heading"><div><p class="eyebrow"><span class="star">✦</span> Geography matters</p><h2 class="section-title">Who speaks<br/>for the arms?</h2></div><p>The language travelled. The law did not become uniform. These examples should be starting points, not a substitute for jurisdiction-specific research.</p></div>
+      <div class="field-grid" style="grid-template-columns:repeat(2,minmax(0,1fr))">
+        {comparisons.map(item=><article class="field-panel"><span class="smallcaps" style="color:var(--red)">{item.place}</span><h3 style="margin:.7rem 0">{item.institution}</h3><p>{item.summary}</p><a class="text-link" href={item.url} target="_blank" rel="noopener noreferrer">Visit source ↗</a></article>)}
+      </div>
+      <div class="notice-box" style="margin-top:24px"><strong>Legal nuance is real.</strong><p>The United States does not have a federal heraldic granting agency, but that fact alone does not settle every question about historical rights, trademarks, misrepresentation, intellectual property, or jurisdiction-specific law. For a contested legal question, consult original authorities and qualified counsel rather than a general website.</p></div>
+    </div>
+  </section>
+  <section class="section section-dark">
+    <div class="wrap split" style="align-items:center"><div><p class="eyebrow eyebrow-on-dark"><span class="star">✦</span> Now try a shield</p><h2 class="section-title">Knowledge gets<br/>interesting in use.</h2><p class="section-subtitle" style="margin-top:20px">You have the map. Turn it into an original shield, then write down what you think it says.</p></div><div><a href="/atelier/" class="btn btn-gold">Open the blazon atelier ↗</a> <a href="/practice/" class="btn btn-light-line" style="margin-top:9px">Practice reading ↗</a></div></div>
+  </section>
+</Base>

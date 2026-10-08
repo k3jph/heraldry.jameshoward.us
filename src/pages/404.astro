@@ -1,0 +1,11 @@
+---
+import Base from '../layouts/Base.astro';
+import Shield from '../components/Shield.astro';
+const lost={field:'sable',division:'none',ordinary:'bend',ordinaryTincture:'argent',charge:'mullet',chargeTincture:'gules',count:1};
+---
+<Base title="No Such Shield" description="The page you were looking for is not in this armorial.">
+<section class="section" style="min-height:65vh"><div class="wrap split" style="align-items:center">
+<div><p class="eyebrow"><span class="star">✦</span> Error 404 · A missing folio</p><h1 class="display-serif" style="margin:0 0 1.7rem">A shield<br/>gone astray.</h1><p class="section-subtitle" style="margin-bottom:2rem">The document may have been moved, misfiled, or carried away by a heraldically suspicious bird. The academy is still here.</p><a href="/" class="btn btn-dark">Return to the beginning ↗</a></div>
+<div style="background:#e5dac8;padding:50px;display:grid;place-items:center"><div style="max-width:220px"><Shield design={lost} id="lost-arms"/></div></div>
+</div></section>
+</Base>

@@ -1,0 +1,54 @@
+---
+import Base from '../layouts/Base.astro';
+import PageIntro from '../components/PageIntro.astro';
+import BrandMark from '../components/BrandMark.astro';
+---
+<Base title="About The Heraldry Project" description="The mission and methods of an independent free heraldry academy created by James P. Howard, II.">
+  <PageIntro eyebrow="An unreasonable little idea" title="Why build this?" description="Because a thousand-year-old visual language deserves better than a souvenir shop, a mysterious vocabulary, and a Wikipedia rabbit hole you will never escape."/>
+  <section class="section">
+    <div class="wrap split" style="align-items:start">
+      <div><p class="eyebrow"><span class="star">✦</span> The premise</p><h2 class="section-title">Learning should<br/>be an adventure.</h2></div>
+      <div style="font-size:1.05rem;line-height:1.9;color:var(--ink-2)">
+        <p>Heraldry sits at a rather wonderful crossroads: graphic design, medieval history, genealogy, law, language, political identity, and the occasional argument over a bird that doesn't have feet. It's the kind of subject that becomes more interesting the more you refuse to treat it as an isolated hobby.</p>
+        <p>The Heraldry Project exists to make that subject accessible at a serious level. It's an independent public educational experiment: a structured course, interactive toys that illustrate the actual rules and vocabulary, an original armorial for practice, and an annotated gateway to primary institutional sources.</p>
+        <p>One ambition governs the whole thing: a student should leave with enough knowledge to ask better questions, detect poor evidence, describe what is on a shield, and appreciate the difference between a striking illustration and a legitimate claim to arms.</p>
+      </div>
+    </div>
+  </section>
+  <section class="section section-toned">
+    <div class="wrap">
+      <div class="rule-heading"><div><p class="eyebrow"><span class="star">✦</span> The operating principles</p><h2 class="section-title">A higher standard.</h2></div><p>Think of this as the project charter: the things that should still be true when we have a hundred more lessons and an absurd number of toys.</p></div>
+      <div class="field-grid">
+        <article class="field-panel"><p class="eyebrow"><span class="star">01</span> Intellectual seriousness</p><h3>Sources before stories.</h3><p>Claims about descent, jurisdiction, historical use and authorisation need evidence. We do not sell a surname its coat of arms.</p></article>
+        <article class="field-panel"><p class="eyebrow"><span class="star">02</span> Learning by doing</p><h3>Manipulate the rules.</h3><p>A student should be able to turn a fess into a pale, change its tincture and see the blazon respond. A diagram ought to teach.</p></article>
+        <article class="field-panel"><p class="eyebrow"><span class="star">03</span> Access by design</p><h3>No gatekeeping.</h3><p>No subscription, account, paywall or user-profile requirement. Reading and practice should also work well on a phone.</p></article>
+        <article class="field-panel"><p class="eyebrow"><span class="star">04</span> Honest limitations</p><h3>A tool is not an authority.</h3><p>Our drawings are teaching studies. Automated blazons are limited. Legal recognition and armorial ownership need their own processes.</p></article>
+        <article class="field-panel"><p class="eyebrow"><span class="star">05</span> Respect for history</p><h3>Context is everything.</h3><p>Traditions differ across regions and centuries. We make those distinctions explicit and preserve uncertainty when the record requires it.</p></article>
+        <article class="field-panel"><p class="eyebrow"><span class="star">06</span> A living classroom</p><h3>Keep improving.</h3><p>Lessons, interactions, diagrams, sources and the artistic engine should develop together, with correction rather than false certainty.</p></article>
+      </div>
+    </div>
+  </section>
+  <section class="section">
+    <div class="wrap">
+      <div class="about-bio">
+        <BrandMark />
+        <div>
+          <p class="eyebrow eyebrow-on-dark"><span class="star">✦</span> The person responsible</p>
+          <h2>James P. Howard, II</h2>
+          <p>The Heraldry Project is part of a broader independent effort to make research, teaching, and serious scholarship more usable to the public. It is not sponsored, certified, or endorsed by any heraldic authority.</p>
+          <a href="https://jameshoward.us/" rel="author">Visit jameshoward.us ↗</a>
+        </div>
+      </div>
+      <div class="split" style="padding-top:50px;gap:35px">
+        <div><h2 class="small-title">Privacy without the pageantry.</h2><p class="section-subtitle">No user accounts. Quiz completion and personal practice records are kept locally in your browser. Changing devices or clearing site storage may erase them. We do not send those scores to a server.</p></div>
+        <div><h2 class="small-title">Independence without confusion.</h2><p class="section-subtitle">This is an educational site, not a grant-issuing body, accredited university, genealogical certification agency or source of legal advice. The College of Arms, the Court of the Lord Lyon, and the Canadian Heraldic Authority speak for themselves, not for us.</p></div>
+      </div>
+    </div>
+  </section>
+  <section class="section section-dark">
+    <div class="wrap split" style="align-items:center">
+      <div><p class="eyebrow eyebrow-on-dark"><span class="star">✦</span> All roads lead to curiosity</p><h2 class="section-title">Now, go make<br/>something.</h2></div>
+      <div><p class="section-subtitle">There's a whole language waiting, and we haven't even begun to argue about quarterings.</p><a href="/academy/" class="btn btn-gold">Begin with lesson one ↗</a></div>
+    </div>
+  </section>
+</Base>
