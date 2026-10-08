@@ -5,10 +5,10 @@ Last updated: 2026-10-08. This queue is ordered for **coverage gaps and primary 
 ## Stage A — primary-source foundation (under way)
 
 - [x] Editorial policy, multilingual citation schema and rights distinctions.
-- [ ] Primary-source ledgers for France, German-speaking Europe, Netherlands, Flanders, Spain, Portugal, Italy, Sweden, Czechia, Poland–Lithuania and Japan.
-- [ ] Publish original English summaries with direct links to the source documents, not unattributed scraped translations.
-- [ ] Link those source records to specific comparative lessons and reading assignments.
-- [ ] Expand the English-only terminology to interlingual concordances and disambiguation notes.
+- [x] Initial original-language source ledgers for France, German-speaking Europe, Netherlands, Flanders, Spain, Portugal, Italy, Sweden, Czechia, Poland–Lithuania and Japan; **first-pass summaries, not complete archival surveys**. Expanded also to Finland, Latvia, Lithuania, Romania, South Africa and Argentina.
+- [x] Publish original English source synopses with direct authoritative links and source-genre distinctions; retain preliminary human-review status.
+- [x] Link international source dossiers to comparative chapters, graduate seminars, and source-language reading exercises.
+- [x] Create preliminary original-language terminology concordances in the atlas, regional chapters and parallel-text reading lab; still requires full philological review and regional expansion.
 
 ## Stage B — substantive continental survey
 
@@ -38,9 +38,16 @@ Last updated: 2026-10-08. This queue is ordered for **coverage gaps and primary 
 - [ ] Multilingual blazon grammars and translation ambiguities.
 - [ ] Paleography, watermarking, seals, numismatics, material culture and sigillography.
 - [ ] Authenticated historical armorial records with image rights and archival identifiers.
-- [ ] Structured source bibliography export (BibTeX, CSL JSON, RIS) and permalinked citations.
+- [x] Full and individual BibTeX, RIS and CSL JSON exports for the source atlas, with stable dossier anchors, institutional author names and access dates. Add publication metadata as sources are researched.
 - [ ] Critical apparatus, source-to-claim concordance, versioned translation reviews.
 - [ ] Graduate capstone with an original edition, translation, or documented thematic catalogue and a defensible methodological statement.
+
+## Initial graduate foundation delivered
+
+- [x] Publish a six-seminar **research methods foundation** (source criticism, translation, comparative institutions, digital armorials, material culture, research capstone). This is not the entire graduate program: advanced doctoral-level seminars and specialist review remain outstanding.
+- [x] Publish an initial set of short parallel texts in **ten source languages** (German, Dutch, French, Spanish, Italian, Japanese, Latvian, Lithuanian, Finnish and Romanian) with short original excerpts and English commentary.
+- [x] Publish initial substantive comparative essays for **seventeen regions/traditions** without claiming exhaustive coverage.
+- [x] Record detailed unresolved shortcomings in [the quality audit](QUALITY_AUDIT.md).
 
 ## Coverage and review
 
