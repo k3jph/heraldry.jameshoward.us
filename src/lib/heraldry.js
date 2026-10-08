@@ -169,7 +169,7 @@ export function armsSVG(input={},identifier="heraldic-study") {
   if(d.charge!=="none"){
     let coordinates;
     if(d.count===1){
-      coordinates=[[75,d.ordinary==="chief"?24:d.ordinary==="chevron"?59:85, d.ordinary==="chief"?35:50]];
+      coordinates=[[75,d.ordinary==="chief"?24:d.ordinary==="chevron"?42:d.ordinary==="bordure"?17:85, d.ordinary==="chief"?35:d.ordinary==="bordure"?20:50]];
     } else if(d.ordinary==="fess" || d.ordinary==="chief" || d.ordinary==="cross"){
       coordinates=[[43,d.ordinary==="chief"?23:84,29],[75,d.ordinary==="chief"?23:84,29],[107,d.ordinary==="chief"?23:84,29]];
     } else if(d.ordinary==="pale"){
@@ -178,9 +178,13 @@ export function armsSVG(input={},identifier="heraldic-study") {
       const reverse=d.ordinary==="bend-sinister";
       coordinates=[[reverse?113:37,37,30],[75,82,30],[reverse?37:113,126,30]];
     } else if(d.ordinary==="chevron"){
-      coordinates=[[39,98,28],[75,53,28],[111,98,28]];
+      coordinates=[[39,77,26],[75,44,26],[111,77,26]];
+    } else if(d.ordinary==="bordure"){
+      coordinates=[[75,15,19],[26,72,19],[124,72,19]];
+    } else if(d.ordinary==="saltire"){
+      coordinates=[[40,43,26],[75,82,26],[110,122,26]];
     } else {
-      coordinates=[[75,43,33],[47,109,33],[103,109,33]];
+      coordinates=[[47,46,33],[103,46,33],[75,112,33]];
     }
     charge=coordinates.map(c=>chargeSVG(d.charge,d.chargeTincture,c[0],c[1],c[2])).join("");
   }
