@@ -43,13 +43,13 @@ test('generated SVG is namespace-qualified and its clip ID is unique',()=>{
 
 test('martlets face viewer left and an Argent martlet has a visible eye',()=>{
   const image=chargeSVG('martlet','argent',50,50);
-  assert.match(image,/transform="scale\\(-1 1\\)"/);
-  assert.match(image,/fill="#1b2d32" stroke="none"/);
+  assert.ok(image.includes('transform="scale(-1 1)"'));
+  assert.ok(image.includes('fill="#1b2d32" stroke="none"'));
 });
 
 test('canonical URLs use heraldryproject.org',()=>{
   const config=readFileSync(resolve(dir,'../astro.config.mjs'),'utf8');
-  assert.match(config,/https:\\/\\/heraldryproject\\.org/);
+  assert.ok(config.includes('https://heraldryproject.org'));
 });
 
 test('contrast checker catches two basic violations',()=>{
