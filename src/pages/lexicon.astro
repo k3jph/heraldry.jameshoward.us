@@ -53,7 +53,7 @@ const categories=['All',...new Set(sorted.map(item=>item.category))];
     document.addEventListener('keydown',event=>{
       const target=event.target as HTMLElement|null;
       if(event.key==='/'&&!event.metaKey&&!event.ctrlKey&&!['INPUT','TEXTAREA','SELECT'].includes(target?.tagName||'')){event.preventDefault();input?.focus();}
-      if(event.key==='Escape'&&document.activeElement===input){input.value='';render();input.blur();}
+      if(event.key==='Escape'&&document.activeElement===input&&input){input.value='';render();input.blur();}
     });
     render();
   </script>

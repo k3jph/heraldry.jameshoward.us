@@ -1,3 +1,4 @@
+/** @type {Record<string,{name:string,value:string,kind:string,meaning:string}>} */
 export const TINCTURES = {
   "or": {
     "name": "Or",
@@ -97,6 +98,7 @@ export const CHARGES = [
   "crosslet"
 ];
 
+/** @returns {{field:string,secondary:string,division:string,ordinary:string,ordinaryTincture:string,charge:string,chargeTincture:string,count:number}} */
 export function normalizeDesign(spec={}) {
   const normalized={};
   for (const [key,values,fallback] of [

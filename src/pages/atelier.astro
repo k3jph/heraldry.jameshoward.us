@@ -79,8 +79,8 @@ const fieldLabels={field:'Field tincture',ordinaryTincture:'Ordinary tincture',c
     };
     const setForm=(design:ReturnType<typeof normalizeDesign>)=>{
       if(!form)return;
-      form.querySelectorAll<HTMLInputElement>('input[type="radio"]').forEach(input=>{input.checked=design[input.name]===input.value;});
-      form.querySelectorAll<HTMLSelectElement>('select').forEach(select=>{select.value=String(design[select.name]??'');});
+      form.querySelectorAll<HTMLInputElement>('input[type="radio"]').forEach(input=>{input.checked=(design as unknown as Record<string,string|number>)[input.name]===input.value;});
+      form.querySelectorAll<HTMLSelectElement>('select').forEach(select=>{select.value=String((design as unknown as Record<string,string|number>)[select.name]??'');});
     };
     const update=()=>{
       current=readForm();

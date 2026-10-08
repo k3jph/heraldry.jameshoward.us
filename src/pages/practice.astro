@@ -41,7 +41,7 @@ import showcase from '../data/showcase.json';
     const heading=document.querySelector<HTMLElement>('#practice-heading');
     const roundText=document.querySelector<HTMLElement>('#practice-round');
     const rail=document.querySelector<HTMLElement>('#practice-rail');
-    const shuffle=<T>(arr:T[]):T[]=>{const a=[...arr];for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}return a;};
+    function shuffle<T>(arr:T[]):T[]{const a=[...arr];for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}return a;}
     const BEST='heraldry-practice-best-v1';
     let order=shuffle(showcase).slice(0,10);
     let index=0,score=0,answered=false;
@@ -91,7 +91,7 @@ import showcase from '../data/showcase.json';
       if(response)response.textContent='Your result is saved in this browser only. Play again or try the Academy lessons to sharpen your eye.';
       if(next){next.hidden=false;next.textContent='Play another round ↺';}
     };
-    next?.addEventListener('click',()=>{if(index>=order.length-1){order=shuffle(showcase).slice(0,10);index=0;score=0;render();}else{index++;render();}});
+    next?.addEventListener('click',()=>{if(index>=order.length-1){if(next.textContent?.includes('See your result')){finish();}else{order=shuffle(showcase).slice(0,10);index=0;score=0;render();}}else{index++;render();}});
     render();
   </script>
 </Base>
