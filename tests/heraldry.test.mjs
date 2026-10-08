@@ -105,6 +105,14 @@ test('scholarly lexicon retains international and historical coverage',()=>{
   }
 });
 
+test('study-card route and sitemap support the expanded lexicon',()=>{
+  const page=readFileSync(resolve(dir,'../src/pages/lexicon/study/index.astro'),'utf8');
+  const sitemap=readFileSync(resolve(dir,'../src/pages/sitemap.xml.js'),'utf8');
+  assert.match(page,/Review again/);
+  assert.match(page,/heraldry/i);
+  assert.match(sitemap,/\/lexicon\/study\//);
+});
+
 test('lexicon terms are unique and educationally useful',()=>{
   const glossary=read('glossary');
   assert.ok(glossary.length>=350);

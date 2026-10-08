@@ -26,3 +26,7 @@ Entries are independently phrased summaries; the references provide a research t
 5. Expand from this preliminary selection toward a substantial multilingual historical dictionary without sacrificing accuracy.
 
 A shared English gloss does not imply that different armorial traditions have identical legal rules.
+
+## Learning mode
+
+The browser-only flashcard experience at `/lexicon/study/` uses the same glossary records. The 'review again' stack cycles through missed terms until the learner marks each one understood. There are no accounts, saved scores, external study providers or new analytics calls.

@@ -595,3 +595,19 @@ button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible
 .lexicon-permalink { color: var(--muted); font: 700 .85rem var(--sans); text-decoration: underline; text-underline-offset: 3px; flex-shrink: 0; padding: .2rem .4rem; }
 .lexicon-permalink:hover,.lexicon-permalink:focus-visible { color: var(--red); }
 .lexicon-filter-count { opacity: .75; margin-left: .3em; font-variant-numeric: tabular-nums; }
+
+/* Study decks intentionally reuse the main site's editorial colours and components. */
+.study-layout { display:grid; grid-template-columns: minmax(240px,.72fr) minmax(0,1.28fr); gap:clamp(28px,5vw,85px); align-items:start; }
+.study-instructions { max-width:430px; }
+.study-instructions p:not(.eyebrow):not(.caption) { color:var(--ink-2); line-height:1.75; }
+.study-panel { min-width:0; }
+.study-progress-head { display:flex; justify-content:space-between; gap:12px; margin-bottom:12px; }
+.study-progress-rail { height:9px; border-radius:12px; overflow:hidden; background:var(--line); margin-bottom:24px; }
+.study-progress-rail span { display:block; height:100%; width:0; background:var(--red); transition:width .25s ease; }
+.study-card { min-height:335px; border:1px solid var(--line); background:var(--white); padding:clamp(25px,4vw,52px); display:flex; flex-direction:column; justify-content:center; }
+.study-definition { font:400 clamp(1.35rem,2.35vw,2.15rem)/1.45 var(--serif); color:var(--ink); margin:0; }
+.study-answer { margin-top:27px; padding-top:20px; border-top:1px solid var(--line); }
+.study-answer h3 { font:500 clamp(2.05rem,3vw,3.15rem)/1.1 var(--serif); margin:8px 0 18px; overflow-wrap:anywhere; color:var(--red); }
+.study-actions { display:flex; flex-wrap:wrap; gap:10px; margin-top:18px; }
+.study-actions button:disabled { cursor:not-allowed; opacity:.43; transform:none; }
+@media(max-width:850px) { .study-layout { grid-template-columns:1fr; } .study-instructions { max-width:none; } .study-card { min-height:280px; } }

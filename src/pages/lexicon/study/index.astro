@@ -1,0 +1,157 @@
+---
+import Base from '../../layouts/Base.astro';
+import PageIntro from '../../components/PageIntro.astro';
+import glossary from '../../data/glossary.json';
+const groups=[...new Set(glossary.map(entry=>entry.category))].sort((a,b)=>a.localeCompare(b));
+---
+<Base title="Lexicon Study Cards" description="Practice and learn heraldic vocabulary, including blazonry, charges, geometry, historic documents and international traditions.">
+  <PageIntro eyebrow="Practice · The reference desk" title="Know your heraldry." description="Learn a term from its meaning, check your recall, and revisit the difficult ones. No login, no tracking, no tricks."/>
+  <section class="section">
+    <div class="wrap study-layout">
+      <div class="study-instructions">
+        <p class="eyebrow"><span class="star">✦</span> Your study session</p>
+        <h2 class="small-title">An entire heraldic vocabulary, one card at a time.</h2>
+        <p>Read the definition and identify the term before revealing the answer. Choose “Knew it” to set a card aside or “Review again” to return to it in the next round. The session ends when you've recalled every card.</p>
+        <label class="form-label" for="study-subject">Choose a subject</label>
+        <select class="select" id="study-subject">
+          <option value="All">All subjects ({glossary.length} entries)</option>
+          {groups.map(category=><option value={category}>{category} ({glossary.filter(entry=>entry.category===category).length})</option>)}
+        </select>
+        <div style="display:flex;gap:10px;flex-wrap:wrap;margin-top:16px">
+          <button type="button" class="btn btn-quiet" id="study-restart">Shuffle and restart ↺</button>
+          <a class="btn btn-line" href="/lexicon/">Search the lexicon ↗</a>
+        </div>
+        <p class="caption" style="margin-top:16px">Keyboard: Space reveals an answer. Then press K for “Knew it” or R for “Review again.” No results are sent to a server or saved after this session.</p>
+      </div>
+      <div class="study-panel">
+        <div class="study-progress-head"><span class="smallcaps">Your progress</span><span id="study-summary" class="smallcaps" aria-live="polite">Preparing your deck…</span></div>
+        <div class="study-progress-rail" id="study-progress" role="progressbar" aria-label="Terms learned" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0"><span id="study-progress-fill"></span></div>
+        <div class="study-card" id="study-card">
+          <p class="eyebrow"><span class="star">✦</span> What term fits this definition?</p>
+          <p id="study-definition" class="study-definition">Choose a topic and start practicing.</p>
+          <div id="study-answer" class="study-answer" hidden>
+            <span class="smallcaps">The heraldic term</span>
+            <h3 id="study-term"></h3>
+            <a id="study-link" class="text-link" href="/lexicon/">Read this lexicon entry ↗</a>
+          </div>
+        </div>
+        <div id="study-actions" class="study-actions">
+          <button id="study-reveal" type="button" class="btn btn-gold">Reveal term</button>
+          <button id="study-known" type="button" class="btn btn-dark" disabled>Knew it ✓</button>
+          <button id="study-again" type="button" class="btn btn-line" disabled>Review again ↺</button>
+        </div>
+        <p id="study-message" role="status" aria-live="polite" class="caption" style="margin-top:16px">Cards are shuffled within your selected subject.</p>
+      </div>
+    </div>
+    <noscript><div class="wrap"><p class="notice-box">Interactive practice requires JavaScript. The complete <a href="/lexicon/">lexicon</a> remains available as a plain searchable reference.</p></div></noscript>
+  </section>
+  <script>
+    import glossary from '../../data/glossary.json';
+    type Entry={term:string;definition:string;category:string};
+    const entries:Entry[]=glossary;
+    const subject=document.querySelector<HTMLSelectElement>('#study-subject');
+    const definition=document.querySelector<HTMLElement>('#study-definition');
+    const answer=document.querySelector<HTMLElement>('#study-answer');
+    const term=document.querySelector<HTMLElement>('#study-term');
+    const link=document.querySelector<HTMLAnchorElement>('#study-link');
+    const summary=document.querySelector<HTMLElement>('#study-summary');
+    const message=document.querySelector<HTMLElement>('#study-message');
+    const progress=document.querySelector<HTMLElement>('#study-progress');
+    const fill=document.querySelector<HTMLElement>('#study-progress-fill');
+    const revealButton=document.querySelector<HTMLButtonElement>('#study-reveal');
+    const knewButton=document.querySelector<HTMLButtonElement>('#study-known');
+    const againButton=document.querySelector<HTMLButtonElement>('#study-again');
+    const restartButton=document.querySelector<HTMLButtonElement>('#study-restart');
+    let queue:Entry[]=[];
+    let revisit:Entry[]=[];
+    let card:Entry|null=null;
+    let mastered=0;
+    let total=0;
+    let round=1;
+    let revealed=false;
+    const shuffle=(items:Entry[])=>{
+      const result=[...items];
+      for(let i=result.length-1;i>0;i--){
+        const j=Math.floor(Math.random()*(i+1));
+        [result[i],result[j]]=[result[j],result[i]];
+      }
+      return result;
+    };
+    const slug=(value:string)=>'term-'+value.normalize('NFKD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
+    function updateStatus(){
+      const waiting=queue.length+revisit.length+(card?1:0);
+      if(summary)summary.textContent=mastered+' learned · '+waiting+' to go';
+      const percentage=total?Math.round(100*mastered/total):0;
+      if(fill)fill.style.width=percentage+'%';
+      progress?.setAttribute('aria-valuenow',String(percentage));
+    }
+    function showNext(){
+      if(queue.length===0&&revisit.length){
+        queue=shuffle(revisit);
+        revisit=[];
+        round++;
+      }
+      card=queue.pop()||null;
+      revealed=false;
+      if(!card){
+        if(definition)definition.textContent='You have recalled every term in this deck. Nicely done.';
+        if(message)message.textContent='Session complete. Choose a new subject or shuffle and start over.';
+      }else{
+        if(definition)definition.textContent=card.definition;
+        if(term)term.textContent=card.term;
+        if(link)link.href='/lexicon/#'+slug(card.term);
+        if(message)message.textContent='Round '+round+' · '+card.category+' · Recall the term, then reveal it.';
+      }
+      if(answer)answer.hidden=true;
+      if(revealButton)revealButton.disabled=!card;
+      if(knewButton)knewButton.disabled=true;
+      if(againButton)againButton.disabled=true;
+      updateStatus();
+    }
+    function reset(){
+      const chosen=subject?.value||'All';
+      queue=shuffle(entries.filter(entry=>chosen==='All'||entry.category===chosen));
+      revisit=[];
+      total=queue.length;
+      mastered=0;
+      round=1;
+      showNext();
+    }
+    function reveal(){
+      if(!card)return;
+      revealed=true;
+      if(answer)answer.hidden=false;
+      if(revealButton)revealButton.disabled=true;
+      if(knewButton)knewButton.disabled=false;
+      if(againButton)againButton.disabled=false;
+    }
+    function assess(knew:boolean){
+      if(!card||!revealed)return;
+      if(knew)mastered++;
+      else revisit.push(card);
+      showNext();
+    }
+    const params=new URLSearchParams(location.search);
+    const requested=params.get('category');
+    if(subject&&requested&&[...subject.options].some(option=>option.value===requested))subject.value=requested;
+    subject?.addEventListener('change',()=>{
+      const url=new URL(location.href);
+      if(subject.value==='All')url.searchParams.delete('category');
+      else url.searchParams.set('category',subject.value);
+      history.replaceState(null,'',url.pathname+url.search);
+      reset();
+    });
+    restartButton?.addEventListener('click',reset);
+    revealButton?.addEventListener('click',reveal);
+    knewButton?.addEventListener('click',()=>assess(true));
+    againButton?.addEventListener('click',()=>assess(false));
+    document.addEventListener('keydown',event=>{
+      const target=event.target as HTMLElement|null;
+      if(['INPUT','TEXTAREA','SELECT','BUTTON','A'].includes(target?.tagName||'')||event.ctrlKey||event.altKey||event.metaKey)return;
+      if(event.code==='Space'&&!revealed&&card){event.preventDefault();reveal();}
+      if(event.key.toLowerCase()==='k'&&revealed){event.preventDefault();assess(true);}
+      if(event.key.toLowerCase()==='r'&&revealed){event.preventDefault();assess(false);}
+    });
+    reset();
+  </script>
+</Base>

@@ -15,6 +15,7 @@ const searchFor=(entry:(typeof glossary)[number])=>[entry.term,entry.category,en
       <div class="lexicon-top"><label class="smallcaps" for="lexicon-search">Search by term, definition or subject</label><span class="smallcaps" id="lexicon-count" aria-live="polite">{glossary.length} of {glossary.length} entries</span></div>
       <input id="lexicon-search" class="search-input" type="search" placeholder="Try ‘martlet’, ‘fitchy’, ‘Wappen’, ‘Polish’…" autocomplete="off" aria-label="Search heraldic terminology"/>
       <p class="caption">Tip: press / to search. Accents are optional. Each entry has a permanent link; searches can be bookmarked.</p>
+      <p style="margin:22px 0 0"><a class="btn btn-dark" href="/lexicon/study/">Practice vocabulary flashcards ↗</a></p>
       <div class="lexicon-filter" role="group" aria-label="Filter by category" style="margin-top:22px">{categories.map((item,i)=><button type="button" data-category={item.name} class:list={['chip',i===0&&'active']} aria-pressed={i===0}>{item.name} <span class="lexicon-filter-count">{item.count}</span></button>)}</div>
       <div class="lexicon-grid" id="lexicon-grid">
         {sorted.map(item=><article class="lexicon-entry" id={slugFor(item.term)} data-search={searchFor(item)} data-kind={item.category}>
