@@ -1,0 +1,25 @@
+---
+import Base from '../../layouts/Base.astro';
+import PageIntro from '../../components/PageIntro.astro';
+import {getCollection} from 'astro:content';
+const seminars=(await getCollection('seminars')).sort((a,b)=>a.data.order-b.data.order);
+const aims=[
+  {title:'Historical evidence',description:'Evaluate how manuscripts, seals, paintings and legal records can—or cannot—support a historical claim.'},
+  {title:'Language competence',description:'Translate critically, preserve the original terminology, and show your editorial decisions.'},
+  {title:'Research design',description:'Construct a reproducible source corpus, argue with evidence, and make an original contribution.'}
+];
+---
+<Base title="Graduate Research Seminars" description="Advanced seminars in heraldic archival method, legal history, original-language philology, digital humanities, visual history and research publication.">
+  <PageIntro eyebrow="Advanced research programme" title="The research seminar." description="A university-level approach means more than remembering heraldic vocabulary. It means producing a defensible interpretation from actual documents, in the languages in which those documents survive."/>
+  <section class="section">
+    <div class="wrap">
+      <div class="international-intro"><div><p class="eyebrow"><span class="star">✦</span> A graduate research framework</p><h2>Do original work. Show your sources.</h2></div><div><p>These six seminars teach methods rather than advertising credentials. They are substantial reading notes accompanied by archive-based assignments, bibliographies and a culminating research project. There are no fabricated recordings, examinations or university accreditations.</p><div style="display:flex;gap:9px;flex-wrap:wrap"><a class="btn btn-dark" href="/traditions/">Regional research chapters ↗</a><a class="btn btn-line" href="/source-atlas/">Source atlas ↗</a></div></div></div>
+      <div class="field-grid" style="margin-top:35px">{aims.map((aim,i)=><article class="field-panel"><p class="eyebrow"><span class="star">{String(i+1).padStart(2,'0')}</span> Research competency</p><h3>{aim.title}</h3><p>{aim.description}</p></article>)}</div>
+      <div class="rule-heading" style="margin-top:70px"><div><p class="eyebrow"><span class="star">✦</span> Six documented seminars</p><h2 class="section-title">The curriculum.</h2></div><p>Read them sequentially or work on a method your research presently requires. Each unit asks for evidence that someone else can independently inspect.</p></div>
+      <ol class="seminar-list">
+        {seminars.map(item=><li><a href={'/seminars/'+item.id+'/'}><span class="seminar-count">{String(item.data.order).padStart(2,'0')}</span><span class="seminar-main"><small>{item.data.focus} · {item.data.level}</small><strong>{item.data.title}</strong><span>{item.data.description}</span></span><span class="seminar-arrow" aria-hidden="true">↗</span></a></li>)}
+      </ol>
+    </div>
+  </section>
+  <section class="section section-dark"><div class="wrap split" style="align-items:center"><div><p class="eyebrow eyebrow-on-dark"><span class="star">✦</span> The master's level challenge</p><h2 class="section-title">Can someone<br/>verify your work?</h2></div><div><p class="section-subtitle">The capstone requires a research proposal, an original-language source corpus and a contribution another historian could critique or use. The goal is scholarship, not a souvenir certificate.</p><a class="btn btn-gold" href="/seminars/06-research-capstone/">Read the capstone ↗</a></div></div></section>
+</Base>

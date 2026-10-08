@@ -32,3 +32,5 @@ All new drawings presented as teaching examples are original project illustratio
 - [Graduate research seminars](https://heraldry.jameshoward.us/seminars/): source criticism, primary text work and advanced research assignments.
 
 The expansion is ongoing. English-language notes should never be mistaken for official institutional translations or independently peer-reviewed critical editions.
+
+Graduate studies include six research seminars at /seminars/, each with a dedicated text chapter, primary-source references and a research assignment.

@@ -1,0 +1,42 @@
+---
+import Base from '../../layouts/Base.astro';
+import {getCollection,render} from 'astro:content';
+import sources from '../../data/world-sources.json';
+export async function getStaticPaths(){
+  const entries=await getCollection('seminars');
+  return entries.map(entry=>({params:{slug:entry.id},props:{entry}}));
+}
+const {entry}=Astro.props;
+const {Content}=await render(entry);
+const related=sources.filter(s=>entry.data.sourceIds.includes(s.id));
+const course=(await getCollection('seminars')).sort((a,b)=>a.data.order-b.data.order);
+const index=course.findIndex(s=>s.id===entry.id);
+const next=course[index+1]||null,previous=course[index-1]||null;
+---
+<Base title={entry.data.title} description={entry.data.description}>
+  <section class="page-intro">
+    <div class="wrap page-intro-inner">
+      <nav class="breadcrumbs" aria-label="Breadcrumbs"><a href="/">Home</a><span>›</span><a href="/seminars/">Graduate seminars</a><span>›</span><span>Seminar {entry.data.order}</span></nav>
+      <p class="eyebrow"><span class="star">✦</span> {entry.data.level} · {entry.data.focus}</p>
+      <h1 class="display-serif" style="max-width:1060px">{entry.data.title}</h1>
+      <p class="page-intro-description">{entry.data.description}</p>
+    </div>
+  </section>
+  <div class="wrap world-article-shell">
+    <article class="world-article">
+      <p class="eyebrow"><span class="star">✦</span> A methods seminar · original sources required</p>
+      <Content/>
+      <div class="notice-box"><strong>Teaching, not credentialing.</strong><p>No university credit or professional qualification is conferred by this website. The seminar's value rests in its research method, original-language sources and the quality of the work students choose to perform.</p></div>
+      <nav class="lesson-pagination" aria-label="Graduate seminar navigation">
+        {previous?<a class="lesson-pager" href={'/seminars/'+previous.id+'/'}><span>← Previous seminar</span><strong>{previous.data.title}</strong></a>:<a class="lesson-pager" href="/seminars/"><span>← Back</span><strong>Seminar overview</strong></a>}
+        {next?<a class="lesson-pager" href={'/seminars/'+next.id+'/'}><span>Next seminar →</span><strong>{next.data.title}</strong></a>:<a class="lesson-pager" href="/traditions/"><span>Continue research →</span><strong>Regional chapters</strong></a>}
+      </nav>
+    </article>
+    <aside class="world-sidebar">
+      <div class="world-sidebar-box"><span class="smallcaps" style="color:var(--red)">Methods workbench</span><h2 class="small-title">Documents you can check.</h2>
+        {related.map(s=><a class="world-source-mini" href={'/source-atlas/#source-'+s.id}><span class="smallcaps">{s.language.toUpperCase()} · {s.area}</span><strong>{s.titleOriginal}</strong><small>{s.holding}</small><span class="mini-arrow">Source dossier ↗</span></a>)}
+      </div>
+      <div class="world-sidebar-box world-sidebar-dark"><p class="eyebrow eyebrow-on-dark"><span class="star">✦</span> The scholarly test</p><h2 class="small-title">What would change your mind?</h2><p>An argument that cannot be revised by evidence is not a defensible historical argument. Seek alternative explanations before defending your own.</p></div>
+    </aside>
+  </div>
+</Base>

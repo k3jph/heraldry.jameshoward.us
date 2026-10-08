@@ -49,3 +49,7 @@ Created by **James P. Howard, II** — [jameshoward.us](https://jameshoward.us/)
 ## Open-ended academic mission
 
 Read [Editorial Mandate](docs/EDITORIAL_MANDATE.md) and [International Research Backlog](docs/RESEARCH_BACKLOG.md). The twelve original lessons are the **introductory foundation**, not the finish line. The site also contains an active international comparative research program in `src/content/traditions/` and a source ledger in `src/data/world-sources.json`. Original-language notes are **English research synopses**, not wholesale translations of copyrighted works. Expand these until the regional and graduate research standards in the mandate are met.
+
+### Graduate research series
+
+The six graduate-methods seminars in `src/content/seminars/` cover archival source criticism, multilingual translation, comparative institutional history, digital-humanities data modeling, visual/material evidence, and a publishable capstone. These are substantive research methods readings with original-language sources and advanced written assignments, not accredited coursework.
