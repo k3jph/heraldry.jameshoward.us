@@ -5,6 +5,9 @@ import lessons from '../data/course.json';
 import glossary from '../data/glossary.json';
 import showcase from '../data/showcase.json';
 import { blazon } from '../lib/heraldry.js';
+import { getCollection } from 'astro:content';
+import worldSources from '../data/world-sources.json';
+const worldCount=(await getCollection('traditions')).length;
 const example={field:'azure',division:'none',ordinary:'fess',ordinaryTincture:'or',charge:'martlet',chargeTincture:'gules',count:3};
 const cards=[
   {symbol:'Ⅰ',title:'Learn the language',description:'Twelve self-paced university-style units. From the first field to the law of arms.',link:'/academy/',action:'Enter the academy'},
@@ -94,9 +97,9 @@ const cards=[
         <p class="eyebrow eyebrow-on-dark"><span class="star">✦</span> The scholarly promise</p>
         <p style="font:italic clamp(1.8rem,3vw,3rem)/1.24 var(--serif);color:var(--gold-light);margin:0 0 27px">A thousand years of arms, without making England the centre of the world.</p>
         <div style="display:grid;gap:13px;color:#d3dfd9;font-size:.82rem">
-          <span>13 original comparative research chapters</span>
-          <span>22 original-language research dossiers</span>
-          <span>Sources in eleven languages</span>
+          <span>{worldCount} original comparative research chapters</span>
+          <span>{worldSources.length} original-language research dossiers</span>
+          <span>{new Set(worldSources.map(s=>s.language)).size} source languages</span>
           <span>Graduate primary-source assignments</span>
         </div>
         <a href="/seminars/" class="text-link" style="color:var(--gold-light);display:inline-block;margin-top:30px">Beyond the undergraduate course ↗</a>
