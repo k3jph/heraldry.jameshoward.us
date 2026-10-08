@@ -29,6 +29,7 @@ const next=lessons[index+1];
     <article class="lesson-content">
       <div class="lesson-meta"><span>UNIT {String(lesson.number).padStart(2,'0')} OF 12</span><span>{lesson.minutes} MIN READ</span><span>SELF-PACED</span><span>3 QUESTION CHECK</span></div>
       <p class="lesson-lead">{lesson.description}</p>
+      <div class="notice-box" style="display:flex;align-items:center;justify-content:space-between;gap:20px;flex-wrap:wrap;margin-bottom:32px"><div><strong>Prefer a guided lecture?</strong><p>The same material is available as a chapter-by-chapter presentation with optional device-based spoken narration.</p></div><a class="btn btn-dark" href={'/lecture/'+lesson.slug+'/'}>Enter the lecture hall ↗</a></div>
       <div class="lesson-outcomes"><h2>After this lesson, you should be able to…</h2><ul>{lesson.objectives.map(goal=><li>{goal}</li>)}</ul></div>
       <div class="lesson-visual"><div><p class="eyebrow"><span class="star">✦</span> One shield, one thought</p><p>{blazon(lesson.example)}</p><small>Original teaching illustration · not a grant or register entry.</small></div><Shield design={lesson.example} id={'lesson-'+lesson.number}/></div>
       {lesson.sections.map((section,i)=><section id={'reading-'+(i+1)}><p class="eyebrow"><span class="star">✦</span> Part {String(i+1).padStart(2,'0')}</p><h2>{section.heading}</h2>{section.paragraphs.map(paragraph=><p>{paragraph}</p>)}</section>)}
