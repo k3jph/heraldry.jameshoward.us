@@ -1,0 +1,229 @@
+[
+  {
+    "id": "flanders-old",
+    "region": "Flanders (Belgium)",
+    "language": "nl",
+    "sourceId": "be-vl-decree",
+    "sourceTitle": "Decreet houdende vaststelling van het wapen van privé-personen en instellingen",
+    "locator": "3 February 1998 decree; current consolidated version, Article 2(3°), effective text dated 1 January 2015",
+    "url": "https://codex.vlaanderen.be/Portals/Codex/documenten/1006070.html",
+    "sourceType": "Statute",
+    "original": "oud wapen: een heraldisch wapen waarvan kan worden bewezen dat het ten minste honderd jaar geleden publiekelijk werd gevoerd",
+    "translation": "‘Older arms’: a heraldic coat of arms for which it can be proved that it was publicly borne at least one hundred years ago.",
+    "vocabulary": [
+      {
+        "term": "oud wapen",
+        "translation": "older coat of arms"
+      },
+      {
+        "term": "kan worden bewezen",
+        "translation": "can be proved"
+      },
+      {
+        "term": "publiekelijk werd gevoerd",
+        "translation": "was publicly borne or used"
+      }
+    ],
+    "analysis": "The clause defines an older coat of arms through a historical-evidence threshold. It does not establish that an unverified family tale qualifies. Article 3 separately deals with proof of direct male-line descent in an application to recognize older arms. The source is a consolidated legal text and has an amendment history; the wording shown is not a claim that every clause existed unchanged in 1998.",
+    "assignment": "Explain why demonstrating 100-year public use and demonstrating a modern applicant's entitlement are separate propositions. Find the relevant clause of Article 3 in the Dutch original and paraphrase its evidentiary requirements without reproducing the entire article.",
+    "rights": "Short excerpt for source criticism; full legal text remains at the Flemish Codex.",
+    "review": "Manually checked against the official consolidated Dutch source; English rendering is editorial, not an official translation.",
+    "translationStatus": "source-checked short working translation, independent specialist review outstanding",
+    "usage": "short attributed quotation; full original remains with authority",
+    "accessed": "2026-10-08"
+  },
+  {
+    "id": "germany-nonconstitutive",
+    "region": "German-speaking Europe",
+    "language": "de",
+    "sourceId": "de-dwr",
+    "sourceTitle": "Statut der Deutschen Wappenrolle",
+    "locator": "HEROLD, Deutsche Wappenrolle statutes, § 13(I)",
+    "url": "https://herold-verein.de/heraldik/die-deutsche-wappenrolle-dwr/",
+    "sourceType": "Private association statute",
+    "original": "Die Eintragung eines Wappens in die Deutsche Wappenrolle hat keine rechtsbegründende Wirkung",
+    "translation": "The entry of a coat of arms in the Deutsche Wappenrolle has no constitutive legal effect.",
+    "vocabulary": [
+      {
+        "term": "Eintragung",
+        "translation": "entry or registration"
+      },
+      {
+        "term": "rechtsbegründende Wirkung",
+        "translation": "effect creating or establishing a legal right"
+      },
+      {
+        "term": "Wappenrolle",
+        "translation": "register or roll of arms"
+      }
+    ],
+    "analysis": "This is a precise distinction, stated by the register's own governing association. The following part of § 13 describes the evidence and legal protection the society associates with registration, including a reference to § 12 of the German Civil Code. Do not confuse an association's description of a legal relationship with a final judicial ruling about a contested third party. This is stronger evidence than guessing at the register's function by analogy with the English College of Arms.",
+    "assignment": "Read the whole of § 13 and explain how evidence of use differs from the act that creates a right. Then examine § 11 on how an objection by a third party may interrupt registration.",
+    "rights": "Short excerpt for study; complete statute linked to the publishing organization.",
+    "review": "Manually checked against HEROLD's German-language statutes; English is original editorial translation.",
+    "translationStatus": "source-checked short working translation, independent specialist review outstanding",
+    "usage": "short attributed quotation; full original remains with authority",
+    "accessed": "2026-10-08"
+  },
+  {
+    "id": "netherlands-decree",
+    "region": "Netherlands",
+    "language": "nl",
+    "sourceId": "nl-hra-gemeente",
+    "sourceTitle": "Procedure voor wapenverleningen",
+    "locator": "Hoge Raad van Adel, procedural introduction, first sentence",
+    "url": "https://www.hogeraadvanadel.nl/heraldiek/overheidswapens/procedure",
+    "sourceType": "Official administrative explanation",
+    "original": "Wapens van publiekrechtelijke lichamen worden verleend bij koninklijk besluit.",
+    "translation": "Coats of arms of public-law bodies are granted by royal decree.",
+    "vocabulary": [
+      {
+        "term": "publiekrechtelijke lichamen",
+        "translation": "bodies governed by public law"
+      },
+      {
+        "term": "worden verleend",
+        "translation": "are granted"
+      },
+      {
+        "term": "koninklijk besluit",
+        "translation": "royal decree"
+      }
+    ],
+    "analysis": "The passive construction identifies what is granted, and the legal instrument used. It does not say that every private Dutch family's arms requires the same procedure. Elsewhere the Council describes an advisory stage, the royal decision, and the resulting armorial diploma as separate steps. Note that this source is an institution's current procedural account, not a medieval grant itself.",
+    "assignment": "Trace the process from application to Council advice, royal decree and wapendiploma; explain which stage creates an administrative decision and which documents or illustrates it.",
+    "rights": "Brief educational excerpt with attribution and link.",
+    "review": "Manually checked against the official Dutch procedural page; English rendering is original.",
+    "translationStatus": "source-checked short working translation, independent specialist review outstanding",
+    "usage": "short attributed quotation; full original remains with authority",
+    "accessed": "2026-10-08"
+  },
+  {
+    "id": "spain-six-compartments",
+    "region": "Spain",
+    "language": "es",
+    "sourceId": "es-boe-burgos",
+    "sourceTitle": "Resolución de 28 de septiembre de 1998 ... Sotillo de la Ribera",
+    "locator": "BOE-A-1998-23942, section Primero, published 15 October 1998, p. 34218",
+    "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-1998-23942",
+    "sourceType": "Published administrative decision",
+    "original": "Escudo partido de una línea y cortado de dos, formando seis cuarteles.",
+    "translation": "A shield divided by one vertical line and crossed by two horizontal divisions, forming six compartments.",
+    "vocabulary": [
+      {
+        "term": "partido",
+        "translation": "divided vertically (per pale)"
+      },
+      {
+        "term": "cortado",
+        "translation": "divided horizontally (per fess)"
+      },
+      {
+        "term": "cuarteles",
+        "translation": "heraldic compartments (here, six rather than four)"
+      }
+    ],
+    "analysis": "The original specifies a two-by-three arrangement. Rendering cuarteles as 'quarters' without explanation might convince an English reader that the shield has precisely four sections; here it has six. This is a public-body act, not a generic family armorial. The same document provides tinctures, charges and the royal crown; an exact full rendering would require reading all of section Primero.",
+    "assignment": "Draw a blank two-by-three shield. Using the remainder of the Spanish official text, identify the castle, lion and holm oak compartments, preserving the printed tincture vocabulary. Compare your diagram with a printed contemporary illustration if its provenance can be established.",
+    "rights": "One short quotation from an official government gazette; linked to full source.",
+    "review": "Original text checked against BOE entry; English translation is editorial.",
+    "translationStatus": "source-checked short working translation, independent specialist review outstanding",
+    "usage": "short attributed quotation; full original remains with authority",
+    "accessed": "2026-10-08"
+  },
+  {
+    "id": "italy-constitution",
+    "region": "Italy",
+    "language": "it",
+    "sourceId": "it-acs",
+    "sourceTitle": "Libro d’oro della Nobiltà Italiana",
+    "locator": "Archivio Centrale dello Stato quoting the Italian Constitution, XIV transitional and final provision; archive note dated 19 October 2015",
+    "url": "https://acs.cultura.gov.it/libro-doro-della-nobilta-italiana/",
+    "sourceType": "Official archive quoting constitutional law",
+    "original": "I titoli nobiliari non sono riconosciuti.",
+    "translation": "Titles of nobility are not recognized.",
+    "vocabulary": [
+      {
+        "term": "titoli nobiliari",
+        "translation": "titles of nobility"
+      },
+      {
+        "term": "non sono riconosciuti",
+        "translation": "are not recognized"
+      }
+    ],
+    "analysis": "The sentence addresses noble titles under the Italian constitutional settlement. It does not say that all old documents of armorial rights vanished or that historical coats of arms ceased being objects of study. The same archive preserves the original pre-Republic Libro d'oro and records of the former Consulta araldica. The second sentence of the constitutional passage, concerning some older nobiliary predicates as parts of names, requires separate reading.",
+    "assignment": "Distinguish a record of recognition under the former Kingdom, recognition of noble titles under the post-1948 Constitution, and the historical study of arms. What claim can the Golden Book prove that it cannot legally re-create?",
+    "rights": "Minimal quotation from a constitutional provision via state archive.",
+    "review": "Checked against official Italian archive's transcription; English rendering is editorial.",
+    "translationStatus": "source-checked short working translation, independent specialist review outstanding",
+    "usage": "short attributed quotation; full original remains with authority",
+    "accessed": "2026-10-08"
+  },
+  {
+    "id": "france-three-series",
+    "region": "France",
+    "language": "fr",
+    "sourceId": "fr-bnf-armorial",
+    "sourceTitle": "Ressources généalogiques : Noblesse",
+    "locator": "Bibliothèque nationale de France / Gallica, Armorial général de France guide; paragraph concerning three manuscript series",
+    "url": "https://gallica.bnf.fr/selections/fr/html/histoire/ressources-genealogiques-noblesse",
+    "sourceType": "Official institutional archival description",
+    "original": "Il regroupe 3 séries de manuscrits : 2 séries de textes",
+    "translation": "It brings together three manuscript series: two series of texts.",
+    "vocabulary": [
+      {
+        "term": "regroupe",
+        "translation": "brings together or comprises"
+      },
+      {
+        "term": "séries de manuscrits",
+        "translation": "manuscript series"
+      },
+      {
+        "term": "blasons coloriés",
+        "translation": "painted depictions of coats of arms"
+      }
+    ],
+    "analysis": "The immediately following guide identifies the third series as coloured arms, and provides distinct shelfmark spans for the textual and painted volumes. A modern catalogue result that points to a painted blazon may not itself be the registration text. This is a key distinction for graduate datasets and archival citation: the source describing the collection is not a substitute for the item within that collection.",
+    "assignment": "Read the full French paragraph and record the exact shelfmark spans for the two textual manuscript series and the painted volumes. Decide what combination of witnesses would be required to cite an individual entry responsibly.",
+    "rights": "Short quotation from BnF's archival guide; no reproduction of full collection text.",
+    "review": "French excerpt checked against Gallica institutional guide; editorial translation.",
+    "translationStatus": "source-checked short working translation, independent specialist review outstanding",
+    "usage": "short attributed quotation; full original remains with authority",
+    "accessed": "2026-10-08"
+  },
+  {
+    "id": "japan-search-by-motif",
+    "region": "Japan",
+    "language": "ja",
+    "sourceId": "jp-ndl-kamon",
+    "sourceTitle": "家紋・紋章を調べる（日本）",
+    "locator": "National Diet Library Research Navi, section 2.1 and 2.2; page updated 17 December 2025",
+    "url": "https://ndlsearch.ndl.go.jp/rnavi/humanities/post_1127",
+    "sourceType": "National library's research guide",
+    "original": "文様から探す / 姓氏から探す",
+    "translation": "Search by motif / Search by family name.",
+    "vocabulary": [
+      {
+        "term": "文様",
+        "translation": "pattern or decorative motif"
+      },
+      {
+        "term": "姓氏",
+        "translation": "family or surname"
+      },
+      {
+        "term": "探す",
+        "translation": "to look up or search for"
+      }
+    ],
+    "analysis": "These headings represent two complementary ways of entering a bibliography of family emblems: by what the design looks like and by the family name associated with it. The library explicitly lists separate reference works for the two methods. The two lookup routes are not proof that every holder of a Japanese surname possesses one unique kamon. A terminology-aware index retains Japanese script, transliteration and the distinction between original and normalized names.",
+    "assignment": "Use the NDL's original Japanese sections 2.1 and 2.2 to identify two different reference works, preserving their Japanese titles and catalog call numbers. Explain how the choice of index could introduce different selection and attribution errors.",
+    "rights": "Minimal reproduction of two section headings; consult the original national library guide for bibliographic detail.",
+    "review": "Original two headings checked against Japanese National Diet Library page; the English is an editorial translation.",
+    "translationStatus": "source-checked short working translation, independent specialist review outstanding",
+    "usage": "short attributed quotation; full original remains with authority",
+    "accessed": "2026-10-08"
+  }
+]
