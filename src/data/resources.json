@@ -94,5 +94,21 @@
     "url": "https://www.ihgs.ac.uk/courses-heraldry",
     "description": "Professional distance-learning heraldry instruction and established examination pathways.",
     "type": "Formal study"
+  },
+  {
+    "group": "Scholarly & educational",
+    "title": "Heraldry for Beginners — Hatching and Furs",
+    "jurisdiction": "Historical",
+    "url": "https://www.heraldicdesign.com/docs/heraldry_for_beginners.pdf",
+    "description": "A richly illustrated primer from The Heraldry Society, including the hatching system and basic furs.",
+    "type": "Illustrated primer"
+  },
+  {
+    "group": "Scholarly & educational",
+    "title": "The Herald Painter — Engraving and Colour",
+    "jurisdiction": "Historical",
+    "url": "https://www.theheraldrysociety.com/articles/the-herald-painter/",
+    "description": "An artist's discussion of historical and contemporary techniques for reproducing heraldic arms in monochrome.",
+    "type": "Practitioner essay"
   }
 ]
