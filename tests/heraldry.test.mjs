@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import {readFileSync} from 'node:fs';
+import {readFileSync,readdirSync} from 'node:fs';
 import {fileURLToPath} from 'node:url';
 import {dirname,resolve} from 'node:path';
 import {TINCTURES,DEFAULT_DESIGN,normalizeDesign,armsSVG,blazon,assessDesign} from '../src/lib/heraldry.js';
@@ -110,4 +110,74 @@ test('monochrome SVG preserves armorial identity using traditional hatching patt
   assert.match(shield,/hatch-hatched-specimen-sable/);
   assert.ok(shield.includes('<pattern'));
   assert.match(shield,/aria-label="Gules, on a fess Or/);
+});
+
+test('international source atlas has stable identifiers, institutions, provenance and source-language metadata',()=>{
+  const sources=read('world-sources');
+  assert.ok(sources.length>=22);
+  assert.equal(new Set(sources.map(s=>s.id)).size,sources.length);
+  assert.ok(new Set(sources.map(s=>s.area)).size>=13);
+  assert.ok(new Set(sources.map(s=>s.language)).size>=11);
+  sources.forEach(s=>{
+    assert.ok(s.id.length>=5);
+    assert.ok(s.url.startsWith('https://'));
+    assert.ok(s.titleOriginal.length>5);
+    assert.ok(s.holding.length>6);
+    assert.ok(s.englishSynopsis.length>160);
+    assert.ok(s.reviewStatus.includes('review'));
+    assert.ok(Array.isArray(s.glossary)&&s.glossary.length>=2);
+  });
+});
+
+test('parallel excerpts are source-linked, limited, and clearly editorial translations',()=>{
+  const sources=new Map(read('world-sources').map(s=>[s.id,s]));
+  const readings=read('parallel-readings');
+  assert.ok(readings.length>=7);
+  assert.equal(new Set(readings.map(r=>r.id)).size,readings.length);
+  readings.forEach(r=>{
+    const source=sources.get(r.sourceId);
+    assert.ok(source,r.id+' must cite a source in the atlas');
+    assert.equal(r.language,source.language);
+    assert.equal(r.url,source.url);
+    assert.ok(r.original.length>8&&r.original.length<450);
+    assert.ok(r.translation.length>12);
+    assert.ok(r.analysis.length>170);
+    assert.ok(r.assignment.length>100);
+    assert.ok(r.locator.length>20);
+    assert.ok(r.review.includes('editorial')||r.review.includes('English'));
+  });
+});
+
+test('international chapters include original citations and documented advanced work',()=>{
+  const sources=new Set(read('world-sources').map(s=>s.id));
+  const directory=resolve(dir,'../src/content/traditions');
+  const names=readdirSync(directory).filter(f=>f.endsWith('.md'));
+  assert.ok(names.length>=13);
+  names.forEach(name=>{
+    const prose=readFileSync(resolve(directory,name),'utf8');
+    const ids=prose.match(/^sourceIds:\s*(\[.*\])\s*$/m);
+    assert.ok(ids,'Missing source IDs: '+name);
+    JSON.parse(ids[1]).forEach(id=>assert.ok(sources.has(id),name+' refers to unknown source '+id));
+    assert.ok(prose.split(/\s+/).length>600,name+' requires a substantive research chapter');
+    assert.ok((prose.match(/^## /gm)||[]).length>=4);
+    assert.ok((prose.match(/https:\/\//g)||[]).length>=2);
+    assert.match(prose,/Graduate/);
+  });
+});
+
+test('graduate seminar corpus remains sourced and curriculum-length',()=>{
+  const sources=new Set(read('world-sources').map(s=>s.id));
+  const directory=resolve(dir,'../src/content/seminars');
+  const names=readdirSync(directory).filter(f=>f.endsWith('.md'));
+  assert.ok(names.length>=6);
+  names.forEach(name=>{
+    const prose=readFileSync(resolve(directory,name),'utf8');
+    const ids=prose.match(/^sourceIds:\s*(\[.*\])\s*$/m);
+    assert.ok(ids,'Missing source IDs: '+name);
+    JSON.parse(ids[1]).forEach(id=>assert.ok(sources.has(id),name+' refers to unknown source '+id));
+    assert.ok(prose.split(/\s+/).length>700,name+' requires more depth');
+    assert.ok((prose.match(/^## /gm)||[]).length>=4);
+    assert.ok((prose.match(/https:\/\//g)||[]).length>=2);
+    assert.match(prose,/(Graduate|graduate)/);
+  });
 });
