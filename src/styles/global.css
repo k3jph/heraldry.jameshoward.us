@@ -586,3 +586,12 @@ button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible
 @media(max-width:1060px){.tradition-grid{grid-template-columns:repeat(2,1fr);}.world-article-shell{grid-template-columns:minmax(0,1fr) 245px;gap:30px;}.world-sidebar-box{padding:18px;}}
 @media(max-width:840px){.world-article-shell{grid-template-columns:1fr;}.world-sidebar{position:static;grid-row:1;grid-template-columns:1fr 1fr;}.atlas-tools{grid-template-columns:1fr 1fr;}.atlas-tools label:first-child{grid-column:1/-1;}}
 @media(max-width:650px){.international-intro{grid-template-columns:1fr;}.tradition-grid,.atlas-grid,.world-sidebar{grid-template-columns:1fr;}.atlas-tools{grid-template-columns:1fr;}.atlas-tools label:first-child{grid-column:auto;}.international-cluster{margin:42px 0 55px;}.world-article-shell{padding-top:25px;}.world-article{overflow-x:auto;}.world-article h2{font-size:2.1rem;}.world-article p{font-size:.95rem;}.world-article table{min-width:480px;}.atlas-glossary dl{grid-template-columns:1fr 1fr;}}
+
+/* Linked, accessible entries in the expanded scholarly lexicon. */
+.lexicon-entry { scroll-margin-top: 115px; }
+.lexicon-entry:target { border-color: var(--gold); box-shadow: inset 0 0 0 1px var(--gold), 0 6px 28px rgba(56,25,33,.1); }
+.lexicon-entry-title { display: flex; align-items: flex-start; justify-content: space-between; gap: 10px; }
+.lexicon-entry-title h2 { margin: 0; overflow-wrap: anywhere; }
+.lexicon-permalink { color: var(--muted); font: 700 .85rem var(--sans); text-decoration: underline; text-underline-offset: 3px; flex-shrink: 0; padding: .2rem .4rem; }
+.lexicon-permalink:hover,.lexicon-permalink:focus-visible { color: var(--red); }
+.lexicon-filter-count { opacity: .75; margin-left: .3em; font-variant-numeric: tabular-nums; }

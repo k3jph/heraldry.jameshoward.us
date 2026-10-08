@@ -16,7 +16,7 @@ This document records the project honestly for future collaborators and further 
 | Graduate research | 6 graduate-method seminars | Serious methodology and assignments, but not a full graduate degree or supervised seminar series |
 | Illustrated armorial | 16 original pedagogical designs | Teaching designs, not authenticated historic grants |
 | Atelier | SVG vector design, basic blazon generation, hatching mode, PNG/SVG exports, URL sharing | Does not establish unique arms, legal eligibility or complete grammatical validity |
-| Lexicon | 98 terms | English definitions first; international concordances currently live in the source atlas and monographs |
+| Lexicon | 367 concise entries across 11 categories | International working translations, art, legal and manuscript terminology; specialist review and dated attestations still needed |
 | Citation export | Per-record copy of BibTeX, RIS and CSL JSON; full-bibliography downloads | Original titles and access dates retained; publication dates must not be guessed |
 | Deployment | GitHub Actions tests/checks/build; deploy to GitHub Pages | Until Settings → Pages → GitHub Actions is enabled, build can succeed and deployment can still fail |
 

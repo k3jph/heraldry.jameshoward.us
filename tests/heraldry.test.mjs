@@ -87,9 +87,27 @@ test('the teaching armorial can render its entire collection',()=>{
   });
 });
 
+test('scholarly lexicon retains international and historical coverage',()=>{
+  const entries=read('glossary');
+  assert.ok(entries.length>=350,'The lexicon must remain more than an introductory glossary');
+  const terms=entries.map(entry=>entry.term.normalize('NFKD').toLowerCase());
+  assert.equal(new Set(terms).size,entries.length);
+  for(const entry of entries){
+    assert.ok(entry.term.trim().length>=2);
+    assert.ok(entry.definition.trim().length>=20,entry.term);
+    assert.ok(entry.category.trim().length>=3);
+  }
+  for(const category of ['Geometry','Tinctures','Charges','Language','Practice','Institutions','Comparative','Research']){
+    assert.ok(entries.filter(x=>x.category===category).length>=10,category);
+  }
+  for(const term of ['martlet','merlette','fitchy','Wappenbuch','herbarz','kamon','sigillography','palaeography']){
+    assert.ok(entries.some(x=>x.term.toLowerCase()===term.toLowerCase()),term);
+  }
+});
+
 test('lexicon terms are unique and educationally useful',()=>{
   const glossary=read('glossary');
-  assert.ok(glossary.length>=90);
+  assert.ok(glossary.length>=350);
   assert.equal(new Set(glossary.map(e=>e.term.toLowerCase())).size,glossary.length);
   assert.ok(glossary.every(e=>e.definition.length>25));
 });
