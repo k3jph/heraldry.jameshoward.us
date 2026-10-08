@@ -13,7 +13,7 @@ Built with [Astro](https://astro.build/) and published using **GitHub Pages**.
 - **Tincture laboratory:** View heraldic colours, historical monochrome hatching, and a 49-cell contrast matrix.
 - **Teaching armorial:** 16 original examples, deliberately distinguished from authentic registered grants, each directly editable in the Atelier.
 - **Practice:** A ten-round shield-reading challenge.
-- **Lexicon:** Search 367 heraldic, comparative and archival terms, with accent-insensitive queries, subject filters and permanent links; a browser-only recall deck at `/lexicon/study/`.
+- **Lexicon:** Search 399 heraldic, comparative and archival terms, with accent-insensitive queries, subject and source-linked filters, permanent links, and 166 documentary pointers for 103 terms; a browser-only recall deck at `/lexicon/study/`.
 - **Field guide and resources:** Annotated historical chronology, myths, comparison of jurisdictions, and links to the original heraldic authorities.
 
 ## Editorial commitments

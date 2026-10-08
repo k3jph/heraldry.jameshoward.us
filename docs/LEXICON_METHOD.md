@@ -2,7 +2,7 @@
 
 **Status: expanded first pass; individual specialist verification remains pending.**
 
-The 367-entry lexicon provides original concise explanations for teaching and orientation. It is not yet a critical historical dictionary: entry inclusion does not prove a term was used in a given jurisdiction or century.
+The 399-entry lexicon provides original concise explanations for teaching and orientation. It is not yet a critical historical dictionary: entry inclusion does not prove a term was used in a given jurisdiction or century.
 
 ## Starting reference works
 
@@ -15,7 +15,7 @@ The 367-entry lexicon provides original concise explanations for teaching and or
 - [SCA College of Arms glossary](https://heraldry.sca.org/coagloss.html) — a distinct modern SCA system, **not** universal historical law.
 - Internal [world source atlas](../src/data/world-sources.json) and [comparative chapters](../src/content/traditions/) — source-language vocabulary and working translations.
 
-Entries are independently phrased summaries; the references provide a research trail, **not a claim that all 367 definitions were individually verified or peer reviewed**.
+Entries are independently phrased summaries; the references provide a research trail, **not a claim that all 399 definitions were individually verified or peer reviewed**.
 
 ## Scholarly development backlog
 
@@ -30,3 +30,17 @@ A shared English gloss does not imply that different armorial traditions have id
 ## Learning mode
 
 The browser-only flashcard experience at `/lexicon/study/` uses the same glossary records. The 'review again' stack cycles through missed terms until the learner marks each one understood. There are no accounts, saved scores, external study providers or new analytics calls.
+
+## Documentary examples: first tranche (October 2026)
+
+The new `src/data/lexicon-sources.json` identifies eleven institutional sources, including seven dated Canadian grants or registrations, an English College of Arms grant and guidance, an association statute from Germany, and an archival guide from France. These are source descriptions, not third-party images licensed for republication.
+
+`src/data/lexicon-attestations.json` links **103 of the 399 headwords** to **166 source/document pairs**. Each link has a named institutional document, a human-readable location within it, a declared relationship and an editorial note:
+
+- `recorded-usage`: the expression is used in a published blazon or accompanying recorded field (including inflected or plural forms). A modern registration may reproduce much older arms; **the register date is not the date of invention of the word**.
+- `institutional-explanation`: a competent institution explains the term or a related administrative practice in a guide.
+- `institutional-context`: an institutional record illustrates the *concept* without necessarily using the English dictionary headword.
+
+The links are **documentary pointers**, not endorsements of every part of our glossary definitions, not historical first-use claims, and not a substitute for independent subject review. Future work must add exact manuscript witnesses, quoted original-language fragments under responsible rights limits, historical senses, dating evidence, and citations with per-entry editorial review.
+
+The website exposes these links under their matching headwords and permits a `sources=1` search filter. The remaining 296 definitions remain unsourced introductory explanations; this distinction should stay visible rather than appearing to certify the entire lexicon.

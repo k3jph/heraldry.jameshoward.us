@@ -2,26 +2,54 @@
 import Base from '../layouts/Base.astro';
 import PageIntro from '../components/PageIntro.astro';
 import glossary from '../data/glossary.json';
+import documentarySources from '../data/lexicon-sources.json';
+import attestations from '../data/lexicon-attestations.json';
 const sorted=[...glossary].sort((a,b)=>a.term.localeCompare(b.term));
+const evidenceByTerm=new Map(attestations.map(entry=>[entry.term,entry]));
+const sourceById=new Map(documentarySources.map(source=>[source.id,source]));
+const linkedTerms=attestations.length;
 const names=[...new Set(sorted.map(item=>item.category))].sort((a,b)=>a.localeCompare(b));
 const categories=[{name:'All',count:sorted.length},...names.map(name=>({name,count:sorted.filter(entry=>entry.category===name).length}))];
 const slugFor=(term:string)=>'term-'+term.normalize('NFKD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
 const searchFor=(entry:(typeof glossary)[number])=>[entry.term,entry.category,entry.definition].join(' ').normalize('NFKD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
 ---
 <Base title="Heraldic Lexicon" description="An expanding, searchable scholarly vocabulary of heraldic figures, blazonry, law, manuscripts and comparative terminology.">
-  <PageIntro eyebrow="The reference desk" title="The lexicon." description={glossary.length+" entries across "+names.length+" subjects. From the geometry of a shield to the language of manuscripts and international traditions."}/>
+  <PageIntro eyebrow="The reference desk" title="The lexicon." description={glossary.length+" entries across "+names.length+" subjects, including "+linkedTerms+" with links to documentary examples. From the geometry of a shield to international source records."}/>
   <section class="section">
     <div class="wrap">
       <div class="lexicon-top"><label class="smallcaps" for="lexicon-search">Search by term, definition or subject</label><span class="smallcaps" id="lexicon-count" aria-live="polite">{glossary.length} of {glossary.length} entries</span></div>
       <input id="lexicon-search" class="search-input" type="search" placeholder="Try ‘martlet’, ‘fitchy’, ‘Wappen’, ‘Polish’…" autocomplete="off" aria-label="Search heraldic terminology"/>
       <p class="caption">Tip: press / to search. Accents are optional. Each entry has a permanent link; searches can be bookmarked.</p>
+      <label class="lexicon-sourced-control"><input type="checkbox" id="lexicon-sourced" /> Show only entries with documentary examples <span>({linkedTerms} entries)</span></label>
       <p style="margin:22px 0 0"><a class="btn btn-dark" href="/lexicon/study/">Practice vocabulary flashcards ↗</a></p>
       <div class="lexicon-filter" role="group" aria-label="Filter by category" style="margin-top:22px">{categories.map((item,i)=><button type="button" data-category={item.name} class:list={['chip',i===0&&'active']} aria-pressed={i===0}>{item.name} <span class="lexicon-filter-count">{item.count}</span></button>)}</div>
       <div class="lexicon-grid" id="lexicon-grid">
-        {sorted.map(item=><article class="lexicon-entry" id={slugFor(item.term)} data-search={searchFor(item)} data-kind={item.category}>
-          <span class="smallcaps">{item.category}</span>
-          <div class="lexicon-entry-title"><h2>{item.term}</h2><a class="lexicon-permalink" href={'#'+slugFor(item.term)} aria-label={'Permanent link to '+item.term} title={'Permanent link to '+item.term}>#</a></div><p>{item.definition}</p>
-        </article>)}
+        {sorted.map(item=>{
+          const evidence=evidenceByTerm.get(item.term);
+          const sourceSearch=evidence?.links.map(link=>{
+            const source=sourceById.get(link.sourceId);
+            return [source?.institution,source?.jurisdiction,source?.title].filter(Boolean).join(' ');
+          }).join(' ')||'';
+          const searchable=(searchFor(item)+' '+sourceSearch).normalize('NFKD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
+          return <article class="lexicon-entry" id={slugFor(item.term)} data-search={searchable} data-kind={item.category} data-sourced={evidence?'yes':'no'}>
+            <span class="smallcaps">{item.category}</span>
+            <div class="lexicon-entry-title"><h2>{item.term}</h2><a class="lexicon-permalink" href={'#'+slugFor(item.term)} aria-label={'Permanent link to '+item.term} title={'Permanent link to '+item.term}>#</a></div>
+            <p>{item.definition}</p>
+            {evidence && <div class="lexicon-documentary">
+              <p class="smallcaps">Documentary {evidence.links.length===1?'example':'examples'} · {evidence.links.length}</p>
+              <ul>{evidence.links.map(link=>{
+                const source=sourceById.get(link.sourceId);
+                return source ? <li>
+                  <a href={source.url} target="_blank" rel="noopener noreferrer">{source.title} ↗</a>
+                  <span class="lexicon-source-place">{link.locator}</span>
+                  <span class="lexicon-source-status">{link.relationship==='recorded-usage'?'Term in a published armorial description':'Institutional context or explanation'}</span>
+                </li> : null;
+              })}</ul>
+              {evidence.relatedTerms && evidence.relatedTerms.length>0 && <p class="lexicon-related"><strong>Related:</strong> {evidence.relatedTerms.map(term=><a href={'#'+slugFor(term)}>{term}</a>)}</p>}
+              <p class="lexicon-evidence-note">Source links document a usage or context, not a complete historical definition or independent specialist review.</p>
+            </div>}
+          </article>;
+        })}
         <div class="empty-state" id="lexicon-empty" hidden>No matching terms in this subject. Clear the filter or broaden your search.</div>
       </div>
       <div class="notice-box" style="margin-top:35px"><strong>Words change across borders.</strong><p>These are concise original editorial explanations, not a substitute for the language of a particular grant or statute. Historical terminology can differ significantly among French, German, Polish, Japanese and English contexts. Our comparative entries are working translations, not claims that all systems follow the same law of arms. Consult the <a href="/source-atlas/" style="text-decoration:underline">original-language source atlas</a> and <a href="/resources/" style="text-decoration:underline">official authorities</a>. <a href="https://www.heraldry.ca/content/pp_dictionary.php" target="_blank" rel="noopener noreferrer" style="text-decoration:underline">Canadian heraldic dictionary ↗</a></p></div>
@@ -32,18 +60,20 @@ const searchFor=(entry:(typeof glossary)[number])=>[entry.term,entry.category,en
     const count=document.querySelector<HTMLElement>('#lexicon-count');
     const empty=document.querySelector<HTMLElement>('#lexicon-empty');
     const entries=document.querySelectorAll<HTMLElement>('.lexicon-entry');
+    const sourcedOnly=document.querySelector<HTMLInputElement>('#lexicon-sourced');
     const buttons=document.querySelectorAll<HTMLButtonElement>('[data-category]');
     const total=entries.length;
     const normalize=(value:string)=>value.normalize('NFKD').replace(/[\u0300-\u036f]/g,'').toLocaleLowerCase('en');
     const initial=new URLSearchParams(location.search);
     let category=[...buttons].some(b=>b.dataset.category===initial.get('category'))?(initial.get('category')||'All'):'All';
     if(input)input.value=initial.get('q')||'';
+    if(sourcedOnly)sourcedOnly.checked=initial.get('sources')==='1';
     function render(){
       const typed=(input?.value||'').trim();
       const query=normalize(typed);
       let visible=0;
       entries.forEach(el=>{
-        const match=(category==='All'||el.dataset.kind===category)&&(!query||(el.dataset.search||'').includes(query));
+        const match=(category==='All'||el.dataset.kind===category)&&(!sourcedOnly?.checked||el.dataset.sourced==='yes')&&(!query||(el.dataset.search||'').includes(query));
         el.hidden=!match;if(match)visible++;
       });
       if(count)count.textContent=visible+' of '+total+' entries';
@@ -56,6 +86,7 @@ const searchFor=(entry:(typeof glossary)[number])=>[entry.term,entry.category,en
       const params=new URLSearchParams();
       if(typed)params.set('q',typed);
       if(category!=='All')params.set('category',category);
+      if(sourcedOnly?.checked)params.set('sources','1');
       const qs=params.toString();
       history.replaceState(null,'',location.pathname+(qs?'?'+qs:'')+location.hash);
     }
@@ -63,13 +94,14 @@ const searchFor=(entry:(typeof glossary)[number])=>[entry.term,entry.category,en
       if(!location.hash)return;
       const el=document.getElementById(decodeURIComponent(location.hash.slice(1)));
       if(!el||!el.classList.contains('lexicon-entry'))return;
-      if(el.hidden){category='All';if(input)input.value='';render();}
+      if(el.hidden){category='All';if(input)input.value='';if(sourcedOnly)sourcedOnly.checked=false;render();}
       el.scrollIntoView({block:'start'});
     }
     buttons.forEach(button=>button.addEventListener('click',()=>{
       category=button.dataset.category||'All';render();
     }));
     input?.addEventListener('input',render);
+    sourcedOnly?.addEventListener('change',render);
     document.addEventListener('keydown',event=>{
       const target=event.target as HTMLElement|null;
       if(event.key==='/'&&!event.metaKey&&!event.ctrlKey&&!event.altKey&&!['INPUT','TEXTAREA','SELECT'].includes(target?.tagName||'')){

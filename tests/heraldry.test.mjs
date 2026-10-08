@@ -89,7 +89,7 @@ test('the teaching armorial can render its entire collection',()=>{
 
 test('scholarly lexicon retains international and historical coverage',()=>{
   const entries=read('glossary');
-  assert.ok(entries.length>=350,'The lexicon must remain more than an introductory glossary');
+  assert.ok(entries.length>=399,'The lexicon must remain more than an introductory glossary');
   const terms=entries.map(entry=>entry.term.normalize('NFKD').toLowerCase());
   assert.equal(new Set(terms).size,entries.length);
   for(const entry of entries){
@@ -113,9 +113,51 @@ test('study-card route and sitemap support the expanded lexicon',()=>{
   assert.match(sitemap,/\/lexicon\/study\//);
 });
 
+test('documented lexicon terms link to specific institutional sources with valid locators',()=>{
+  const glossary=read('glossary');
+  const sources=read('lexicon-sources');
+  const attestations=read('lexicon-attestations');
+  const terms=new Set(glossary.map(entry=>entry.term));
+  const sourceIds=new Set(sources.map(source=>source.id));
+  const entryNames=attestations.map(entry=>entry.term);
+  assert.ok(glossary.length>=399);
+  assert.ok(attestations.length>=100);
+  assert.equal(new Set(entryNames).size,entryNames.length);
+  assert.equal(sourceIds.size,sources.length);
+  const allowed=new Set(['recorded-usage','institutional-context','institutional-explanation']);
+  let links=0;
+  for(const source of sources){
+    assert.ok(source.url.startsWith('https://'),source.id);
+    assert.ok(source.title.length>=15 && source.institution.length>=5,source.id);
+    assert.ok(source.rightsNote.length>=25,source.id);
+  }
+  for(const entry of attestations){
+    assert.ok(terms.has(entry.term),entry.term+' missing from glossary');
+    assert.ok(entry.status.includes('pending'),entry.term+' requires review status');
+    assert.ok(entry.links.length>0,entry.term);
+    const seenSources=new Set();
+    for(const link of entry.links){
+      assert.ok(sourceIds.has(link.sourceId),entry.term+' points to missing source '+link.sourceId);
+      assert.ok(!seenSources.has(link.sourceId),entry.term+' repeats '+link.sourceId);
+      seenSources.add(link.sourceId);
+      assert.ok(allowed.has(link.relationship),entry.term);
+      assert.ok(link.locator.length>=15,entry.term+' lacks a locator');
+      assert.ok(link.note.length>=30,entry.term+' lacks an editorial caveat');
+      links++;
+    }
+    for(const related of entry.relatedTerms||[]){
+      assert.ok(terms.has(related),entry.term+' links to undefined term '+related);
+      assert.notEqual(related,entry.term);
+    }
+  }
+  assert.ok(links>=160);
+  const anchors=glossary.map(entry=>'term-'+entry.term.normalize('NFKD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,''));
+  assert.equal(new Set(anchors).size,anchors.length,'Term anchors must survive accent folding without collisions');
+});
+
 test('lexicon terms are unique and educationally useful',()=>{
   const glossary=read('glossary');
-  assert.ok(glossary.length>=350);
+  assert.ok(glossary.length>=399);
   assert.equal(new Set(glossary.map(e=>e.term.toLowerCase())).size,glossary.length);
   assert.ok(glossary.every(e=>e.definition.length>25));
 });

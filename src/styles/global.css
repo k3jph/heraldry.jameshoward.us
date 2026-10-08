@@ -611,3 +611,18 @@ button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible
 .study-actions { display:flex; flex-wrap:wrap; gap:10px; margin-top:18px; }
 .study-actions button:disabled { cursor:not-allowed; opacity:.43; transform:none; }
 @media(max-width:850px) { .study-layout { grid-template-columns:1fr; } .study-instructions { max-width:none; } .study-card { min-height:280px; } }
+
+/* Documentary evidence belongs to specific lexicon entries, not a blanket endorsement. */
+.lexicon-sourced-control { display:inline-flex;align-items:center;gap:10px;margin:4px 0 16px;padding:10px 14px;background:var(--paper-2);border:1px solid var(--line);font-size:.82rem;font-weight:650;cursor:pointer; }
+.lexicon-sourced-control input { accent-color:var(--red);width:18px;height:18px; }
+.lexicon-sourced-control span { color:var(--muted);font-weight:500; }
+.lexicon-documentary { margin-top:21px;padding-top:16px;border-top:1px solid var(--line); }
+.lexicon-documentary > .smallcaps { color:var(--red); }
+.lexicon-documentary ul { list-style:none;padding:0;margin:8px 0 0;display:grid;gap:13px; }
+.lexicon-documentary li { display:grid;gap:3px;font-size:.74rem;line-height:1.42;overflow-wrap:anywhere; }
+.lexicon-documentary li > a { color:var(--red);text-decoration:underline;text-underline-offset:3px;font-weight:700; }
+.lexicon-source-place { color:var(--ink-2); }
+.lexicon-source-status { color:var(--muted);font-style:italic; }
+.lexicon-evidence-note { font-size:.7rem!important;line-height:1.5!important;color:var(--muted)!important;margin-top:14px!important; }
+.lexicon-related { display:flex;gap:6px;flex-wrap:wrap;align-items:center;font-size:.72rem!important; }
+.lexicon-related a { border:1px solid var(--line);padding:3px 7px;background:var(--paper-2);color:var(--red); }
