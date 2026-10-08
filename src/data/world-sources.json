@@ -795,5 +795,83 @@
         "english": "statement or opinion"
       }
     ]
+  },
+  {
+    "id": "ro-national-arms",
+    "area": "Romania",
+    "language": "ro",
+    "holding": "Parlamentul României · Portal Legislativ",
+    "titleOriginal": "Legea nr. 102/1992 privind stema ţării şi sigiliul statului",
+    "titleEnglish": "Law No. 102/1992 on the national coat of arms and state seal",
+    "url": "https://legislatie.just.ro/Public/DetaliiDocument/2381",
+    "kind": "official statute, amended",
+    "authority": "official legislation",
+    "englishSynopsis": "Romania's 1992 law describes the national arms as an eagle bearing a quartered inner shield representing Wallachia, Moldavia, Banat and Oltenia, Transylvania and associated regions, and the Black Sea lands. Article 2 expressly provides for monochrome rendering using classic heraldic hatching: Or dots, Argent blank, Gules vertical, Azure horizontal and Sable crossed lines. Article 10 addresses approval of county, town and communal arms through government procedures and expert advice. A 2016 amendment modified the eagle by reintroducing a crown: the applicable version of the official coat must be dated, and historic regional claims need separate evidence.",
+    "glossary": [
+      {
+        "term": "stemă",
+        "english": "coat of arms"
+      },
+      {
+        "term": "sigiliul statului",
+        "english": "state seal"
+      },
+      {
+        "term": "acvilă",
+        "english": "eagle"
+      },
+      {
+        "term": "scut",
+        "english": "shield"
+      },
+      {
+        "term": "sfertuit",
+        "english": "quartered"
+      },
+      {
+        "term": "semne convenţionale",
+        "english": "conventional graphical signs"
+      }
+    ],
+    "reviewStatus": "original-language legislative source examined; independent specialist review pending",
+    "reproductionPolicy": "Short attributed excerpts and original research summaries only; no third-party imagery reproduced.",
+    "accessed": "2026-10-08"
+  },
+  {
+    "id": "ro-2016-amendment",
+    "area": "Romania",
+    "language": "ro",
+    "holding": "Parlamentul României · Portal Legislativ",
+    "titleOriginal": "Legea nr. 146/2016 pentru modificarea Legii nr. 102/1992 privind stema ţării şi sigiliul statului",
+    "titleEnglish": "Law No. 146/2016 amending the 1992 national arms and seal law",
+    "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/180207",
+    "kind": "amending statute",
+    "authority": "official legislation",
+    "englishSynopsis": "The Romanian Parliament amended the 1992 national arms legislation in July 2016. The reform specified a crowned golden eagle in the principal shield, while establishing a deadline at the end of 2018 for replacing official displays and seals; it allowed older minted coins and banknotes to remain in circulation. This is a carefully dated example showing how an official coat of arms changes through legislation without implying every historic or personal depiction changed simultaneously. Source criticism must distinguish the 1992 enactment, the 2016 amending act, the contemporary consolidated version and later derivative graphic renderings.",
+    "glossary": [
+      {
+        "term": "pentru modificarea",
+        "english": "amending or for amendment of"
+      },
+      {
+        "term": "acvilă încoronată",
+        "english": "crowned eagle"
+      },
+      {
+        "term": "anexă",
+        "english": "annex, including official graphical model"
+      },
+      {
+        "term": "înlocuiască",
+        "english": "replace"
+      },
+      {
+        "term": "sigiliu",
+        "english": "seal"
+      }
+    ],
+    "reviewStatus": "original-language legislative source examined; independent specialist review pending",
+    "reproductionPolicy": "Short attributed excerpts and original research summaries only; no third-party imagery reproduced.",
+    "accessed": "2026-10-08"
   }
 ]
