@@ -1,0 +1,97 @@
+---
+import Base from '../layouts/Base.astro';
+import PageIntro from '../components/PageIntro.astro';
+import Shield from '../components/Shield.astro';
+import showcase from '../data/showcase.json';
+---
+<Base title="Read a Shield — Practice" description="Test your ability to read heraldic blazons through an interactive illustrated ten-round quiz, with feedback and local high scores.">
+  <PageIntro eyebrow="A ten-round heraldic challenge" title="Read the shield." description="You see the arms. You choose the description. Ten rounds, no penalties, and just enough rivalry with yourself to make this educational."/>
+  <section class="section">
+    <div class="wrap">
+      <div class="practice-grid">
+        <div class="practice-show">
+          <div style="display:flex;width:100%;justify-content:space-between;align-items:center;gap:12px"><span class="smallcaps" style="color:var(--gold-light)">Study the shield carefully</span><span class="smallcaps" id="practice-round">Round 1 / 10</span></div>
+          <div class="shield-illustration" id="practice-shield"><Shield design={showcase[0].design} id="practice-initial"/></div>
+          <p style="color:#b6c8c7;font-size:.75rem;text-align:center">All illustrations are original classroom designs. No official bearings are reproduced.</p>
+        </div>
+        <div class="practice-info">
+          <div class="practice-score"><span id="practice-score">Score · 0</span><span id="practice-best">Personal best · —</span></div>
+          <div class="practice-progress"><span id="practice-rail"></span></div>
+          <p class="eyebrow"><span class="star">✦</span> Select the correct blazon</p>
+          <h2 id="practice-heading">Can you read this?</h2>
+          <p class="section-subtitle">Read the field first. Then the ordinary, followed by anything placed upon it.</p>
+          <div id="practice-choices" style="margin:25px 0"></div>
+          <div id="practice-response" class="practice-response" role="status" aria-live="polite">Four possible descriptions. Only one fits the illustration.</div>
+          <button id="practice-next" class="btn btn-dark" type="button" hidden>Next shield ↗</button>
+          <noscript>Enable JavaScript to take the interactive quiz. The Academy lessons remain readable without it.</noscript>
+        </div>
+      </div>
+      <div class="notice-box" style="margin-top:25px"><strong>This is a reading exercise, not an examination in heraldic law.</strong><p>Each question uses an original, simplified shield and its corresponding introductory blazon. Once you are confident, continue to the <a href="/academy/reading-a-blazon/" style="text-decoration:underline">formal language of blazon</a>.</p></div>
+    </div>
+  </section>
+  <script>
+    import showcase from '../data/showcase.json';
+    import {armsSVG,blazon} from '../lib/heraldry.js';
+    const shield=document.querySelector<HTMLElement>('#practice-shield');
+    const choices=document.querySelector<HTMLElement>('#practice-choices');
+    const response=document.querySelector<HTMLElement>('#practice-response');
+    const next=document.querySelector<HTMLButtonElement>('#practice-next');
+    const scoreText=document.querySelector<HTMLElement>('#practice-score');
+    const bestText=document.querySelector<HTMLElement>('#practice-best');
+    const heading=document.querySelector<HTMLElement>('#practice-heading');
+    const roundText=document.querySelector<HTMLElement>('#practice-round');
+    const rail=document.querySelector<HTMLElement>('#practice-rail');
+    const shuffle=<T>(arr:T[]):T[]=>{const a=[...arr];for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}return a;};
+    const BEST='heraldry-practice-best-v1';
+    let order=shuffle(showcase).slice(0,10);
+    let index=0,score=0,answered=false;
+    const getBest=()=>{try{return Number(localStorage.getItem(BEST)||0);}catch{return 0;}};
+    const setBest=(v:number)=>{try{localStorage.setItem(BEST,String(v));}catch{}};
+    const render=()=>{
+      answered=false;
+      const item=order[index];
+      if(shield)shield.innerHTML=armsSVG(item.design,'practice-'+index);
+      if(roundText)roundText.textContent='Round '+(index+1)+' / '+order.length;
+      if(scoreText)scoreText.textContent='Score · '+score;
+      if(bestText)bestText.textContent='Personal best · '+getBest();
+      if(rail)rail.style.width=(index/order.length*100)+'%';
+      if(heading)heading.textContent='Can you read this?';
+      if(response)response.textContent='Choose the blazon that matches the shield.';
+      if(next)next.hidden=true;
+      if(!choices)return;
+      choices.replaceChildren();
+      const wrong=shuffle(showcase.filter(c=>c.slug!==item.slug)).slice(0,3);
+      const options=shuffle([item,...wrong]);
+      options.forEach((candidate,j)=>{
+        const button=document.createElement('button');button.type='button';button.className='practice-choice';button.textContent=String.fromCharCode(65+j)+'. '+blazon(candidate.design);
+        button.addEventListener('click',()=>{
+          if(answered)return;answered=true;
+          const correct=candidate.slug===item.slug;if(correct)score++;
+          choices.querySelectorAll<HTMLButtonElement>('button').forEach(btn=>{
+            btn.disabled=true;
+            if(btn.textContent?.endsWith(blazon(item.design)))btn.classList.add('correct');
+          });
+          if(!correct)button.classList.add('wrong');
+          if(response)response.textContent=(correct?'Correct. ':'Not quite. ')+item.summary+' The correct blazon is: '+blazon(item.design);
+          if(scoreText)scoreText.textContent='Score · '+score;
+          if(next){next.hidden=false;next.textContent=index===order.length-1?'See your result ↗':'Next shield ↗';}
+        });
+        choices.append(button);
+      });
+    };
+    const finish=()=>{
+      if(score>getBest())setBest(score);
+      if(shield)shield.innerHTML='<div style="font:500 6rem var(--serif);text-align:center;color:#e9c791">'+score+'<span style="font-size:2rem"> / 10</span></div>';
+      if(heading)heading.textContent=score>=8?'You read the language.':'The grammar is coming together.';
+      if(roundText)roundText.textContent='Challenge complete';
+      if(scoreText)scoreText.textContent='Final score · '+score;
+      if(bestText)bestText.textContent='Personal best · '+getBest();
+      if(rail)rail.style.width='100%';
+      if(choices)choices.replaceChildren();
+      if(response)response.textContent='Your result is saved in this browser only. Play again or try the Academy lessons to sharpen your eye.';
+      if(next){next.hidden=false;next.textContent='Play another round ↺';}
+    };
+    next?.addEventListener('click',()=>{if(index>=order.length-1){order=shuffle(showcase).slice(0,10);index=0;score=0;render();}else{index++;render();}});
+    render();
+  </script>
+</Base>

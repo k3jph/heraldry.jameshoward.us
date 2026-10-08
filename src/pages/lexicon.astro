@@ -1,0 +1,60 @@
+---
+import Base from '../layouts/Base.astro';
+import PageIntro from '../components/PageIntro.astro';
+import glossary from '../data/glossary.json';
+const sorted=[...glossary].sort((a,b)=>a.term.localeCompare(b.term));
+const categories=['All',...new Set(sorted.map(item=>item.category))];
+---
+<Base title="Heraldic Lexicon" description="A searchable glossary of heraldic terms, from Argent and armiger to torse, tincture, and vair.">
+  <PageIntro eyebrow="The reference desk" title="The lexicon." description="Ninety-six words. One visual language. Heraldic jargon is only frightening until you know what the words actually mean."/>
+  <section class="section">
+    <div class="wrap">
+      <div class="lexicon-top"><label class="smallcaps" for="lexicon-search">Search by term or definition</label><span class="smallcaps" id="lexicon-count" aria-live="polite">{glossary.length} terms</span></div>
+      <input id="lexicon-search" class="search-input" type="search" placeholder="Try ‘martlet’, ‘blazon’, ‘Scottish’…" autocomplete="off" aria-label="Search heraldic terminology"/>
+      <p class="caption">Tip: press / to focus search. You can also bookmark your search result.</p>
+      <div class="lexicon-filter" role="group" aria-label="Filter by category" style="margin-top:22px">{categories.map((category,i)=><button type="button" data-category={category} class:list={['chip',i===0&&'active']} aria-pressed={i===0}>{category}</button>)}</div>
+      <div class="lexicon-grid" id="lexicon-grid">
+        {sorted.map(item=><article class="lexicon-entry" data-term={item.term.toLowerCase()} data-description={item.definition.toLowerCase()} data-kind={item.category}>
+          <span class="smallcaps">{item.category}</span>
+          <h2>{item.term}</h2><p>{item.definition}</p>
+        </article>)}
+        <div class="empty-state" id="lexicon-empty" hidden>No matching terms yet. Try a broader word or return to all categories.</div>
+      </div>
+      <div class="notice-box" style="margin-top:35px"><strong>Words change across borders.</strong><p>Definitions here introduce common English-language heraldic usage. A specialized grant, historical period, or jurisdiction may use narrower or different language. For advanced questions, use the <a href="/resources/" style="text-decoration:underline">official sources</a>.</p></div>
+    </div>
+  </section>
+  <script>
+    const input=document.querySelector<HTMLInputElement>('#lexicon-search');
+    const count=document.querySelector<HTMLElement>('#lexicon-count');
+    const empty=document.querySelector<HTMLElement>('#lexicon-empty');
+    const entries=document.querySelectorAll<HTMLElement>('.lexicon-entry');
+    const buttons=document.querySelectorAll<HTMLButtonElement>('[data-category]');
+    let category='All';
+    const render=()=>{
+      const query=(input?.value||'').trim().toLowerCase();
+      let visible=0;
+      entries.forEach(el=>{
+        const matched=(category==='All'||el.dataset.kind===category)&&(!query||(el.dataset.term||'').includes(query)||(el.dataset.description||'').includes(query));
+        el.hidden=!matched;if(matched)visible++;
+      });
+      if(count)count.textContent=visible+' term'+(visible===1?'':'s');
+      if(empty)empty.hidden=visible!==0;
+      const params=new URLSearchParams(location.search);if(query)params.set('q',query);else params.delete('q');
+      const qs=params.toString();history.replaceState(null,'',location.pathname+(qs?'?'+qs:''));
+    };
+    const initial=new URLSearchParams(location.search).get('q')||'';
+    if(input)input.value=initial;
+    buttons.forEach(b=>b.addEventListener('click',()=>{
+      category=b.dataset.category||'All';
+      buttons.forEach(other=>{other.classList.toggle('active',other===b);other.setAttribute('aria-pressed',String(other===b));});
+      render();
+    }));
+    input?.addEventListener('input',render);
+    document.addEventListener('keydown',event=>{
+      const target=event.target as HTMLElement|null;
+      if(event.key==='/'&&!event.metaKey&&!event.ctrlKey&&!['INPUT','TEXTAREA','SELECT'].includes(target?.tagName||'')){event.preventDefault();input?.focus();}
+      if(event.key==='Escape'&&document.activeElement===input){input.value='';render();input.blur();}
+    });
+    render();
+  </script>
+</Base>

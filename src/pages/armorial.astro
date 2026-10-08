@@ -1,0 +1,43 @@
+---
+import Base from '../layouts/Base.astro';
+import PageIntro from '../components/PageIntro.astro';
+import Shield from '../components/Shield.astro';
+import showcase from '../data/showcase.json';
+import {blazon,normalizeDesign} from '../lib/heraldry.js';
+const categories=['All studies','Ordinary','Charges','Divisions'];
+const linkFor=(d)=>'/atelier/?'+new URLSearchParams(Object.entries(normalizeDesign(d)).map(([k,v])=>[k,String(v)])).toString();
+---
+<Base title="Teaching Armorial" description="Sixteen original pedagogical coats of arms to learn charges, field divisions, ordinaries and heraldic blazon; each example opens in the editable Atelier.">
+  <PageIntro eyebrow="The teaching collection" title="The armorial." description="A cabinet of original shields. Every one illustrates a visual idea, carries a readable blazon, and opens directly in the Atelier so you can take it apart."/>
+  <section class="section">
+    <div class="wrap">
+      <div class="notice-box" style="margin-bottom:37px"><strong>These are teaching designs, not registered arms.</strong><p>Every shield in this collection was composed for the project. The names and illustrations are pedagogical, not identifications of historical bearers, authentic grants, or a searchable registry of armorial ownership.</p></div>
+      <div class="lexicon-top"><div><p class="eyebrow"><span class="star">✦</span> Original illustrated specimens</p><h2 class="small-title">{showcase.length} shields. Infinite interpretations.</h2></div><span class="smallcaps" id="gallery-counter" aria-live="polite">{showcase.length} shown</span></div>
+      <div class="gallery-filter" role="group" aria-label="Filter shield studies">{categories.map((category,i)=><button class:list={['chip',i===0&&'active']} type="button" data-filter={category} aria-pressed={i===0}>{category}</button>)}</div>
+      <div class="gallery-grid">
+        {showcase.map((item,i)=><article class="gallery-card" data-gallery-card data-kind={item.kind}>
+          <div class="gallery-plinth"><Shield design={item.design} id={'armorial-'+item.slug}/></div>
+          <div class="gallery-body">
+            <span class="smallcaps" style="color:var(--red)">STUDY {String(i+1).padStart(3,'0')} · {item.theme}</span>
+            <h2>{item.title}</h2>
+            <p>{item.summary}</p>
+            <div class="gallery-blazon">{blazon(item.design)}</div>
+            <a href={linkFor(item.design)} class="gallery-go">Rebuild this shield in the atelier ↗</a>
+          </div>
+        </article>)}
+      </div>
+      <div class="notice-box" style="margin-top:45px"><strong>Looking for actual historical arms?</strong><p>Start with the registers and institutional sources listed in our <a href="/resources/" style="text-decoration:underline">research directory</a>. A database of teaching examples should never be mistaken for a heraldic authority.</p></div>
+    </div>
+  </section>
+  <script>
+    const buttons=document.querySelectorAll<HTMLButtonElement>('[data-filter]');
+    const cards=document.querySelectorAll<HTMLElement>('[data-gallery-card]');
+    const count=document.querySelector<HTMLElement>('#gallery-counter');
+    buttons.forEach(button=>button.addEventListener('click',()=>{
+      const filter=button.dataset.filter||'All studies';
+      buttons.forEach(b=>{b.setAttribute('aria-pressed',String(b===button));b.classList.toggle('active',b===button);});
+      let visible=0;cards.forEach(c=>{c.hidden=!(filter==='All studies'||c.dataset.kind===filter);if(!c.hidden)visible++;});
+      if(count)count.textContent=visible+' shown';
+    }));
+  </script>
+</Base>
