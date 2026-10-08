@@ -47,6 +47,14 @@ const fieldLabels={field:'Field tincture',ordinaryTincture:'Ordinary tincture',c
           <span class="stage-corner">Vector illustration · SVG</span>
         </div>
         <div class="atelier-output">
+          <div class="control-section" style="padding-top:0;border:0">
+            <span class="form-label">View this shield as</span>
+            <div class="gallery-filter" role="group" aria-label="Artwork rendering mode" style="margin:4px 0 14px">
+              <button type="button" class="chip active" data-render-mode="colour" aria-pressed="true">Painted colour</button>
+              <button type="button" class="chip" data-render-mode="hatching" aria-pressed="false">Engraved hatching</button>
+              <a href="/tinctures/" class="text-link" style="margin-left:auto">How it works ↗</a>
+            </div>
+          </div>
           <p class="eyebrow"><span class="star">✦</span> Your introductory blazon</p>
           <p id="live-blazon" class="blazon-display" aria-live="polite">{blazon(DEFAULT_DESIGN)}</p>
           <div class="atelier-actions">
@@ -71,6 +79,8 @@ const fieldLabels={field:'Field tincture',ordinaryTincture:'Ordinary tincture',c
     const list=document.querySelector<HTMLElement>('#contrast-list');
     const message=document.querySelector<HTMLElement>('#atelier-message');
     let current=normalizeDesign(DEFAULT_DESIGN);
+    let monochrome=new URLSearchParams(location.search).get('hatch')==='1';
+    const renderButtons=document.querySelectorAll<HTMLButtonElement>('[data-render-mode]');
     const readForm=()=>{
       if(!form)return normalizeDesign(DEFAULT_DESIGN);
       const data=new FormData(form);
@@ -83,7 +93,8 @@ const fieldLabels={field:'Field tincture',ordinaryTincture:'Ordinary tincture',c
     };
     const update=()=>{
       current=readForm();
-      if(stage)stage.innerHTML=armsSVG(current,'atelier-live');
+      if(stage)stage.innerHTML=armsSVG(current,'atelier-live',monochrome);
+      renderButtons.forEach(button=>{const chosen=(button.dataset.renderMode==='hatching')===monochrome;button.classList.toggle('active',chosen);button.setAttribute('aria-pressed',String(chosen));});
       if(text)text.textContent=blazon(current);
       const check=assessDesign(current);
       if(status){status.className='status '+check.level;status.textContent=check.level==='good'?'✦ Contrast check: looks promising':'⚑ Contrast: review needed';}
@@ -92,6 +103,7 @@ const fieldLabels={field:'Field tincture',ordinaryTincture:'Ordinary tincture',c
       if(secondary)secondary.hidden=current.division==='none';
       const params=new URLSearchParams();
       Object.entries(current).forEach(([key,value])=>params.set(key,String(value)));
+      if(monochrome)params.set('hatch','1');
       history.replaceState(null,'',location.pathname+'?'+params.toString());
     };
     const choose=(values:Record<string,string|number>)=>{setForm(normalizeDesign(values));update();};
@@ -105,7 +117,8 @@ const fieldLabels={field:'Field tincture',ordinaryTincture:'Ordinary tincture',c
     setForm(fromURL()); update();
     form?.addEventListener('input',update);
     form?.addEventListener('change',update);
-    window.addEventListener('popstate',()=>{setForm(fromURL());update();});
+    window.addEventListener('popstate',()=>{monochrome=new URLSearchParams(location.search).get('hatch')==='1';setForm(fromURL());update();});
+    renderButtons.forEach(button=>button.addEventListener('click',()=>{monochrome=button.dataset.renderMode==='hatching';update();announce(monochrome?'Showing conventional engraving hatchings.':'Showing heraldic tincture colours.');}));
     document.getElementById('random-design')?.addEventListener('click',()=>{
       const pick=(arr:string[])=>arr[Math.floor(Math.random()*arr.length)];
       const field=pick(FIELD_VALUES);const opposite=FIELD_VALUES.filter((x:string)=>TINCTURES[x].kind!==TINCTURES[field].kind);
@@ -126,12 +139,12 @@ const fieldLabels={field:'Field tincture',ordinaryTincture:'Ordinary tincture',c
       catch{announce('Copy the URL in your address bar to share this design.');}
     });
     document.getElementById('download-svg')?.addEventListener('click',()=>{
-      const svg=armsSVG(current,'heraldry-export');
-      saveBlob(new Blob([svg],{type:'image/svg+xml;charset=utf-8'}),'heraldic-study.svg');
+      const svg=armsSVG(current,'heraldry-export',monochrome);
+      saveBlob(new Blob([svg],{type:'image/svg+xml;charset=utf-8'}),monochrome?'heraldic-study-hatching.svg':'heraldic-study.svg');
       announce('SVG export created. This is educational artwork, not a grant.');
     });
     document.getElementById('download-png')?.addEventListener('click',()=>{
-      const svg=armsSVG(current,'heraldry-raster');
+      const svg=armsSVG(current,'heraldry-raster',monochrome);
       const url=URL.createObjectURL(new Blob([svg],{type:'image/svg+xml;charset=utf-8'}));
       const img=new Image();
       img.onload=()=>{
@@ -139,7 +152,7 @@ const fieldLabels={field:'Field tincture',ordinaryTincture:'Ordinary tincture',c
         const ctx=canvas.getContext('2d');if(!ctx){announce('PNG export unavailable in this browser.');URL.revokeObjectURL(url);return;}
         ctx.clearRect(0,0,canvas.width,canvas.height);
         ctx.drawImage(img,0,0,900,1044);
-        canvas.toBlob(blob=>{if(blob){saveBlob(blob,'heraldic-study.png');announce('PNG export created.');}else announce('PNG export unavailable.');URL.revokeObjectURL(url);},'image/png');
+        canvas.toBlob(blob=>{if(blob){saveBlob(blob,monochrome?'heraldic-study-hatching.png':'heraldic-study.png');announce('PNG export created.');}else announce('PNG export unavailable.');URL.revokeObjectURL(url);},'image/png');
       };
       img.onerror=()=>{URL.revokeObjectURL(url);announce('PNG export failed; please use SVG instead.');};
       img.src=url;

@@ -2,9 +2,9 @@
 import Base from '../layouts/Base.astro';
 import PageIntro from '../components/PageIntro.astro';
 import {TINCTURES,FIELD_VALUES,armsSVG,assessDesign,normalizeDesign,blazon} from '../lib/heraldry.js';
-const demonstration=(field,charge='none')=>({field,secondary:'argent',division:'none',ordinary:'none',ordinaryTincture:'argent',charge,chargeTincture:'or',count:1});
+const demonstration=(field:string,charge:string='none')=>({field,secondary:'argent',division:'none',ordinary:'none',ordinaryTincture:'argent',charge,chargeTincture:'or',count:1});
 const fields=['or','argent','gules','azure','sable','vert','purpure'];
-const plural=(key)=>TINCTURES[key].kind==='metal'?'metal':'colour';
+const plural=(key:string)=>TINCTURES[key].kind==='metal'?'metal':'colour';
 const chart=fields.map(key=>({key,...TINCTURES[key]}));
 const start=normalizeDesign({field:'azure',ordinary:'none',charge:'mullet',chargeTincture:'or',count:1});
 const sources=[
