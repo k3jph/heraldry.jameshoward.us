@@ -1,0 +1,17 @@
+{
+  "name": "The Heraldry Project",
+  "short_name": "Heraldry",
+  "description": "Learn the language of arms. Study, experiment, and read heraldry.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5efe3",
+  "theme_color": "#142e38",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any maskable"
+    }
+  ]
+}

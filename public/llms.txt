@@ -1,0 +1,26 @@
+# The Heraldry Project
+
+> An independent, freely accessible school of heraldry by James P. Howard, II, combining a twelve-unit course, interactive heraldry exercises, glossary and pedagogical armorial.
+
+Website: https://heraldry.jameshoward.us/
+Affiliation: https://jameshoward.us/
+Creator: James P. Howard, II
+Official heraldic authority: No. The project is educational and cannot grant or confirm arms.
+
+## Main content
+
+- [Academy](https://heraldry.jameshoward.us/academy/): structured self-paced lessons, quizzes, and exercises.
+- [Atelier](https://heraldry.jameshoward.us/atelier/): SVG shield composer, live blazon, contrast guidance, and downloads.
+- [Armorial](https://heraldry.jameshoward.us/armorial/): original **teaching designs**, not official records or historic grants.
+- [Lexicon](https://heraldry.jameshoward.us/lexicon/): searchable heraldic definitions.
+- [Field guide](https://heraldry.jameshoward.us/field-guide/): anatomy, historical chronology, research myths and jurisdiction.
+- [Practice](https://heraldry.jameshoward.us/practice/): interactive shield-reading exercises.
+- [Resources](https://heraldry.jameshoward.us/resources/): annotated links to primary authorities and scholarly reading.
+
+## Accuracy boundaries
+
+Heraldic law and artistic practice vary by jurisdiction. Tincture conventions are not universal legal rules. A family name alone does not establish a right to arms. Use the official heraldic authorities and their registers for verification. This site does not purport to be an exhaustive legal treatise or a grant of arms.
+
+## Rights
+
+All new drawings presented as teaching examples are original project illustrations. Do not treat third-party imagery or reference text as licensed by the project.
