@@ -225,5 +225,112 @@
     "translationStatus": "source-checked short working translation, independent specialist review outstanding",
     "usage": "short attributed quotation; full original remains with authority",
     "accessed": "2026-10-08"
+  },
+  {
+    "id": "latvia-register",
+    "region": "Latvia",
+    "language": "lv",
+    "sourceId": "lv-heraldry-law",
+    "sourceTitle": "Ģerboņu likums",
+    "locator": "Article 6(1), description of the Ministry of Culture's armorial register, current consolidated wording",
+    "url": "https://likumi.lv/ta/id/123815-gerbonu-likums",
+    "sourceType": "Official legislation",
+    "original": "Kultūras ministrija veido, uztur un papildina Ģerboņu reģistru",
+    "translation": "The Ministry of Culture establishes, maintains and adds to the Register of Coats of Arms.",
+    "vocabulary": [
+      {
+        "term": "Kultūras ministrija",
+        "translation": "Ministry of Culture"
+      },
+      {
+        "term": "veido, uztur un papildina",
+        "translation": "establishes, maintains and supplements"
+      },
+      {
+        "term": "Ģerboņu reģistru",
+        "translation": "Register of Coats of Arms (accusative form)"
+      }
+    ],
+    "analysis": "The grammatical subject is the Ministry of Culture; the verbs express its duties in relation to the official armorial register. This clause describes administration, not the committee's separate artistic assessment or a legal conclusion about a specific claimant. The full article describes registry records, some of which concern sensitive information about private persons. Our teaching database intentionally avoids importing personal identifiers.",
+    "assignment": "Identify the separate roles of Ministry and State Heraldry Commission in Articles 4–6, then explain why the registrar's duty to maintain records should not be interpreted as proof that all historical armorial uses predated registration.",
+    "rights": "Brief educational excerpt; the full Latvian statutory text remains with Likumi.lv.",
+    "review": "Exact Latvian clause checked against the consolidated official text; English editorial rendering pending specialist review.",
+    "translationStatus": "source-checked short working translation, independent specialist review outstanding",
+    "usage": "short attributed quotation; full original remains with authority",
+    "accessed": "2026-10-08"
+  },
+  {
+    "id": "lithuania-standards",
+    "region": "Lithuania",
+    "language": "lt",
+    "sourceId": "lt-heraldry-act",
+    "sourceTitle": "Lietuvos Respublikos valstybės herbo, kitų herbų ir herbinių ženklų įstatymas",
+    "locator": "Article 10(1) of consolidated legislation, including the 2019 ethnographic-region amendment",
+    "url": "https://e-tar.lt/rs/actualedition/TAR.55B9E4E382B3/KccWpcqpst/",
+    "sourceType": "Official legislation",
+    "original": "Apskričių, savivaldybių, etnografinių regionų, miestų, miestelių ir kaimų herbų etalonus Lietuvos heraldikos komisijos teikimu tvirtina Respublikos Prezidentas.",
+    "translation": "The President of the Republic approves the official standards for the coats of arms of counties, municipalities, ethnographic regions, cities, towns and villages on the proposal of the Lithuanian Heraldry Commission.",
+    "vocabulary": [
+      {
+        "term": "herbų etalonus",
+        "translation": "official standards or exemplars of coats of arms (accusative plural)"
+      },
+      {
+        "term": "teikimu",
+        "translation": "on the proposal of"
+      },
+      {
+        "term": "tvirtina",
+        "translation": "approves or confirms"
+      },
+      {
+        "term": "Respublikos Prezidentas",
+        "translation": "President of the Republic"
+      }
+    ],
+    "analysis": "The operative legal act here is presidential approval of armorial standards following a heraldic commission's proposal, not a generic granting of personal heraldry. The phrase etnografinių regionų was incorporated by amendment; the exact consolidated version matters. In a research database, an approved visual standard should be distinguished from an earlier historical depiction with similar symbols.",
+    "assignment": "Make a parallel Lithuanian–English flowchart identifying which body proposes and which approves the official standards. Explain why translating etalonas as an ordinary drawing would miss the administrative force of the sentence.",
+    "rights": "Short passage of official legal text; linked to Lithuanian legislative database.",
+    "review": "Short excerpt cross-checked against Lithuanian legal source; editorial translation requires native specialist review.",
+    "translationStatus": "source-checked short working translation, independent specialist review outstanding",
+    "usage": "short attributed quotation; full original remains with authority",
+    "accessed": "2026-10-08"
+  },
+  {
+    "id": "finland-council",
+    "region": "Finland",
+    "language": "fi",
+    "sourceId": "fi-kuntalaki",
+    "sourceTitle": "Kuntalaki (410/2015), 5 § Kunnanvaakuna",
+    "locator": "2015 Municipalities Act, Section 5, first and second sentences",
+    "url": "https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2015/410",
+    "sourceType": "Official legislation",
+    "original": "Kunnalla voi olla valtuuston hyväksymä kunnanvaakuna. Ennen vaakunan hyväksymistä kunnan on hankittava Kansallisarkiston lausunto.",
+    "translation": "A municipality may have a coat of arms approved by its council. Before approving the arms, the municipality must obtain an opinion from the National Archives.",
+    "vocabulary": [
+      {
+        "term": "kunnanvaakuna",
+        "translation": "municipal coat of arms"
+      },
+      {
+        "term": "valtuuston hyväksymä",
+        "translation": "approved by the municipal council"
+      },
+      {
+        "term": "on hankittava",
+        "translation": "must obtain"
+      },
+      {
+        "term": "Kansallisarkiston lausunto",
+        "translation": "an opinion from the National Archives (genitive form)"
+      }
+    ],
+    "analysis": "The source separates three functions: the municipal council approves its arms, the National Archives gives an expert opinion that must be sought beforehand, and the municipal administration separately oversees use. Simply calling this the Finnish version of an English heraldic grant loses the statutory structure. The 1995 Municipalities Act carried a similar rule in Section 6; date the law you quote.",
+    "assignment": "Write a one-paragraph comparison of the 2015 Section 5 and the 1995 Section 6 provisions in the original Finnish, noting the approving body and the archive's role. Why is the distinction between an opinion and a legal approval important?",
+    "rights": "Short attributed quotation from Finnish legislation; consult full statute on Finlex.",
+    "review": "Finnish excerpt checked against Finlex; English original editorial translation, awaiting specialist review.",
+    "translationStatus": "source-checked short working translation, independent specialist review outstanding",
+    "usage": "short attributed quotation; full original remains with authority",
+    "accessed": "2026-10-08"
   }
 ]
