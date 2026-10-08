@@ -45,6 +45,11 @@
     "definition": "A stylized ship's anchor used as a heraldic charge."
   },
   {
+    "term": "annulus",
+    "category": "Charges",
+    "definition": "A ring-shaped heraldic figure; distinguish its use as an inscribed ring from the smaller annulet."
+  },
+  {
     "term": "anvil",
     "category": "Charges",
     "definition": "A metalworking implement shown as a charge in craft and personal arms."
@@ -185,6 +190,11 @@
     "definition": "Two narrow parallel horizontal bars treated together as a heraldic figure."
   },
   {
+    "term": "bar serpentine",
+    "category": "Geometry",
+    "definition": "A narrow horizontal band following a serpentine or sinuously curved course, as specified in the blazon."
+  },
+  {
     "term": "barbed",
     "category": "Language",
     "definition": "Having arrow points or the outer green parts of a rose specifically represented."
@@ -265,6 +275,11 @@
     "definition": "French expression for the wording or process of formally describing arms."
   },
   {
+    "term": "blasons coloriés",
+    "category": "Comparative",
+    "definition": "French archival expression for painted or coloured armorial representations; the phrase can designate a manuscript series rather than grants."
+  },
+  {
     "term": "blazon",
     "category": "Language",
     "definition": "A formal verbal description of arms, written according to heraldic conventions."
@@ -308,6 +323,11 @@
     "term": "burgher arms",
     "category": "Institutions",
     "definition": "Heraldic arms of non-noble townspeople or families, especially in central Europe."
+  },
+  {
+    "term": "burgher coat of arms",
+    "category": "Comparative",
+    "definition": "Arms borne by a non-noble family in a German-speaking context; not necessarily the official arms of a municipality."
   },
   {
     "term": "caboshed",
@@ -475,6 +495,11 @@
     "definition": "Joined or touching, with the nature of the connection dependent on context."
   },
   {
+    "term": "contourné",
+    "category": "Language",
+    "definition": "Turned toward sinister, especially of an animal ordinarily depicted facing dexter; French-derived usage also occurs in Canadian blazons."
+  },
+  {
     "term": "contourny",
     "category": "Language",
     "definition": "Facing sinister instead of the direction conventionally expected."
@@ -598,6 +623,11 @@
     "term": "dancetty",
     "category": "Geometry",
     "definition": "A zigzag edge with comparatively large triangular teeth, as opposed to fine indented work."
+  },
+  {
+    "term": "demi-boar",
+    "category": "Charges",
+    "definition": "The upper or front half of a wild boar, used as a charge or crest element."
   },
   {
     "term": "demi-lion",
@@ -775,6 +805,11 @@
     "definition": "A horizontal ordinary across the centre of a shield."
   },
   {
+    "term": "fesswise",
+    "category": "Language",
+    "definition": "Set in the horizontal direction of a fess, as opposed to upright or diagonally arranged."
+  },
+  {
     "term": "fetterlock",
     "category": "Charges",
     "definition": "A stylized fastening or shackle, especially familiar as an English badge."
@@ -808,6 +843,16 @@
     "term": "fleur-de-lis",
     "category": "Charges",
     "definition": "A stylized floral charge associated with several European heraldic traditions."
+  },
+  {
+    "term": "fleur-de-lys",
+    "category": "Charges",
+    "definition": "A conventional variant spelling of fleur-de-lis, denoting the same stylized floral charge."
+  },
+  {
+    "term": "flory-counter-flory",
+    "category": "Language",
+    "definition": "Alternately decorated with fleur-de-lis motifs on the two sides of a figure, notably a Scottish double tressure."
   },
   {
     "term": "folio",
@@ -845,6 +890,11 @@
     "definition": "Divided into a repeating pattern of elongated diamond-shaped pieces."
   },
   {
+    "term": "galley",
+    "category": "Charges",
+    "definition": "A ship or boat with oars or sails shown as a heraldic charge; details vary by artistic and regional convention."
+  },
+  {
     "term": "garb",
     "category": "Charges",
     "definition": "A bound sheaf of grain, often wheat."
@@ -855,9 +905,19 @@
     "definition": "The senior English King of Arms at the College of Arms."
   },
   {
+    "term": "gauntleted",
+    "category": "Language",
+    "definition": "Shown wearing an armoured glove or gauntlet, commonly describing a heraldic arm."
+  },
+  {
     "term": "gonfanon",
     "category": "Anatomy",
     "definition": "A banner with hanging tails, sometimes used as a charge."
+  },
+  {
+    "term": "gorged",
+    "category": "Language",
+    "definition": "Of an animal, wearing a collar or other device encircling the neck."
   },
   {
     "term": "grant of arms",
@@ -985,6 +1045,11 @@
     "definition": "Separate charges arranged diagonally along the line of a bend."
   },
   {
+    "term": "in chief",
+    "category": "Geometry",
+    "definition": "In the upper region of the shield rather than on a chief ordinary, unless the wording explicitly says otherwise."
+  },
+  {
     "term": "in fess",
     "category": "Geometry",
     "definition": "Separate charges arranged horizontally across the field."
@@ -1110,6 +1175,11 @@
     "definition": "Divided into a repeating pattern of diamond-shaped areas of alternating tinctures."
   },
   {
+    "term": "lucy",
+    "category": "Charges",
+    "definition": "A pike fish shown as a heraldic charge, sometimes used as a visual pun on the name Lucy."
+  },
+  {
     "term": "lymphad",
     "category": "Charges",
     "definition": "A conventionalized ship, especially familiar in Scottish and island arms."
@@ -1125,6 +1195,11 @@
     "definition": "An individual surviving source attesting a text or design."
   },
   {
+    "term": "maple leaf",
+    "category": "Charges",
+    "definition": "The leaf of a maple tree, frequently used in Canadian heraldry and civic symbolism."
+  },
+  {
     "term": "marshalling",
     "category": "Practice",
     "definition": "Rules and methods for combining two or more coats of arms in a display."
@@ -1138,6 +1213,11 @@
     "term": "mascle",
     "category": "Geometry",
     "definition": "A lozenge-shaped figure with a similarly shaped opening in its centre."
+  },
+  {
+    "term": "masoned",
+    "category": "Language",
+    "definition": "Marked with visible joints between stones or bricks, especially on walls, towers and crowns."
   },
   {
     "term": "material provenance",
@@ -1193,6 +1273,11 @@
     "term": "mullet",
     "category": "Charges",
     "definition": "A star-shaped heraldic charge, often five-pointed in English usage."
+  },
+  {
+    "term": "mural crown",
+    "category": "Anatomy",
+    "definition": "A crown formed with masonry and battlements, frequently associated with civic or corporate heraldry."
   },
   {
     "term": "naiant",
@@ -1255,6 +1340,11 @@
     "definition": "A vertical ordinary running from the top toward the base of a shield."
   },
   {
+    "term": "palewise",
+    "category": "Language",
+    "definition": "Oriented vertically in the manner of a pale rather than horizontally or diagonally."
+  },
+  {
     "term": "pall",
     "category": "Geometry",
     "definition": "A Y-shaped ordinary formed by three bands meeting at one point, found in some civic and personal arms."
@@ -1293,6 +1383,11 @@
     "term": "pean",
     "category": "Tinctures",
     "definition": "A fur with gold ermine spots on a black field."
+  },
+  {
+    "term": "pegasus",
+    "category": "Charges",
+    "definition": "A winged horse of classical mythology, found as a heraldic charge, crest or supporter."
   },
   {
     "term": "pellet",
@@ -1355,6 +1450,11 @@
     "definition": "A wedge-shaped heraldic figure, usually pointing down from the chief."
   },
   {
+    "term": "plate",
+    "category": "Charges",
+    "definition": "A silver or white roundel in conventional English heraldic terminology."
+  },
+  {
     "term": "portcullis",
     "category": "Charges",
     "definition": "A lattice gate with chains used as a heraldic device."
@@ -1388,6 +1488,11 @@
     "term": "pursuivant",
     "category": "Institutions",
     "definition": "A junior heraldic officer, below a herald in several traditional hierarchies."
+  },
+  {
+    "term": "quadrate",
+    "category": "Language",
+    "definition": "Of a cross, having a square enlargement or other square central portion, as specified in a blazon."
   },
   {
     "term": "quarter",
@@ -1433,6 +1538,11 @@
     "term": "registration of arms",
     "category": "Practice",
     "definition": "Recording arms in a register, not always a legal act of granting arms."
+  },
+  {
+    "term": "registration of historic arms",
+    "category": "Practice",
+    "definition": "Administrative entry of pre-existing arms, distinct from creating the design by a new grant."
   },
   {
     "term": "rematriculation",
@@ -1540,6 +1650,16 @@
     "definition": "Strewn with repeated small charges over a field."
   },
   {
+    "term": "serpentine",
+    "category": "Language",
+    "definition": "Following a sinuous or winding outline, used for a partition or ordinary and not necessarily identical to a conventional wavy line."
+  },
+  {
+    "term": "shamrock",
+    "category": "Charges",
+    "definition": "A three-leaved clover or trefoil associated especially with Ireland, used as a heraldic charge."
+  },
+  {
     "term": "sigillography",
     "category": "History",
     "definition": "The scholarly study of seals, their inscriptions, images, production and use."
@@ -1570,6 +1690,11 @@
     "definition": "Recording precisely which evidence supports each historical claim."
   },
   {
+    "term": "sprig",
+    "category": "Charges",
+    "definition": "A small branch or spray bearing leaves, flowers or fruit of a stated kind."
+  },
+  {
     "term": "Stadtwappen",
     "category": "Comparative",
     "definition": "German word for a town's or city's arms."
@@ -1578,6 +1703,11 @@
     "term": "stag",
     "category": "Charges",
     "definition": "A male deer with antlers used as a heraldic animal."
+  },
+  {
+    "term": "stag's head",
+    "category": "Charges",
+    "definition": "The head of a male deer, sometimes depicted caboshed, couped or erased."
   },
   {
     "term": "stain",
@@ -1635,6 +1765,16 @@
     "definition": "An armorial garment worn by a herald to signify the sovereign or office represented."
   },
   {
+    "term": "tankard",
+    "category": "Charges",
+    "definition": "A handled drinking vessel shown as a heraldic charge, sometimes employed in canting arms."
+  },
+  {
+    "term": "tau cross",
+    "category": "Charges",
+    "definition": "A cross in the shape of the capital letter T, sometimes associated with Saint Anthony."
+  },
+  {
     "term": "tenné",
     "category": "Tinctures",
     "definition": "An uncommon orange-brown stain or tincture whose depiction differs among authorities."
@@ -1643,6 +1783,11 @@
     "term": "thistle",
     "category": "Charges",
     "definition": "A prickly flowering plant associated with Scottish symbolism."
+  },
+  {
+    "term": "tierced",
+    "category": "Geometry",
+    "definition": "Divided into three portions, with the direction or geometry specified by the blazon."
   },
   {
     "term": "tincture",
@@ -1705,6 +1850,11 @@
     "definition": "A variation of vair arranged with the recurring shapes in vertical columns."
   },
   {
+    "term": "vambraced",
+    "category": "Language",
+    "definition": "Of a human arm, wearing armour for the forearm, especially a vambrace."
+  },
+  {
     "term": "vapen",
     "category": "Comparative",
     "definition": "Swedish word for heraldic arms, depending on context."
@@ -1755,6 +1905,11 @@
     "definition": "Shown wounded, usually with visible blood."
   },
   {
+    "term": "wapenbeschrijving",
+    "category": "Comparative",
+    "definition": "Dutch term for a description of heraldic arms; an individual document's legal effect must be assessed separately."
+  },
+  {
     "term": "Wappen",
     "category": "Comparative",
     "definition": "German word for coat of arms, applicable to several types of armiger."
@@ -1763,6 +1918,11 @@
     "term": "Wappenannahme",
     "category": "Comparative",
     "definition": "German for the assumption or adoption of arms, not necessarily a grant."
+  },
+  {
+    "term": "Wappenbeschreibung",
+    "category": "Comparative",
+    "definition": "German for the formal written description of a coat of arms, often supplied with a registration."
   },
   {
     "term": "Wappenbrief",
