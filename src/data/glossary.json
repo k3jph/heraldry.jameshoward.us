@@ -478,5 +478,15 @@
     "term": "letters patent",
     "category": "Institutions",
     "definition": "An official instrument used by certain heraldic authorities to document a grant of arms."
+  },
+  {
+    "term": "hatching",
+    "category": "Tinctures",
+    "definition": "A scheme of dots and lines by which engravers represent heraldic tinctures without using coloured pigment; the Petra Sancta system became widely influential."
+  },
+  {
+    "term": "Petra Sancta system",
+    "category": "Tinctures",
+    "definition": "A historically influential scheme for representing heraldic tinctures with engraved patterns, popularized in the seventeenth century."
   }
 ]
