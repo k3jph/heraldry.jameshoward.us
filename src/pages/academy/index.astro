@@ -12,7 +12,7 @@ const schema={'@context':'https://schema.org','@type':'Course',name:'An introduc
     <div class="wrap">
       <div class="notice-box" style="margin-bottom:38px"><strong>Your progress belongs to you.</strong><p><span data-completion-count>0</span> of 12 units assessed successfully. We store progress only in this browser; there are no accounts, tracking cookies or issued academic credits.</p><div class="progress-rail"><span class="progress-fill" data-course-progress></span></div></div>
       <div class="rule-heading"><div><p class="eyebrow"><span class="star">✦</span> Core curriculum</p><h2 class="section-title">Read. Understand.<br/>Demonstrate.</h2></div><p>Roughly {hours} hours of primary reading, plus your own time on the drawing and research exercises. You set the pace.</p></div>
-      <div class="module-grid">
+      <div style="margin-bottom:26px"><a class="btn btn-dark" href="/lecture/the-visual-language/">Start with guided lecture 01 ↗</a><span class="caption" style="display:inline-block;margin-left:15px;margin-top:10px">Read along, use arrow keys to move through chapters, or enable narration.</span></div><div class="module-grid">
         {lessons.map(lesson => <a class="card module-card" href={'/academy/'+lesson.slug+'/'} data-lesson-id={lesson.slug}><div class="module-top"><span class="module-number">{String(lesson.number).padStart(2,'0')}</span><span class="module-duration">{lesson.minutes} min reading <span class="progress-dot" title="Assessment status"></span></span></div><h3>{lesson.title}</h3><p>{lesson.description}</p><div class="module-foot"><span>{lesson.eyebrow}</span><span>Study ↗</span></div></a>)}
       </div>
     </div>
