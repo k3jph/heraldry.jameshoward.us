@@ -5,6 +5,7 @@ import {fileURLToPath} from 'node:url';
 import {dirname,resolve} from 'node:path';
 import {TINCTURES,DEFAULT_DESIGN,normalizeDesign,armsSVG,blazon,assessDesign} from '../src/lib/heraldry.js';
 import {parseBlazon} from '../src/lib/blazon-parser.js';
+import {makeBibtex,makeRIS,makeCSL,citationKey} from '../src/lib/bibliography.js';
 const dir=dirname(fileURLToPath(import.meta.url));
 const read=(name)=>JSON.parse(readFileSync(resolve(dir,'../src/data/'+name+'.json'),'utf8'));
 
@@ -180,4 +181,31 @@ test('graduate seminar corpus remains sourced and curriculum-length',()=>{
     assert.ok((prose.match(/https:\/\//g)||[]).length>=2);
     assert.match(prose,/(Graduate|graduate)/);
   });
+});
+
+test('every original-language source exports a usable individual citation',()=>{
+  const sources=read('world-sources');
+  sources.forEach(source=>{
+    const bib=makeBibtex(source);
+    const ris=makeRIS(source);
+    const csl=makeCSL(source);
+    assert.ok(bib.startsWith('@misc{'+citationKey(source)+','));
+    assert.ok(bib.includes(source.url));
+    assert.ok(bib.includes('Accessed '+source.accessed));
+    assert.ok(ris.startsWith('TY  - ELEC'));
+    assert.ok(ris.includes('UR  - '+source.url));
+    assert.ok(ris.endsWith('ER  - '));
+    assert.equal(csl.id,citationKey(source));
+    assert.equal(csl.URL,source.url);
+    assert.equal(csl.language,source.language);
+    assert.ok(csl.accessed['date-parts'][0][0]>=2026);
+    assert.equal(csl.issued,undefined,'Do not invent publication dates for archival sources.');
+  });
+});
+
+test('the full bibliography links to a unique stable identifier for each source',()=>{
+  const sources=read('world-sources');
+  const bib=source=>makeBibtex(source);
+  assert.equal(new Set(sources.map(citationKey)).size,sources.length);
+  assert.ok(sources.every(s=>bib(s).includes('howpublished = {\\url{')));
 });
