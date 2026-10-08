@@ -1,0 +1,688 @@
+[
+  {
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied.",
+    "accessed": "2026-10-08",
+    "id": "fr-bnf-armorial",
+    "area": "France",
+    "language": "fr",
+    "holding": "Bibliothèque nationale de France · Gallica",
+    "titleOriginal": "Ressources généalogiques : Noblesse",
+    "titleEnglish": "Genealogical resources: nobility",
+    "url": "https://gallica.bnf.fr/selections/fr/html/histoire/ressources-genealogiques-noblesse",
+    "kind": "archival collection guide",
+    "authority": "official archive",
+    "englishSynopsis": "The BnF guide identifies Charles d'Hozier's Armorial général as the product of the royal edict of 1696 and describes its provincial manuscript arrangement. Its account gives a scale of more than 115,000 family armorial entries plus roughly 3,000 cities and communities, across textual and painted series. This is evidence of an administrative registration enterprise, not proof that every entry records noble status or that the registry magically created an Anglo-style hereditary right. Distinguish what a manuscript records from the circumstances under which it was collected.",
+    "glossary": [
+      {
+        "term": "armorial général",
+        "english": "general armorial"
+      },
+      {
+        "term": "blasons coloriés",
+        "english": "coloured blazons"
+      },
+      {
+        "term": "cabinet des titres",
+        "english": "collection of nobiliary titles"
+      }
+    ]
+  },
+  {
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied.",
+    "accessed": "2026-10-08",
+    "id": "fr-bnf-catalogue",
+    "area": "France",
+    "language": "fr",
+    "holding": "Bibliothèque nationale de France",
+    "titleOriginal": "Armorial général [de France] : Table des blasons coloriés",
+    "titleEnglish": "General Armorial of France: index of coloured blazons",
+    "url": "https://catalogue.bnf.fr/ark:/12148/cb392988468",
+    "kind": "library catalogue",
+    "authority": "official archive",
+    "englishSynopsis": "The BnF catalogue identifies the index for the painted registers assembled in association with the 1696 Armorial général. For graduate research, do not cite the later facsimile catalogue as though it were the dated original registration. Track the manuscript series, its shelfmark, relevant name, and separate textual and pictorial witnesses. This guide is a finding aid, not an answer to entitlement questions.",
+    "glossary": [
+      {
+        "term": "table",
+        "english": "index"
+      },
+      {
+        "term": "blasons coloriés",
+        "english": "painted coats of arms"
+      },
+      {
+        "term": "reproduction en fac-similé",
+        "english": "facsimile edition"
+      }
+    ]
+  },
+  {
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied.",
+    "accessed": "2026-10-08",
+    "id": "de-dwr",
+    "area": "German-speaking Europe",
+    "language": "de",
+    "holding": "HEROLD · Verein für Heraldik, Genealogie und verwandte Wissenschaften",
+    "titleOriginal": "Die Deutsche Wappenrolle (DWR)",
+    "titleEnglish": "The German Register of Coats of Arms",
+    "url": "https://herold-verein.de/heraldik/die-deutsche-wappenrolle-dwr/",
+    "kind": "association registration statute and guide",
+    "authority": "scholarly association",
+    "englishSynopsis": "HEROLD maintains the Deutsche Wappenrolle, a voluntary register that accepts older and newly adopted civil or noble arms after heraldic, genealogical and legal review. The association explicitly describes a committee and the criteria and procedures governing entries. Registering there should never be represented as the same act as a grant by the English sovereign or a Scottish matriculation. A graduate inquiry would compare the registration certificate, its published record, the association's rules, and any underlying private-law claims separately.",
+    "glossary": [
+      {
+        "term": "Wappenrolle",
+        "english": "register of coats of arms"
+      },
+      {
+        "term": "Wappen",
+        "english": "coat of arms"
+      },
+      {
+        "term": "bürgerliche Wappen",
+        "english": "non-noble or civic-family arms"
+      },
+      {
+        "term": "Geschlecht",
+        "english": "lineage/family"
+      }
+    ]
+  },
+  {
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied.",
+    "accessed": "2026-10-08",
+    "id": "de-berliner",
+    "area": "German-speaking Europe",
+    "language": "de",
+    "holding": "HEROLD",
+    "titleOriginal": "Downloadbereich · Berliner Erklärung über heraldische Gestaltungsgrundsätze",
+    "titleEnglish": "Download area: Berlin statement on heraldic design principles",
+    "url": "https://herold-verein.de/der-verein/downloadbereich/",
+    "kind": "professional design guidance index",
+    "authority": "scholarly association",
+    "englishSynopsis": "HEROLD provides links to the Berlin declaration on heraldic design principles and explanatory materials for applicants. Treat these materials as evidence of contemporary professional standards, not as a law applying throughout Germany or every German-speaking community. Follow the linked edition before citing individual clauses; our linked catalogue entry is a portal to primary downloadable documents, not a substitute for them.",
+    "glossary": [
+      {
+        "term": "Gestaltungsgrundsätze",
+        "english": "principles of design"
+      },
+      {
+        "term": "Wappenannahme",
+        "english": "adoption of arms"
+      },
+      {
+        "term": "Satzung",
+        "english": "statute"
+      }
+    ]
+  },
+  {
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied.",
+    "accessed": "2026-10-08",
+    "id": "nl-hra-adellijk",
+    "area": "Netherlands",
+    "language": "nl",
+    "holding": "Hoge Raad van Adel",
+    "titleOriginal": "Adellijke heraldiek",
+    "titleEnglish": "Noble heraldry",
+    "url": "https://www.hogeraadvanadel.nl/heraldiek/adellijke-wapens",
+    "kind": "official institutional guidance",
+    "authority": "government advisory body",
+    "englishSynopsis": "The Hoge Raad van Adel distinguishes recognized noble arms officially entered in Dutch registers from the many non-noble family arms used in the Netherlands. It links the rights of acknowledged nobility to historical royal decisions, identifies the noble armorial register, and points to a separate register of filiation. This offers a model of documentary administration different from both the English college and German voluntary registration. One should not infer from official recognition of noble arms that every Dutch family arm must be granted by the state.",
+    "glossary": [
+      {
+        "term": "adellijke wapens",
+        "english": "noble coats of arms"
+      },
+      {
+        "term": "wapenregister",
+        "english": "armorial register"
+      },
+      {
+        "term": "filiatieregister",
+        "english": "register of genealogical descent"
+      }
+    ]
+  },
+  {
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied.",
+    "accessed": "2026-10-08",
+    "id": "nl-hra-gemeente",
+    "area": "Netherlands",
+    "language": "nl",
+    "holding": "Hoge Raad van Adel",
+    "titleOriginal": "Procedure voor wapenverleningen",
+    "titleEnglish": "Procedure for granting coats of arms",
+    "url": "https://www.hogeraadvanadel.nl/heraldiek/overheidswapens/procedure",
+    "kind": "official civic grants procedure",
+    "authority": "government advisory body",
+    "englishSynopsis": "This Dutch-language procedural explanation concerns arms of public bodies, including newly formed municipalities. The Council advises on the heraldic design; the royal decision is a separate legal act; the certificate records the image, blazon, date and order. That division of functions matters. It is wrong to treat Dutch municipal grants as synonymous with the register of private non-noble family arms. Follow the official procedure step by step and distinguish a draft design, an expert recommendation and a completed grant.",
+    "glossary": [
+      {
+        "term": "gemeentewapen",
+        "english": "municipal coat of arms"
+      },
+      {
+        "term": "koninklijk besluit",
+        "english": "royal decree"
+      },
+      {
+        "term": "wapendiploma",
+        "english": "armorial diploma"
+      },
+      {
+        "term": "blazoenering",
+        "english": "formal heraldic description"
+      }
+    ]
+  },
+  {
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied.",
+    "accessed": "2026-10-08",
+    "id": "be-vl-decree",
+    "area": "Flanders (Belgium)",
+    "language": "nl",
+    "holding": "Vlaamse overheid · Vlaamse Codex",
+    "titleOriginal": "Decreet houdende vaststelling van het wapen van privé-personen en instellingen",
+    "titleEnglish": "Decree establishing coats of arms for private persons and institutions",
+    "url": "https://codex.vlaanderen.be/Portals/Codex/documenten/1006070.html",
+    "kind": "legislation",
+    "authority": "official legislation",
+    "englishSynopsis": "Flanders' 1998 decree establishes a regime for recognizing older arms and granting new arms to private persons and eligible institutions. An older coat must satisfy documented prior-use and descent criteria under the statute; a new grant defines both the design and those entitled to use it, with inheritance details that may include the female line. Thus the blanket assertion that all continental personal heraldry is unregulated is no more defensible than claiming English practice is universal. Read the current consolidated law and check amendment dates before making a legal claim.",
+    "glossary": [
+      {
+        "term": "oud wapen",
+        "english": "older coat of arms"
+      },
+      {
+        "term": "nieuw wapen",
+        "english": "new coat of arms"
+      },
+      {
+        "term": "privé-personen",
+        "english": "private persons"
+      },
+      {
+        "term": "verlening",
+        "english": "granting"
+      },
+      {
+        "term": "erkenning",
+        "english": "recognition"
+      }
+    ]
+  },
+  {
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied.",
+    "accessed": "2026-10-08",
+    "id": "be-vl-procedure",
+    "area": "Flanders (Belgium)",
+    "language": "nl",
+    "holding": "Vlaamse overheid · Vlaamse Codex",
+    "titleOriginal": "Besluit van de Vlaamse Regering tot uitvoering van het decreet van 3 februari 1998",
+    "titleEnglish": "Government decision implementing the heraldic decree of 3 February 1998",
+    "url": "https://codex.vlaanderen.be/Portals/Codex/documenten/1007545.html",
+    "kind": "implementing regulations",
+    "authority": "official legislation",
+    "englishSynopsis": "The executive regulations show how applications, advice, designs, registration and armorial diplomas are handled in the Flemish system. They illuminate an important difference between an art committee's recommendations and the government's formal determination of a right to bear arms. This page is a consolidated text with amendments; students must cite the version and date applicable to any historical application.",
+    "glossary": [
+      {
+        "term": "Vlaamse Heraldische Raad",
+        "english": "Flemish Heraldic Council"
+      },
+      {
+        "term": "wapenbrief",
+        "english": "letters or diploma of arms"
+      },
+      {
+        "term": "wapenregister",
+        "english": "armorial register"
+      }
+    ]
+  },
+  {
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied.",
+    "accessed": "2026-10-08",
+    "id": "se-riksarkivet",
+    "area": "Sweden",
+    "language": "sv",
+    "holding": "Riksarkivet",
+    "titleOriginal": "Heraldik och statssymboler",
+    "titleEnglish": "Heraldry and state symbols",
+    "url": "https://riksarkivet.se/arkivera-och-forvalta/heraldik-och-statssymboler",
+    "kind": "official heraldic administration",
+    "authority": "national archive",
+    "englishSynopsis": "Sweden's National Archives describes its state-heraldry responsibilities, the heraldic council, and the relationship of state, administrative and municipal insignia to heraldic standards. The authority here is demonstrably concerned with government bodies and public emblems; do not extrapolate its administration to a supposed monopoly on every privately assumed coat. The archive also links to a search interface for documented heraldic designs, enabling primary-source exercises with Swedish terminology.",
+    "glossary": [
+      {
+        "term": "heraldik",
+        "english": "heraldry"
+      },
+      {
+        "term": "statsvapen",
+        "english": "state coat of arms"
+      },
+      {
+        "term": "kommunvapen",
+        "english": "municipal arms"
+      },
+      {
+        "term": "statsheraldiker",
+        "english": "state heraldic officer"
+      }
+    ]
+  },
+  {
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied.",
+    "accessed": "2026-10-08",
+    "id": "se-riksregister",
+    "area": "Sweden",
+    "language": "sv",
+    "holding": "Riksarkivet",
+    "titleOriginal": "Heraldiskt register över landskap, län och kommuner",
+    "titleEnglish": "Heraldic register for provinces, counties and municipalities",
+    "url": "https://sok.riksarkivet.se/heraldisktregister/",
+    "kind": "official digital armorial register",
+    "authority": "national archive",
+    "englishSynopsis": "The register provides searchable records of Swedish provinces, counties and municipalities. The institution notes that even where illustrations are freely licensed, some reuse can wrongly imply governmental endorsement; visual copyright and emblem misuse are different issues. We link to the register and do not host its artworks without checking licensing and contextual restrictions for a specific object.",
+    "glossary": [
+      {
+        "term": "landskap",
+        "english": "historical province"
+      },
+      {
+        "term": "län",
+        "english": "county"
+      },
+      {
+        "term": "kommun",
+        "english": "municipality"
+      },
+      {
+        "term": "vapen",
+        "english": "coat of arms"
+      }
+    ]
+  },
+  {
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied.",
+    "accessed": "2026-10-08",
+    "id": "es-council",
+    "area": "Spain",
+    "language": "es",
+    "holding": "Consejo de Estado · Boletín Oficial del Estado",
+    "titleOriginal": "Dictamen CE-D-1995-2437",
+    "titleEnglish": "Council of State opinion 2437/1995",
+    "url": "https://www.boe.es/buscar/doc.php?id=CE-D-1995-2437",
+    "kind": "published legal opinion",
+    "authority": "official legal source",
+    "englishSynopsis": "This formal opinion compares the role of Spain's traditional family-arms chroniclers with that of specialists involved in autonomous-region municipal heraldry. It distinguishes personal certifications of genealogical or armorial matters from expert advice in local-government adoption of civic insignia. It is a particularly valuable warning against simply asserting a unitary Spanish system. As a legal opinion, its procedural and historical assertions must be evaluated within the specific statutes and dates it discusses.",
+    "glossary": [
+      {
+        "term": "Cronista de Armas",
+        "english": "chronicler of arms"
+      },
+      {
+        "term": "heráldica municipal",
+        "english": "municipal heraldry"
+      },
+      {
+        "term": "certificación",
+        "english": "certification"
+      },
+      {
+        "term": "escudo",
+        "english": "shield or coat of arms"
+      }
+    ]
+  },
+  {
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied.",
+    "accessed": "2026-10-08",
+    "id": "es-boe-burgos",
+    "area": "Spain",
+    "language": "es",
+    "holding": "Boletín Oficial del Estado · Diputación de Burgos",
+    "titleOriginal": "Resolución de 28 de septiembre de 1998 ... Sotillo de la Ribera",
+    "titleEnglish": "1998 decision approving Sotillo de la Ribera's municipal arms",
+    "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-1998-23942",
+    "kind": "formal municipal arms approval",
+    "authority": "official legal source",
+    "englishSynopsis": "A concrete, dated example of a Castilian municipal heraldic approval. The decision refers to the locally agreed design and the Cronista de Armas, then specifies a shield of six sections including the Castilian castle, a lion, and holm oaks. Unlike a generic illustration, this government notice records the administrative action and can be used in translation and blazon-analysis assignments. Students should compare the Spanish description against the acts of adoption, the artwork, and the regional procedure.",
+    "glossary": [
+      {
+        "term": "escudo partido",
+        "english": "shield divided vertically"
+      },
+      {
+        "term": "cuarteles",
+        "english": "quarters/sections"
+      },
+      {
+        "term": "mazornado",
+        "english": "masoned (variant spelling in blazon)"
+      },
+      {
+        "term": "sinople",
+        "english": "green tincture"
+      }
+    ]
+  },
+  {
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied.",
+    "accessed": "2026-10-08",
+    "id": "es-academia",
+    "area": "Spain",
+    "language": "es",
+    "holding": "Real Academia Matritense de Heráldica y Genealogía",
+    "titleOriginal": "Heráldica Bibliografía",
+    "titleEnglish": "Heraldry bibliography",
+    "url": "https://ramhg.es/heradica-bibliografia/",
+    "kind": "scholarly bibliography",
+    "authority": "academic society",
+    "englishSynopsis": "The Academy's bibliography includes modern foundational studies of Castilian, Catalan and Navarrese heraldry, as well as manuals on the design and historical interpretation of Spanish arms. This is not a grant register. It is a route into Spanish-language scholarship that an English-speaking student might otherwise miss. Copyright restrictions apply to the listed books; create new analyses based on reading and cite bibliographic details rather than copying their text.",
+    "glossary": [
+      {
+        "term": "heráldica",
+        "english": "heraldry"
+      },
+      {
+        "term": "armas",
+        "english": "arms"
+      },
+      {
+        "term": "libro de armería",
+        "english": "armorial manuscript"
+      }
+    ]
+  },
+  {
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied.",
+    "accessed": "2026-10-08",
+    "id": "pt-armeiro",
+    "area": "Portugal",
+    "language": "pt",
+    "holding": "Arquivo Nacional Torre do Tombo",
+    "titleOriginal": "Livro do Armeiro-Mor — registos e descrição histórica (Vasco da Gama)",
+    "titleEnglish": "Armourer King's Book — archival descriptions, including Vasco da Gama",
+    "url": "https://antt.dglab.gov.pt/wp-content/uploads/sites/17/2025/02/vasco-da-gama-doc.pdf",
+    "kind": "national archival exhibition/catalogue",
+    "authority": "national archive",
+    "englishSynopsis": "The Torre do Tombo's Portuguese-language archival list identifies the 1509 Livro do Armeiro-Mor, commissioned by Manuel I and illuminated by João do Cró (du Cros), within the royal archives. The archive's own material offers folio-level examples, including Vasco da Gama's arms. This is a well-dated witness to early-sixteenth-century Portuguese armorial culture; the individual manuscript folio, later explanatory note, and any modern reproduction are separate evidence objects. Avoid relying on a commercial facsimile's picture as the sole citation.",
+    "glossary": [
+      {
+        "term": "Livro do Armeiro-Mor",
+        "english": "Book of the Chief Armourer/King of Arms (title retained)"
+      },
+      {
+        "term": "brasão de armas",
+        "english": "coat of arms"
+      },
+      {
+        "term": "fólio",
+        "english": "folio"
+      },
+      {
+        "term": "Cartório da Nobreza",
+        "english": "nobility papers"
+      }
+    ]
+  },
+  {
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied.",
+    "accessed": "2026-10-08",
+    "id": "pt-vasco",
+    "area": "Portugal",
+    "language": "pt",
+    "holding": "Arquivo Nacional Torre do Tombo",
+    "titleOriginal": "Brasão de armas de Dom Vasco da Gama, almirante da Índia",
+    "titleEnglish": "Coat of arms of Vasco da Gama, admiral of India",
+    "url": "https://antt.dglab.gov.pt/wp-content/uploads/sites/17/2025/02/vasco-da-gama-conde-almirante.pdf",
+    "kind": "folio-specific archival exhibit",
+    "authority": "national archive",
+    "englishSynopsis": "The national archive identifies an armorial image of Vasco da Gama in the 1509 Livro do Armeiro-Mor at Torre do Tombo, Casa Real, Cartório da Nobreza, book 19, folio 87. That is the sort of concrete archival citation our primary-object collection should aim to supply throughout the site. Students can distinguish the historic witness and shelfmark from its modern publication and translated explanation.",
+    "glossary": [
+      {
+        "term": "almirante da Índia",
+        "english": "admiral of India"
+      },
+      {
+        "term": "f.",
+        "english": "folio"
+      },
+      {
+        "term": "Casa Real",
+        "english": "royal household"
+      }
+    ]
+  },
+  {
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied.",
+    "accessed": "2026-10-08",
+    "id": "it-acs",
+    "area": "Italy",
+    "language": "it",
+    "holding": "Archivio Centrale dello Stato",
+    "titleOriginal": "Libro d’oro della Nobiltà Italiana",
+    "titleEnglish": "Golden Book of Italian Nobility",
+    "url": "https://acs.cultura.gov.it/libro-doro-della-nobilta-italiana/",
+    "kind": "official archival research guide",
+    "authority": "national archive",
+    "englishSynopsis": "The Italian state archive states that the 1948 constitution no longer recognizes titles of nobility, while pre-1922 nobiliary predicates may survive under specified name-law provisions. Its heraldic records include documents of the former Consulta araldica; the Libro d'oro and official lists have evidentiary roles for recognition under the former kingdom. An archival record of pre-Republic recognition is therefore not equivalent to a contemporary state endorsement of noble privileges. The constitutional settlement must be stated before discussing present claims.",
+    "glossary": [
+      {
+        "term": "Consulta araldica",
+        "english": "former heraldic council"
+      },
+      {
+        "term": "Libro d’oro",
+        "english": "Golden Book"
+      },
+      {
+        "term": "predicati nobiliari",
+        "english": "nobiliary predicates"
+      }
+    ]
+  },
+  {
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied.",
+    "accessed": "2026-10-08",
+    "id": "it-sala",
+    "area": "Italy",
+    "language": "it",
+    "holding": "Archivio Centrale dello Stato",
+    "titleOriginal": "Sala dell’Araldica",
+    "titleEnglish": "Heraldry reading room",
+    "url": "https://acs.cultura.gov.it/modalita-di-accesso-e-regolamento/sala-araldica/",
+    "kind": "archive access guide",
+    "authority": "national archive",
+    "englishSynopsis": "The central archive describes research access to records of the former Consulta araldica and heraldic office, with appointments and options for certified documentary copies. This illustrates how graduate heraldry research often depends on archival access procedures rather than internet image searches. The page is a research-access guide; no individual family or civic grant has been verified by its mere presence here.",
+    "glossary": [
+      {
+        "term": "Sala dell’Araldica",
+        "english": "heraldry research room"
+      },
+      {
+        "term": "Ufficio araldico",
+        "english": "heraldic office"
+      },
+      {
+        "term": "fascicolo",
+        "english": "document file"
+      }
+    ]
+  },
+  {
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied.",
+    "accessed": "2026-10-08",
+    "id": "pl-herbarze",
+    "area": "Poland–Lithuania",
+    "language": "pl",
+    "holding": "Związek Szlachty Polskiej",
+    "titleOriginal": "Herbarze",
+    "titleEnglish": "Armorial reference works",
+    "url": "https://szlachta.org/baza-wiedzy-o-szlachcie/zrodla/herbarze/",
+    "kind": "curated historical bibliography",
+    "authority": "historical association",
+    "englishSynopsis": "The Polish Nobility Association lists major Polish-language herbarze, including the early-twentieth-century compilation of Boniecki and editions of Niesiecki. Such works are crucial starting points for studying the heraldic clan and identifying named arms but are not self-authenticating proof of a modern family relationship. Historic editions and modern scholarship must be distinguished; many listed publications remain in copyright. A reading exercise should compare a named herb's description with dated seals or documentary evidence.",
+    "glossary": [
+      {
+        "term": "herb",
+        "english": "named coat of arms"
+      },
+      {
+        "term": "herbarz",
+        "english": "armorial or heraldic reference book"
+      },
+      {
+        "term": "ród",
+        "english": "lineage/clan"
+      },
+      {
+        "term": "szlachta",
+        "english": "nobility"
+      }
+    ]
+  },
+  {
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied.",
+    "accessed": "2026-10-08",
+    "id": "cz-rekos",
+    "area": "Czech Republic",
+    "language": "cs",
+    "holding": "Poslanecká sněmovna Parlamentu České republiky",
+    "titleOriginal": "Registr komunálních symbolů (REKOS)",
+    "titleEnglish": "Register of municipal symbols",
+    "url": "https://www.rekos.psp.cz/",
+    "kind": "official civic arms database",
+    "authority": "parliamentary institution",
+    "englishSynopsis": "The Czech Parliament's REKOS system records applications for, and data about, municipal arms and flags. Its introduction explains that rights to use municipal symbols are granted by the Speaker of the Chamber of Deputies on the advice of relevant committees. This is another concrete model of public-symbol administration that cannot be reduced to either English royal grants or a voluntary private-family registry. Records can be located by municipality and dated decision.",
+    "glossary": [
+      {
+        "term": "znak",
+        "english": "coat of arms/emblem"
+      },
+      {
+        "term": "vlajka",
+        "english": "flag"
+      },
+      {
+        "term": "obec",
+        "english": "municipality"
+      },
+      {
+        "term": "blason",
+        "english": "formal verbal description"
+      }
+    ]
+  },
+  {
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied.",
+    "accessed": "2026-10-08",
+    "id": "jp-ndl-kamon",
+    "area": "Japan",
+    "language": "ja",
+    "holding": "国立国会図書館 · National Diet Library",
+    "titleOriginal": "家紋・紋章を調べる（日本）",
+    "titleEnglish": "Researching family emblems and heraldic symbols in Japan",
+    "url": "https://ndlsearch.ndl.go.jp/rnavi/humanities/post_1127",
+    "kind": "national-library reference guide",
+    "authority": "national library",
+    "englishSynopsis": "The National Diet Library provides a detailed Japanese-language research guide to family emblems (家紋, kamon) and related symbolism, arranging bibliographies by motif and by surname and pointing to historical reference works. Japanese mon are not European coats of arms merely because both are inherited or displayed. Their media, social institutions, shapes, and histories require indigenous Japanese vocabulary and scholarship. The source guide is a finding aid; we are not asserting that its cited modern books may be freely translated or reproduced.",
+    "glossary": [
+      {
+        "term": "家紋",
+        "english": "family emblem or kamon"
+      },
+      {
+        "term": "紋章",
+        "english": "emblem or device"
+      },
+      {
+        "term": "文様",
+        "english": "pattern/motif"
+      },
+      {
+        "term": "姓氏",
+        "english": "family or surname"
+      }
+    ]
+  },
+  {
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied.",
+    "accessed": "2026-10-08",
+    "id": "ar-escudo",
+    "area": "Argentina",
+    "language": "es",
+    "holding": "Gobierno de Argentina",
+    "titleOriginal": "Escudo Nacional",
+    "titleEnglish": "National coat of arms",
+    "url": "https://www.argentina.gob.ar/pais/simbolos/escudo",
+    "kind": "official national emblem interpretation",
+    "authority": "national government",
+    "englishSynopsis": "The Argentine government's account traces the national escudo to the seal used by the 1813 constituent assembly and identifies the 1944 decree fixing the official model. Its explanation connects the clasped hands, Phrygian cap, pike, rising sun and laurel to republican and independence-era political identity. This is heraldry's global afterlife in a state-emblem context, not an instance of English personal arms. A careful comparison should separate the government's explanation of symbolism from the artifact's historical emergence.",
+    "glossary": [
+      {
+        "term": "escudo nacional",
+        "english": "national coat of arms"
+      },
+      {
+        "term": "gorro frigio",
+        "english": "Phrygian cap"
+      },
+      {
+        "term": "laurel",
+        "english": "laurel"
+      }
+    ]
+  },
+  {
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied.",
+    "accessed": "2026-10-08",
+    "id": "za-coat",
+    "area": "South Africa",
+    "language": "en",
+    "holding": "South African Government",
+    "titleOriginal": "National Coat of Arms",
+    "titleEnglish": "South African national coat of arms",
+    "url": "https://www.gov.za/about-sa/national-coat-arms",
+    "kind": "official state emblem description",
+    "authority": "national government",
+    "englishSynopsis": "South Africa's government explains its 2000 national coat of arms as a deliberately new post-apartheid identity system. Secretary bird, protea, elephant tusks, ears of wheat, a shield drawing on Southern African rock art, and the /Xam motto together form a heraldic state emblem with African material and symbolism. This example forces a graduate course to ask what is imported, what is locally reinterpreted, whose heritage is mobilized and who may speak for that heritage. We must not treat San images merely as interchangeable European charges.",
+    "glossary": [
+      {
+        "term": "coat of arms",
+        "english": "state emblem"
+      },
+      {
+        "term": "!ke e: /xarra //ke",
+        "english": "official /Xam motto, conventionally translated \"diverse people unite\""
+      },
+      {
+        "term": "Linton Stone",
+        "english": "rock-art source identified by government"
+      }
+    ]
+  }
+]
