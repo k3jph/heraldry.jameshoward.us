@@ -35,4 +35,4 @@ The expansion is ongoing. English-language notes should never be mistaken for of
 
 Graduate studies include six research seminars at /seminars/, each with a dedicated text chapter, primary-source references and a research assignment.
 
-- [Parallel translation laboratory](https://heraldry.jameshoward.us/translation-lab/): source-checked short excerpts from German, Dutch, French, Spanish, Italian, Japanese, Latvian, Lithuanian, and Finnish institutional texts with scholarly English notes and vocabulary.
+- [Parallel translation laboratory](https://heraldry.jameshoward.us/translation-lab/): source-checked short excerpts from German, Dutch, French, Spanish, Italian, Japanese, Latvian, Lithuanian, Finnish, and Romanian institutional texts with scholarly English notes and vocabulary.
