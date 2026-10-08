@@ -1,0 +1,78 @@
+---
+import Base from '../../layouts/Base.astro';
+import Shield from '../../components/Shield.astro';
+import lessons from '../../data/course.json';
+import { blazon } from '../../lib/heraldry.js';
+export function getStaticPaths() {
+  return lessons.map((lesson,index)=>({params:{slug:lesson.slug},props:{lesson,index}}));
+}
+const {lesson,index} = Astro.props;
+const previous=lessons[index-1];
+const next=lessons[index+1];
+---
+<Base title={lesson.title} description={lesson.description}>
+  <section class="page-intro">
+    <div class="wrap page-intro-inner">
+      <nav class="breadcrumbs" aria-label="Breadcrumb"><a href="/">Home</a><span>›</span><a href="/academy/">Academy</a><span>›</span><span>Unit {String(lesson.number).padStart(2,'0')}</span></nav>
+      <p class="eyebrow"><span class="star">✦</span> {lesson.eyebrow} · Unit {String(lesson.number).padStart(2,'0')}</p>
+      <h1 class="display-serif">{lesson.title}.</h1>
+      <p class="page-intro-description">{lesson.description}</p>
+    </div>
+  </section>
+  <div class="wrap reading-shell">
+    <aside class="reading-sidebar" aria-label="Course navigation">
+      <div class="reading-progress"><span class="smallcaps">Your course progress</span><div class="progress-rail"><span class="progress-fill" data-sidebar-progress></span></div><p class="caption" data-progress-label>Progress saved on this device</p></div>
+      <h2>Course units</h2>
+      <ol>{lessons.map(item=><li><a href={'/academy/'+item.slug+'/'} aria-current={item.slug===lesson.slug?'page':undefined}><span>{String(item.number).padStart(2,'0')}</span>{item.title}</a></li>)}</ol>
+      <a href="/academy/" class="text-link" style="margin-top:25px;display:inline-block">Full curriculum ↗</a>
+    </aside>
+    <article class="lesson-content">
+      <div class="lesson-meta"><span>UNIT {String(lesson.number).padStart(2,'0')} OF 12</span><span>{lesson.minutes} MIN READ</span><span>SELF-PACED</span><span>3 QUESTION CHECK</span></div>
+      <p class="lesson-lead">{lesson.description}</p>
+      <div class="lesson-outcomes"><h2>After this lesson, you should be able to…</h2><ul>{lesson.objectives.map(goal=><li>{goal}</li>)}</ul></div>
+      <div class="lesson-visual"><div><p class="eyebrow"><span class="star">✦</span> One shield, one thought</p><p>{blazon(lesson.example)}</p><small>Original teaching illustration · not a grant or register entry.</small></div><Shield design={lesson.example} id={'lesson-'+lesson.number}/></div>
+      {lesson.sections.map((section,i)=><section id={'reading-'+(i+1)}><p class="eyebrow"><span class="star">✦</span> Part {String(i+1).padStart(2,'0')}</p><h2>{section.heading}</h2>{section.paragraphs.map(paragraph=><p>{paragraph}</p>)}</section>)}
+      <aside class="lesson-exercise"><p class="eyebrow"><span class="star">✦</span> Put it to work</p><h2>{lesson.exercise.title}</h2><p>{lesson.exercise.prompt}</p>{lesson.exercise.link&&<a class="btn btn-gold" href={lesson.exercise.link}>Open the atelier ↗</a>}</aside>
+      <form class="lesson-quiz" id="knowledge-check" data-slug={lesson.slug}>
+        <p class="eyebrow"><span class="star">✦</span> Check what you learned</p>
+        <h2>Three questions.<br/>No surprises.</h2>
+        <p class="section-subtitle">Aim for at least two correct answers to mark the unit complete. You can try again as often as you like.</p>
+        {lesson.quiz.map((q,i)=><div class="quiz-question"><fieldset data-question data-correct={q.correct} data-explanation={q.explanation}><legend>{i+1}. {q.question}</legend>{q.choices.map((choice,j)=><label class="quiz-option"><input type="radio" name={'q-'+i} value={j} required /> <span>{choice}</span></label>)}<div class="quiz-feedback" data-feedback aria-live="polite"></div></fieldset></div>)}
+        <button type="submit" class="btn btn-dark">Check my answers ↗</button>
+        <div class="quiz-result" id="quiz-result" role="status" aria-live="polite"></div>
+      </form>
+      <div class="lesson-sources"><h2>Read beyond this lesson.</h2><p class="caption">Select institutional and educational sources. Their claims and jurisdictions remain their own.</p><ul>{lesson.reading.map(item=><li><a href={item.url} target="_blank" rel="noopener noreferrer">{item.label} ↗</a> — <span class="caption">{item.note}</span></li>)}</ul></div>
+      <nav class="lesson-pagination" aria-label="Adjacent lessons">
+        {previous?<a class="lesson-pager" href={'/academy/'+previous.slug+'/'}><span>← Previous unit</span><strong>{previous.title}</strong></a>:<a class="lesson-pager" href="/academy/"><span>← Curriculum</span><strong>Course overview</strong></a>}
+        {next?<a class="lesson-pager" href={'/academy/'+next.slug+'/'}><span>Next unit →</span><strong>{next.title}</strong></a>:<a class="lesson-pager" href="/atelier/"><span>Continue →</span><strong>Practice in the Atelier</strong></a>}
+      </nav>
+    </article>
+  </div>
+  <script>
+    const form = document.querySelector<HTMLFormElement>('#knowledge-check');
+    const progressKey='heraldry-completed-v1';
+    const readProgress=():string[]=>{try{const result=JSON.parse(localStorage.getItem(progressKey)||'[]');return Array.isArray(result)?result:[];}catch{return [];}};
+    const setProgress=()=>{const rail=document.querySelector<HTMLElement>('[data-sidebar-progress]');const label=document.querySelector<HTMLElement>('[data-progress-label]');const count=readProgress().length;if(rail)rail.style.width=(Math.min(count,12)/12*100)+'%';if(label)label.textContent=count+' of 12 completed on this device';};
+    setProgress();
+    form?.addEventListener('submit',(event)=>{
+      event.preventDefault();
+      let score=0;
+      const questions=Array.from(form.querySelectorAll<HTMLFieldSetElement>('fieldset[data-question]'));
+      questions.forEach(fieldset=>{
+        const selected=fieldset.querySelector<HTMLInputElement>('input:checked');
+        const feedback=fieldset.querySelector<HTMLElement>('[data-feedback]');
+        const right=Number(fieldset.dataset.correct);
+        const correct=selected?.value===String(right);
+        if(correct)score++;
+        if(feedback){feedback.textContent=(correct?'Correct. ':'Not quite. ')+(fieldset.dataset.explanation||'');feedback.classList.add('visible');}
+        fieldset.querySelectorAll<HTMLElement>('.quiz-option').forEach((option,i)=>{
+          option.style.borderColor=i===right?'#5d966f':selected?.value===String(i)&&!correct?'#c2827b':'';
+        });
+      });
+      const passed=score>=2;
+      if(passed){try{const complete=readProgress();if(!complete.includes(form.dataset.slug||''))complete.push(form.dataset.slug||'');localStorage.setItem(progressKey,JSON.stringify(complete));}catch{}setProgress();}
+      const result=document.querySelector<HTMLElement>('#quiz-result');
+      if(result){result.innerHTML='<strong>'+score+' / '+questions.length+' correct</strong><p>'+(passed?'Unit complete. Excellent—keep going.':'A little more reading, then try again. There is no penalty.')+'</p>';result.classList.add('visible');result.scrollIntoView({behavior:'smooth',block:'nearest'});}
+    });
+  </script>
+</Base>

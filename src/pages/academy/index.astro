@@ -1,0 +1,35 @@
+---
+import Base from '../../layouts/Base.astro';
+import PageIntro from '../../components/PageIntro.astro';
+import lessons from '../../data/course.json';
+const hours=Math.round(lessons.reduce((t,l)=>t+l.minutes,0)/60);
+const schema={'@context':'https://schema.org','@type':'Course',name:'An introduction to heraldry',description:'Independent free twelve-unit heraldry course with self-assessment and practical exercises.',provider:{'@type':'Person',name:'James P. Howard, II',url:'https://jameshoward.us/'},isAccessibleForFree:true,inLanguage:'en',educationalLevel:'Introductory undergraduate / self-paced',hasCourseInstance:{'@type':'CourseInstance',courseMode:'online',courseWorkload:'Self-paced'}};
+---
+<Base title="The Academy" description="A free twelve-unit, university-style introduction to heraldic history, tinctures, geometry, blazon, cadency, marshalling, law, and original design.">
+  <script type="application/ld+json" set:html={JSON.stringify(schema)} />
+  <PageIntro eyebrow="The full learning programme" title="The academy." description="Twelve rigorous, readable units. Each with a visual example, an exercise, selected primary-source reading, and a short assessment. Start anywhere. Finish understanding the language."/>
+  <section class="section">
+    <div class="wrap">
+      <div class="notice-box" style="margin-bottom:38px"><strong>Your progress belongs to you.</strong><p><span data-completion-count>0</span> of 12 units assessed successfully. We store progress only in this browser; there are no accounts, tracking cookies or issued academic credits.</p><div class="progress-rail"><span class="progress-fill" data-course-progress></span></div></div>
+      <div class="rule-heading"><div><p class="eyebrow"><span class="star">✦</span> Core curriculum</p><h2 class="section-title">Read. Understand.<br/>Demonstrate.</h2></div><p>Roughly {hours} hours of primary reading, plus your own time on the drawing and research exercises. You set the pace.</p></div>
+      <div class="module-grid">
+        {lessons.map(lesson => <a class="card module-card" href={'/academy/'+lesson.slug+'/'} data-lesson-id={lesson.slug}><div class="module-top"><span class="module-number">{String(lesson.number).padStart(2,'0')}</span><span class="module-duration">{lesson.minutes} min reading <span class="progress-dot" title="Assessment status"></span></span></div><h3>{lesson.title}</h3><p>{lesson.description}</p><div class="module-foot"><span>{lesson.eyebrow}</span><span>Study ↗</span></div></a>)}
+      </div>
+    </div>
+  </section>
+  <section class="section section-dark">
+    <div class="wrap split" style="align-items:center">
+      <div><p class="eyebrow eyebrow-on-dark"><span class="star">✦</span> The capstone</p><h2 class="section-title">Make an argument.<br/>Not just an image.</h2><p class="section-subtitle" style="margin-top:22px">Your final assignment: create an original armorial study, explain its composition, formulate a blazon, and research the authority (or lack thereof) in your chosen jurisdiction.</p></div>
+      <div><p style="font:italic 2rem/1.35 var(--serif);color:var(--gold-light)">An armorial design is a specification. A claim to bear arms is an argument requiring evidence.</p><a class="btn btn-gold" href="/academy/reading-the-evidence/">Explore the capstone ↗</a></div>
+    </div>
+  </section>
+  <script>
+    const saved = (()=>{try{return JSON.parse(localStorage.getItem('heraldry-completed-v1') || '[]');}catch{return [];}})();
+    const completed = Array.isArray(saved) ? saved : [];
+    document.querySelectorAll<HTMLElement>('[data-lesson-id]').forEach(el => {if(completed.includes(el.dataset.lessonId)){el.classList.add('is-complete');el.setAttribute('aria-label',el.textContent?.trim()+' — completed');}});
+    const count = document.querySelector<HTMLElement>('[data-completion-count]');
+    const rail = document.querySelector<HTMLElement>('[data-course-progress]');
+    if(count) count.textContent=String(completed.length);
+    if(rail) rail.style.width=(Math.min(completed.length,12)/12*100)+'%';
+  </script>
+</Base>
