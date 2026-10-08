@@ -1,7 +1,7 @@
 ---
-import Base from '../../layouts/Base.astro';
-import PageIntro from '../../components/PageIntro.astro';
-import glossary from '../../data/glossary.json';
+import Base from '../../../layouts/Base.astro';
+import PageIntro from '../../../components/PageIntro.astro';
+import glossary from '../../../data/glossary.json';
 const groups=[...new Set(glossary.map(entry=>entry.category))].sort((a,b)=>a.localeCompare(b));
 ---
 <Base title="Lexicon Study Cards" description="Practice and learn heraldic vocabulary, including blazonry, charges, geometry, historic documents and international traditions.">
@@ -46,7 +46,7 @@ const groups=[...new Set(glossary.map(entry=>entry.category))].sort((a,b)=>a.loc
     <noscript><div class="wrap"><p class="notice-box">Interactive practice requires JavaScript. The complete <a href="/lexicon/">lexicon</a> remains available as a plain searchable reference.</p></div></noscript>
   </section>
   <script>
-    import glossary from '../../data/glossary.json';
+    import glossary from '../../../data/glossary.json';
     type Entry={term:string;definition:string;category:string};
     const entries:Entry[]=glossary;
     const subject=document.querySelector<HTMLSelectElement>('#study-subject');
