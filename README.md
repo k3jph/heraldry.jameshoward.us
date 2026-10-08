@@ -56,4 +56,4 @@ The six graduate-methods seminars in `src/content/seminars/` cover archival sour
 
 ### Parallel primary texts
 
-The original-language exercises at `/translation-lab/` present seven source-checked short excerpts from actual documents in six languages. Every extract has a precise source locator, original text, a cautious English translation, terminology, historical/legal commentary, and a graduate follow-up exercise. Full texts are linked rather than copied wholesale.
+The original-language exercises at `/translation-lab/` present ten source-checked short excerpts from actual documents in nine languages. Every extract has a precise source locator, original text, a cautious English translation, terminology, historical/legal commentary, and a graduate follow-up exercise. Full texts are linked rather than copied wholesale.
