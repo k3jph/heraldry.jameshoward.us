@@ -1,0 +1,125 @@
+---
+import Base from '../../layouts/Base.astro';
+import Shield from '../../components/Shield.astro';
+import lessons from '../../data/course.json';
+import {blazon} from '../../lib/heraldry.js';
+export function getStaticPaths(){
+  return lessons.map(lesson=>({params:{slug:lesson.slug},props:{lesson}}));
+}
+const {lesson}=Astro.props;
+const chapters=['Orientation',...lesson.sections.map(s=>s.heading),'Try it yourself'];
+const next=lessons[lesson.number]||null;
+---
+<Base title={'Guided lecture: '+lesson.title} description={'An accessible guided heraldry presentation for '+lesson.title+', featuring an interactive chapter player, reading transcript and optional device-based spoken narration.'}>
+  <section class="page-intro" style="padding:70px 0">
+    <div class="wrap page-intro-inner">
+      <nav class="breadcrumbs" aria-label="Breadcrumbs"><a href="/">Home</a><span>›</span><a href="/academy/">Academy</a><span>›</span><a href={'/academy/'+lesson.slug+'/'}>Unit {lesson.number}</a><span>›</span>Guided lecture</nav>
+      <p class="eyebrow"><span class="star">✦</span> The lecture hall · Unit {String(lesson.number).padStart(2,'0')}</p>
+      <h1 class="display-serif" style="font-size:clamp(3.4rem,6vw,6rem)">{lesson.title}.</h1>
+      <p class="page-intro-description">Work through the ideas one at a time. Read the transcript, choose the next chapter, or listen to your device read it aloud.</p>
+    </div>
+  </section>
+  <section class="section">
+    <div class="wrap">
+      <div class="lecture-shell">
+        <div class="lecture-main">
+          <div class="lecture-visual">
+            <span class="smallcaps" style="color:var(--gold-light)">The Heraldry Project · Illustrated lecture</span>
+            <div class="lecture-decoration" aria-hidden="true">✣</div>
+            <div id="lecture-art" class="shield-illustration"><Shield design={lesson.example} id={'lecture-'+lesson.slug}/></div>
+            <div class="lecture-art-footer"><span id="lecture-art-label">Shield study · {blazon(lesson.example)}</span><span>{String(lesson.number).padStart(2,'0')} / 12</span></div>
+          </div>
+          <div class="lecture-text">
+            <div class="lecture-progressbar"><span id="lecture-progress-fill"></span></div>
+            <div class="lecture-meta"><span id="lecture-kicker">Orientation</span><span id="lecture-slide-count">01 / {String(chapters.length).padStart(2,'0')}</span></div>
+            <h2 id="lecture-heading">{lesson.title}</h2>
+            <div id="lecture-transcript" class="lecture-transcript" aria-live="polite"><p>{lesson.description}</p><p>This lecture introduces the concepts developed in the written unit. Follow along at your own pace.</p></div>
+            <div class="lecture-controls">
+              <button id="lecture-prev" class="btn btn-quiet" type="button" disabled>← Previous</button>
+              <button id="lecture-next" class="btn btn-dark" type="button">Continue →</button>
+              <button id="lecture-speak" class="btn btn-line" type="button" aria-pressed="false">Listen to this chapter ▶</button>
+            </div>
+            <p class="caption" id="lecture-audio-status" role="status" aria-live="polite">Spoken narration uses your browser's built-in voice, if available. No audio data is sent to us.</p>
+          </div>
+        </div>
+        <aside class="lecture-chapters">
+          <p class="eyebrow"><span class="star">✦</span> Your chapter map</p>
+          <h2 class="small-title">The journey.</h2>
+          <ol>{chapters.map((chapter,i)=><li><button class:list={['lecture-chapter',i===0&&'current']} type="button" data-lecture-chapter={i} aria-current={i===0?'step':undefined}><span>{String(i+1).padStart(2,'0')}</span>{chapter}<span class="lecture-chapter-marker" aria-hidden="true">→</span></button></li>)}</ol>
+          <div class="lecture-sidebar-links">
+            <p>Prefer to read without slides?</p><a href={'/academy/'+lesson.slug+'/'} class="text-link">Full written lesson ↗</a>
+            <p>Ready to be tested?</p><a href={'/academy/'+lesson.slug+'/#knowledge-check'} class="text-link">Knowledge check ↗</a>
+          </div>
+        </aside>
+      </div>
+      <div class="notice-box" style="margin-top:23px"><strong>Lecture notes, not a substitute for the source record.</strong><p>This presentation is derived from the course's written material and original teaching illustrations. The speech option uses on-device browser synthesis, not a recorded human instructor. Official heraldic authorities and their records remain the sources for questions of entitlement.</p></div>
+    </div>
+  </section>
+  <section class="section section-dark" style="padding:70px 0">
+    <div class="wrap split" style="align-items:center"><div><p class="eyebrow eyebrow-on-dark"><span class="star">✦</span> Keep learning</p><h2 class="section-title">The lecture<br/>is only a beginning.</h2></div><div><p class="section-subtitle">Use the written lesson for complete citations, independent exercises, and assessments.</p><a class="btn btn-gold" href={'/academy/'+lesson.slug+'/'}>Open the full lesson ↗</a>{next&&<a class="btn btn-light-line" href={'/lecture/'+next.slug+'/'} style="margin:9px 0 0 9px">Next lecture ↗</a>}</div></div>
+  </section>
+  <script>
+    import lessons from '../../data/course.json';
+    const slug=location.pathname.split('/').filter(Boolean).pop()||'';
+    const lesson=lessons.find(l=>l.slug===slug);
+    const chapters=lesson?[{name:'Orientation',heading:lesson.title,body:[lesson.description,'In the next few chapters we will learn the vocabulary and history, explore the example shield, and then turn the knowledge into practical work.']},...lesson.sections.map(s=>({name:s.heading,heading:s.heading,body:s.paragraphs})),{name:'Try it yourself',heading:lesson.exercise.title,body:[lesson.exercise.prompt,'Continue to the full lesson for readings and the knowledge check.']}]:[];
+    const KEY='heraldry-lecture-v1-'+slug;
+    const getNumber=()=>{try{return Number(localStorage.getItem(KEY)||0);}catch{return 0;}};
+    let index=Math.max(0,Math.min(chapters.length-1,getNumber()||0));
+    let speaking=false;
+    const previous=document.querySelector<HTMLButtonElement>('#lecture-prev');
+    const next=document.querySelector<HTMLButtonElement>('#lecture-next');
+    const heading=document.querySelector<HTMLElement>('#lecture-heading');
+    const transcript=document.querySelector<HTMLElement>('#lecture-transcript');
+    const progress=document.querySelector<HTMLElement>('#lecture-progress-fill');
+    const kicker=document.querySelector<HTMLElement>('#lecture-kicker');
+    const slideCount=document.querySelector<HTMLElement>('#lecture-slide-count');
+    const speak=document.querySelector<HTMLButtonElement>('#lecture-speak');
+    const audioStatus=document.querySelector<HTMLElement>('#lecture-audio-status');
+    const menu=document.querySelectorAll<HTMLButtonElement>('[data-lecture-chapter]');
+    const stop=()=>{if('speechSynthesis' in window)window.speechSynthesis.cancel();speaking=false;if(speak){speak.textContent='Listen to this chapter ▶';speak.setAttribute('aria-pressed','false');}};
+    const render=()=>{
+      if(!chapters.length)return;
+      stop();
+      const chapter=chapters[index];
+      if(heading)heading.textContent=chapter.heading;
+      if(kicker)kicker.textContent=chapter.name;
+      if(slideCount)slideCount.textContent=String(index+1).padStart(2,'0')+' / '+String(chapters.length).padStart(2,'0');
+      if(progress)progress.style.width=((index+1)/chapters.length*100)+'%';
+      if(transcript)transcript.replaceChildren(...chapter.body.map(p=>{const el=document.createElement('p');el.textContent=p;return el;}));
+      if(previous)previous.disabled=index===0;
+      if(next)next.textContent=index===chapters.length-1?'Take the knowledge check ↗':'Continue →';
+      menu.forEach(button=>{const current=Number(button.dataset.lectureChapter)===index;button.classList.toggle('current',current);if(current)button.setAttribute('aria-current','step');else button.removeAttribute('aria-current');});
+      try{localStorage.setItem(KEY,String(index));}catch{}
+      if(audioStatus)audioStatus.textContent='Optional narration uses the voice available on this device. No recorded lecture or server connection is required.';
+    };
+    const move=(direction:number)=>{if(index+direction<0)return;if(index+direction>=chapters.length){location.assign('/academy/'+slug+'/#knowledge-check');return;}index+=direction;render();};
+    previous?.addEventListener('click',()=>move(-1));
+    next?.addEventListener('click',()=>move(1));
+    menu.forEach(button=>button.addEventListener('click',()=>{index=Number(button.dataset.lectureChapter)||0;render();}));
+    speak?.addEventListener('click',()=>{
+      if(speaking){stop();if(audioStatus)audioStatus.textContent='Narration stopped.';return;}
+      if(!('speechSynthesis' in window) || !('SpeechSynthesisUtterance' in window)){
+        if(audioStatus)audioStatus.textContent='This browser does not offer spoken narration. The full chapter transcript is displayed above.';return;
+      }
+      stop();
+      const utterance=new SpeechSynthesisUtterance([chapters[index].heading,...chapters[index].body].join('. '));
+      utterance.lang='en-US';utterance.rate=0.94;
+      utterance.onend=()=>{speaking=false;if(speak){speak.textContent='Listen to this chapter ▶';speak.setAttribute('aria-pressed','false');}if(audioStatus)audioStatus.textContent='Chapter narration finished.';};
+      utterance.onerror=()=>{stop();if(audioStatus)audioStatus.textContent='The browser could not play narration. You can still read the transcript.';};
+      speaking=true;if(speak){speak.textContent='Stop narration ■';speak.setAttribute('aria-pressed','true');}
+      if(audioStatus)audioStatus.textContent='Reading this chapter aloud…';
+      window.speechSynthesis.speak(utterance);
+    });
+    document.addEventListener('keydown',(e)=>{
+      if(e.altKey||e.metaKey||e.ctrlKey)return;
+      const el=e.target as HTMLElement|null;
+      if(['INPUT','TEXTAREA','SELECT','BUTTON'].includes(el?.tagName||''))return;
+      if(e.key==='ArrowRight'){e.preventDefault();move(1);}
+      if(e.key==='ArrowLeft'){e.preventDefault();move(-1);}
+    });
+    document.addEventListener('visibilitychange',()=>{if(document.hidden)stop();});
+    window.addEventListener('pagehide',stop);
+    render();
+  </script>
+</Base>
