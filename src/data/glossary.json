@@ -1,8 +1,78 @@
 [
   {
+    "term": "abased",
+    "category": "Geometry",
+    "definition": "Placed lower than a charge or ordinary would ordinarily appear on a shield."
+  },
+  {
+    "term": "abatement",
+    "category": "Practice",
+    "definition": "An alleged dishonourable alteration described in later heraldic manuals; systematic historical use is disputed."
+  },
+  {
+    "term": "accosted",
+    "category": "Language",
+    "definition": "Accompanied by another figure on each side of the principal charge."
+  },
+  {
     "term": "achievement",
     "category": "Anatomy",
     "definition": "The complete heraldic display around an armiger's shield, potentially including a helm, crest, mantling, supporters and motto."
+  },
+  {
+    "term": "acorn",
+    "category": "Charges",
+    "definition": "The nut of an oak tree, sometimes represented within its cup."
+  },
+  {
+    "term": "addorsed",
+    "category": "Language",
+    "definition": "Back to back, especially of a pair of animals or birds."
+  },
+  {
+    "term": "affronté",
+    "category": "Language",
+    "definition": "Facing the viewer directly rather than shown in profile."
+  },
+  {
+    "term": "allusive arms",
+    "category": "Practice",
+    "definition": "Arms referring to a bearer's name, profession or qualities through imagery."
+  },
+  {
+    "term": "anchor",
+    "category": "Charges",
+    "definition": "A stylized ship's anchor used as a heraldic charge."
+  },
+  {
+    "term": "anvil",
+    "category": "Charges",
+    "definition": "A metalworking implement shown as a charge in craft and personal arms."
+  },
+  {
+    "term": "archival shelfmark",
+    "category": "Research",
+    "definition": "The identifying reference assigned to an object or collection by an archive."
+  },
+  {
+    "term": "argent",
+    "category": "Tinctures",
+    "definition": "The metal silver, commonly represented as white."
+  },
+  {
+    "term": "armas parlantes",
+    "category": "Comparative",
+    "definition": "Spanish and Portuguese expression for canting arms."
+  },
+  {
+    "term": "armed",
+    "category": "Language",
+    "definition": "Describes claws, horns or other natural weapons, often when separately tinctured."
+  },
+  {
+    "term": "armes parlantes",
+    "category": "Comparative",
+    "definition": "French term for canting arms, involving a pictorial pun or allusion."
   },
   {
     "term": "armiger",
@@ -10,9 +80,44 @@
     "definition": "An individual or institution entitled to bear a particular coat of arms under the relevant tradition."
   },
   {
+    "term": "armoiries",
+    "category": "Comparative",
+    "definition": "French term for armorial bearings, whose scope varies with context."
+  },
+  {
     "term": "armorial",
     "category": "History",
     "definition": "A collection or register of coats of arms; also an adjective relating to arms."
+  },
+  {
+    "term": "armorial bearings",
+    "category": "Practice",
+    "definition": "A formal expression for arms, sometimes referring to the whole heraldic achievement."
+  },
+  {
+    "term": "Armorial général",
+    "category": "Comparative",
+    "definition": "French expression for a general armorial register or compilation."
+  },
+  {
+    "term": "armorial manuscript",
+    "category": "History",
+    "definition": "A handwritten or illustrated source containing descriptions or pictures of arms."
+  },
+  {
+    "term": "armorial ordinary",
+    "category": "History",
+    "definition": "An index arranged by designs or charges rather than primarily by bearers' names."
+  },
+  {
+    "term": "armorial roll",
+    "category": "History",
+    "definition": "A compilation of coats of arms prepared for identification, record or display."
+  },
+  {
+    "term": "armorial seal",
+    "category": "History",
+    "definition": "A seal displaying an armorial device, which may preserve evidence of historical use."
   },
   {
     "term": "arms",
@@ -20,9 +125,39 @@
     "definition": "The heraldic device, especially the design displayed on the shield."
   },
   {
-    "term": "argent",
-    "category": "Tinctures",
-    "definition": "The metal silver, commonly represented as white."
+    "term": "arms of alliance",
+    "category": "Practice",
+    "definition": "A joint display associating the armorial identities of spouses or families."
+  },
+  {
+    "term": "arms of dominion",
+    "category": "Practice",
+    "definition": "Arms representing a realm, sovereign authority or a ruler's office."
+  },
+  {
+    "term": "arms of pretence",
+    "category": "Practice",
+    "definition": "An inescutcheon conveying a particular hereditary or marital claim in some traditions."
+  },
+  {
+    "term": "arrow",
+    "category": "Charges",
+    "definition": "A pointed missile, with feathers and orientation optionally specified."
+  },
+  {
+    "term": "assumption of arms",
+    "category": "Practice",
+    "definition": "Adopting an armorial design without receiving a new official grant."
+  },
+  {
+    "term": "attired",
+    "category": "Language",
+    "definition": "Having antlers, especially when these are separately tinctured from the stag."
+  },
+  {
+    "term": "augmentation of honour",
+    "category": "Practice",
+    "definition": "An addition authorized in recognition of distinction or service."
   },
   {
     "term": "azure",
@@ -35,9 +170,29 @@
     "definition": "A distinctive heraldic emblem that may be used separately from the shield or crest."
   },
   {
+    "term": "banner of arms",
+    "category": "Anatomy",
+    "definition": "A flag whose whole field displays an armorial design, rather than a logo on a shield."
+  },
+  {
     "term": "bar",
     "category": "Geometry",
     "definition": "A narrow horizontal stripe; multiple bars are commonly shown together."
+  },
+  {
+    "term": "bar gemel",
+    "category": "Geometry",
+    "definition": "Two narrow parallel horizontal bars treated together as a heraldic figure."
+  },
+  {
+    "term": "barbed",
+    "category": "Language",
+    "definition": "Having arrow points or the outer green parts of a rose specifically represented."
+  },
+  {
+    "term": "barrulet",
+    "category": "Geometry",
+    "definition": "A very narrow horizontal stripe, smaller than an ordinary bar."
   },
   {
     "term": "barry",
@@ -45,9 +200,19 @@
     "definition": "Divided into an even number of alternating horizontal stripes."
   },
   {
+    "term": "barry wavy",
+    "category": "Geometry",
+    "definition": "Divided into alternating horizontal bands whose partition lines undulate."
+  },
+  {
     "term": "base",
     "category": "Geometry",
     "definition": "The lower portion of the shield."
+  },
+  {
+    "term": "beaked",
+    "category": "Language",
+    "definition": "Of a bird, having a beak of a particular tincture."
   },
   {
     "term": "bend",
@@ -60,6 +225,31 @@
     "definition": "A diagonal ordinary running from sinister chief to dexter base."
   },
   {
+    "term": "bendlet",
+    "category": "Geometry",
+    "definition": "A narrow diagonal ordinary of the same orientation as a bend."
+  },
+  {
+    "term": "bendlet sinister",
+    "category": "Geometry",
+    "definition": "A narrow diagonal stripe following the direction of a bend sinister."
+  },
+  {
+    "term": "bendy",
+    "category": "Geometry",
+    "definition": "Divided into repeating diagonal bands along the direction of a bend."
+  },
+  {
+    "term": "bendy sinister",
+    "category": "Geometry",
+    "definition": "Divided into repeating diagonal bands following a bend sinister."
+  },
+  {
+    "term": "between",
+    "category": "Language",
+    "definition": "Indicates a principal charge accompanied by other charges on either side or around it."
+  },
+  {
     "term": "bezant",
     "category": "Charges",
     "definition": "A bezant is a roundel shown Or (gold); like other roundels, its name conveys its tincture."
@@ -70,9 +260,34 @@
     "definition": "A small rectangular heraldic charge."
   },
   {
+    "term": "blasonnement",
+    "category": "Comparative",
+    "definition": "French expression for the wording or process of formally describing arms."
+  },
+  {
     "term": "blazon",
     "category": "Language",
     "definition": "A formal verbal description of arms, written according to heraldic conventions."
+  },
+  {
+    "term": "blazonry",
+    "category": "History",
+    "definition": "The process and conventions of formally describing heraldic designs."
+  },
+  {
+    "term": "bleu celeste",
+    "category": "Tinctures",
+    "definition": "A light sky-blue tincture used in some modern British and Commonwealth armory."
+  },
+  {
+    "term": "boar",
+    "category": "Charges",
+    "definition": "A wild pig used as a heraldic animal charge."
+  },
+  {
+    "term": "boar's head",
+    "category": "Charges",
+    "definition": "The head of a wild pig, sometimes shown couped or erased."
   },
   {
     "term": "bordure",
@@ -80,9 +295,44 @@
     "definition": "A band following the outer perimeter of a shield."
   },
   {
+    "term": "brasão",
+    "category": "Comparative",
+    "definition": "Portuguese term for a coat of arms."
+  },
+  {
+    "term": "Bürgerwappen",
+    "category": "Comparative",
+    "definition": "German term for a non-noble family's arms, distinct from civic arms."
+  },
+  {
+    "term": "burgher arms",
+    "category": "Institutions",
+    "definition": "Heraldic arms of non-noble townspeople or families, especially in central Europe."
+  },
+  {
+    "term": "caboshed",
+    "category": "Language",
+    "definition": "An animal's head shown looking straight outward without the neck."
+  },
+  {
     "term": "cadency",
     "category": "Practice",
     "definition": "A system of distinguishing members of a family by differences in their arms."
+  },
+  {
+    "term": "cadet branch",
+    "category": "Practice",
+    "definition": "A younger family line potentially distinguished by a mark of difference."
+  },
+  {
+    "term": "caltrap",
+    "category": "Charges",
+    "definition": "A four-pointed anti-cavalry device depicted with a spike upward."
+  },
+  {
+    "term": "Canadian Heraldic Authority",
+    "category": "Institutions",
+    "definition": "Canada's official authority for granting, recording and registering heraldic emblems."
   },
   {
     "term": "canting arms",
@@ -95,9 +345,44 @@
     "definition": "A square or rectangular figure placed in an upper corner of the shield, usually dexter chief."
   },
   {
+    "term": "cap of maintenance",
+    "category": "Anatomy",
+    "definition": "A ceremonial cap often depicted with a crimson crown and an ermine lining."
+  },
+  {
+    "term": "carnation",
+    "category": "Tinctures",
+    "definition": "A flesh-coloured tincture used in some heraldic systems."
+  },
+  {
+    "term": "castle",
+    "category": "Charges",
+    "definition": "A fortified building charge with towers, battlements and sometimes a doorway."
+  },
+  {
+    "term": "catalogue entry",
+    "category": "Research",
+    "definition": "A descriptive record that identifies a source but does not prove it was examined."
+  },
+  {
+    "term": "cendrée",
+    "category": "Tinctures",
+    "definition": "An uncommon grey tincture, distinct from the seven principal tinctures."
+  },
+  {
+    "term": "chapeau",
+    "category": "Anatomy",
+    "definition": "A hat-like heraldic item, sometimes meaning the cap of maintenance."
+  },
+  {
     "term": "charge",
     "category": "Charges",
     "definition": "Any figure or emblem placed on a field or other heraldic figure."
+  },
+  {
+    "term": "checky",
+    "category": "Geometry",
+    "definition": "A repeating pattern of adjacent squares alternating between two tinctures."
   },
   {
     "term": "chevron",
@@ -105,9 +390,39 @@
     "definition": "An ordinary in the shape of an inverted V."
   },
   {
+    "term": "chevronel",
+    "category": "Geometry",
+    "definition": "A comparatively narrow chevron, sometimes shown in multiples."
+  },
+  {
+    "term": "chevronny",
+    "category": "Geometry",
+    "definition": "Divided into repeated chevron-shaped bands of alternating tinctures."
+  },
+  {
     "term": "chief",
     "category": "Geometry",
     "definition": "Both the upper part of a shield and a horizontal ordinary occupying that part."
+  },
+  {
+    "term": "cimiero",
+    "category": "Comparative",
+    "definition": "Italian word for a heraldic crest above a helmet."
+  },
+  {
+    "term": "cinquefoil",
+    "category": "Charges",
+    "definition": "A stylized five-lobed or five-petalled flower-like figure."
+  },
+  {
+    "term": "civic arms",
+    "category": "Institutions",
+    "definition": "Arms identifying a town, city, county or other public territorial body."
+  },
+  {
+    "term": "close",
+    "category": "Language",
+    "definition": "Of a bird, shown with its wings folded against its body."
   },
   {
     "term": "coat of arms",
@@ -115,9 +430,89 @@
     "definition": "A heraldic design belonging to an armiger; strictly distinguished from a crest alone."
   },
   {
+    "term": "cockatrice",
+    "category": "Charges",
+    "definition": "A legendary beast combining cockerel and reptilian features."
+  },
+  {
+    "term": "codicology",
+    "category": "Research",
+    "definition": "The study of the physical construction and history of manuscript books."
+  },
+  {
+    "term": "collar",
+    "category": "Anatomy",
+    "definition": "A ceremonial collar or chain of an order shown around a coat of arms."
+  },
+  {
+    "term": "collation",
+    "category": "Research",
+    "definition": "Comparison of textual witnesses to identify differences between copies."
+  },
+  {
+    "term": "College of Arms",
+    "category": "Institutions",
+    "definition": "The English corporation of heralds responsible for arms and records in its jurisdiction."
+  },
+  {
     "term": "compartment",
     "category": "Anatomy",
     "definition": "The ground or base upon which supporters may stand beneath an achievement."
+  },
+  {
+    "term": "compony",
+    "category": "Geometry",
+    "definition": "Composed of a single row of adjoining pieces in alternating tinctures."
+  },
+  {
+    "term": "confirmation of arms",
+    "category": "Practice",
+    "definition": "A formal recognition of existing arms, different from creating new arms."
+  },
+  {
+    "term": "conjoined",
+    "category": "Language",
+    "definition": "Joined or touching, with the nature of the connection dependent on context."
+  },
+  {
+    "term": "contourny",
+    "category": "Language",
+    "definition": "Facing sinister instead of the direction conventionally expected."
+  },
+  {
+    "term": "coronet",
+    "category": "Anatomy",
+    "definition": "A small crown-like emblem whose particular form may convey rank."
+  },
+  {
+    "term": "corporate arms",
+    "category": "Institutions",
+    "definition": "Arms of an organization such as a university, charity or corporation."
+  },
+  {
+    "term": "couchant",
+    "category": "Language",
+    "definition": "Reclining with the body at rest and the head usually raised."
+  },
+  {
+    "term": "counter-compony",
+    "category": "Geometry",
+    "definition": "Composed of two adjoining rows of alternating small squares or rectangles."
+  },
+  {
+    "term": "counter-ermine",
+    "category": "Tinctures",
+    "definition": "A reverse ermine pattern, usually white ermine spots on black."
+  },
+  {
+    "term": "counter-potent",
+    "category": "Tinctures",
+    "definition": "A potent fur pattern with rows of crutch-shaped figures arranged in opposing orientation."
+  },
+  {
+    "term": "counter-vair",
+    "category": "Tinctures",
+    "definition": "Vair with adjoining rows of bell-shaped pieces set base to base."
   },
   {
     "term": "counterchanged",
@@ -125,9 +520,39 @@
     "definition": "A design in which colours and/or metals of charges reverse across a divided field."
   },
   {
+    "term": "counterseal",
+    "category": "History",
+    "definition": "A seal impression on the reverse of a document or principal seal."
+  },
+  {
+    "term": "couped",
+    "category": "Language",
+    "definition": "Severed cleanly along a smooth or straight boundary."
+  },
+  {
+    "term": "courant",
+    "category": "Language",
+    "definition": "Running, generally with the animal's legs stretched out."
+  },
+  {
+    "term": "Court of the Lord Lyon",
+    "category": "Institutions",
+    "definition": "The Scottish heraldic court responsible for heraldic matters under Scots law."
+  },
+  {
+    "term": "crescent",
+    "category": "Charges",
+    "definition": "A curved moon-shaped charge whose horns commonly point upward."
+  },
+  {
     "term": "crest",
     "category": "Anatomy",
     "definition": "The heraldic device positioned atop the helmet, not the entire coat of arms."
+  },
+  {
+    "term": "critical edition",
+    "category": "Research",
+    "definition": "A scholarly text with documented witnesses, variants and editorial choices."
   },
   {
     "term": "cross",
@@ -140,9 +565,44 @@
     "definition": "A small cross with a crossing element near the end of each arm."
   },
   {
+    "term": "cross fleury",
+    "category": "Charges",
+    "definition": "A cross with arms terminating in stylized fleurs-de-lis."
+  },
+  {
+    "term": "cross formy",
+    "category": "Charges",
+    "definition": "A cross whose arms expand toward their ends."
+  },
+  {
     "term": "cross moline",
     "category": "Charges",
     "definition": "A cross with ends resembling the split ends of a millrind."
+  },
+  {
+    "term": "cross pattée",
+    "category": "Charges",
+    "definition": "A cross with arms broadening outward, found in many regional forms."
+  },
+  {
+    "term": "cross potent",
+    "category": "Charges",
+    "definition": "A cross with short transverse bars at the ends of its arms."
+  },
+  {
+    "term": "crown",
+    "category": "Anatomy",
+    "definition": "A heraldic representation of sovereignty or authority, with meaning dependent on context."
+  },
+  {
+    "term": "dancetty",
+    "category": "Geometry",
+    "definition": "A zigzag edge with comparatively large triangular teeth, as opposed to fine indented work."
+  },
+  {
+    "term": "demi-lion",
+    "category": "Charges",
+    "definition": "The upper half of a lion, often used in crests or as a charge."
   },
   {
     "term": "dexter",
@@ -150,9 +610,24 @@
     "definition": "The right side from the bearer's perspective; the viewer's left."
   },
   {
+    "term": "dexter base",
+    "category": "Geometry",
+    "definition": "The lower corner on the bearer's right, appearing at the viewer's lower left."
+  },
+  {
+    "term": "dexter chief",
+    "category": "Geometry",
+    "definition": "The upper corner on the bearer's right, appearing at the viewer's upper left."
+  },
+  {
     "term": "difference",
     "category": "Practice",
     "definition": "A modification of arms to distinguish another bearer or branch."
+  },
+  {
+    "term": "differencing",
+    "category": "Practice",
+    "definition": "Modifying arms to distinguish branches or individual bearers."
   },
   {
     "term": "dimidiation",
@@ -160,14 +635,89 @@
     "definition": "An old form of marshalling that combines parts of two coats of arms."
   },
   {
+    "term": "diplomatics",
+    "category": "Research",
+    "definition": "Historical study of documents, their form, authenticity and transmission."
+  },
+  {
     "term": "displayed",
     "category": "Language",
     "definition": "An attitude of a bird, particularly an eagle, with wings spread."
   },
   {
+    "term": "dormant",
+    "category": "Language",
+    "definition": "Sleeping, shown at rest with the head typically lowered."
+  },
+  {
+    "term": "double-headed eagle",
+    "category": "Charges",
+    "definition": "An eagle represented with two heads, common in several imperial traditions."
+  },
+  {
+    "term": "dovetailed",
+    "category": "Geometry",
+    "definition": "A partition line resembling the interlocking dovetail joints of carpentry."
+  },
+  {
+    "term": "eagle",
+    "category": "Charges",
+    "definition": "A large heraldic bird, commonly displayed with its wings spread."
+  },
+  {
+    "term": "ecclesiastical heraldry",
+    "category": "Institutions",
+    "definition": "Armorial traditions of religious officeholders and institutions."
+  },
+  {
+    "term": "elevated",
+    "category": "Language",
+    "definition": "Raised, especially describing a bird's wings."
+  },
+  {
+    "term": "embattled",
+    "category": "Geometry",
+    "definition": "An edge formed like battlements, with repeated raised portions and gaps."
+  },
+  {
+    "term": "embowed",
+    "category": "Language",
+    "definition": "Curved or bent, especially of a human arm or an animal's body."
+  },
+  {
+    "term": "enfiled",
+    "category": "Language",
+    "definition": "Passed through a ring, wreath or comparable surrounding object."
+  },
+  {
     "term": "engrailed",
     "category": "Language",
     "definition": "Describes a line or edge with a series of small curved indentations."
+  },
+  {
+    "term": "enhanced",
+    "category": "Geometry",
+    "definition": "Placed higher on the shield than the customary position of a charge or ordinary."
+  },
+  {
+    "term": "ensigned",
+    "category": "Language",
+    "definition": "Surmounted by an emblem or dignity such as a crown."
+  },
+  {
+    "term": "erased",
+    "category": "Language",
+    "definition": "Torn or separated along an irregular jagged boundary."
+  },
+  {
+    "term": "erb",
+    "category": "Comparative",
+    "definition": "Czech or Slovak term used for a coat of arms."
+  },
+  {
+    "term": "erect",
+    "category": "Language",
+    "definition": "Standing upright rather than lying in the customary orientation."
   },
   {
     "term": "ermine",
@@ -180,9 +730,29 @@
     "definition": "A reversed ermine fur, generally black with white ermine-tail spots."
   },
   {
+    "term": "erminite",
+    "category": "Tinctures",
+    "definition": "An ermine variant with red details added to the conventional black spots on white."
+  },
+  {
+    "term": "erminois",
+    "category": "Tinctures",
+    "definition": "A fur of black ermine spots scattered over a gold field."
+  },
+  {
     "term": "escallop",
     "category": "Charges",
     "definition": "A stylized scallop-shell charge."
+  },
+  {
+    "term": "escarbuncle",
+    "category": "Charges",
+    "definition": "A radiating heraldic figure derived from metal reinforcement on early shields."
+  },
+  {
+    "term": "escudo de armas",
+    "category": "Comparative",
+    "definition": "Spanish for coat of arms or armorial shield depending on context."
   },
   {
     "term": "escutcheon",
@@ -190,9 +760,24 @@
     "definition": "A shield bearing arms; a small shield charge can be called an inescutcheon."
   },
   {
+    "term": "estoile",
+    "category": "Charges",
+    "definition": "A star-like heraldic charge often shown with wavy rays."
+  },
+  {
+    "term": "facsimile",
+    "category": "Research",
+    "definition": "A visual reproduction of a document or image, potentially preserving fine detail."
+  },
+  {
     "term": "fess",
     "category": "Geometry",
     "definition": "A horizontal ordinary across the centre of a shield."
+  },
+  {
+    "term": "fetterlock",
+    "category": "Charges",
+    "definition": "A stylized fastening or shackle, especially familiar as an English badge."
   },
   {
     "term": "field",
@@ -200,9 +785,24 @@
     "definition": "The background surface of a shield, whether plain or divided."
   },
   {
+    "term": "fillet",
+    "category": "Geometry",
+    "definition": "A narrow band, especially a narrow chief in some English descriptive conventions."
+  },
+  {
     "term": "fimbriation",
     "category": "Geometry",
     "definition": "A narrow contrasting border applied to a heraldic figure, particularly in flags."
+  },
+  {
+    "term": "fitchy",
+    "category": "Language",
+    "definition": "Ending in a point, especially of the lower limb of a cross."
+  },
+  {
+    "term": "flanches",
+    "category": "Geometry",
+    "definition": "A pair of curved figures extending inward from the opposite sides of a shield."
   },
   {
     "term": "fleur-de-lis",
@@ -210,9 +810,54 @@
     "definition": "A stylized floral charge associated with several European heraldic traditions."
   },
   {
+    "term": "folio",
+    "category": "Research",
+    "definition": "One leaf of a manuscript book, with a front and reverse side."
+  },
+  {
+    "term": "fret",
+    "category": "Geometry",
+    "definition": "An interlaced geometric charge conventionally formed by a mascle and a saltire."
+  },
+  {
+    "term": "fretty",
+    "category": "Geometry",
+    "definition": "Covered with repeated interlaced diagonal strips in an open lattice pattern."
+  },
+  {
+    "term": "fructed",
+    "category": "Language",
+    "definition": "Bearing fruit of a specified tincture."
+  },
+  {
     "term": "fur",
     "category": "Tinctures",
     "definition": "A category of heraldic patterned tinctures including ermine and vair."
+  },
+  {
+    "term": "fusil",
+    "category": "Geometry",
+    "definition": "An elongated lozenge, narrower and more pointed than a conventional diamond."
+  },
+  {
+    "term": "fusilly",
+    "category": "Geometry",
+    "definition": "Divided into a repeating pattern of elongated diamond-shaped pieces."
+  },
+  {
+    "term": "garb",
+    "category": "Charges",
+    "definition": "A bound sheaf of grain, often wheat."
+  },
+  {
+    "term": "Garter Principal King of Arms",
+    "category": "Institutions",
+    "definition": "The senior English King of Arms at the College of Arms."
+  },
+  {
+    "term": "gonfanon",
+    "category": "Anatomy",
+    "definition": "A banner with hanging tails, sometimes used as a charge."
   },
   {
     "term": "grant of arms",
@@ -220,9 +865,9 @@
     "definition": "An official act creating armorial bearings by a competent heraldic authority."
   },
   {
-    "term": "gules",
-    "category": "Tinctures",
-    "definition": "The heraldic colour red, one of the principal colours used in armorial design."
+    "term": "griffin",
+    "category": "Charges",
+    "definition": "A creature combining the foreparts of an eagle with the hindquarters of a lion."
   },
   {
     "term": "guardant",
@@ -230,14 +875,39 @@
     "definition": "An attitude in which an animal's head faces the viewer."
   },
   {
+    "term": "gules",
+    "category": "Tinctures",
+    "definition": "The heraldic colour red, one of the principal colours used in armorial design."
+  },
+  {
+    "term": "gyron",
+    "category": "Geometry",
+    "definition": "A triangular sector, often one of the pieces of a gyronny field."
+  },
+  {
     "term": "gyronny",
     "category": "Geometry",
     "definition": "A division of the field into triangular sectors radiating from a common point."
   },
   {
+    "term": "harp",
+    "category": "Charges",
+    "definition": "A stringed instrument used as a heraldic charge."
+  },
+  {
+    "term": "hatching",
+    "category": "Tinctures",
+    "definition": "A scheme of dots and lines by which engravers represent heraldic tinctures without using coloured pigment; the Petra Sancta system became widely influential."
+  },
+  {
     "term": "hatchment",
     "category": "History",
     "definition": "A funerary heraldic display, often diamond-shaped, with conventions indicating family status."
+  },
+  {
+    "term": "hauriant",
+    "category": "Language",
+    "definition": "Of a fish, swimming upright with its head toward chief."
   },
   {
     "term": "helm",
@@ -250,9 +920,24 @@
     "definition": "An officer or specialist associated with armory, genealogy, and ceremonial protocol."
   },
   {
+    "term": "heraldic authority",
+    "category": "Institutions",
+    "definition": "An institution or officer empowered under a defined system to administer arms."
+  },
+  {
     "term": "heraldic heiress",
     "category": "People",
     "definition": "A woman through whom paternal arms may pass as quarterings under certain inheritance rules."
+  },
+  {
+    "term": "heraldic registration",
+    "category": "Institutions",
+    "definition": "An entry in a heraldic register, whose legal effect depends on the system involved."
+  },
+  {
+    "term": "heraldic visitation",
+    "category": "History",
+    "definition": "An official inquiry into pedigrees and arms, prominent in early modern England."
   },
   {
     "term": "heraldry",
@@ -260,14 +945,119 @@
     "definition": "The study, practice and administration of coats of arms and related devices."
   },
   {
+    "term": "herb",
+    "category": "Comparative",
+    "definition": "Polish for a coat of arms, often a named design borne by several noble families."
+  },
+  {
+    "term": "herbarz",
+    "category": "Comparative",
+    "definition": "Polish term for an armorial reference book, often compiled long after the events described."
+  },
+  {
+    "term": "hereditary arms",
+    "category": "Practice",
+    "definition": "Arms transmitted by descent under a relevant legal or customary system."
+  },
+  {
+    "term": "honour point",
+    "category": "Geometry",
+    "definition": "A reference point above the centre of a shield used for locating charges."
+  },
+  {
+    "term": "horse",
+    "category": "Charges",
+    "definition": "An equine charge represented in various attitudes."
+  },
+  {
+    "term": "illuminated manuscript",
+    "category": "Research",
+    "definition": "A manuscript embellished with painting, ornamental work or precious metals."
+  },
+  {
     "term": "impalement",
     "category": "Practice",
     "definition": "Combining two armorial identities side by side in one shield."
   },
   {
+    "term": "in bend",
+    "category": "Geometry",
+    "definition": "Separate charges arranged diagonally along the line of a bend."
+  },
+  {
+    "term": "in fess",
+    "category": "Geometry",
+    "definition": "Separate charges arranged horizontally across the field."
+  },
+  {
+    "term": "in orle",
+    "category": "Geometry",
+    "definition": "A group of separate charges following the inside perimeter of the shield."
+  },
+  {
+    "term": "in pale",
+    "category": "Geometry",
+    "definition": "Separate charges arranged one above another along a vertical line."
+  },
+  {
+    "term": "in pretence",
+    "category": "Practice",
+    "definition": "Shown on an inescutcheon to represent a heraldic claim under certain conventions."
+  },
+  {
+    "term": "in saltire",
+    "category": "Geometry",
+    "definition": "Separate charges arranged in the shape of a diagonal cross."
+  },
+  {
+    "term": "indented",
+    "category": "Geometry",
+    "definition": "An edge consisting of repeated small angular zigzags."
+  },
+  {
     "term": "inescutcheon",
     "category": "Geometry",
     "definition": "A smaller shield borne as a charge on a larger shield."
+  },
+  {
+    "term": "interlaced",
+    "category": "Language",
+    "definition": "Woven over and under one another, such as rings or knots."
+  },
+  {
+    "term": "invected",
+    "category": "Geometry",
+    "definition": "An edge formed of curved arcs oriented opposite to those of an engrailed line."
+  },
+  {
+    "term": "inverted",
+    "category": "Language",
+    "definition": "Turned upside down from the usual heraldic orientation."
+  },
+  {
+    "term": "issuant",
+    "category": "Language",
+    "definition": "Appearing to emerge from another figure or partition."
+  },
+  {
+    "term": "kamon",
+    "category": "Comparative",
+    "definition": "Japanese family or house emblem associated with mon traditions, not equivalent to European armorial law."
+  },
+  {
+    "term": "key",
+    "category": "Charges",
+    "definition": "A key, with its ward, bow and orientation sometimes specified."
+  },
+  {
+    "term": "King of Arms",
+    "category": "Institutions",
+    "definition": "A senior rank of heraldic officer with jurisdiction-specific responsibilities."
+  },
+  {
+    "term": "klejnot",
+    "category": "Comparative",
+    "definition": "Polish heraldic term for a crest, though the general word can mean a jewel."
   },
   {
     "term": "label",
@@ -280,9 +1070,34 @@
     "definition": "Another word for the decorative mantling flowing from a heraldic helm."
   },
   {
+    "term": "langued",
+    "category": "Language",
+    "definition": "Having a tongue of a specified tincture."
+  },
+  {
+    "term": "letters patent",
+    "category": "Institutions",
+    "definition": "An official instrument used by certain heraldic authorities to document a grant of arms."
+  },
+  {
+    "term": "lion",
+    "category": "Charges",
+    "definition": "A heavily stylized feline charge appearing in many attitudes."
+  },
+  {
     "term": "lion passant",
     "category": "Charges",
     "definition": "A heraldic lion shown walking, normally with one forepaw raised."
+  },
+  {
+    "term": "lion rampant",
+    "category": "Charges",
+    "definition": "A lion rearing upright on one hind leg."
+  },
+  {
+    "term": "Lord Lyon King of Arms",
+    "category": "Institutions",
+    "definition": "Scotland's principal heraldic officer with judicial and administrative responsibilities."
   },
   {
     "term": "lozenge",
@@ -290,9 +1105,24 @@
     "definition": "A diamond-shaped heraldic figure or alternative support used for some armorial displays."
   },
   {
+    "term": "lozengy",
+    "category": "Geometry",
+    "definition": "Divided into a repeating pattern of diamond-shaped areas of alternating tinctures."
+  },
+  {
+    "term": "lymphad",
+    "category": "Charges",
+    "definition": "A conventionalized ship, especially familiar in Scottish and island arms."
+  },
+  {
     "term": "mantling",
     "category": "Anatomy",
     "definition": "Decorative representation of cloth issuing from a helmet, often flowing around a shield."
+  },
+  {
+    "term": "manuscript witness",
+    "category": "Research",
+    "definition": "An individual surviving source attesting a text or design."
   },
   {
     "term": "marshalling",
@@ -305,14 +1135,54 @@
     "definition": "A stylized heraldic bird, commonly depicted without feet."
   },
   {
+    "term": "mascle",
+    "category": "Geometry",
+    "definition": "A lozenge-shaped figure with a similarly shaped opening in its centre."
+  },
+  {
+    "term": "material provenance",
+    "category": "Research",
+    "definition": "A documented chain of an artefact's creation, ownership and custody."
+  },
+  {
     "term": "matriculation",
     "category": "Institutions",
     "definition": "Formal recording of arms, particularly the Scottish process for a bearer or cadet branch."
   },
   {
+    "term": "membered",
+    "category": "Language",
+    "definition": "Having limbs or legs of a specified tincture, especially of birds."
+  },
+  {
+    "term": "merlette",
+    "category": "Charges",
+    "definition": "A stylized French heraldic bird often represented without beak or feet; compare the English martlet."
+  },
+  {
+    "term": "městský znak",
+    "category": "Comparative",
+    "definition": "Czech expression for the arms or emblem of a town."
+  },
+  {
     "term": "metal",
     "category": "Tinctures",
     "definition": "A class of tinctures comprising Or and Argent."
+  },
+  {
+    "term": "millrind",
+    "category": "Charges",
+    "definition": "An iron fitting associated with a millstone, rendered as a geometric charge."
+  },
+  {
+    "term": "mon",
+    "category": "Comparative",
+    "definition": "A Japanese emblem used to identify households or organizations outside European armorial frameworks."
+  },
+  {
+    "term": "mondokoro",
+    "category": "Comparative",
+    "definition": "A Japanese family emblem, with its own history and rules of use."
   },
   {
     "term": "motto",
@@ -325,6 +1195,31 @@
     "definition": "A star-shaped heraldic charge, often five-pointed in English usage."
   },
   {
+    "term": "naiant",
+    "category": "Language",
+    "definition": "Of a fish, swimming horizontally."
+  },
+  {
+    "term": "naissant",
+    "category": "Language",
+    "definition": "Emerging partly into view above a line or another figure."
+  },
+  {
+    "term": "nebuly",
+    "category": "Geometry",
+    "definition": "An edge or partition formed of repeated cloud-like curved lobes."
+  },
+  {
+    "term": "nombril point",
+    "category": "Geometry",
+    "definition": "A reference point below the centre of a heraldic shield, toward its base."
+  },
+  {
+    "term": "oak leaf",
+    "category": "Charges",
+    "definition": "The leaf of an oak tree, used individually or with branches and acorns."
+  },
+  {
     "term": "or",
     "category": "Tinctures",
     "definition": "The heraldic metal gold, often represented as yellow."
@@ -333,6 +1228,26 @@
     "term": "ordinary",
     "category": "Geometry",
     "definition": "A principal geometric figure such as a fess, pale, bend or chevron."
+  },
+  {
+    "term": "orle",
+    "category": "Geometry",
+    "definition": "A narrow border-like ordinary that follows the outline of a shield inside its field."
+  },
+  {
+    "term": "ostrich feather",
+    "category": "Charges",
+    "definition": "A long plume frequently used in crests and badges."
+  },
+  {
+    "term": "overall",
+    "category": "Language",
+    "definition": "A charge depicted across and visually over other figures."
+  },
+  {
+    "term": "palaeography",
+    "category": "Research",
+    "definition": "Study of historical handwriting and scripts used to read and date sources."
   },
   {
     "term": "pale",
@@ -345,9 +1260,19 @@
     "definition": "A Y-shaped ordinary formed by three bands meeting at one point, found in some civic and personal arms."
   },
   {
+    "term": "pallet",
+    "category": "Geometry",
+    "definition": "A relatively narrow vertical stripe, sometimes appearing in multiple groups."
+  },
+  {
     "term": "paly",
     "category": "Geometry",
     "definition": "Divided into an even number of alternating vertical stripes."
+  },
+  {
+    "term": "paly bendy",
+    "category": "Geometry",
+    "definition": "Divided by both vertical and diagonal lines, forming a repeated geometric pattern."
   },
   {
     "term": "passant",
@@ -355,9 +1280,39 @@
     "definition": "Walking; an animal attitude, often used of lions."
   },
   {
+    "term": "passant guardant",
+    "category": "Language",
+    "definition": "Walking while the head faces the viewer."
+  },
+  {
+    "term": "passant regardant",
+    "category": "Language",
+    "definition": "Walking with the head turned backward."
+  },
+  {
+    "term": "pean",
+    "category": "Tinctures",
+    "definition": "A fur with gold ermine spots on a black field."
+  },
+  {
+    "term": "pellet",
+    "category": "Charges",
+    "definition": "A black roundel in traditional English heraldic terminology."
+  },
+  {
+    "term": "pennon",
+    "category": "Anatomy",
+    "definition": "A tapering medieval flag associated with a knight or mounted retinue."
+  },
+  {
     "term": "per bend",
     "category": "Geometry",
     "definition": "A division of the field diagonally along the line of a bend."
+  },
+  {
+    "term": "per bend sinister",
+    "category": "Geometry",
+    "definition": "Divided diagonally from sinister chief toward dexter base."
   },
   {
     "term": "per chevron",
@@ -375,9 +1330,44 @@
     "definition": "A vertical division of the field."
   },
   {
+    "term": "per pall",
+    "category": "Geometry",
+    "definition": "Divided into three areas by lines meeting in the shape of a Y or its inverse."
+  },
+  {
+    "term": "per saltire",
+    "category": "Geometry",
+    "definition": "Divided into four triangular areas by diagonal lines forming an X."
+  },
+  {
+    "term": "Petra Sancta system",
+    "category": "Tinctures",
+    "definition": "A historically influential scheme for representing heraldic tinctures with engraved patterns, popularized in the seventeenth century."
+  },
+  {
+    "term": "pierced",
+    "category": "Language",
+    "definition": "Having an opening revealing the underlying field."
+  },
+  {
     "term": "pile",
     "category": "Geometry",
     "definition": "A wedge-shaped heraldic figure, usually pointing down from the chief."
+  },
+  {
+    "term": "portcullis",
+    "category": "Charges",
+    "definition": "A lattice gate with chains used as a heraldic device."
+  },
+  {
+    "term": "potent",
+    "category": "Tinctures",
+    "definition": "A stylized fur pattern built from repeated crutch-shaped pieces, often blue and white."
+  },
+  {
+    "term": "potenty",
+    "category": "Geometry",
+    "definition": "A partition line with repeated projections resembling the heads of heraldic crutches."
   },
   {
     "term": "proper",
@@ -385,9 +1375,29 @@
     "definition": "Depicted in a charge's natural or conventionally natural colours rather than a named tincture."
   },
   {
+    "term": "public register",
+    "category": "Institutions",
+    "definition": "An official or formally maintained collection of recorded arms."
+  },
+  {
     "term": "purpure",
     "category": "Tinctures",
     "definition": "The heraldic colour purple."
+  },
+  {
+    "term": "pursuivant",
+    "category": "Institutions",
+    "definition": "A junior heraldic officer, below a herald in several traditional hierarchies."
+  },
+  {
+    "term": "quarter",
+    "category": "Geometry",
+    "definition": "A substantial square or rectangular area placed in one corner of a shield."
+  },
+  {
+    "term": "quartering",
+    "category": "Practice",
+    "definition": "Combining different arms in separate quarters of the same shield."
   },
   {
     "term": "quarterly",
@@ -395,9 +1405,24 @@
     "definition": "The division of a field into four quarters, or an arrangement of multiple armorial identities."
   },
   {
+    "term": "quatrefoil",
+    "category": "Charges",
+    "definition": "A stylized four-lobed floral or leaf-like figure."
+  },
+  {
+    "term": "raguly",
+    "category": "Geometry",
+    "definition": "An edge with short angular projections resembling the stumps of lopped branches."
+  },
+  {
     "term": "rampant",
     "category": "Language",
     "definition": "Rearing up; a common attitude of a lion and some other beasts."
+  },
+  {
+    "term": "recto",
+    "category": "Research",
+    "definition": "The front side of a manuscript leaf, often abbreviated 'r'."
   },
   {
     "term": "regardant",
@@ -405,14 +1430,49 @@
     "definition": "With the head turned backward over the shoulder."
   },
   {
-    "term": "roundel",
-    "category": "Charges",
-    "definition": "A circular charge, sometimes named more specifically by its tincture."
+    "term": "registration of arms",
+    "category": "Practice",
+    "definition": "Recording arms in a register, not always a legal act of granting arms."
+  },
+  {
+    "term": "rematriculation",
+    "category": "Practice",
+    "definition": "A further registration or matriculation of inherited arms, especially in Scottish practice."
+  },
+  {
+    "term": "reproduction rights",
+    "category": "Research",
+    "definition": "Legal or custodial conditions governing reuse of an image or textual reproduction."
+  },
+  {
+    "term": "respectant",
+    "category": "Language",
+    "definition": "Of two creatures, facing toward one another."
+  },
+  {
+    "term": "ród herbowy",
+    "category": "Comparative",
+    "definition": "Polish expression for a heraldic clan or armorial group, not proof of shared descent."
+  },
+  {
+    "term": "roll of arms",
+    "category": "History",
+    "definition": "A compiled display or list of armorial bearings, often dating from medieval practice."
   },
   {
     "term": "rose",
     "category": "Charges",
     "definition": "A conventional heraldic flower, often shown with five petals."
+  },
+  {
+    "term": "roundel",
+    "category": "Charges",
+    "definition": "A circular charge, sometimes named more specifically by its tincture."
+  },
+  {
+    "term": "royal arms",
+    "category": "Institutions",
+    "definition": "Armorial bearings representing a sovereign or monarchy, rather than necessarily private arms."
   },
   {
     "term": "rule of tincture",
@@ -425,9 +1485,54 @@
     "definition": "The heraldic colour black."
   },
   {
+    "term": "salient",
+    "category": "Language",
+    "definition": "Leaping or springing, with the forelegs raised."
+  },
+  {
     "term": "saltire",
     "category": "Geometry",
     "definition": "A diagonal X-shaped cross, as an ordinary or charge."
+  },
+  {
+    "term": "sanguine",
+    "category": "Tinctures",
+    "definition": "An uncommon dark red tincture, classed as a stain by some heraldic writers."
+  },
+  {
+    "term": "scribal hand",
+    "category": "Research",
+    "definition": "A recognizable pattern or style of handwriting used in manuscript attribution."
+  },
+  {
+    "term": "scroll",
+    "category": "Anatomy",
+    "definition": "A ribbon-like device carrying a motto or other inscription."
+  },
+  {
+    "term": "seal matrix",
+    "category": "History",
+    "definition": "An engraved object used to impress a seal in wax or another material."
+  },
+  {
+    "term": "seax",
+    "category": "Charges",
+    "definition": "A single-edged knife or short sword, notably found in certain English civic arms."
+  },
+  {
+    "term": "seeded",
+    "category": "Language",
+    "definition": "Having the centre or seed of a heraldic flower separately described."
+  },
+  {
+    "term": "sejant",
+    "category": "Language",
+    "definition": "Sitting with the haunches on the ground."
+  },
+  {
+    "term": "sejant erect",
+    "category": "Language",
+    "definition": "Sitting while holding the forequarters upright."
   },
   {
     "term": "semy",
@@ -435,14 +1540,109 @@
     "definition": "Strewn with repeated small charges over a field."
   },
   {
+    "term": "sigillography",
+    "category": "History",
+    "definition": "The scholarly study of seals, their inscriptions, images, production and use."
+  },
+  {
     "term": "sinister",
     "category": "Geometry",
     "definition": "The bearer's left, appearing on the viewer's right."
   },
   {
+    "term": "sinister base",
+    "category": "Geometry",
+    "definition": "The lower corner on the bearer's left, appearing at the viewer's lower right."
+  },
+  {
+    "term": "sinister chief",
+    "category": "Geometry",
+    "definition": "The upper corner on the bearer's left, appearing at the viewer's upper right."
+  },
+  {
+    "term": "slipped",
+    "category": "Language",
+    "definition": "Of a plant or flower, shown with a short stem."
+  },
+  {
+    "term": "source-to-claim mapping",
+    "category": "Research",
+    "definition": "Recording precisely which evidence supports each historical claim."
+  },
+  {
+    "term": "Stadtwappen",
+    "category": "Comparative",
+    "definition": "German word for a town's or city's arms."
+  },
+  {
+    "term": "stag",
+    "category": "Charges",
+    "definition": "A male deer with antlers used as a heraldic animal."
+  },
+  {
+    "term": "stain",
+    "category": "Tinctures",
+    "definition": "A category used by some writers for additional tinctures; its contents are not universal."
+  },
+  {
+    "term": "standard",
+    "category": "Anatomy",
+    "definition": "A long flag historically displaying heraldic colours, badges or a motto."
+  },
+  {
+    "term": "statant",
+    "category": "Language",
+    "definition": "Standing on all available feet."
+  },
+  {
+    "term": "stemma",
+    "category": "Comparative",
+    "definition": "Italian for a coat of arms or emblem, including personal and civic usage."
+  },
+  {
+    "term": "stemma civico",
+    "category": "Comparative",
+    "definition": "Italian expression for civic or municipal arms."
+  },
+  {
+    "term": "subordinary",
+    "category": "Geometry",
+    "definition": "A smaller conventional geometric figure, such as an orle or canton."
+  },
+  {
+    "term": "sukuvaakuna",
+    "category": "Comparative",
+    "definition": "Finnish for family arms, distinct from civic or state bearings."
+  },
+  {
     "term": "supporters",
     "category": "Anatomy",
     "definition": "Figures supporting or flanking the shield, governed by differing entitlements and customs."
+  },
+  {
+    "term": "surcoat",
+    "category": "Anatomy",
+    "definition": "A garment worn over armour that could display armorial devices."
+  },
+  {
+    "term": "szlachta",
+    "category": "Comparative",
+    "definition": "Historical Polish nobility, with distinctive social and armorial traditions."
+  },
+  {
+    "term": "tabard",
+    "category": "Anatomy",
+    "definition": "An armorial garment worn by a herald to signify the sovereign or office represented."
+  },
+  {
+    "term": "tenné",
+    "category": "Tinctures",
+    "definition": "An uncommon orange-brown stain or tincture whose depiction differs among authorities."
+  },
+  {
+    "term": "thistle",
+    "category": "Charges",
+    "definition": "A prickly flowering plant associated with Scottish symbolism."
   },
   {
     "term": "tincture",
@@ -455,9 +1655,79 @@
     "definition": "A twisted cloth wreath placed over the helm and beneath the crest."
   },
   {
+    "term": "transcription",
+    "category": "Research",
+    "definition": "A written rendering of an original document, distinct from translation."
+  },
+  {
+    "term": "trefoil",
+    "category": "Charges",
+    "definition": "A three-lobed plant-like charge resembling a clover leaf."
+  },
+  {
+    "term": "tressure",
+    "category": "Geometry",
+    "definition": "A narrow border set inside the field and following the outline of the shield."
+  },
+  {
+    "term": "undy",
+    "category": "Geometry",
+    "definition": "A traditional alternative term for a gently waving heraldic partition line."
+  },
+  {
+    "term": "unguled",
+    "category": "Language",
+    "definition": "Having the hooves of a specified tincture."
+  },
+  {
+    "term": "unicorn",
+    "category": "Charges",
+    "definition": "A mythical one-horned creature, often shown with distinctive heraldic features."
+  },
+  {
+    "term": "vaakuna",
+    "category": "Comparative",
+    "definition": "Finnish word for coat of arms, used in several compound expressions."
+  },
+  {
     "term": "vair",
     "category": "Tinctures",
     "definition": "A stylized heraldic fur with recurring bell-shaped pieces, commonly alternating blue and white."
+  },
+  {
+    "term": "vair en point",
+    "category": "Tinctures",
+    "definition": "A variant of vair with bell-shaped pieces aligned point to point."
+  },
+  {
+    "term": "vair in pale",
+    "category": "Tinctures",
+    "definition": "A variation of vair arranged with the recurring shapes in vertical columns."
+  },
+  {
+    "term": "vapen",
+    "category": "Comparative",
+    "definition": "Swedish word for heraldic arms, depending on context."
+  },
+  {
+    "term": "vapenbrev",
+    "category": "Comparative",
+    "definition": "Swedish term for an armorial document, whose authority must be assessed historically."
+  },
+  {
+    "term": "vapensköld",
+    "category": "Comparative",
+    "definition": "Swedish term for a heraldic shield."
+  },
+  {
+    "term": "variant reading",
+    "category": "Research",
+    "definition": "Textual differences between separate manuscripts or editions."
+  },
+  {
+    "term": "verso",
+    "category": "Research",
+    "definition": "The reverse side of a manuscript leaf, often abbreviated 'v'."
   },
   {
     "term": "vert",
@@ -465,9 +1735,84 @@
     "definition": "The heraldic colour green."
   },
   {
+    "term": "visitation",
+    "category": "Practice",
+    "definition": "An examination and recording of pedigrees and arms by authorized heraldic officers."
+  },
+  {
+    "term": "voided",
+    "category": "Geometry",
+    "definition": "Of a charge, represented mainly as an outline through which its background remains visible."
+  },
+  {
+    "term": "volant",
+    "category": "Language",
+    "definition": "Flying, used particularly of a bird with extended wings."
+  },
+  {
+    "term": "vulned",
+    "category": "Language",
+    "definition": "Shown wounded, usually with visible blood."
+  },
+  {
+    "term": "Wappen",
+    "category": "Comparative",
+    "definition": "German word for coat of arms, applicable to several types of armiger."
+  },
+  {
+    "term": "Wappenannahme",
+    "category": "Comparative",
+    "definition": "German for the assumption or adoption of arms, not necessarily a grant."
+  },
+  {
+    "term": "Wappenbrief",
+    "category": "Comparative",
+    "definition": "German for a written instrument recording or conferring arms."
+  },
+  {
+    "term": "Wappenbuch",
+    "category": "Comparative",
+    "definition": "German for an armorial book or compilation, not necessarily an official register."
+  },
+  {
+    "term": "Wappenrolle",
+    "category": "Comparative",
+    "definition": "German for a roll or register of arms, which may be privately maintained."
+  },
+  {
+    "term": "water bouget",
+    "category": "Charges",
+    "definition": "Two water containers suspended from a carrying yoke."
+  },
+  {
+    "term": "watermark",
+    "category": "Research",
+    "definition": "A pattern formed in paper manufacture useful for dating and identifying paper stocks."
+  },
+  {
     "term": "wavy",
     "category": "Language",
     "definition": "A gently undulating line or edge used in divisions or figures."
+  },
+  {
+    "term": "wheel",
+    "category": "Charges",
+    "definition": "A circular spoked object appearing in civic, craft and personal arms."
+  },
+  {
+    "term": "wings addorsed",
+    "category": "Language",
+    "definition": "Of a pair of wings, shown back to back."
+  },
+  {
+    "term": "wings displayed",
+    "category": "Language",
+    "definition": "Wings spread so that both are clearly visible."
+  },
+  {
+    "term": "wolf",
+    "category": "Charges",
+    "definition": "A canine heraldic charge shown in various attitudes."
   },
   {
     "term": "wreath",
@@ -475,18 +1820,18 @@
     "definition": "The torse, usually comprising alternating twists of two tinctures."
   },
   {
-    "term": "letters patent",
-    "category": "Institutions",
-    "definition": "An official instrument used by certain heraldic authorities to document a grant of arms."
+    "term": "wyvern",
+    "category": "Charges",
+    "definition": "A two-legged dragon-like creature in much English heraldic convention."
   },
   {
-    "term": "hatching",
-    "category": "Tinctures",
-    "definition": "A scheme of dots and lines by which engravers represent heraldic tinctures without using coloured pigment; the Petra Sancta system became widely influential."
+    "term": "yale",
+    "category": "Charges",
+    "definition": "A fantastical beast with horns, whose artistic depiction varies."
   },
   {
-    "term": "Petra Sancta system",
-    "category": "Tinctures",
-    "definition": "A historically influential scheme for representing heraldic tinctures with engraved patterns, popularized in the seventeenth century."
+    "term": "zawołanie",
+    "category": "Comparative",
+    "definition": "Polish term associated with heraldic calls, proclamations or group designations."
   }
 ]
