@@ -332,5 +332,38 @@
     "translationStatus": "source-checked short working translation, independent specialist review outstanding",
     "usage": "short attributed quotation; full original remains with authority",
     "accessed": "2026-10-08"
+  },
+  {
+    "id": "romania-monochrome",
+    "region": "Romania",
+    "language": "ro",
+    "sourceId": "ro-national-arms",
+    "sourceTitle": "Legea nr. 102/1992 privind stema ţării şi sigiliul statului",
+    "locator": "Article 2, first sentence concerning black-and-white rendering, as published in the official legislative database",
+    "url": "https://legislatie.just.ro/Public/DetaliiDocument/2381",
+    "sourceType": "Official statute",
+    "original": "Reprezentarea în alb-negru a stemei se face prin semnele convenţionale folosite în heraldică pentru desemnarea cromaticii",
+    "translation": "The coat of arms is represented in black and white using the conventional signs employed in heraldry to indicate its colours.",
+    "vocabulary": [
+      {
+        "term": "reprezentarea în alb-negru",
+        "translation": "the black-and-white representation"
+      },
+      {
+        "term": "semnele convenţionale",
+        "translation": "conventional signs"
+      },
+      {
+        "term": "desemnarea cromaticii",
+        "translation": "indication of the colours"
+      }
+    ],
+    "analysis": "The law requires the classic heraldic hatching system for monochrome depictions of Romania's official state coat of arms. In the sentences following the quoted passage, Romanian legislation specifies dots for gold, blank white for silver, vertical lines for red, horizontal lines for blue and crossed vertical/horizontal lines for black. This is a striking example of a visual convention given statutory force for a particular state insignia, not a universal law governing every privately designed coat throughout Europe.",
+    "assignment": "Use Article 2 to encode each of the five named heraldic tinctures as a black-and-white hatch and test their appearance in the digital Tincture Laboratory. Explain how one would verify compliance of an actual national arms reproduction against the official annex, not just the pattern legend.",
+    "rights": "Short excerpt from a public statutory source; full text remains linked at Romania's official legal portal.",
+    "review": "Original Romanian legislative wording checked against official source; English rendering is editorial, awaiting Romanian specialist review.",
+    "translationStatus": "source-checked short working translation, independent specialist review outstanding",
+    "usage": "short attributed quotation; full original remains with authority",
+    "accessed": "2026-10-08"
   }
 ]
