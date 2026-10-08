@@ -1,0 +1,80 @@
+---
+import Base from '../layouts/Base.astro';
+import PageIntro from '../components/PageIntro.astro';
+import Shield from '../components/Shield.astro';
+import {DEFAULT_DESIGN,blazon} from '../lib/heraldry.js';
+const examples=[
+  'Azure, on a fess Or three mullets Gules.',
+  'Argent, a cross Gules.',
+  'Per pale Or and Azure.',
+  'Vert, three martlets Argent.',
+  'Gules, a fleur-de-lis Or.',
+  'Sable, on a chief Argent three roses Gules.'
+];
+---
+<Base title="The Blazon Decoder" description="Write a simple heraldic blazon and see the shield. A deliberately limited, educational parser helps teach the grammar of field, ordinary and charge.">
+  <PageIntro eyebrow="The reverse laboratory" title="Words into arms." description="A herald can speak a shield into existence. Try writing the description yourself and see how much a handful of words can express."/>
+  <section class="section">
+    <div class="wrap">
+      <div class="practice-grid">
+        <div class="field-panel" style="padding:clamp(25px,4vw,40px)">
+          <p class="eyebrow"><span class="star">✦</span> The decoder</p>
+          <h2 class="section-title" style="font-size:clamp(2.2rem,4vw,3.3rem)">Describe the shield.</h2>
+          <form id="decoder-form">
+            <label for="decoder-input" class="form-label" style="margin-top:30px">Enter a simple English-language blazon</label>
+            <textarea id="decoder-input" name="blazon" rows="4" spellcheck="false" style="width:100%;padding:16px;border:1px solid var(--line);background:var(--paper);color:var(--ink);line-height:1.55;font-size:1rem;resize:vertical">{examples[0]}</textarea>
+            <button class="btn btn-dark" type="submit" style="margin-top:18px">Interpret this blazon ↗</button>
+          </form>
+          <div class="assessment"><span class="status good" id="decoder-status" role="status" aria-live="polite">✦ Ready to interpret.</span><p id="decoder-feedback" class="caption">This interpreter knows only the core grammar taught in the introductory academy. More complicated historical blazons need a human herald.</p></div>
+          <h3 style="font:500 1.65rem var(--serif);margin:26px 0 12px">Try a specimen.</h3>
+          <div style="display:flex;gap:8px;flex-wrap:wrap">{examples.map((example,i)=><button type="button" class="chip" data-example={example}>Example {String(i+1).padStart(2,'0')}</button>)}</div>
+        </div>
+        <div>
+          <div class="atelier-stage" style="min-height:475px"><span class="stage-kicker">The translation · Original SVG</span><div class="shield-illustration" id="decoder-shield" style="width:min(250px,75%)"><Shield design={DEFAULT_DESIGN} id="decoder-first"/></div><span class="stage-corner">Grammar becomes image</span></div>
+          <div class="atelier-output">
+            <p class="eyebrow"><span class="star">✦</span> Canonical introductory wording</p><p class="blazon-display" id="decoder-canonical">{blazon(DEFAULT_DESIGN)}</p>
+            <a id="decoder-edit" href="/atelier/" class="btn btn-dark">Edit this shield ↗</a>
+            <button type="button" class="btn btn-quiet" id="decoder-copy">Copy blazon</button>
+          </div>
+        </div>
+      </div>
+      <div class="field-grid" style="margin-top:28px">
+        <article class="field-panel"><span class="smallcaps" style="color:var(--red)">01 · Establish the field</span><h3>Azure,</h3><p>First state the field tincture. Or specify a division such as <em>Per pale Argent and Gules</em>.</p></article>
+        <article class="field-panel"><span class="smallcaps" style="color:var(--red)">02 · Add the geometry</span><h3>a fess Or</h3><p>Describe an ordinary and its tincture. To place charges on that ordinary, use <em>on a fess</em>.</p></article>
+        <article class="field-panel"><span class="smallcaps" style="color:var(--red)">03 · Describe the charges</span><h3>three mullets Gules.</h3><p>Name the charge, the number, and its tincture. This teaching interpreter supports several familiar charges.</p></article>
+      </div>
+      <div class="notice-box" style="margin-top:28px"><strong>A deliberately limited translator.</strong><p>This site is not claiming to parse the full, historically variable grammar of heraldry. Unsupported forms are declined instead of guessed. For advanced reading, consult the <a href="/academy/reading-a-blazon/" style="text-decoration:underline">blazon lesson</a>, our <a href="/lexicon/" style="text-decoration:underline">lexicon</a>, and the appropriate primary sources.</p></div>
+    </div>
+  </section>
+  <script>
+    import {parseBlazon} from '../lib/blazon-parser.js';
+    import {armsSVG,normalizeDesign} from '../lib/heraldry.js';
+    const form=document.querySelector<HTMLFormElement>('#decoder-form');
+    const input=document.querySelector<HTMLTextAreaElement>('#decoder-input');
+    const status=document.querySelector<HTMLElement>('#decoder-status');
+    const feedback=document.querySelector<HTMLElement>('#decoder-feedback');
+    const shield=document.querySelector<HTMLElement>('#decoder-shield');
+    const canonical=document.querySelector<HTMLElement>('#decoder-canonical');
+    const edit=document.querySelector<HTMLAnchorElement>('#decoder-edit');
+    const decode=()=>{
+      const result=parseBlazon(input?.value||'');
+      if(!result.ok){
+        if(status){status.className='status caution';status.textContent='⚑ A phrase I cannot yet interpret.';}
+        if(feedback)feedback.textContent=result.error||'Unrecognized blazon.';
+        return;
+      }
+      if(status){status.className='status good';status.textContent='✦ A readable introductory blazon.';}
+      if(feedback)feedback.textContent=result.note||'';
+      if(shield)shield.innerHTML=armsSVG(result.design,'decoder-active');
+      if(canonical)canonical.textContent=result.canonical||'';
+      if(edit){const d=normalizeDesign(result.design);edit.href='/atelier/?'+new URLSearchParams(Object.entries(d).map(([k,v])=>[k,String(v)])).toString();}
+    };
+    form?.addEventListener('submit',(e)=>{e.preventDefault();decode();});
+    document.querySelectorAll<HTMLButtonElement>('[data-example]').forEach(b=>b.addEventListener('click',()=>{if(input)input.value=b.dataset.example||'';decode();input?.focus();}));
+    document.getElementById('decoder-copy')?.addEventListener('click',async()=>{
+      try{await navigator.clipboard.writeText(canonical?.textContent||'');if(status)status.textContent='✦ Blazon copied.';}
+      catch{if(status)status.textContent='⚑ Select the wording to copy it manually.';}
+    });
+    decode();
+  </script>
+</Base>
