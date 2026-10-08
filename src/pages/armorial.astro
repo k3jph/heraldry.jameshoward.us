@@ -5,7 +5,7 @@ import Shield from '../components/Shield.astro';
 import showcase from '../data/showcase.json';
 import {blazon,normalizeDesign} from '../lib/heraldry.js';
 const categories=['All studies','Ordinary','Charges','Divisions'];
-const linkFor=(d:Record<string,string|number>)=>'/atelier/?'+new URLSearchParams(Object.entries(normalizeDesign(d)).map(([k,v])=>[k,String(v)])).toString();
+const linkFor=(d:Record<string,string|number|undefined>)=>'/atelier/?'+new URLSearchParams(Object.entries(normalizeDesign(d)).map(([k,v])=>[k,String(v)])).toString();
 ---
 <Base title="Teaching Armorial" description="Sixteen original pedagogical coats of arms to learn charges, field divisions, ordinaries and heraldic blazon; each example opens in the editable Atelier.">
   <PageIntro eyebrow="The teaching collection" title="The armorial." description="A cabinet of original shields. Every one illustrates a visual idea, carries a readable blazon, and opens directly in the Atelier so you can take it apart."/>

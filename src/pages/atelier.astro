@@ -1,11 +1,10 @@
 ---
 import Base from '../layouts/Base.astro';
 import PageIntro from '../components/PageIntro.astro';
-import { TINCTURES, FIELD_VALUES, DIVISIONS, ORDINARIES, CHARGES, DEFAULT_DESIGN, armsSVG, blazon } from '../lib/heraldry.js';
+import { TINCTURES, FIELD_VALUES, DEFAULT_DESIGN, armsSVG, blazon } from '../lib/heraldry.js';
 const divisions=[['none','Undivided field'],['per-pale','Per pale'],['per-fess','Per fess'],['per-bend','Per bend'],['quarterly','Quarterly']];
 const ordinaries=[['none','No ordinary'],['fess','Fess'],['pale','Pale'],['bend','Bend'],['bend-sinister','Bend sinister'],['chief','Chief'],['chevron','Chevron'],['cross','Cross'],['saltire','Saltire'],['bordure','Bordure']];
 const charges=[['none','No charge'],['mullet','Mullet · star'],['fleur','Fleur-de-lis'],['martlet','Martlet'],['rose','Rose'],['escallop','Escallop'],['roundel','Roundel'],['annulet','Annulet'],['crosslet','Cross crosslet']];
-const fields=['field','ordinaryTincture','chargeTincture'];
 const fieldLabels={field:'Field tincture',ordinaryTincture:'Ordinary tincture',chargeTincture:'Charge tincture'};
 ---
 <Base title="The Blazon Atelier" description="Create an original heraldic shield study. Change tinctures, field divisions, ordinaries and charges; see a live SVG, introductory blazon and contrast advice, then export your design.">
