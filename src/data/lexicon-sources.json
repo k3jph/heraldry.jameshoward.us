@@ -1,0 +1,123 @@
+[
+  {
+    "id": "ca-mcgill",
+    "title": "James McGill — Registration of Arms (2020)",
+    "institution": "Canadian Heraldic Authority",
+    "jurisdiction": "Canada · historical Scottish arms",
+    "language": "en",
+    "recordDate": "2020-12-15",
+    "sourceKind": "official armorial registration",
+    "url": "https://www.gg.ca/en/heraldry/public-register/project/3280",
+    "rightsNote": "Link to official register; do not reuse its artwork without permission."
+  },
+  {
+    "id": "ca-grandlodge",
+    "title": "Grand Lodge of Quebec — Grant of Arms and Supporters (2003)",
+    "institution": "Canadian Heraldic Authority",
+    "jurisdiction": "Canada",
+    "language": "en",
+    "recordDate": "2003-05-15",
+    "sourceKind": "official grant",
+    "url": "https://www.gg.ca/en/heraldry/public-register/project/88",
+    "rightsNote": "Link to official register; do not reproduce the armorial illustration."
+  },
+  {
+    "id": "ca-royalarms",
+    "title": "Canada — Registration of the Arms of His Majesty the King in Right of Canada (2022)",
+    "institution": "Canadian Heraldic Authority",
+    "jurisdiction": "Canada",
+    "language": "en",
+    "recordDate": "2022-09-15",
+    "sourceKind": "official armorial registration",
+    "url": "https://www.gg.ca/en/heraldry/public-register/project/3454",
+    "rightsNote": "Link to official register; no reuse of the armorial image."
+  },
+  {
+    "id": "ca-fisher",
+    "title": "John Robert Fisher — Grant of Arms, Flag and Badge (2018)",
+    "institution": "Canadian Heraldic Authority",
+    "jurisdiction": "Canada",
+    "language": "en",
+    "recordDate": "2018-04-20",
+    "sourceKind": "official grant",
+    "url": "https://www.gg.ca/en/heraldry/public-register/project/3043",
+    "rightsNote": "Link to official register; no reproduction of images."
+  },
+  {
+    "id": "ca-finn",
+    "title": "Gilbert Finn — Grant of Arms and Supporters (1992)",
+    "institution": "Canadian Heraldic Authority",
+    "jurisdiction": "Canada",
+    "language": "en",
+    "recordDate": "1992-03-06",
+    "sourceKind": "official grant",
+    "url": "https://www.gg.ca/en/heraldry/public-register/project/1515",
+    "rightsNote": "Link to official register; do not reproduce its images."
+  },
+  {
+    "id": "ca-maillet",
+    "title": "Association des Maillet d'Acadie — Grant of Arms (2014)",
+    "institution": "Canadian Heraldic Authority",
+    "jurisdiction": "Canada",
+    "language": "en",
+    "recordDate": "2014-03-20",
+    "sourceKind": "official grant",
+    "url": "https://www.gg.ca/en/heraldry/public-register/project/2465",
+    "rightsNote": "Link to official register; no art reproduction."
+  },
+  {
+    "id": "ca-anglican",
+    "title": "Anglican Synod of the Diocese of British Columbia — Registration of Arms (2006)",
+    "institution": "Canadian Heraldic Authority",
+    "jurisdiction": "Canada",
+    "language": "en",
+    "recordDate": "2006-11-15",
+    "sourceKind": "official armorial registration",
+    "url": "https://www.gg.ca/en/heraldry/public-register/project/1092",
+    "rightsNote": "Link to official register; art requires separate rights."
+  },
+  {
+    "id": "uk-rsa",
+    "title": "Royal Society of Arts — Grant of Arms, Crest and Supporters (2006)",
+    "institution": "College of Arms",
+    "jurisdiction": "England",
+    "language": "en",
+    "recordDate": "2006-07-10",
+    "sourceKind": "official grant description",
+    "url": "https://www.college-of-arms.gov.uk/news-grants/grants/item/23-royal-society-arts",
+    "rightsNote": "Link to the College; do not copy its copyrighted artwork."
+  },
+  {
+    "id": "uk-grant-guide",
+    "title": "Granting of Arms — College of Arms",
+    "institution": "College of Arms",
+    "jurisdiction": "England and specified jurisdictions",
+    "language": "en",
+    "recordDate": null,
+    "sourceKind": "official institutional guidance",
+    "url": "https://www.college-of-arms.gov.uk/About/11.htm",
+    "rightsNote": "Link to explanation and paraphrase; do not reproduce its images."
+  },
+  {
+    "id": "de-dwr-guide",
+    "title": "Die Deutsche Wappenrolle (DWR) — Satzung",
+    "institution": "HEROLD",
+    "jurisdiction": "German-speaking heraldic association",
+    "language": "de",
+    "recordDate": null,
+    "sourceKind": "published association statute and register guidance",
+    "url": "https://herold-verein.de/heraldik/die-deutsche-wappenrolle-dwr/",
+    "rightsNote": "Cite association text by section; link rather than copying extensive passages."
+  },
+  {
+    "id": "fr-bnf-guide",
+    "title": "Ressources généalogiques : Noblesse — Armorial général de France",
+    "institution": "Bibliothèque nationale de France · Gallica",
+    "jurisdiction": "France",
+    "language": "fr",
+    "recordDate": null,
+    "sourceKind": "official archival research guide",
+    "url": "https://gallica.bnf.fr/selections/fr/html/histoire/ressources-genealogiques-noblesse",
+    "rightsNote": "Link to guide and manuscript records; do not infer rights for associated images."
+  }
+]

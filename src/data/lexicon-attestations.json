@@ -1,0 +1,1691 @@
+[
+  {
+    "term": "achievement",
+    "links": [
+      {
+        "sourceId": "uk-grant-guide",
+        "relationship": "institutional-explanation",
+        "locator": "Petitioning for Arms; distinction between picture and written description",
+        "note": "The College explains the governing role of the written blazon and distinguishes it from painted artistic interpretations."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "affronté",
+    "links": [
+      {
+        "sourceId": "ca-grandlodge",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; grant dated 15 May 2003",
+        "note": "A complex Canadian grant illustrates this term in an actual official blazon, not merely in an abstract dictionary."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "allusive arms",
+    "links": [
+      {
+        "sourceId": "ca-maillet",
+        "relationship": "institutional-context",
+        "locator": "Arms · Symbolism; grant dated 20 March 2014",
+        "note": "The official explanation explicitly connects the mallet and tankard charges with personal names, illustrating the concept rather than using this English label as a headword."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "anchor",
+    "links": [
+      {
+        "sourceId": "ca-maillet",
+        "relationship": "recorded-usage",
+        "locator": "Crest · Blazon; grant dated 20 March 2014",
+        "note": "A heraldic crest for a Canadian association supplies a dated illustration of this term."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "annulus",
+    "links": [
+      {
+        "sourceId": "ca-royalarms",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; Canadian registration dated 15 September 2022",
+        "note": "The current Canadian register records the heraldic construction and associated vocabulary in a dated royal-armorial description."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "argent",
+    "links": [
+      {
+        "sourceId": "ca-mcgill",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; 2020 registration, originally recorded in Scotland in 1957",
+        "note": "A published Canadian registration uses this word in an armorial description, documenting a specific design rather than a universal definition."
+      },
+      {
+        "sourceId": "ca-grandlodge",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; grant dated 15 May 2003",
+        "note": "A complex Canadian grant illustrates this term in an actual official blazon, not merely in an abstract dictionary."
+      },
+      {
+        "sourceId": "ca-royalarms",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; Canadian registration dated 15 September 2022",
+        "note": "The current Canadian register records the heraldic construction and associated vocabulary in a dated royal-armorial description."
+      },
+      {
+        "sourceId": "ca-fisher",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; grant dated 20 April 2018",
+        "note": "A modern official blazon illustrates this expression and its placement or orientation."
+      },
+      {
+        "sourceId": "ca-finn",
+        "relationship": "recorded-usage",
+        "locator": "Crest · Blazon; grant dated 6 March 1992",
+        "note": "The recorded crest supplies a modern example of this term."
+      },
+      {
+        "sourceId": "ca-maillet",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; grant dated 20 March 2014",
+        "note": "A contemporary civic-association grant illustrates this word in an original formal blazon."
+      },
+      {
+        "sourceId": "ca-anglican",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; registration dated 15 November 2006",
+        "note": "The registered arms of an ecclesiastical institution provide a documentary use of the term."
+      },
+      {
+        "sourceId": "uk-rsa",
+        "relationship": "recorded-usage",
+        "locator": "Arms, Crest and Supporters; College grant dated 10 July 2006",
+        "note": "The College of Arms describes this specific grant with the word in its published blazons."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "armed",
+    "links": [
+      {
+        "sourceId": "ca-finn",
+        "relationship": "recorded-usage",
+        "locator": "Crest · Blazon; grant dated 6 March 1992",
+        "note": "The recorded crest supplies a modern example of this term."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "armoiries",
+    "links": [
+      {
+        "sourceId": "fr-bnf-guide",
+        "relationship": "institutional-explanation",
+        "locator": "Armorial général de France; manuscript series and edict of 1696",
+        "note": "The BnF differentiates textual manuscript series from painted armorial records; a catalogue entry is not automatically a grant."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "armorial",
+    "links": [
+      {
+        "sourceId": "fr-bnf-guide",
+        "relationship": "institutional-explanation",
+        "locator": "Armorial général de France; manuscript series and edict of 1696",
+        "note": "The BnF differentiates textual manuscript series from painted armorial records; a catalogue entry is not automatically a grant."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "Armorial général",
+    "links": [
+      {
+        "sourceId": "fr-bnf-guide",
+        "relationship": "institutional-explanation",
+        "locator": "Armorial général de France; manuscript series and edict of 1696",
+        "note": "The BnF differentiates textual manuscript series from painted armorial records; a catalogue entry is not automatically a grant."
+      }
+    ],
+    "relatedTerms": [
+      "blasons coloriés",
+      "armorial"
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "arms",
+    "links": [
+      {
+        "sourceId": "uk-grant-guide",
+        "relationship": "institutional-explanation",
+        "locator": "Petitioning for Arms; distinction between picture and written description",
+        "note": "The College explains the governing role of the written blazon and distinguishes it from painted artistic interpretations."
+      }
+    ],
+    "relatedTerms": [
+      "coat of arms",
+      "achievement"
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "attired",
+    "links": [
+      {
+        "sourceId": "ca-finn",
+        "relationship": "recorded-usage",
+        "locator": "Supporters · Blazon; grant dated 6 March 1992",
+        "note": "The official description supplies a distinct supporter example."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "azure",
+    "links": [
+      {
+        "sourceId": "ca-grandlodge",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; grant dated 15 May 2003",
+        "note": "A complex Canadian grant illustrates this term in an actual official blazon, not merely in an abstract dictionary."
+      },
+      {
+        "sourceId": "ca-royalarms",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; Canadian registration dated 15 September 2022",
+        "note": "The current Canadian register records the heraldic construction and associated vocabulary in a dated royal-armorial description."
+      },
+      {
+        "sourceId": "ca-fisher",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; grant dated 20 April 2018",
+        "note": "A modern official blazon illustrates this expression and its placement or orientation."
+      },
+      {
+        "sourceId": "ca-finn",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; grant dated 6 March 1992",
+        "note": "The official Canadian grant records these figures or tinctures in its blazon."
+      },
+      {
+        "sourceId": "ca-maillet",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; grant dated 20 March 2014",
+        "note": "A contemporary civic-association grant illustrates this word in an original formal blazon."
+      },
+      {
+        "sourceId": "ca-anglican",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; registration dated 15 November 2006",
+        "note": "The registered arms of an ecclesiastical institution provide a documentary use of the term."
+      },
+      {
+        "sourceId": "uk-rsa",
+        "relationship": "recorded-usage",
+        "locator": "Arms, Crest and Supporters; College grant dated 10 July 2006",
+        "note": "The College of Arms describes this specific grant with the word in its published blazons."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "badge",
+    "links": [
+      {
+        "sourceId": "uk-grant-guide",
+        "relationship": "institutional-explanation",
+        "locator": "Petitioning for Arms; standards and badges",
+        "note": "The College describes the scope and significance of these different elements and instruments."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "bar",
+    "links": [
+      {
+        "sourceId": "ca-fisher",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; grant dated 20 April 2018",
+        "note": "A modern official blazon illustrates this expression and its placement or orientation."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "bar serpentine",
+    "links": [
+      {
+        "sourceId": "ca-fisher",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; grant dated 20 April 2018",
+        "note": "A modern official blazon illustrates this expression and its placement or orientation."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "base",
+    "links": [
+      {
+        "sourceId": "uk-rsa",
+        "relationship": "recorded-usage",
+        "locator": "Arms, Crest and Supporters; College grant dated 10 July 2006",
+        "note": "The College of Arms describes this specific grant with the word in its published blazons."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "between",
+    "links": [
+      {
+        "sourceId": "ca-grandlodge",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; grant dated 15 May 2003",
+        "note": "A complex Canadian grant illustrates this term in an actual official blazon, not merely in an abstract dictionary."
+      },
+      {
+        "sourceId": "ca-fisher",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; grant dated 20 April 2018",
+        "note": "A modern official blazon illustrates this expression and its placement or orientation."
+      },
+      {
+        "sourceId": "ca-maillet",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; grant dated 20 March 2014",
+        "note": "A contemporary civic-association grant illustrates this word in an original formal blazon."
+      },
+      {
+        "sourceId": "ca-anglican",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; registration dated 15 November 2006",
+        "note": "The registered arms of an ecclesiastical institution provide a documentary use of the term."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "bezant",
+    "links": [
+      {
+        "sourceId": "ca-finn",
+        "relationship": "recorded-usage",
+        "locator": "Supporters · Blazon; grant dated 6 March 1992",
+        "note": "The official description supplies a distinct supporter example."
+      },
+      {
+        "sourceId": "ca-anglican",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; registration dated 15 November 2006",
+        "note": "The registered arms of an ecclesiastical institution provide a documentary use of the term."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "blasons coloriés",
+    "links": [
+      {
+        "sourceId": "fr-bnf-guide",
+        "relationship": "institutional-explanation",
+        "locator": "Armorial général de France; manuscript series and edict of 1696",
+        "note": "The BnF differentiates textual manuscript series from painted armorial records; a catalogue entry is not automatically a grant."
+      }
+    ],
+    "relatedTerms": [
+      "Armorial général",
+      "armorial manuscript"
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "blazon",
+    "links": [
+      {
+        "sourceId": "uk-grant-guide",
+        "relationship": "institutional-explanation",
+        "locator": "Petitioning for Arms; distinction between picture and written description",
+        "note": "The College explains the governing role of the written blazon and distinguishes it from painted artistic interpretations."
+      }
+    ],
+    "relatedTerms": [
+      "blazonry",
+      "letters patent",
+      "coat of arms"
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "burgher coat of arms",
+    "links": [
+      {
+        "sourceId": "de-dwr-guide",
+        "relationship": "institutional-explanation",
+        "locator": "Deutsche Wappenrolle; Statut §§ 1–4 and 8–13",
+        "note": "HEROLD explains its own association register; section 13 expressly distinguishes registration from the creation of rights."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "canting arms",
+    "links": [
+      {
+        "sourceId": "ca-maillet",
+        "relationship": "institutional-context",
+        "locator": "Arms · Symbolism; grant dated 20 March 2014",
+        "note": "The official explanation explicitly connects the mallet and tankard charges with personal names, illustrating the concept rather than using this English label as a headword."
+      }
+    ],
+    "relatedTerms": [
+      "allusive arms",
+      "arms"
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "castle",
+    "links": [
+      {
+        "sourceId": "ca-grandlodge",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; grant dated 15 May 2003",
+        "note": "A complex Canadian grant illustrates this term in an actual official blazon, not merely in an abstract dictionary."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "chevron",
+    "links": [
+      {
+        "sourceId": "ca-grandlodge",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; grant dated 15 May 2003",
+        "note": "A complex Canadian grant illustrates this term in an actual official blazon, not merely in an abstract dictionary."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "chief",
+    "links": [
+      {
+        "sourceId": "ca-mcgill",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; 2020 registration, originally recorded in Scotland in 1957",
+        "note": "A published Canadian registration uses this word in an armorial description, documenting a specific design rather than a universal definition."
+      },
+      {
+        "sourceId": "ca-grandlodge",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; grant dated 15 May 2003",
+        "note": "A complex Canadian grant illustrates this term in an actual official blazon, not merely in an abstract dictionary."
+      },
+      {
+        "sourceId": "ca-maillet",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; grant dated 20 March 2014",
+        "note": "A contemporary civic-association grant illustrates this word in an original formal blazon."
+      },
+      {
+        "sourceId": "ca-anglican",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; registration dated 15 November 2006",
+        "note": "The registered arms of an ecclesiastical institution provide a documentary use of the term."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "coat of arms",
+    "links": [
+      {
+        "sourceId": "uk-grant-guide",
+        "relationship": "institutional-explanation",
+        "locator": "Petitioning for Arms; distinction between picture and written description",
+        "note": "The College explains the governing role of the written blazon and distinguishes it from painted artistic interpretations."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "collar",
+    "links": [
+      {
+        "sourceId": "ca-finn",
+        "relationship": "recorded-usage",
+        "locator": "Supporters · Blazon; grant dated 6 March 1992",
+        "note": "The official description supplies a distinct supporter example."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "conjoined",
+    "links": [
+      {
+        "sourceId": "ca-grandlodge",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; grant dated 15 May 2003",
+        "note": "A complex Canadian grant illustrates this term in an actual official blazon, not merely in an abstract dictionary."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "coronet",
+    "links": [
+      {
+        "sourceId": "ca-fisher",
+        "relationship": "recorded-usage",
+        "locator": "Crest · Blazon; grant dated 20 April 2018",
+        "note": "The crest description provides a concrete use of the term in Canadian heraldry."
+      },
+      {
+        "sourceId": "ca-finn",
+        "relationship": "recorded-usage",
+        "locator": "Crest · Blazon; grant dated 6 March 1992",
+        "note": "The recorded crest supplies a modern example of this term."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "crescent",
+    "links": [
+      {
+        "sourceId": "ca-mcgill",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; 2020 registration, originally recorded in Scotland in 1957",
+        "note": "A published Canadian registration uses this word in an armorial description, documenting a specific design rather than a universal definition."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "crest",
+    "links": [
+      {
+        "sourceId": "ca-mcgill",
+        "relationship": "recorded-usage",
+        "locator": "Crest · Blazon; 2020 registration",
+        "note": "The recorded crest supplies a situated example of this term."
+      },
+      {
+        "sourceId": "ca-fisher",
+        "relationship": "recorded-usage",
+        "locator": "Crest · Blazon; grant dated 20 April 2018",
+        "note": "The crest description provides a concrete use of the term in Canadian heraldry."
+      },
+      {
+        "sourceId": "ca-finn",
+        "relationship": "recorded-usage",
+        "locator": "Crest · Blazon; grant dated 6 March 1992",
+        "note": "The recorded crest supplies a modern example of this term."
+      },
+      {
+        "sourceId": "ca-maillet",
+        "relationship": "recorded-usage",
+        "locator": "Crest · Blazon; grant dated 20 March 2014",
+        "note": "A heraldic crest for a Canadian association supplies a dated illustration of this term."
+      },
+      {
+        "sourceId": "uk-rsa",
+        "relationship": "recorded-usage",
+        "locator": "Arms, Crest and Supporters; College grant dated 10 July 2006",
+        "note": "The College of Arms describes this specific grant with the word in its published blazons."
+      },
+      {
+        "sourceId": "uk-grant-guide",
+        "relationship": "institutional-explanation",
+        "locator": "Petitioning for Arms; distinction between picture and written description",
+        "note": "The College explains the governing role of the written blazon and distinguishes it from painted artistic interpretations."
+      }
+    ],
+    "relatedTerms": [
+      "helm",
+      "torse",
+      "achievement"
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "cross",
+    "links": [
+      {
+        "sourceId": "ca-grandlodge",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; grant dated 15 May 2003",
+        "note": "A complex Canadian grant illustrates this term in an actual official blazon, not merely in an abstract dictionary."
+      },
+      {
+        "sourceId": "ca-anglican",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; registration dated 15 November 2006",
+        "note": "The registered arms of an ecclesiastical institution provide a documentary use of the term."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "dancetty",
+    "links": [
+      {
+        "sourceId": "ca-mcgill",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; 2020 registration, originally recorded in Scotland in 1957",
+        "note": "A published Canadian registration uses this word in an armorial description, documenting a specific design rather than a universal definition."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "demi-boar",
+    "links": [
+      {
+        "sourceId": "ca-finn",
+        "relationship": "recorded-usage",
+        "locator": "Crest · Blazon; grant dated 6 March 1992",
+        "note": "The recorded crest supplies a modern example of this term."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "dexter",
+    "links": [
+      {
+        "sourceId": "ca-grandlodge",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; grant dated 15 May 2003",
+        "note": "A complex Canadian grant illustrates this term in an actual official blazon, not merely in an abstract dictionary."
+      },
+      {
+        "sourceId": "ca-fisher",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; grant dated 20 April 2018",
+        "note": "A modern official blazon illustrates this expression and its placement or orientation."
+      },
+      {
+        "sourceId": "ca-finn",
+        "relationship": "recorded-usage",
+        "locator": "Supporters · Blazon; grant dated 6 March 1992",
+        "note": "The official description supplies a distinct supporter example."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "displayed",
+    "links": [
+      {
+        "sourceId": "ca-grandlodge",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; grant dated 15 May 2003",
+        "note": "A complex Canadian grant illustrates this term in an actual official blazon, not merely in an abstract dictionary."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "eagle",
+    "links": [
+      {
+        "sourceId": "ca-grandlodge",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; grant dated 15 May 2003",
+        "note": "A complex Canadian grant illustrates this term in an actual official blazon, not merely in an abstract dictionary."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "embowed",
+    "links": [
+      {
+        "sourceId": "ca-fisher",
+        "relationship": "recorded-usage",
+        "locator": "Crest · Blazon; grant dated 20 April 2018",
+        "note": "The crest description provides a concrete use of the term in Canadian heraldry."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "erased",
+    "links": [
+      {
+        "sourceId": "ca-anglican",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; registration dated 15 November 2006",
+        "note": "The registered arms of an ecclesiastical institution provide a documentary use of the term."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "ermine",
+    "links": [
+      {
+        "sourceId": "ca-mcgill",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; 2020 registration, originally recorded in Scotland in 1957",
+        "note": "A published Canadian registration uses this word in an armorial description, documenting a specific design rather than a universal definition."
+      },
+      {
+        "sourceId": "ca-grandlodge",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; grant dated 15 May 2003",
+        "note": "A complex Canadian grant illustrates this term in an actual official blazon, not merely in an abstract dictionary."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "escallop",
+    "links": [
+      {
+        "sourceId": "ca-maillet",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; grant dated 20 March 2014",
+        "note": "A contemporary civic-association grant illustrates this word in an original formal blazon."
+      }
+    ],
+    "relatedTerms": [
+      "charge"
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "fess",
+    "links": [
+      {
+        "sourceId": "ca-maillet",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; grant dated 20 March 2014",
+        "note": "A contemporary civic-association grant illustrates this word in an original formal blazon."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "fleur-de-lis",
+    "links": [
+      {
+        "sourceId": "ca-maillet",
+        "relationship": "recorded-usage",
+        "locator": "Crest · Blazon; grant dated 20 March 2014",
+        "note": "A heraldic crest for a Canadian association supplies a dated illustration of this term."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "fleur-de-lys",
+    "links": [
+      {
+        "sourceId": "ca-finn",
+        "relationship": "recorded-usage",
+        "locator": "Crest · Blazon; grant dated 6 March 1992",
+        "note": "The recorded crest supplies a modern example of this term."
+      }
+    ],
+    "relatedTerms": [
+      "fleur-de-lis"
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "galley",
+    "links": [
+      {
+        "sourceId": "ca-maillet",
+        "relationship": "recorded-usage",
+        "locator": "Crest · Blazon; grant dated 20 March 2014",
+        "note": "A heraldic crest for a Canadian association supplies a dated illustration of this term."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "gauntleted",
+    "links": [
+      {
+        "sourceId": "ca-fisher",
+        "relationship": "recorded-usage",
+        "locator": "Crest · Blazon; grant dated 20 April 2018",
+        "note": "The crest description provides a concrete use of the term in Canadian heraldry."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "gorged",
+    "links": [
+      {
+        "sourceId": "ca-finn",
+        "relationship": "recorded-usage",
+        "locator": "Supporters · Blazon; grant dated 6 March 1992",
+        "note": "The official description supplies a distinct supporter example."
+      }
+    ],
+    "relatedTerms": [
+      "collar"
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "grant of arms",
+    "links": [
+      {
+        "sourceId": "uk-rsa",
+        "relationship": "institutional-context",
+        "locator": "Introduction and Letters Patent identification; grant dated 10 July 2006",
+        "note": "The issuing officers and formal instrument are identified as part of the grant record."
+      },
+      {
+        "sourceId": "uk-grant-guide",
+        "relationship": "institutional-explanation",
+        "locator": "Petitioning for Arms; standards and badges",
+        "note": "The College describes the scope and significance of these different elements and instruments."
+      }
+    ],
+    "relatedTerms": [
+      "letters patent",
+      "registration of arms"
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "gules",
+    "links": [
+      {
+        "sourceId": "ca-mcgill",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; 2020 registration, originally recorded in Scotland in 1957",
+        "note": "A published Canadian registration uses this word in an armorial description, documenting a specific design rather than a universal definition."
+      },
+      {
+        "sourceId": "ca-grandlodge",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; grant dated 15 May 2003",
+        "note": "A complex Canadian grant illustrates this term in an actual official blazon, not merely in an abstract dictionary."
+      },
+      {
+        "sourceId": "ca-royalarms",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; Canadian registration dated 15 September 2022",
+        "note": "The current Canadian register records the heraldic construction and associated vocabulary in a dated royal-armorial description."
+      },
+      {
+        "sourceId": "ca-fisher",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; grant dated 20 April 2018",
+        "note": "A modern official blazon illustrates this expression and its placement or orientation."
+      },
+      {
+        "sourceId": "ca-finn",
+        "relationship": "recorded-usage",
+        "locator": "Crest · Blazon; grant dated 6 March 1992",
+        "note": "The recorded crest supplies a modern example of this term."
+      },
+      {
+        "sourceId": "ca-maillet",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; grant dated 20 March 2014",
+        "note": "A contemporary civic-association grant illustrates this word in an original formal blazon."
+      },
+      {
+        "sourceId": "ca-anglican",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; registration dated 15 November 2006",
+        "note": "The registered arms of an ecclesiastical institution provide a documentary use of the term."
+      },
+      {
+        "sourceId": "uk-rsa",
+        "relationship": "recorded-usage",
+        "locator": "Arms, Crest and Supporters; College grant dated 10 July 2006",
+        "note": "The College of Arms describes this specific grant with the word in its published blazons."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "harp",
+    "links": [
+      {
+        "sourceId": "ca-royalarms",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; Canadian registration dated 15 September 2022",
+        "note": "The current Canadian register records the heraldic construction and associated vocabulary in a dated royal-armorial description."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "helm",
+    "links": [
+      {
+        "sourceId": "uk-rsa",
+        "relationship": "recorded-usage",
+        "locator": "Arms, Crest and Supporters; College grant dated 10 July 2006",
+        "note": "The College of Arms describes this specific grant with the word in its published blazons."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "heraldic registration",
+    "links": [
+      {
+        "sourceId": "de-dwr-guide",
+        "relationship": "institutional-explanation",
+        "locator": "Deutsche Wappenrolle; Statut §§ 1–4 and 8–13",
+        "note": "HEROLD explains its own association register; section 13 expressly distinguishes registration from the creation of rights."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "in pale",
+    "links": [
+      {
+        "sourceId": "ca-royalarms",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; Canadian registration dated 15 September 2022",
+        "note": "The current Canadian register records the heraldic construction and associated vocabulary in a dated royal-armorial description."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "inverted",
+    "links": [
+      {
+        "sourceId": "uk-rsa",
+        "relationship": "recorded-usage",
+        "locator": "Arms, Crest and Supporters; College grant dated 10 July 2006",
+        "note": "The College of Arms describes this specific grant with the word in its published blazons."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "issuant",
+    "links": [
+      {
+        "sourceId": "ca-fisher",
+        "relationship": "recorded-usage",
+        "locator": "Crest · Blazon; grant dated 20 April 2018",
+        "note": "The crest description provides a concrete use of the term in Canadian heraldry."
+      },
+      {
+        "sourceId": "ca-maillet",
+        "relationship": "recorded-usage",
+        "locator": "Crest · Blazon; grant dated 20 March 2014",
+        "note": "A heraldic crest for a Canadian association supplies a dated illustration of this term."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "King of Arms",
+    "links": [
+      {
+        "sourceId": "uk-rsa",
+        "relationship": "institutional-context",
+        "locator": "Introduction and Letters Patent identification; grant dated 10 July 2006",
+        "note": "The issuing officers and formal instrument are identified as part of the grant record."
+      },
+      {
+        "sourceId": "uk-grant-guide",
+        "relationship": "institutional-explanation",
+        "locator": "Petitioning for Arms; standards and badges",
+        "note": "The College describes the scope and significance of these different elements and instruments."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "letters patent",
+    "links": [
+      {
+        "sourceId": "uk-rsa",
+        "relationship": "institutional-context",
+        "locator": "Introduction and Letters Patent identification; grant dated 10 July 2006",
+        "note": "The issuing officers and formal instrument are identified as part of the grant record."
+      },
+      {
+        "sourceId": "uk-grant-guide",
+        "relationship": "institutional-explanation",
+        "locator": "Petitioning for Arms; standards and badges",
+        "note": "The College describes the scope and significance of these different elements and instruments."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "lion passant",
+    "links": [
+      {
+        "sourceId": "ca-royalarms",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; Canadian registration dated 15 September 2022",
+        "note": "The current Canadian register records the heraldic construction and associated vocabulary in a dated royal-armorial description."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "lion rampant",
+    "links": [
+      {
+        "sourceId": "ca-grandlodge",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; grant dated 15 May 2003",
+        "note": "A complex Canadian grant illustrates this term in an actual official blazon, not merely in an abstract dictionary."
+      },
+      {
+        "sourceId": "ca-royalarms",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; Canadian registration dated 15 September 2022",
+        "note": "The current Canadian register records the heraldic construction and associated vocabulary in a dated royal-armorial description."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "lozenge",
+    "links": [
+      {
+        "sourceId": "uk-rsa",
+        "relationship": "recorded-usage",
+        "locator": "Arms, Crest and Supporters; College grant dated 10 July 2006",
+        "note": "The College of Arms describes this specific grant with the word in its published blazons."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "maple leaf",
+    "links": [
+      {
+        "sourceId": "ca-grandlodge",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; grant dated 15 May 2003",
+        "note": "A complex Canadian grant illustrates this term in an actual official blazon, not merely in an abstract dictionary."
+      },
+      {
+        "sourceId": "ca-royalarms",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; Canadian registration dated 15 September 2022",
+        "note": "The current Canadian register records the heraldic construction and associated vocabulary in a dated royal-armorial description."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "martlet",
+    "links": [
+      {
+        "sourceId": "ca-mcgill",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; 2020 registration, originally recorded in Scotland in 1957",
+        "note": "A published Canadian registration uses this word in an armorial description, documenting a specific design rather than a universal definition."
+      },
+      {
+        "sourceId": "ca-anglican",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; registration dated 15 November 2006",
+        "note": "The registered arms of an ecclesiastical institution provide a documentary use of the term."
+      }
+    ],
+    "relatedTerms": [
+      "merlette",
+      "close",
+      "charge"
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "masoned",
+    "links": [
+      {
+        "sourceId": "ca-maillet",
+        "relationship": "recorded-usage",
+        "locator": "Crest · Blazon; grant dated 20 March 2014",
+        "note": "A heraldic crest for a Canadian association supplies a dated illustration of this term."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "motto",
+    "links": [
+      {
+        "sourceId": "ca-mcgill",
+        "relationship": "recorded-usage",
+        "locator": "Motto · Blazon; 2020 registration",
+        "note": "The documented motto is distinguished from the shield and crest."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "mullet",
+    "links": [
+      {
+        "sourceId": "ca-fisher",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; grant dated 20 April 2018",
+        "note": "A modern official blazon illustrates this expression and its placement or orientation."
+      },
+      {
+        "sourceId": "ca-finn",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; grant dated 6 March 1992",
+        "note": "The official Canadian grant records these figures or tinctures in its blazon."
+      },
+      {
+        "sourceId": "ca-maillet",
+        "relationship": "recorded-usage",
+        "locator": "Crest · Blazon; grant dated 20 March 2014",
+        "note": "A heraldic crest for a Canadian association supplies a dated illustration of this term."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "mural crown",
+    "links": [
+      {
+        "sourceId": "ca-maillet",
+        "relationship": "recorded-usage",
+        "locator": "Crest · Blazon; grant dated 20 March 2014",
+        "note": "A heraldic crest for a Canadian association supplies a dated illustration of this term."
+      },
+      {
+        "sourceId": "uk-rsa",
+        "relationship": "recorded-usage",
+        "locator": "Arms, Crest and Supporters; College grant dated 10 July 2006",
+        "note": "The College of Arms describes this specific grant with the word in its published blazons."
+      }
+    ],
+    "relatedTerms": [
+      "crown",
+      "masoned"
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "naiant",
+    "links": [
+      {
+        "sourceId": "ca-fisher",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; grant dated 20 April 2018",
+        "note": "A modern official blazon illustrates this expression and its placement or orientation."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "or",
+    "links": [
+      {
+        "sourceId": "ca-grandlodge",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; grant dated 15 May 2003",
+        "note": "A complex Canadian grant illustrates this term in an actual official blazon, not merely in an abstract dictionary."
+      },
+      {
+        "sourceId": "ca-royalarms",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; Canadian registration dated 15 September 2022",
+        "note": "The current Canadian register records the heraldic construction and associated vocabulary in a dated royal-armorial description."
+      },
+      {
+        "sourceId": "ca-fisher",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; grant dated 20 April 2018",
+        "note": "A modern official blazon illustrates this expression and its placement or orientation."
+      },
+      {
+        "sourceId": "ca-finn",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; grant dated 6 March 1992",
+        "note": "The official Canadian grant records these figures or tinctures in its blazon."
+      },
+      {
+        "sourceId": "ca-maillet",
+        "relationship": "recorded-usage",
+        "locator": "Crest · Blazon; grant dated 20 March 2014",
+        "note": "A heraldic crest for a Canadian association supplies a dated illustration of this term."
+      },
+      {
+        "sourceId": "uk-rsa",
+        "relationship": "recorded-usage",
+        "locator": "Arms, Crest and Supporters; College grant dated 10 July 2006",
+        "note": "The College of Arms describes this specific grant with the word in its published blazons."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "palewise",
+    "links": [
+      {
+        "sourceId": "ca-mcgill",
+        "relationship": "recorded-usage",
+        "locator": "Crest · Blazon; 2020 registration",
+        "note": "The recorded crest supplies a situated example of this term."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "passant guardant",
+    "links": [
+      {
+        "sourceId": "ca-royalarms",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; Canadian registration dated 15 September 2022",
+        "note": "The current Canadian register records the heraldic construction and associated vocabulary in a dated royal-armorial description."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "pegasus",
+    "links": [
+      {
+        "sourceId": "uk-rsa",
+        "relationship": "recorded-usage",
+        "locator": "Arms, Crest and Supporters; College grant dated 10 July 2006",
+        "note": "The College of Arms describes this specific grant with the word in its published blazons."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "per fess",
+    "links": [
+      {
+        "sourceId": "ca-grandlodge",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; grant dated 15 May 2003",
+        "note": "A complex Canadian grant illustrates this term in an actual official blazon, not merely in an abstract dictionary."
+      },
+      {
+        "sourceId": "ca-fisher",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; grant dated 20 April 2018",
+        "note": "A modern official blazon illustrates this expression and its placement or orientation."
+      }
+    ],
+    "relatedTerms": [
+      "fess",
+      "quarterly"
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "per pale",
+    "links": [
+      {
+        "sourceId": "ca-grandlodge",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; grant dated 15 May 2003",
+        "note": "A complex Canadian grant illustrates this term in an actual official blazon, not merely in an abstract dictionary."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "plate",
+    "links": [
+      {
+        "sourceId": "ca-anglican",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; registration dated 15 November 2006",
+        "note": "The registered arms of an ecclesiastical institution provide a documentary use of the term."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "proper",
+    "links": [
+      {
+        "sourceId": "ca-mcgill",
+        "relationship": "recorded-usage",
+        "locator": "Crest · Blazon; 2020 registration",
+        "note": "The recorded crest supplies a situated example of this term."
+      },
+      {
+        "sourceId": "ca-grandlodge",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; grant dated 15 May 2003",
+        "note": "A complex Canadian grant illustrates this term in an actual official blazon, not merely in an abstract dictionary."
+      },
+      {
+        "sourceId": "ca-royalarms",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; Canadian registration dated 15 September 2022",
+        "note": "The current Canadian register records the heraldic construction and associated vocabulary in a dated royal-armorial description."
+      },
+      {
+        "sourceId": "ca-fisher",
+        "relationship": "recorded-usage",
+        "locator": "Crest · Blazon; grant dated 20 April 2018",
+        "note": "The crest description provides a concrete use of the term in Canadian heraldry."
+      },
+      {
+        "sourceId": "ca-finn",
+        "relationship": "recorded-usage",
+        "locator": "Supporters · Blazon; grant dated 6 March 1992",
+        "note": "The official description supplies a distinct supporter example."
+      },
+      {
+        "sourceId": "uk-rsa",
+        "relationship": "recorded-usage",
+        "locator": "Arms, Crest and Supporters; College grant dated 10 July 2006",
+        "note": "The College of Arms describes this specific grant with the word in its published blazons."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "quadrate",
+    "links": [
+      {
+        "sourceId": "ca-anglican",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; registration dated 15 November 2006",
+        "note": "The registered arms of an ecclesiastical institution provide a documentary use of the term."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "quarterly",
+    "links": [
+      {
+        "sourceId": "ca-grandlodge",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; grant dated 15 May 2003",
+        "note": "A complex Canadian grant illustrates this term in an actual official blazon, not merely in an abstract dictionary."
+      },
+      {
+        "sourceId": "ca-royalarms",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; Canadian registration dated 15 September 2022",
+        "note": "The current Canadian register records the heraldic construction and associated vocabulary in a dated royal-armorial description."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "registration of arms",
+    "links": [
+      {
+        "sourceId": "de-dwr-guide",
+        "relationship": "institutional-explanation",
+        "locator": "Deutsche Wappenrolle; Statut §§ 1–4 and 8–13",
+        "note": "HEROLD explains its own association register; section 13 expressly distinguishes registration from the creation of rights."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "rose",
+    "links": [
+      {
+        "sourceId": "ca-grandlodge",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; grant dated 15 May 2003",
+        "note": "A complex Canadian grant illustrates this term in an actual official blazon, not merely in an abstract dictionary."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "sable",
+    "links": [
+      {
+        "sourceId": "ca-grandlodge",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; grant dated 15 May 2003",
+        "note": "A complex Canadian grant illustrates this term in an actual official blazon, not merely in an abstract dictionary."
+      },
+      {
+        "sourceId": "uk-rsa",
+        "relationship": "recorded-usage",
+        "locator": "Arms, Crest and Supporters; College grant dated 10 July 2006",
+        "note": "The College of Arms describes this specific grant with the word in its published blazons."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "serpentine",
+    "links": [
+      {
+        "sourceId": "ca-fisher",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; grant dated 20 April 2018",
+        "note": "A modern official blazon illustrates this expression and its placement or orientation."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "shamrock",
+    "links": [
+      {
+        "sourceId": "ca-grandlodge",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; grant dated 15 May 2003",
+        "note": "A complex Canadian grant illustrates this term in an actual official blazon, not merely in an abstract dictionary."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "sinister",
+    "links": [
+      {
+        "sourceId": "ca-fisher",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; grant dated 20 April 2018",
+        "note": "A modern official blazon illustrates this expression and its placement or orientation."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "stag's head",
+    "links": [
+      {
+        "sourceId": "ca-anglican",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; registration dated 15 November 2006",
+        "note": "The registered arms of an ecclesiastical institution provide a documentary use of the term."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "standard",
+    "links": [
+      {
+        "sourceId": "uk-grant-guide",
+        "relationship": "institutional-explanation",
+        "locator": "Petitioning for Arms; standards and badges",
+        "note": "The College describes the scope and significance of these different elements and instruments."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "statant",
+    "links": [
+      {
+        "sourceId": "ca-grandlodge",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; grant dated 15 May 2003",
+        "note": "A complex Canadian grant illustrates this term in an actual official blazon, not merely in an abstract dictionary."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "supporters",
+    "links": [
+      {
+        "sourceId": "ca-finn",
+        "relationship": "recorded-usage",
+        "locator": "Supporters · Blazon; grant dated 6 March 1992",
+        "note": "The official description supplies a distinct supporter example."
+      },
+      {
+        "sourceId": "uk-rsa",
+        "relationship": "recorded-usage",
+        "locator": "Arms, Crest and Supporters; College grant dated 10 July 2006",
+        "note": "The College of Arms describes this specific grant with the word in its published blazons."
+      },
+      {
+        "sourceId": "uk-grant-guide",
+        "relationship": "institutional-explanation",
+        "locator": "Petitioning for Arms; standards and badges",
+        "note": "The College describes the scope and significance of these different elements and instruments."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "tankard",
+    "links": [
+      {
+        "sourceId": "ca-maillet",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; grant dated 20 March 2014",
+        "note": "A contemporary civic-association grant illustrates this word in an original formal blazon."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "tau cross",
+    "links": [
+      {
+        "sourceId": "ca-maillet",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; grant dated 20 March 2014",
+        "note": "A contemporary civic-association grant illustrates this word in an original formal blazon."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "thistle",
+    "links": [
+      {
+        "sourceId": "ca-grandlodge",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; grant dated 15 May 2003",
+        "note": "A complex Canadian grant illustrates this term in an actual official blazon, not merely in an abstract dictionary."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "tierced",
+    "links": [
+      {
+        "sourceId": "ca-royalarms",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; Canadian registration dated 15 September 2022",
+        "note": "The current Canadian register records the heraldic construction and associated vocabulary in a dated royal-armorial description."
+      }
+    ],
+    "relatedTerms": [
+      "quarterly"
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "torse",
+    "links": [
+      {
+        "sourceId": "uk-rsa",
+        "relationship": "recorded-usage",
+        "locator": "Arms, Crest and Supporters; College grant dated 10 July 2006",
+        "note": "The College of Arms describes this specific grant with the word in its published blazons."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "tressure",
+    "links": [
+      {
+        "sourceId": "ca-royalarms",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; Canadian registration dated 15 September 2022",
+        "note": "The current Canadian register records the heraldic construction and associated vocabulary in a dated royal-armorial description."
+      }
+    ],
+    "relatedTerms": [
+      "royal arms"
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "unguled",
+    "links": [
+      {
+        "sourceId": "ca-finn",
+        "relationship": "recorded-usage",
+        "locator": "Crest · Blazon; grant dated 6 March 1992",
+        "note": "The recorded crest supplies a modern example of this term."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "vambraced",
+    "links": [
+      {
+        "sourceId": "ca-fisher",
+        "relationship": "recorded-usage",
+        "locator": "Crest · Blazon; grant dated 20 April 2018",
+        "note": "The crest description provides a concrete use of the term in Canadian heraldry."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "vert",
+    "links": [
+      {
+        "sourceId": "ca-grandlodge",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; grant dated 15 May 2003",
+        "note": "A complex Canadian grant illustrates this term in an actual official blazon, not merely in an abstract dictionary."
+      },
+      {
+        "sourceId": "uk-rsa",
+        "relationship": "recorded-usage",
+        "locator": "Arms, Crest and Supporters; College grant dated 10 July 2006",
+        "note": "The College of Arms describes this specific grant with the word in its published blazons."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "Wappen",
+    "links": [
+      {
+        "sourceId": "de-dwr-guide",
+        "relationship": "institutional-explanation",
+        "locator": "Deutsche Wappenrolle; Statut §§ 1–4 and 8–13",
+        "note": "HEROLD explains its own association register; section 13 expressly distinguishes registration from the creation of rights."
+      }
+    ],
+    "relatedTerms": [
+      "Wappenrolle",
+      "burgher coat of arms"
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "Wappenannahme",
+    "links": [
+      {
+        "sourceId": "de-dwr-guide",
+        "relationship": "institutional-explanation",
+        "locator": "Deutsche Wappenrolle; Statut §§ 1–4 and 8–13",
+        "note": "HEROLD explains its own association register; section 13 expressly distinguishes registration from the creation of rights."
+      }
+    ],
+    "relatedTerms": [
+      "assumption of arms",
+      "Wappen"
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "Wappenbeschreibung",
+    "links": [
+      {
+        "sourceId": "de-dwr-guide",
+        "relationship": "institutional-explanation",
+        "locator": "Deutsche Wappenrolle; Statut §§ 1–4 and 8–13",
+        "note": "HEROLD explains its own association register; section 13 expressly distinguishes registration from the creation of rights."
+      }
+    ],
+    "relatedTerms": [
+      "blazon",
+      "Wappenrolle"
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "Wappenbrief",
+    "links": [
+      {
+        "sourceId": "de-dwr-guide",
+        "relationship": "institutional-explanation",
+        "locator": "Deutsche Wappenrolle; Statut §§ 1–4 and 8–13",
+        "note": "HEROLD explains its own association register; section 13 expressly distinguishes registration from the creation of rights."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "Wappenrolle",
+    "links": [
+      {
+        "sourceId": "de-dwr-guide",
+        "relationship": "institutional-explanation",
+        "locator": "Deutsche Wappenrolle; Statut §§ 1–4 and 8–13",
+        "note": "HEROLD explains its own association register; section 13 expressly distinguishes registration from the creation of rights."
+      }
+    ],
+    "relatedTerms": [
+      "Wappen",
+      "Wappenbeschreibung",
+      "Wappenbrief"
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  },
+  {
+    "term": "wavy",
+    "links": [
+      {
+        "sourceId": "ca-maillet",
+        "relationship": "recorded-usage",
+        "locator": "Arms · Blazon; grant dated 20 March 2014",
+        "note": "A contemporary civic-association grant illustrates this word in an original formal blazon."
+      }
+    ],
+    "status": "institutionally linked editorial example; independent specialist review pending"
+  }
+]
