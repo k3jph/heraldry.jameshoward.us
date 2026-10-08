@@ -226,11 +226,19 @@
           "When reading a blazon, identify the field tincture first. Then work out which shapes or figures occupy that field and what their tinctures are. This makes simple blazons almost algorithmic. 'Azure, a fess Or' translates into a blue field crossed by a horizontal gold band.",
           "Try changing the fess to Gules in the Atelier. The drawing changes, and so does its relationship to the traditional contrast convention. The goal is not to memorize that some combinations are bad; it is to see why a visual language needs separation between its layers."
         ]
+      },
+      {
+        "heading": "Colour without pigment",
+        "paragraphs": [
+          "Consider an engraved silver plate or a seventeenth-century printed book. Its artist may be unable to use coloured paints, but the arms must still be recognizable. The hatching tradition associated with Silvestro Pietrasanta assigns patterns of dots and lines to the major tinctures. Gold becomes a field of dots; silver remains blank; red is drawn with vertical lines, blue with horizontal lines, and black with crossing lines.",
+          "Green and purple have diagonals that run in opposite directions. This is another reason that a blazon describes more than a fixed image. A skillful engraver can preserve the underlying armorial information while replacing hues with textures. The system became popular in print and engraving during the seventeenth century and is historically specific—not a way every medieval artist represented colour.",
+          "Switch on the engraved view in our Atelier, or visit the Tincture Laboratory to see the same shield rendered in both systems. The grammar does not change when the ink does. That is the most important lesson."
+        ]
       }
     ],
     "exercise": {
       "title": "The two-minute contrast lab",
-      "prompt": "In the Atelier, create three fields with the same ordinary: one metal-on-colour, one colour-on-colour, and one on a divided field. Compare the legibility and what the advisory checker says.",
+      "prompt": "In the Atelier, create three fields with the same ordinary: one metal-on-colour, one colour-on-colour, and one on a divided field. Compare the legibility and what the advisory checker says. Compare your original and engraved shields in the dedicated Tincture Laboratory and explain which encoding survives a colourless printout.",
       "link": "/atelier/"
     },
     "quiz": [
@@ -273,6 +281,11 @@
         "label": "College of Arms — Tincture FAQ",
         "url": "https://www.college-of-arms.gov.uk/Newsletter/018.pdf",
         "note": "On the absence of fixed colour shades."
+      },
+      {
+        "label": "The Heraldry Society — Heraldry for Beginners",
+        "url": "https://www.heraldicdesign.com/docs/heraldry_for_beginners.pdf",
+        "note": "A clear chart of historical heraldic hatching conventions."
       }
     ]
   },
