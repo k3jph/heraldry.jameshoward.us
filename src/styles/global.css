@@ -435,3 +435,44 @@ button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible
   .lesson-content p { color: black; }
   a { text-decoration: underline; }
 }
+
+
+/* The tincture laboratory */
+.tincture-collection {display:grid;grid-template-columns:repeat(7,minmax(0,1fr));gap:12px;}
+.tincture-card {background:var(--white);border:1px solid var(--line);min-width:0;}
+.tincture-sample {min-height:155px;display:grid;place-items:center;background:#d8cbb7;overflow:hidden;padding:11px;}
+.tincture-sample>div {width:83%;max-width:120px;}
+.tincture-sample svg {width:100%;filter:drop-shadow(3px 6px 3px rgba(22,32,36,.2));}
+.tincture-sample.hatching-sample {background:#e7e2d7;min-height:139px;}
+.tincture-description {border-top:1px solid var(--line);padding:12px;}
+.tincture-description h3 {font:500 1.55rem/1 var(--serif);margin:.6rem 0 .3rem;}
+.tincture-description p {font-size:.7rem;color:var(--ink-2);margin:0;}
+.tincture-lab {display:grid;grid-template-columns:minmax(290px,.85fr) minmax(0,1.15fr);gap:20px;align-items:stretch;}
+.tincture-controls {border:1px solid var(--line);padding:35px;background:var(--white);}
+.tincture-controls .small-title {margin-bottom:15px;}
+.swatch-strip {display:grid;grid-template-columns:repeat(4,1fr);gap:7px;}
+.tincture-picker {border:1px solid var(--line);background:var(--paper);display:grid;gap:6px;justify-items:center;padding:11px 6px;font-size:.68rem;font-weight:700;color:var(--ink);}
+.tincture-picker:hover,.tincture-picker.selected {border-color:var(--red);}
+.tincture-picker.selected {outline:2px solid var(--red);outline-offset:-2px;}
+.swatch-pill {width:32px;aspect-ratio:1;border:1px solid rgba(11,22,28,.3);border-radius:50%;display:block;}
+.lab-feedback {background:#eee7db;padding:24px;margin:28px 0;}
+.lab-feedback h3 {font:500 1.6rem/1.12 var(--serif);margin:.5rem 0;}
+.lab-feedback p {font-size:.83rem;}
+.lab-feedback .caption {font-size:.72rem;margin-bottom:0;}
+.tincture-results {display:grid;grid-template-columns:1fr 1fr;gap:12px;background:#173541;padding:30px;align-items:center;}
+.tincture-preview {display:flex;flex-direction:column;gap:18px;align-items:center;color:var(--gold-light);}
+.tincture-preview .shield-illustration {width:100%;max-width:240px;filter:drop-shadow(4px 10px 8px rgba(0,0,0,.3));}
+.tincture-preview svg {width:100%;}
+.tincture-caption {grid-column:1/-1;text-align:center;color:var(--gold-light);font:italic clamp(1.35rem,2vw,2rem)/1.22 var(--serif);margin:0;}
+.tincture-preview.monochrome .shield-illustration {filter:drop-shadow(4px 10px 8px rgba(0,0,0,.38));}
+.matrix-scroll {overflow:auto;}
+.contrast-matrix {width:100%;border-collapse:separate;border-spacing:3px;text-align:center;min-width:640px;}
+.contrast-matrix caption {font-size:.75rem;color:var(--muted);caption-side:bottom;padding-top:11px;}
+.contrast-matrix th {font-size:.72rem;color:var(--ink);padding:9px;min-width:65px;font-weight:700;}
+.contrast-matrix .matrix-tincture {display:block;width:27px;height:27px;margin:0 auto 7px;border-radius:50%;border:1px solid #a8a097;}
+.contrast-matrix .matrix-cell {width:100%;min-height:55px;border:1px solid transparent;display:grid;place-items:center;font-size:1.25rem;}
+.matrix-good {background:#e1e9db;color:#397052;}
+.matrix-caution {background:#f0e0ce;color:#96512f;}
+.contrast-matrix .matrix-cell:hover,.contrast-matrix .matrix-cell.current {outline:3px solid var(--red);outline-offset:-3px;border-color:#9d5747;}
+@media(max-width:1050px) {.tincture-collection {grid-template-columns:repeat(4,1fr);}.tincture-sample {min-height:130px;}.tincture-sample.hatching-sample{min-height:120px;}}
+@media(max-width:680px) {.tincture-collection {grid-template-columns:repeat(2,1fr);}.tincture-lab {grid-template-columns:1fr;}.tincture-results {min-height:360px;padding:18px;}.tincture-controls {padding:22px;}}
