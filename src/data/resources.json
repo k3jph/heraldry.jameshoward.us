@@ -1,0 +1,98 @@
+[
+  {
+    "group": "Official authorities",
+    "title": "College of Arms",
+    "jurisdiction": "England, Wales and other areas",
+    "url": "https://www.college-of-arms.gov.uk/",
+    "description": "The official English heraldic authority, with guidance on grants, the law of arms, and the character of armorial rights.",
+    "type": "Primary authority"
+  },
+  {
+    "group": "Official authorities",
+    "title": "Court of the Lord Lyon",
+    "jurisdiction": "Scotland",
+    "url": "https://www.courtofthelordlyon.scot/",
+    "description": "Scottish grants, matriculations, and the Public Register of All Arms and Bearings.",
+    "type": "Primary authority"
+  },
+  {
+    "group": "Official authorities",
+    "title": "Canadian Heraldic Authority",
+    "jurisdiction": "Canada",
+    "url": "https://www.gg.ca/en/heraldry",
+    "description": "Canada's heraldic program, including educational materials and the Public Register of Arms, Flags and Badges.",
+    "type": "Primary authority"
+  },
+  {
+    "group": "Registers & archives",
+    "title": "Public Register of Canada",
+    "jurisdiction": "Canada",
+    "url": "https://gg.ca/en/heraldry/public-register",
+    "description": "Research and discovery of Canadian grants, confirmations, registrations, and approvals. Check reuse restrictions.",
+    "type": "Official register"
+  },
+  {
+    "group": "Registers & archives",
+    "title": "Scotland's People — Arms",
+    "jurisdiction": "Scotland",
+    "url": "https://www.scotlandspeople.gov.uk/guides/coats-arms",
+    "description": "Government guide to Scottish armorial research and the evidence needed for claims of descent.",
+    "type": "Official guide"
+  },
+  {
+    "group": "Registers & archives",
+    "title": "Wikimedia Commons",
+    "jurisdiction": "International",
+    "url": "https://commons.wikimedia.org/wiki/Category:Heraldry",
+    "description": "Enormous illustrated collection; always inspect each item's provenance, authorship, and licensing individually.",
+    "type": "Image archive"
+  },
+  {
+    "group": "Scholarly & educational",
+    "title": "The Heraldry Society",
+    "jurisdiction": "United Kingdom",
+    "url": "https://www.theheraldrysociety.com/education/",
+    "description": "A major educational charity offering a beginner's guide, historical guidance and publications.",
+    "type": "Educational society"
+  },
+  {
+    "group": "Scholarly & educational",
+    "title": "Heraldry Society of Scotland",
+    "jurisdiction": "Scotland",
+    "url": "https://www.heraldry-scotland.co.uk/",
+    "description": "Scottish-focused study, events and research, useful alongside the Lord Lyon's official materials.",
+    "type": "Educational society"
+  },
+  {
+    "group": "Scholarly & educational",
+    "title": "American Heraldry Society",
+    "jurisdiction": "United States",
+    "url": "https://www.americanheraldry.org/education-resources/resources-key-documents/articles-and-recommended-reading/",
+    "description": "A curated English-language heraldic reading list, with special attention to the American setting.",
+    "type": "Educational society"
+  },
+  {
+    "group": "Scholarly & educational",
+    "title": "Royal Heraldry Society of Canada",
+    "jurisdiction": "Canada",
+    "url": "https://www.heraldry.ca/content/pp_intro.php",
+    "description": "Heraldry proficiency material and Canadian educational resources.",
+    "type": "Educational society"
+  },
+  {
+    "group": "Scholarly & educational",
+    "title": "Mortimer History Society",
+    "jurisdiction": "England",
+    "url": "https://mortimerhistorysociety.org.uk/heraldry/teach-yourself-heraldry/",
+    "description": "A helpful free introductory course organized into short modules.",
+    "type": "Independent course"
+  },
+  {
+    "group": "Scholarly & educational",
+    "title": "Institute of Heraldic and Genealogical Studies",
+    "jurisdiction": "United Kingdom",
+    "url": "https://www.ihgs.ac.uk/courses-heraldry",
+    "description": "Professional distance-learning heraldry instruction and established examination pathways.",
+    "type": "Formal study"
+  }
+]

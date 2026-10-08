@@ -1,0 +1,239 @@
+[
+  {
+    "slug": "a-band-of-gold",
+    "title": "A band of gold",
+    "kind": "Ordinary",
+    "theme": "The fess",
+    "summary": "Nothing more than a golden horizontal band on blue. Legibility is the whole point.",
+    "design": {
+      "field": "azure",
+      "division": "none",
+      "ordinary": "fess",
+      "ordinaryTincture": "or",
+      "charge": "none"
+    }
+  },
+  {
+    "slug": "the-white-chevron",
+    "title": "The white chevron",
+    "kind": "Ordinary",
+    "theme": "The chevron",
+    "summary": "Geometry that is striking from across a room—and recognizable at postage-stamp scale.",
+    "design": {
+      "field": "vert",
+      "division": "none",
+      "ordinary": "chevron",
+      "ordinaryTincture": "argent",
+      "charge": "none"
+    }
+  },
+  {
+    "slug": "three-martlets",
+    "title": "Three martlets",
+    "kind": "Charges",
+    "theme": "Birds",
+    "summary": "A classic bird charge, in a composition designed for the classroom—not a historical family attribution.",
+    "design": {
+      "field": "azure",
+      "division": "none",
+      "ordinary": "none",
+      "charge": "martlet",
+      "chargeTincture": "argent",
+      "count": 3
+    }
+  },
+  {
+    "slug": "a-lonely-fleur",
+    "title": "A single fleur",
+    "kind": "Charges",
+    "theme": "Botany",
+    "summary": "One recognizable charge carries an entire shield.",
+    "design": {
+      "field": "gules",
+      "division": "none",
+      "ordinary": "none",
+      "charge": "fleur",
+      "chargeTincture": "or",
+      "count": 1
+    }
+  },
+  {
+    "slug": "the-cross",
+    "title": "A red cross",
+    "kind": "Ordinary",
+    "theme": "Crosses",
+    "summary": "An extremely old geometry in armory, here presented as an unassigned teaching example.",
+    "design": {
+      "field": "argent",
+      "division": "none",
+      "ordinary": "cross",
+      "ordinaryTincture": "gules",
+      "charge": "none"
+    }
+  },
+  {
+    "slug": "the-saltire",
+    "title": "The saltire",
+    "kind": "Ordinary",
+    "theme": "Crosses",
+    "summary": "An X-shaped ordinary, visually distinct from the upright cross.",
+    "design": {
+      "field": "sable",
+      "division": "none",
+      "ordinary": "saltire",
+      "ordinaryTincture": "argent",
+      "charge": "none"
+    }
+  },
+  {
+    "slug": "the-chief",
+    "title": "Above the field",
+    "kind": "Charges",
+    "theme": "Chief",
+    "summary": "Three blue stars placed on the white chief of a red field.",
+    "design": {
+      "field": "gules",
+      "division": "none",
+      "ordinary": "chief",
+      "ordinaryTincture": "argent",
+      "charge": "mullet",
+      "chargeTincture": "azure",
+      "count": 3
+    }
+  },
+  {
+    "slug": "parted-in-two",
+    "title": "Parted in two",
+    "kind": "Divisions",
+    "theme": "Per pale",
+    "summary": "A field divided vertically. Its grammar is not that of an ordinary.",
+    "design": {
+      "field": "or",
+      "secondary": "azure",
+      "division": "per-pale",
+      "ordinary": "none",
+      "charge": "none"
+    }
+  },
+  {
+    "slug": "parted-horizontally",
+    "title": "Two horizontal fields",
+    "kind": "Divisions",
+    "theme": "Per fess",
+    "summary": "Two halves, each a distinct tincture. Compare to a fess on a single field.",
+    "design": {
+      "field": "argent",
+      "secondary": "vert",
+      "division": "per-fess",
+      "ordinary": "none",
+      "charge": "none"
+    }
+  },
+  {
+    "slug": "quarter-study",
+    "title": "Quarter study",
+    "kind": "Divisions",
+    "theme": "Quarterly",
+    "summary": "A geometric demonstration of quartering, not a claim to inherited quarters.",
+    "design": {
+      "field": "gules",
+      "secondary": "or",
+      "division": "quarterly",
+      "ordinary": "none",
+      "charge": "none"
+    }
+  },
+  {
+    "slug": "pale-and-roundels",
+    "title": "Roundels on a pale",
+    "kind": "Charges",
+    "theme": "Placement",
+    "summary": "The little word 'on' in the blazon matters: the roundels live on the vertical ordinary.",
+    "design": {
+      "field": "or",
+      "division": "none",
+      "ordinary": "pale",
+      "ordinaryTincture": "azure",
+      "charge": "roundel",
+      "chargeTincture": "argent",
+      "count": 3
+    }
+  },
+  {
+    "slug": "scallop-study",
+    "title": "A scallop triptych",
+    "kind": "Charges",
+    "theme": "Shells",
+    "summary": "Scallops are conventional charges, not merely pictures of seaside souvenirs.",
+    "design": {
+      "field": "sable",
+      "division": "none",
+      "ordinary": "fess",
+      "ordinaryTincture": "or",
+      "charge": "escallop",
+      "chargeTincture": "gules",
+      "count": 3
+    }
+  },
+  {
+    "slug": "crowned-with-roses",
+    "title": "Roses at the chief",
+    "kind": "Charges",
+    "theme": "Botany",
+    "summary": "A trio of stylized flowers illustrates the relationship between an ordinary and what it carries.",
+    "design": {
+      "field": "vert",
+      "division": "none",
+      "ordinary": "chief",
+      "ordinaryTincture": "argent",
+      "charge": "rose",
+      "chargeTincture": "gules",
+      "count": 3
+    }
+  },
+  {
+    "slug": "the-diagonal",
+    "title": "The diagonal",
+    "kind": "Ordinary",
+    "theme": "Bend",
+    "summary": "A bend cuts the field cleanly without dividing its tincture.",
+    "design": {
+      "field": "or",
+      "division": "none",
+      "ordinary": "bend",
+      "ordinaryTincture": "gules",
+      "charge": "none"
+    }
+  },
+  {
+    "slug": "purple-and-gold",
+    "title": "A purple experiment",
+    "kind": "Charges",
+    "theme": "Rare colours",
+    "summary": "Purpure appears less frequently than the most common colours, but belongs in the basic palette.",
+    "design": {
+      "field": "purpure",
+      "division": "none",
+      "ordinary": "none",
+      "charge": "annulet",
+      "chargeTincture": "or",
+      "count": 3
+    }
+  },
+  {
+    "slug": "stars-on-a-cross",
+    "title": "Stars on a cross",
+    "kind": "Charges",
+    "theme": "Placement",
+    "summary": "A deliberately simplified exercise in the language of stacked forms.",
+    "design": {
+      "field": "azure",
+      "division": "none",
+      "ordinary": "cross",
+      "ordinaryTincture": "argent",
+      "charge": "mullet",
+      "chargeTincture": "gules",
+      "count": 3
+    }
+  }
+]

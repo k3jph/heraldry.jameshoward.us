@@ -1,0 +1,52 @@
+[
+  {
+    "when": "c. 1120–1200",
+    "title": "A visual system emerges",
+    "description": "In western Europe, recognizable coats of arms become associated with individual identity, seals, and knightly display."
+  },
+  {
+    "when": "13th century",
+    "title": "Armorial rolls proliferate",
+    "description": "Written and illustrated records begin assembling shields and bearers into increasingly systematic collections."
+  },
+  {
+    "when": "14th century",
+    "title": "Heraldry moves far beyond war",
+    "description": "Armorial seals and symbols flourish in ecclesiastical, civic, and other institutional settings."
+  },
+  {
+    "when": "1484",
+    "title": "The College of Arms is incorporated",
+    "description": "England's College of Arms receives its charter and continues as an official heraldic institution."
+  },
+  {
+    "when": "16th century",
+    "title": "Visitations and recording",
+    "description": "English heraldic visitations seek to examine pedigrees and the use of arms, illustrating the administrative side of armory."
+  },
+  {
+    "when": "1672",
+    "title": "Scotland's armorial register begins",
+    "description": "The Public Register of All Arms and Bearings in Scotland begins under the Court of the Lord Lyon."
+  },
+  {
+    "when": "18th–19th centuries",
+    "title": "The scholarship of arms expands",
+    "description": "Printed armorials, manuals, and antiquarian societies help catalogue and interpret heraldic evidence."
+  },
+  {
+    "when": "1947",
+    "title": "The Heraldry Society is founded",
+    "description": "A modern educational charity develops publications, lectures, and tools for serious public study."
+  },
+  {
+    "when": "1988",
+    "title": "A Canadian authority",
+    "description": "The Canadian Heraldic Authority is established, expanding Canada's own grants and public register."
+  },
+  {
+    "when": "21st century",
+    "title": "Heraldry becomes computational",
+    "description": "Digital registers, vector illustration, and searchable archives make historic and contemporary armory more accessible."
+  }
+]
