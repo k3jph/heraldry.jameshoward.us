@@ -6,7 +6,7 @@ const sorted=[...glossary].sort((a,b)=>a.term.localeCompare(b.term));
 const categories=['All',...new Set(sorted.map(item=>item.category))];
 ---
 <Base title="Heraldic Lexicon" description="A searchable glossary of heraldic terms, from Argent and armiger to torse, tincture, and vair.">
-  <PageIntro eyebrow="The reference desk" title="The lexicon." description="Ninety-six words. One visual language. Heraldic jargon is only frightening until you know what the words actually mean."/>
+  <PageIntro eyebrow="The reference desk" title="The lexicon." description="Nearly a hundred words. One visual language. Heraldic jargon is only frightening until you know what the words actually mean."/>
   <section class="section">
     <div class="wrap">
       <div class="lexicon-top"><label class="smallcaps" for="lexicon-search">Search by term or definition</label><span class="smallcaps" id="lexicon-count" aria-live="polite">{glossary.length} terms</span></div>
