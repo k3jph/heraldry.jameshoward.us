@@ -7,7 +7,7 @@ const {
   image = '/social-card.svg',
 } = Astro.props;
 const pageTitle = title === 'The language of arms' ? 'The Heraldry Project — The language of arms' : title + ' · The Heraldry Project';
-const canonical = new URL(Astro.url.pathname, Astro.site ?? 'https://heraldry.jameshoward.us').toString();
+const canonical = new URL(Astro.url.pathname, Astro.site ?? 'https://heraldryproject.org').toString();
 const current = Astro.url.pathname;
 const nav = [
   {label:'Academy', href:'/academy/'},
@@ -22,10 +22,10 @@ const ld = {
   '@type':'WebSite',
   name:'The Heraldry Project',
   description,
-  url:'https://heraldry.jameshoward.us/',
+  url:'https://heraldryproject.org/',
   creator: {'@type':'Person', name:'James P. Howard, II', url:'https://jameshoward.us/'},
   inLanguage:'en',
-  potentialAction: {'@type':'SearchAction', target:'https://heraldry.jameshoward.us/lexicon/?q={search_term_string}', 'query-input':'required name=search_term_string'}
+  potentialAction: {'@type':'SearchAction', target:'https://heraldryproject.org/lexicon/?q={search_term_string}', 'query-input':'required name=search_term_string'}
 };
 ---
 <!doctype html>
@@ -33,7 +33,7 @@ const ld = {
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="theme-color" content="#173541" />
+  <meta name="theme-color" content="#3a1726" />
   <meta name="description" content={description} />
   <meta name="author" content="James P. Howard, II" />
   <link rel="canonical" href={canonical} />
@@ -45,7 +45,7 @@ const ld = {
   <meta property="og:title" content={pageTitle} />
   <meta property="og:description" content={description} />
   <meta property="og:url" content={canonical} />
-  <meta property="og:image" content={new URL(image, Astro.site ?? 'https://heraldry.jameshoward.us').toString()} />
+  <meta property="og:image" content={new URL(image, Astro.site ?? 'https://heraldryproject.org').toString()} />
   <meta name="twitter:card" content="summary_large_image" />
   <title>{pageTitle}</title>
   <script type="application/ld+json" set:html={JSON.stringify(ld)} />

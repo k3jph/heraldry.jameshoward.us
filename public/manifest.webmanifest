@@ -4,8 +4,8 @@
   "description": "Learn the language of arms. Study, experiment, and read heraldry.",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#f5efe3",
-  "theme_color": "#142e38",
+  "background_color": "#faf2e5",
+  "theme_color": "#3a1726",
   "icons": [
     {
       "src": "/favicon.svg",

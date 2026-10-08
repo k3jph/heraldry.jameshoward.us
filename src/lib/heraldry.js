@@ -131,7 +131,7 @@ export function chargeSVG(kind,color,x,y,size=40,monochrome=false,uid='') {
   switch(kind){
     case "mullet": shape='<polygon points="'+starPoints(23,9.4)+'" />';break;
     case "fleur": shape='<path d="M0 23C-6 17-8 10-8 6c-9 7-19 1-18-8 1-9 11-11 16-5-2-12 3-21 10-29 7 8 12 17 10 29 5-6 15-4 16 5 1 9-9 15-18 8 0 4-2 11-8 17zm-19-13h38v6h-38z" />';break;
-    case "martlet":shape='<path d="M-25 6Q-16-6-3-15Q-4-24 3-27Q12-30 15-20L26-18 14-13Q13-3 3 3L0 9 11 17-5 14-13 7Q-21 13-26 10L-17 1Z" /><circle cx="9" cy="-19" r="2" fill="#f8f5ee" stroke="none"/>';break;
+    case "martlet":shape='<g transform="scale(-1 1)"><path d="M-25 6Q-16-6-3-15Q-4-24 3-27Q12-30 15-20L26-18 14-13Q13-3 3 3L0 9 11 17-5 14-13 7Q-21 13-26 10L-17 1Z" /><path d="M-16 4Q-5-10 6-12Q2-1-9 7" fill="none" stroke="#1b2d32" stroke-width="1.4" stroke-linecap="round"/><circle cx="9" cy="-19" r="1.7" fill="#1b2d32" stroke="none"/></g>';break;
     case "rose":shape='<g><circle cx="0" cy="-13" r="11"/><circle cx="12.4" cy="-4" r="11"/><circle cx="7.7" cy="11" r="11"/><circle cx="-7.7" cy="11" r="11"/><circle cx="-12.4" cy="-4" r="11"/><circle cx="0" cy="0" r="6.4" fill="#ddb45f"/></g>';break;
     case "escallop":shape='<path d="M0-25Q8-22 13-11Q21-18 26-5Q17 4 10 18L0 25-10 18Q-17 4-26-5Q-21-18-13-11Q-8-22 0-25Z"/><path d="M0-23V20M-12-11L-2 21M12-11L2 21M-21-3L-6 20M21-3L6 20" fill="none" stroke="#1b2d32" stroke-width="1.4"/>';break;
     case "roundel":shape='<circle r="21" />';break;
