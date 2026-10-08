@@ -3,7 +3,7 @@ import Base from '../../layouts/Base.astro';
 import PageIntro from '../../components/PageIntro.astro';
 import readings from '../../data/parallel-readings.json';
 
-const languageNames:Record<string,string>={fr:'French',de:'German',nl:'Dutch',es:'Spanish',it:'Italian',ja:'Japanese'};
+const languageNames:Record<string,string>={fr:'French',de:'German',nl:'Dutch',es:'Spanish',it:'Italian',ja:'Japanese',lv:'Latvian',lt:'Lithuanian',fi:'Finnish',ro:'Romanian'};
 const keys=[...new Set(readings.map(r=>r.language))];
 ---
 <Base title="Parallel Text Translation Laboratory" description="Study short verified original-language heraldic law and history passages from European and Japanese sources, with annotated English translations and source context.">
