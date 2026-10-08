@@ -45,3 +45,7 @@ Output is `dist/`. The GitHub Actions workflow `.github/workflows/ci.yml` valida
 This is not a heraldic authority and does not issue grants, certify eligibility, determine uniqueness, or award accredited university credit. The automated blazon and contrast tools intentionally cover only an introductory subset of heraldry. Consult the College of Arms, Court of the Lord Lyon, Canadian Heraldic Authority, or other competent institution for jurisdiction-specific questions.
 
 Created by **James P. Howard, II** — [jameshoward.us](https://jameshoward.us/).
+
+## Open-ended academic mission
+
+Read [Editorial Mandate](docs/EDITORIAL_MANDATE.md) and [International Research Backlog](docs/RESEARCH_BACKLOG.md). The twelve original lessons are the **introductory foundation**, not the finish line. The site also contains an active international comparative research program in `src/content/traditions/` and a source ledger in `src/data/world-sources.json`. Original-language notes are **English research synopses**, not wholesale translations of copyrighted works. Expand these until the regional and graduate research standards in the mandate are met.

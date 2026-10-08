@@ -24,3 +24,11 @@ Heraldic law and artistic practice vary by jurisdiction. Tincture conventions ar
 ## Rights
 
 All new drawings presented as teaching examples are original project illustrations. Do not treat third-party imagery or reference text as licensed by the project.
+
+## Multilingual research program
+
+- [World traditions](https://heraldry.jameshoward.us/traditions/): original English comparative analyses of distinct heraldic systems with source-language vocabulary and graduate assignments.
+- [International source atlas](https://heraldry.jameshoward.us/source-atlas/): catalogued source-language records with institutional provenance, English editorial synopses and direct original URLs.
+- [Graduate research seminars](https://heraldry.jameshoward.us/seminars/): source criticism, primary text work and advanced research assignments.
+
+The expansion is ongoing. English-language notes should never be mistaken for official institutional translations or independently peer-reviewed critical editions.
