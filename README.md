@@ -1,6 +1,6 @@
 # The Heraldry Project
 
-**The language of arms, opened to everyone.** A free, independent, interactive school of heraldry at [heraldry.jameshoward.us](https://heraldry.jameshoward.us/).
+**The language of arms, opened to everyone.** A free, independent, interactive school of heraldry at [heraldry.jameshoward.us](https://heraldryproject.org/).
 
 Built with [Astro](https://astro.build/) and published using **GitHub Pages**.
 
@@ -32,11 +32,14 @@ Requires Node.js 22+.
 ```sh
 npm install
 npm run dev
+npm run dev:reset  # only after stopping the running dev server, if generated content becomes stale
 npm test
 npm run check
 npm run build
 npm run preview
 ```
+
+**Local development and Astro's content cache:** `npm run dev` clears stale generated `.astro/`, `node_modules/.astro/` and Vite cache files before starting; Astro regenerates them automatically. If Vite reports `.astro/content-assets.mjs` missing, stop the dev server and restart `npm run dev`. Do not run `astro build` and `astro dev` simultaneously in the same checkout: both write generated manifests. Use another Git worktree for a parallel build. `npm run dev:reset` regenerates content/types without launching a server.
 
 Output is `dist/`. The GitHub Actions workflow `.github/workflows/ci.yml` validates PRs and, when enabled, builds and deploys `main` to **GitHub Pages**. See [Deployment](docs/DEPLOYMENT.md).
 

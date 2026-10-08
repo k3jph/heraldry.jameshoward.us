@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import {readFileSync,readdirSync} from 'node:fs';
 import {fileURLToPath} from 'node:url';
 import {dirname,resolve} from 'node:path';
-import {TINCTURES,DEFAULT_DESIGN,normalizeDesign,armsSVG,blazon,assessDesign} from '../src/lib/heraldry.js';
+import {TINCTURES,DEFAULT_DESIGN,normalizeDesign,armsSVG,chargeSVG,blazon,assessDesign} from '../src/lib/heraldry.js';
 import {parseBlazon} from '../src/lib/blazon-parser.js';
 import {makeBibtex,makeRIS,makeCSL,citationKey} from '../src/lib/bibliography.js';
 const dir=dirname(fileURLToPath(import.meta.url));
@@ -39,6 +39,17 @@ test('generated SVG is namespace-qualified and its clip ID is unique',()=>{
   assert.match(a,/id="clip-specimen-a"/);
   assert.match(b,/id="clip-specimen-b"/);
   assert.match(a,/<\/svg>$/);
+});
+
+test('martlets face viewer left and an Argent martlet has a visible eye',()=>{
+  const image=chargeSVG('martlet','argent',50,50);
+  assert.match(image,/transform="scale\\(-1 1\\)"/);
+  assert.match(image,/fill="#1b2d32" stroke="none"/);
+});
+
+test('canonical URLs use heraldryproject.org',()=>{
+  const config=readFileSync(resolve(dir,'../astro.config.mjs'),'utf8');
+  assert.match(config,/https:\\/\\/heraldryproject\\.org/);
 });
 
 test('contrast checker catches two basic violations',()=>{

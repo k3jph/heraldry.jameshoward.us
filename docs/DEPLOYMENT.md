@@ -6,7 +6,7 @@ The Heraldry Project uses **GitHub Pages**, built with Astro via GitHub Actions.
 
 - Repo: `k3jph/heraldry.jameshoward.us` (private source).
 - Production branch: `main`.
-- Canonical website: `https://heraldry.jameshoward.us/`.
+- Canonical website: `https://heraldryproject.org/`.
 - Static build output: `dist/`.
 - Workflow: `.github/workflows/ci.yml`.
 
@@ -14,14 +14,18 @@ The Heraldry Project uses **GitHub Pages**, built with Astro via GitHub Actions.
 
 1. In the repository, open **Settings → Pages**.
 2. Under **Build and deployment**, choose **GitHub Actions**.
-3. In **Custom domain**, enter `heraldry.jameshoward.us` and save.
-4. At the DNS provider for `jameshoward.us`, create the following record:
+3. In **Custom domain**, enter `heraldryproject.org` and save.
+4. After registering `heraldryproject.org`, configure **apex** DNS records for GitHub Pages:
 
-| Type | Host/name | Points to |
+| Type | Host/name | Value |
 | --- | --- | --- |
-| CNAME | `heraldry` | `k3jph.github.io` |
+| A | `@` | `185.199.108.153` |
+| A | `@` | `185.199.109.153` |
+| A | `@` | `185.199.110.153` |
+| A | `@` | `185.199.111.153` |
+| CNAME (optional) | `www` | `k3jph.github.io` |
 
-If using Cloudflare, prefer **DNS only** during initial domain verification and certificate provisioning. Avoid conflicting A/AAAA/CNAME records for the same hostname. Leave the apex domain and all other JHCU sites unchanged.
+At Cloudflare, start with **DNS only** until TLS and domain verification work. Avoid conflicting records for the same hostname. **Do not change DNS for `jameshoward.us`** merely because this repository keeps its old name.
 
 5. Enable **Enforce HTTPS** when GitHub finishes provisioning its TLS certificate.
 6. Re-run the workflow manually in **Actions** if necessary.
@@ -36,12 +40,16 @@ On pull requests, the workflow installs, tests, checks TypeScript and builds wit
 
 ## Post-deployment checklist
 
-- Check the TLS certificate and `https://heraldry.jameshoward.us/`.
+- Check the TLS certificate and `https://heraldryproject.org/`.
 - Open `/academy/`, `/atelier/`, `/decoder/`, `/tinctures/`, `/armorial/`, `/lexicon/`, `/practice/`, `/field-guide/`, `/resources/`.
 - Check a deep lesson at `/academy/the-visual-language/` and lecture at `/lecture/the-visual-language/`.
 - Check `/sitemap.xml`, `/robots.txt`, `/llms.txt`.
 - Verify SVG/PNG export, clickable armorial examples, browser-only assessment completion, and responsive mobile layout.
 - Confirm unknown pages display a helpful 404.
+
+## Development cache and local preview
+
+Astro 5 creates transient content-layer manifests such as `.astro/content-assets.mjs` and `node_modules/.astro/data-store.json`. The local `npm run dev` script clears stale generated content and Vite caches before launch. If Vite continues resolving an obsolete manifest after rapid content changes, stop and restart development. Do not run `astro build` concurrently with the development server from the same checkout; use a separate worktree for parallel builds.
 
 ## Troubleshooting
 

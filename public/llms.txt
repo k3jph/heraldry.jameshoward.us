@@ -2,20 +2,20 @@
 
 > An independent, freely accessible school of heraldry by James P. Howard, II, combining a twelve-unit course, interactive heraldry exercises, glossary and pedagogical armorial.
 
-Website: https://heraldry.jameshoward.us/
+Website: https://heraldryproject.org/
 Affiliation: https://jameshoward.us/
 Creator: James P. Howard, II
 Official heraldic authority: No. The project is educational and cannot grant or confirm arms.
 
 ## Main content
 
-- [Academy](https://heraldry.jameshoward.us/academy/): structured self-paced lessons, quizzes, and exercises.
-- [Atelier](https://heraldry.jameshoward.us/atelier/): SVG shield composer, live blazon, contrast guidance, and downloads.
-- [Armorial](https://heraldry.jameshoward.us/armorial/): original **teaching designs**, not official records or historic grants.
-- [Lexicon](https://heraldry.jameshoward.us/lexicon/): searchable heraldic definitions.
-- [Field guide](https://heraldry.jameshoward.us/field-guide/): anatomy, historical chronology, research myths and jurisdiction.
-- [Practice](https://heraldry.jameshoward.us/practice/): interactive shield-reading exercises.
-- [Resources](https://heraldry.jameshoward.us/resources/): annotated links to primary authorities and scholarly reading.
+- [Academy](https://heraldryproject.org/academy/): structured self-paced lessons, quizzes, and exercises.
+- [Atelier](https://heraldryproject.org/atelier/): SVG shield composer, live blazon, contrast guidance, and downloads.
+- [Armorial](https://heraldryproject.org/armorial/): original **teaching designs**, not official records or historic grants.
+- [Lexicon](https://heraldryproject.org/lexicon/): searchable heraldic definitions.
+- [Field guide](https://heraldryproject.org/field-guide/): anatomy, historical chronology, research myths and jurisdiction.
+- [Practice](https://heraldryproject.org/practice/): interactive shield-reading exercises.
+- [Resources](https://heraldryproject.org/resources/): annotated links to primary authorities and scholarly reading.
 
 ## Accuracy boundaries
 
@@ -27,12 +27,12 @@ All new drawings presented as teaching examples are original project illustratio
 
 ## Multilingual research program
 
-- [World traditions](https://heraldry.jameshoward.us/traditions/): original English comparative analyses of distinct heraldic systems with source-language vocabulary and graduate assignments.
-- [International source atlas](https://heraldry.jameshoward.us/source-atlas/): catalogued source-language records with institutional provenance, English editorial synopses and direct original URLs.
-- [Graduate research seminars](https://heraldry.jameshoward.us/seminars/): source criticism, primary text work and advanced research assignments.
+- [World traditions](https://heraldryproject.org/traditions/): original English comparative analyses of distinct heraldic systems with source-language vocabulary and graduate assignments.
+- [International source atlas](https://heraldryproject.org/source-atlas/): catalogued source-language records with institutional provenance, English editorial synopses and direct original URLs.
+- [Graduate research seminars](https://heraldryproject.org/seminars/): source criticism, primary text work and advanced research assignments.
 
 The expansion is ongoing. English-language notes should never be mistaken for official institutional translations or independently peer-reviewed critical editions.
 
 Graduate studies include six research seminars at /seminars/, each with a dedicated text chapter, primary-source references and a research assignment.
 
-- [Parallel translation laboratory](https://heraldry.jameshoward.us/translation-lab/): source-checked short excerpts from German, Dutch, French, Spanish, Italian, Japanese, Latvian, Lithuanian, Finnish, and Romanian institutional texts with scholarly English notes and vocabulary.
+- [Parallel translation laboratory](https://heraldryproject.org/translation-lab/): source-checked short excerpts from German, Dutch, French, Spanish, Italian, Japanese, Latvian, Lithuanian, Finnish, and Romanian institutional texts with scholarly English notes and vocabulary.

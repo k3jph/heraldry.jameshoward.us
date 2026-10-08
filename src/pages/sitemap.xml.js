@@ -1,7 +1,7 @@
 import {getCollection} from 'astro:content';
 import lessons from '../data/course.json';
 export async function GET() {
-  const base='https://heraldry.jameshoward.us';
+  const base='https://heraldryproject.org';
   const traditions=await getCollection('traditions');
   const seminars=await getCollection('seminars');
   const paths=['/','/academy/','/atelier/','/decoder/','/tinctures/','/armorial/','/lexicon/','/field-guide/','/practice/','/resources/','/traditions/','/source-atlas/','/translation-lab/','/seminars/','/about/',...lessons.map(x=>'/academy/'+x.slug+'/'),...lessons.map(x=>'/lecture/'+x.slug+'/'),...traditions.map(x=>'/traditions/'+x.id+'/'),...seminars.map(x=>'/seminars/'+x.id+'/')];
