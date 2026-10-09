@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import {readFileSync,readdirSync} from 'node:fs';
 import {fileURLToPath} from 'node:url';
 import {dirname,resolve} from 'node:path';
-import {TINCTURES,DEFAULT_DESIGN,normalizeDesign,armsSVG,chargeSVG,blazon,assessDesign} from '../src/lib/heraldry.js';
+import {TINCTURES,DEFAULT_DESIGN,normalizeDesign,armsSVG,chargeSVG,chargePlacements,blazon,assessDesign} from '../src/lib/heraldry.js';
 import {parseBlazon} from '../src/lib/blazon-parser.js';
 import {makeBibtex,makeRIS,makeCSL,citationKey} from '../src/lib/bibliography.js';
 const dir=dirname(fileURLToPath(import.meta.url));
@@ -45,6 +45,63 @@ test('martlets face viewer left and an Argent martlet has a visible eye',()=>{
   const image=chargeSVG('martlet','argent',50,50);
   assert.ok(image.includes('transform="scale(-1 1)"'));
   assert.ok(image.includes('fill="#1b2d32" stroke="none"'));
+});
+
+const polygonPoints=svg=>[...svg.matchAll(/<polygon points="([^"]+)"/g)].map(match=>match[1].split(' ').map(pair=>pair.split(',').map(Number)));
+
+test('mullet visible bounds are centered on the requested placement',()=>{
+  const svg=chargeSVG('mullet','gules',75,25,26);
+  const points=polygonPoints(svg)[0];
+  const offset=Number(svg.match(/<g transform="translate\(0 ([^)]+)\)"/)[1]);
+  const scale=Number(svg.match(/scale\(([^)]+)\)/)[1]);
+  const ys=points.map(point=>point[1]);
+  assert.ok(Math.abs((Math.min(...ys)+Math.max(...ys))/2+offset)<.001,'The star silhouette must not sit above its anchor');
+  assert.ok((Math.max(...ys)-Math.min(...ys)+1.1)*scale<=26.001,'Outlined artwork must fit its specified size');
+});
+
+test('bend and bend sinister are mirror images with charges centered inside their bands',()=>{
+  const bend=polygonPoints(armsSVG({ordinary:'bend',charge:'none'}))[0];
+  const sinister=polygonPoints(armsSVG({ordinary:'bend-sinister',charge:'none'}))[0];
+  for(let i=0;i<bend.length;i++){
+    assert.ok(Math.abs(bend[i][0]+sinister[i][0]-150)<.001);
+    assert.equal(bend[i][1],sinister[i][1]);
+  }
+  for(const ordinary of ['bend','bend-sinister'])for(const count of [1,3]){
+    const polygon=ordinary==='bend'?bend:sinister;
+    const top=(polygon[0][0]+polygon[1][0])/2;
+    const bottom=(polygon[2][0]+polygon[3][0])/2;
+    const halfWidth=Math.abs(polygon[1][0]-polygon[0][0])/2;
+    const slope=(bottom-top)/174;
+    for(const [x,y,size] of chargePlacements({ordinary,count})){
+      assert.ok(Math.abs(x-(top+slope*y))<.001,'Charge center must follow the actual diagonal');
+      for(const dx of [-size/2,size/2])for(const dy of [-size/2,size/2]){
+        assert.ok(Math.abs(x+dx-(top+slope*(y+dy)))<halfWidth-1,'The entire charge box must have clearance from the band edges');
+      }
+    }
+  }
+});
+
+test('saltire bands share their intersection with the central charge',()=>{
+  const [a,b]=polygonPoints(armsSVG({ordinary:'saltire',charge:'none'}));
+  const line=p=>({start:(p[0][0]+p[1][0])/2,slope:((p[2][0]+p[3][0])-(p[0][0]+p[1][0]))/(2*174)});
+  const la=line(a),lb=line(b);
+  const y=(lb.start-la.start)/(la.slope-lb.slope),x=la.start+la.slope*y;
+  for(const count of [1,3]){
+    const placements=chargePlacements({ordinary:'saltire',count});
+    const center=placements[Math.floor(placements.length/2)];
+    assert.ok(Math.abs(center[0]-x)<.001 && Math.abs(center[1]-y)<.001,'The middle charge must sit on the actual intersection');
+  }
+});
+
+test('chevron charges follow the lowered chevron rather than stale coordinates',()=>{
+  const points=polygonPoints(armsSVG({ordinary:'chevron',charge:'none'}))[0];
+  const apex=points[2],inner=points[5],shoulder=points[3];
+  const middle=(apex[1]+inner[1])/2;
+  const slope=(shoulder[1]-apex[1])/(shoulder[0]-apex[0]);
+  assert.ok(apex[1]>40,'The chevron should leave space above its apex');
+  for(const count of [1,3])for(const [x,y] of chargePlacements({ordinary:'chevron',count})){
+    assert.ok(Math.abs(y-(middle+Math.abs(x-apex[0])*slope))<.001);
+  }
 });
 
 test('canonical URLs use heraldryproject.org',()=>{
