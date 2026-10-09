@@ -9,6 +9,7 @@ import { getCollection } from 'astro:content';
 import { chapterReadMinutes } from '../lib/foundation.js';
 import worldSources from '../data/world-sources.json';
 import objects from '../data/objects.json';
+import ObjectImage from '../components/ObjectImage.astro';
 const worldCount=(await getCollection('traditions')).length;
 const foundation=await getCollection('foundation');
 const lessonMinutes=(slug:string)=>chapterReadMinutes(foundation.find(chapter=>chapter.id===slug)?.body);
@@ -79,7 +80,7 @@ const cards=[
   <section class="section section-toned" id="objects">
     <div class="wrap">
       <div class="rule-heading"><div><p class="eyebrow"><span class="star">✦</span> The material evidence</p><h2 class="section-title">Real objects.<br/>Better questions.</h2></div><div><p>A painted shield, stained glass, and Limoges enamel. Examine museum photographs and learn to separate observation, attribution, and uncertainty.</p><a href="/objects/" class="text-link">Enter the object-study collection ↗</a></div></div>
-      <div class="home-objects">{objects.map(object=><a href={'/objects/'+object.id+'/'}><div><img src={object.image} alt={object.alt} width={object.width} height={object.height} loading="lazy" decoding="async"/></div><span class="smallcaps">{object.culture} · {object.date}</span><h3>{object.title}</h3><span class="text-link">Investigate the object ↗</span></a>)}</div>
+      <div class="home-objects">{objects.map(object=><a href={'/objects/'+object.id+'/'}><div><ObjectImage object={object}/></div><span class="smallcaps">{object.culture} · {object.date}</span><h3>{object.title}</h3><span class="text-link">Investigate the object ↗</span></a>)}</div>
     </div>
   </section>
   <section class="section section-toned">
@@ -135,6 +136,6 @@ const cards=[
   </section>
 </Base>
 <style>
-  .home-objects{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:25px}.home-objects>a{background:var(--white);border:1px solid var(--line);padding:22px;min-width:0}.home-objects>a>div{height:260px;display:flex;align-items:center;justify-content:center;margin-bottom:22px}.home-objects img{width:100%;height:100%;object-fit:contain}.home-objects .smallcaps{color:var(--red)}.home-objects h3{font:500 1.9rem/1.12 var(--serif);margin:14px 0 20px}.home-objects .text-link{font-size:.8rem}
+  .home-objects{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:25px}.home-objects>a{background:var(--white);border:1px solid var(--line);padding:22px;min-width:0}.home-objects>a>div{height:260px;display:flex;align-items:center;justify-content:center;margin-bottom:22px}.home-objects :global(img){width:100%;height:100%;object-fit:contain}.home-objects .smallcaps{color:var(--red)}.home-objects h3{font:500 1.9rem/1.12 var(--serif);margin:14px 0 20px}.home-objects .text-link{font-size:.8rem}
   @media(max-width:900px){.home-objects{grid-template-columns:1fr}}
 </style>

@@ -3,6 +3,7 @@ import Base from '../../layouts/Base.astro';
 import PageIntro from '../../components/PageIntro.astro';
 import {objectStudies,objectCitation} from '../../lib/objects.js';
 import {makeBibtex} from '../../lib/bibliography.js';
+import ObjectImage from '../../components/ObjectImage.astro';
 export function getStaticPaths(){return objectStudies.map(object=>({params:{slug:object.id},props:{object}}));}
 const {object}=Astro.props;
 const citation=makeBibtex(objectCitation(object));
@@ -15,9 +16,9 @@ const others=objectStudies.filter(other=>other.id!==object.id);
       <a href="/objects/" class="text-link">← All historical object studies</a>
       <div class="object-layout">
         <figure class="object-figure">
-          <a href={object.image} target="_blank" rel="noopener" aria-label={'Enlarge photograph of '+object.catalogueTitle}><img src={object.image} alt={object.alt} width={object.width} height={object.height} fetchpriority="high"/></a>
+          <a href={object.imageSource} target="_blank" rel="noopener" aria-label={'Enlarge photograph of '+object.catalogueTitle}><ObjectImage object={object} loading="eager" fetchpriority="high"/></a>
           <figcaption>{object.catalogueTitle}. {object.museum}, {object.accession}. {object.credit}. <a href={object.imageSource}>Museum source photograph ↗</a> · <a href={object.rightsUrl}>Open Access (CC0)</a>. Web image resized without cropping or recolouring.</figcaption>
-          <a class="btn btn-line" href={object.image} target="_blank" rel="noopener">Enlarge the photograph ↗</a>
+          <a class="btn btn-line" href={object.imageSource} target="_blank" rel="noopener">Enlarge the photograph ↗</a>
         </figure>
         <aside class="object-record" aria-label="Museum object record">
           <p class="eyebrow"><span class="star">✦</span> The documentary address</p><h2>{object.catalogueTitle}</h2>
@@ -51,11 +52,11 @@ const others=objectStudies.filter(other=>other.id!==object.id);
   <style>
     .object-layout{display:grid;grid-template-columns:minmax(0,1.4fr) minmax(0,1fr);gap:clamp(24px,4vw,55px);align-items:start;margin:30px 0 55px}
     .object-figure{margin:0;min-width:0}.object-figure>a:first-child{display:flex;align-items:center;justify-content:center;background:var(--paper-2);padding:clamp(12px,3vw,30px);border:1px solid var(--line)}
-    .object-figure img{display:block;width:auto;height:auto;max-height:650px;object-fit:contain}.object-figure figcaption{font-size:.74rem;color:var(--ink-2);margin:15px 0}.object-figure figcaption a{text-decoration:underline}
+    .object-figure :global(img){display:block;width:auto;height:auto;max-height:650px;object-fit:contain}.object-figure figcaption{font-size:.74rem;color:var(--ink-2);margin:15px 0}.object-figure figcaption a{text-decoration:underline}
     .object-record{min-width:0}.object-record h2{font:500 2rem/1.1 var(--serif)}.object-record dl{margin:24px 0}.object-record dl div{border-bottom:1px solid var(--line);padding:10px 0}.object-record dt{font-size:.65rem;text-transform:uppercase;letter-spacing:.09em;color:var(--muted)}.object-record dd{margin:3px 0;font-size:.88rem}.object-record .caption{margin-top:20px}
     .object-reading{max-width:850px;margin:auto}.object-reading section{margin:48px 0}.object-reading h2,.other-studies h2{font:500 clamp(1.8rem,4vw,2.7rem)/1.12 var(--serif)}.object-reading h3{font:500 1.6rem var(--serif);margin-top:28px}.object-reading p{line-height:1.85}.object-reading a{text-decoration:underline;text-underline-offset:3px}
     .study-nav{display:flex;gap:12px 24px;flex-wrap:wrap;border-block:1px solid var(--line);padding:20px 0;font-size:.8rem}.table-scroll{overflow-x:auto}table{border-collapse:collapse;width:100%;min-width:550px;font-size:.82rem}th,td{padding:15px;text-align:left;vertical-align:top;border-bottom:1px solid var(--line)}
     .object-workshop{background:var(--paper-2);padding:clamp(18px,4vw,35px);border:1px solid var(--line)}details{border:1px solid var(--line);padding:16px;margin:20px 0}summary{cursor:pointer;font-weight:650}details p{margin:15px 0 0}.citation pre{overflow-x:auto;font-size:.75rem;white-space:pre-wrap;overflow-wrap:anywhere}.other-studies{border-top:1px solid var(--line);padding-top:30px;display:grid;gap:15px}
-    @media(max-width:800px){.object-layout{grid-template-columns:1fr}.object-figure img{max-height:520px}}
+    @media(max-width:800px){.object-layout{grid-template-columns:1fr}.object-figure :global(img){max-height:520px}}
   </style>
 </Base>
