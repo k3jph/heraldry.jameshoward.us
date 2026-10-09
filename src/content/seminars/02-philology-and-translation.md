@@ -50,6 +50,22 @@ Every substantial translation should record original title, named author if know
 
 This may look pedantic. It is also what allows another researcher to correct an error without reconstructing the entire project from the beginning.
 
+## From manuscript hand to translated argument
+
+The [transcription desk](/transcription-desk/) now gives this seminar a folio-level exercise. Its French witness is Getty’s *Hours of Simon de Varie*, Ms. 7, folio 2, with a reproduced CC0 full-leaf image. Its Portuguese witness is the Torre do Tombo’s *Livro do Armeiro-Mor*, book 19, folio 87, located in the archive’s presentation on PDF page 23. The latter remains a source link because image reuse has not been verified. Read the [paired workshop](/transcription-desk/reading/) before beginning the edition.
+
+Do not begin with English. Begin with the form of the witness and a policy for representing it. A diplomatic transcription describes a chosen level of the written form. A normalized reading records editorial changes intended to make the language legible. A translation conveys the established reading’s meaning. Keeping them separate permits a reviewer to locate disagreement: an uncertain letter, a proposed expansion, and an English idiom are different decisions.
+
+Prepare at least two apparatus entries. Each should identify a locus, an observed form, a proposed reading, a review status, and the supporting comparison or reason. A statement that a form was checked should name the check. It is not equivalent to specialist approval. Likewise, uncertainty that survives into the normalized reading should survive into the translation where it affects meaning.
+
+For the French leaf, distinguish your inspection of the motto scrolls from the museum’s modern reference readings and its report of partly overpainted border arms. A dated manuscript does not date every visible intervention. For the Portuguese leaf, distinguish the modern archival caption from the actual hand. If access to the image fails, a caption-only study is possible, provided its conclusions concern that caption rather than an uninspected original inscription.
+
+The file format introduces another editorial question. The desk’s portable JSON can restore the separate fields and apparatus; its Markdown export provides a readable report. Neither replaces the source image or confers scholarly approval. Preserve versions when a changed reading affects a translation. State what changed, why it changed, and which claims depend on the earlier version.
+
+**Edition assignment:** Submit one short located inscription with all three text layers and a 900–1,200-word editorial report. Include a witness inventory, notation policy, two reasoned alternatives, source and image rights, reviewer status, and a concrete unresolved check. Then compare the mediation of the French and Portuguese dossiers in 250 words. The workshop’s rubric allocates credit to witness control, editorial policy, apparatus and translation, and proportionate interpretation.
+
+The institutional sources are [Getty’s folio 2 record](https://www.getty.edu/art/collection/object/103S0J), its [IIIF manifest](https://media.getty.edu/iiif/manifest/3/55d52612-3142-481c-8f92-95ee387c29b2), and [Torre do Tombo’s Portuguese presentation, page 23](https://antt.dglab.gov.pt/wp-content/uploads/sites/17/2025/02/vasco-da-gama-conde-almirante.pdf#page=23), consulted 9 October 2026. This project supplies original teaching analysis; an independently reviewed manuscript transcription remains a separate scholarly task.
+
 ## Comparative language exercises
 
 Take three records from the [source atlas](/source-atlas/): a German DWR entry, the Dutch noble-register explanation, and a Spanish municipal arms decision. Prepare a one-page concordance of the verbs they use for **recording** versus **granting**. Distinguish institution, private status, and the legal effect stated by the source itself.

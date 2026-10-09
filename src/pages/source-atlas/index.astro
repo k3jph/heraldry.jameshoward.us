@@ -28,6 +28,7 @@ const languageLabels:Record<string,string>={fr:'French',de:'German',nl:'Dutch',s
         <label for="atlas-region"><span class="smallcaps">Tradition / region</span><select id="atlas-region"><option value="">All regions</option>{regions.map(region=><option value={region}>{region}</option>)}</select></label>
       </div>
       <p class="caption" style="margin:0 0 15px">Want to read verified original-language excerpts beside English? <a href="/translation-lab/" style="color:var(--red);text-decoration:underline">Visit the parallel translation laboratory ↗</a></p>
+      <p class="caption">For folio-level work, try the <a href="/transcription-desk/" class="text-link">manuscript transcription desk ↗</a> and its French and Portuguese witness dossiers.</p>
       <div class="atlas-resultbar"><p id="atlas-results" role="status" aria-live="polite">{sources.length} source dossiers</p><button id="atlas-reset" class="chip" type="button">Clear filters ↺</button></div>
       <div class="atlas-grid">
         {sorted.map(source=><article class="atlas-card" id={'source-'+source.id} data-lang={source.language} data-region={source.area} data-text={(source.titleOriginal+' '+source.titleEnglish+' '+source.holding+' '+source.englishSynopsis+' '+source.glossary.map(t=>t.term+' '+t.english).join(' ')).toLowerCase()}>

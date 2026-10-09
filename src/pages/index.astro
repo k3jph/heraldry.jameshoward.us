@@ -79,7 +79,7 @@ const cards=[
   </section>
   <section class="section section-toned" id="objects">
     <div class="wrap">
-      <div class="rule-heading"><div><p class="eyebrow"><span class="star">✦</span> The material evidence</p><h2 class="section-title">Real objects.<br/>Better questions.</h2></div><div><p>Painted shields, stained glass, enamel, maiolica, a bookplate, and seals. Examine museum photographs and learn to separate observation, attribution, and uncertainty.</p><a href="/objects/" class="text-link">Enter the object-study collection ↗</a></div></div>
+      <div class="rule-heading"><div><p class="eyebrow"><span class="star">✦</span> The material evidence</p><h2 class="section-title">Real objects.<br/>Better questions.</h2></div><div><p>Painted shields, stained glass, enamel, maiolica, a bookplate, seals, and a manuscript leaf. Examine museum photographs and learn to separate observation, attribution, and uncertainty.</p><a href="/objects/" class="text-link">Enter the object-study collection ↗</a><p><a href="/transcription-desk/" class="text-link">Read and annotate a manuscript ↗</a></p></div></div>
       <div class="home-objects">{objects.map(object=><a href={'/objects/'+object.id+'/'}><div><ObjectImage object={object}/></div><span class="smallcaps">{object.culture} · {object.date}</span><h3>{object.title}</h3>{'studyType' in object&&<p class="caption">{object.studyType}</p>}<span class="text-link">Investigate the object ↗</span></a>)}</div>
     </div>
   </section>

@@ -75,6 +75,58 @@ There is also a temptation to replace uncertainty with a dramatic explanation. A
 
 Write a revised catalogue note containing manufacture period, stylistic reference, the two photographed witnesses, and one unresolved question. Then use the [seal evidence workshop](/objects/seals/) to test what each sentence claims to know. You can keep the two objects and their source records together in the [comparative notebook](/objects/compare/?left=lowlands-wax-seal&right=ghent-style-matrix).
 
+## Route A in practice: edit a short manuscript inscription
+
+An inscription is a useful first documentary project because it gives you a small object of study without making the research trivial. You can locate a few words, inspect the form in which they survive, compare a modern reading, and explain the decisions needed to turn the witness into a text. The result is an edition at a modest scale. Its quality depends on the traceability of its decisions, rather than on the length of the passage.
+
+The [manuscript transcription desk](/transcription-desk/) supplies two dossiers. One reproduces Getty’s full photograph of *Simon de Varie Kneeling in Prayer*, a French illuminated leaf dated 1455 and assigned to Jean Fouquet in the museum catalogue. The second links the Torre do Tombo’s Portuguese presentation of the *Livro do Armeiro-Mor*, 1509, book 19, folio 87. The French photograph is rights-cleared under the CC0 declaration in the museum’s IIIF manifest. The Portuguese image remains at the archive because this project has not verified its reuse terms.[^manuscripts]
+
+These are deliberately different encounters. At the Getty desk you can inspect lettering beside the working fields. At the Portuguese desk you open the archive’s PDF separately. In either case, describe what you actually consulted. A student who cannot open the Portuguese image can still study its verified modern caption, but must identify the work as a caption study. An access failure cannot be cured by silently pretending to have seen the manuscript.
+
+### Start with a policy, then write the text
+
+Before transcribing, choose the span. Identify the scroll, line, or inscription within the located leaf. A whole miniature contains more information than one motto, and a manuscript contains more than one miniature. State the scope precisely enough that a reader knows what you left outside the exercise.
+
+Then explain your transcription policy. Will you preserve letter case, line breaks, decorative separators, and joined forms? How will you mark a supplied letter, a doubtful reading, or an unreadable span? There are established editorial conventions for particular disciplines and projects, but an unexplained mixture of them is hard to use. For this introductory assignment, a small, consistently applied and explicitly stated policy is the essential starting point.
+
+Keep three texts separate. The **diplomatic transcription** represents the witness’s written form at the level your policy promises. The **normalized reading** presents the words with declared editorial changes, such as regularized case, supplied spaces, or expanded abbreviations. The **translation** expresses the established reading in English. None should invisibly overwrite the others.
+
+This division makes correction possible. Suppose another reader disagrees with your expansion of a joined form. They can inspect the diplomatic text, challenge the normalization, and see whether the English meaning changes. If all you publish is fluent English, the disagreement becomes harder to locate. It is unclear whether the error arose in the letter reading, the expansion, or the translation.
+
+### Let the apparatus carry the difficult decisions
+
+A **critical apparatus** records the places where the text needs explanation. It is not a collection of impressive footnotes added after the argument is finished. It is the working record of why you made a reading, what alternatives remain, and what evidence might settle them.
+
+Give each entry a locus: lower scroll, third word group, for example. Describe the observed form before naming your preferred resolution. State the proposed reading, its review status, and its basis. If you use another leaf as a comparison, locate that leaf separately. If you rely on the catalogue, say so. Two internet pages repeating one catalogue reading are not two independent inspections of the hand.
+
+The desk’s statuses are practical labels. *Unresolved* leaves the reading open. *Provisional* records a working choice that still needs a defined check. *Checked* records your review step; it does not imply approval by the museum, archive, or a specialist. Name the check and explain its result. A form checked against a better photograph is a different result from a form merely checked against a modern caption.
+
+Record changes of mind. Perhaps the first draft supplied a word because it was familiar, while a later inspection revealed an extra letter. Retain the earlier export and note the revision. A correction is easier to trust when its reason is visible. Erasing the old decision without explanation loses part of the argument’s history.
+
+### Dates belong to particular things
+
+Getty’s folio introduces a dating problem alongside its lettering. The museum reports partial overpainting of the border arms. The manuscript’s catalogue year therefore cannot serve as an automatic date for every visible armorial surface. Your inventory should distinguish the leaf as catalogued, the particular shield or border element you are discussing, and any reported intervention.[^getty-leaf]
+
+This matters when an armorial image becomes a database entry. A neat record with one name, one shield, and one year can silently combine a fifteenth-century manuscript with a later painted form and a modern identification. Give each statement a source and specify the historical event its date describes. A catalogue date is evidence about the catalogue’s dating; an independently dated intervention would require its own witness.
+
+An altered manuscript remains useful. It may answer questions about later representation, ownership, collecting, or appropriation. Those questions need evidence suited to the intervention. Do not throw the leaf away because it changed, and do not remove the change from your description because it complicates a clean illustration.
+
+### A caption does not become a manuscript by proximity
+
+The Portuguese dossier makes source mediation equally visible. The archive’s caption identifies the volume and folio and supplies a modern quoted designation. That is useful institutional evidence. It does not establish that the caption preserves every spelling, abbreviation, accent, or space in the manuscript hand. Compare the two only after inspecting the actual inscription.[^manuscripts]
+
+The distinction between folio and PDF page is a simple control with large consequences. The archival citation is book 19, folio 87; the presentation locates its image on PDF page 23. Record both. The latter is a navigation aid for this file, while the former identifies the archived location. Treating those numbers as interchangeable could send another researcher to an entirely different image.
+
+Write a 600-word note answering one narrow question: “What editorial interventions are needed to move this short inscription from the facsimile into a normalized English reading?” Include the three text layers, two apparatus entries, and a final sentence naming the most useful unresolved check. If you worked only from the caption, explain that limit and ask the corresponding question about the modern caption instead.
+
+### Keep a portable research record
+
+The desk saves separate drafts in your browser for each witness. That convenience does not replace a backup. Export the JSON to restore the fields and apparatus on another device, and export Markdown for a readable report. Both carry the source locator and the distinction between a working draft and institutional approval. A witness link shares the selected dossier without including your notes.
+
+Before loading an imported draft, review its witness and preview. Export the destination witness’s existing draft if you want to preserve it. The desk validates the file format and uses its own source metadata, so an imported file cannot redefine the museum URL or archival location. Validation makes restoration safer; it does not validate the handwriting or the historical argument.
+
+Continue with the [full manuscript workshop](/transcription-desk/reading/) for a paired French and Portuguese assignment and an editorial rubric. The short inscription can become part of your documentary capstone, provided the scope of every claim remains clear.
+
 ## Build a claim ledger
 
 A claim ledger links propositions to evidence. It need not be complicated. Its value is that it exposes where a sentence contains more than one assertion or where several sources all depend on the same earlier witness.
@@ -145,3 +197,6 @@ Keep your witness inventory and claim ledger. They can grow into a comparative s
 [^rights]: The Met targe record marks the image Public Domain; Governor General of Canada, [*Public Register of Arms, Flags and Badges of Canada*](https://gg.ca/en/heraldry/public-register), reproduction notice, and [*Frequently Asked Questions*, question 4](https://www.gg.ca/en/heraldry/faq). Consulted 8 October 2026. These are different image regimes, not universal rules for all armorial art.
 
 [^matrix]: The Metropolitan Museum of Art, [*Seal Matrix*, 1981.291](https://www.metmuseum.org/art/collection/search/466069), date field and photograph; consulted 9 October 2026. Manufacture period and stylistic reference are distinct; no separate date or material for the accompanying impression is established in this teaching study.
+
+[^manuscripts]: Getty, [IIIF manifest for *Hours of Simon de Varie*, Ms. 7](https://media.getty.edu/iiif/manifest/3/55d52612-3142-481c-8f92-95ee387c29b2), canvas labeled fol. 2, image CC0; Arquivo Nacional da Torre do Tombo, [archival presentation on Vasco da Gama](https://antt.dglab.gov.pt/wp-content/uploads/sites/17/2025/02/vasco-da-gama-conde-almirante.pdf#page=23), PDF p. 23, *Livro do Armeiro-Mor*, 1509, TT, Casa Real, Cartório da Nobreza, liv. 19, f. 87. Modern caption and locator verified; original-hand transcription and Portuguese image reuse remain open. Consulted 9 October 2026.
+[^getty-leaf]: Getty, [*Simon de Varie Kneeling in Prayer*](https://www.getty.edu/art/collection/object/103S0J), Ms. 7 (85.ML.27), fol. 2, accession 85.ML.27.2; collection date, maker, and account of partially overpainted border arms. Consulted 9 October 2026. Catalogue statements are distinct from this project’s visual observations.

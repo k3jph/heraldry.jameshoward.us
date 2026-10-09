@@ -6,7 +6,7 @@ import ObjectImage from '../../components/ObjectImage.astro';
 const materials=[...new Set(objectStudies.map(object=>object.material))];
 ---
 <Base title="Historical Object Studies" description="Read heraldry on real museum objects: a painted tournament shield, stained glass, Limoges enamel, maiolica, an engraved bookplate, and seal studies, with photographs, accession numbers, evidence ledgers, and research exercises.">
-  <PageIntro eyebrow="Heraldry in the material world" title="Arms you can investigate." description={objectStudies.length+' museum objects in paint, glass, enamel, pottery, print, wax, and bronze. Ask what an image tells us—and what it leaves unresolved.'}/>
+  <PageIntro eyebrow="Heraldry in the material world" title="Arms you can investigate." description={objectStudies.length+' museum objects in paint, glass, enamel, pottery, print, wax, bronze, and manuscript illumination. Ask what an image tells us—and what it leaves unresolved.'}/>
   <section class="section">
     <div class="wrap">
       <div class="notice-box"><strong>Begin with the object.</strong><p>These studies reproduce museum photographs of historical artifacts. Dates, identifications, and attributions come from the linked collection records; our visual observations and research questions are editorial teaching notes. Specialist review remains pending.</p></div>
@@ -30,13 +30,15 @@ const materials=[...new Set(objectStudies.map(object=>object.material))];
           <tr><th scope="row"><a href="/objects/cary-bookplate/">An engraved bookplate</a></th><td>Armorial display, name, and engraver’s inscription</td><td>Catalogue date range and evidence of actual use in a book</td></tr>
           <tr><th scope="row"><a href="/objects/lowlands-wax-seal/">Armorial wax impression</a></th><td>A shield, helmet, ornament, and separate mount</td><td>Material colour, catalogue uncertainty, and missing documentary context</td></tr>
           <tr><th scope="row"><a href="/objects/ghent-style-matrix/">A later pictorial matrix</a></th><td>Opposite arrangements on matrix and accompanying impression</td><td>Manufacture date, medieval style, and the impression’s separate history</td></tr>
+          <tr><th scope="row"><a href="/objects/simon-de-varie/">An illuminated French leaf</a></th><td>Lettered scrolls, a portrait, and several armorial forms</td><td>Transcription, normalization, and reported overpainting</td></tr>
         </tbody></table></div>
         <p>Choose one claim about each object. Write down its source, what it establishes, and what additional evidence would change your confidence. A catalogue attribution and a visible feature should not receive the same kind of explanation.</p>
         <p><a href="/objects/seals/" class="btn btn-line">Try the seal evidence workshop ↗</a></p>
+        <p><a href="/transcription-desk/" class="btn btn-line">Read a manuscript at the transcription desk ↗</a></p>
         <p><a href="/objects/compare/" class="btn btn-dark">Compare objects and keep research notes ↗</a></p>
         <a href="/seminars/05-material-culture/" class="text-link">Continue to the material-culture seminar ↗</a>
       </div>
-      <p class="caption">Images: The Metropolitan Museum of Art and the Cleveland Museum of Art, Open Access (CC0). Individual credit lines and source-image links appear in each study. This initial collection draws on two museums; broader repository and regional coverage is still needed.</p>
+      <p class="caption">Images: The Metropolitan Museum of Art, Cleveland Museum of Art, and The J. Paul Getty Museum, Open Access / Open Content (CC0). Individual credit lines and source-image links appear in each study. Broader repository and regional coverage is still needed.</p>
       <a class="text-link" href="/armorial/">Explore the original teaching shields ↗</a>
     </div>
   </section>

@@ -28,6 +28,8 @@ Last updated: 2026-10-09. This queue is ordered for **coverage gaps and primary 
 
 ## Stage B — substantive continental survey
 
+- [x] Introduce a manuscript transcription desk with Getty’s inspected full-leaf folio 2 image from the *Hours of Simon de Varie* (Ms. 7; 85.ML.27.2), verified CC0 IIIF image terms, and an eighth object study from a third museum. Add a source-only Portuguese dossier for *Livro do Armeiro-Mor*, liv. 19, f. 87 (presentation PDF p. 23), explicitly distinguishing the verified modern caption from the unreviewed manuscript hand. Provide separate diplomatic/normalized/translated fields, an editable apparatus, per-witness browser drafts, Markdown/JSON export, validated import preview with destination backup, and a substantial paired workshop. Expand the capstone, translation seminar, France, and Portugal readings. Reviewed paleography, conservation-layer evidence, Portuguese facsimile clearance, and full critical editions remain open.
+
 - [ ] France: medieval armorials, blasonnement, d'Hozier, the 1696 fiscal registration, Revolutionary rupture, public symbolism.
 - [ ] German-speaking lands: early `Wappenbücher`, Bürgerwappen, family arms, civic arms, modern voluntary `Wappenrollen`, Swiss cantonal divergences.
 - [ ] Iberia: Spanish regional differences, cronistas, royal/municipal armory; Portuguese `Livro do Armeiro-Mor`, `Livro da Nobreza e Perfeiçam das Armas`, colonial afterlives.

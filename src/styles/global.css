@@ -31,7 +31,7 @@ img,svg { max-width: 100%; }
 svg { display: block; }
 p,h1,h2,h3,h4,ul,ol,figure { margin-top: 0; }
 h1,h2,h3,h4 { line-height: 1.1; }
-button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible, summary:focus-visible, [tabindex]:focus-visible { outline: 3px solid #be9050; outline-offset: 4px; }
+button:focus-visible, a:focus-visible, input:focus-visible, textarea:focus-visible, select:focus-visible, summary:focus-visible, [tabindex]:focus-visible { outline: 3px solid #be9050; outline-offset: 4px; }
 .wrap { width: min(100% - 64px, 1240px); margin-inline: auto; }
 .skip-link { position: fixed; top: -90px; left: 1rem; z-index: 100; background: var(--white); color: var(--ink); padding: .6rem 1rem; font-weight: 700; }
 .skip-link:focus { top: .75rem; }

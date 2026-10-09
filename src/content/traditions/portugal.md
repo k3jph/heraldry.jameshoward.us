@@ -54,6 +54,18 @@ Use the [national archive's manuscript descriptions](https://antt.dglab.gov.pt/w
 
 **Graduate assignment:** Locate a second dated Portuguese armorial witness. Formulate a method for comparing two artistic witnesses of the same arms without treating artistic differences as automatic legal differences. Discuss how court sponsorship shapes what is collected and which bearers are omitted.
 
+## Caption control at folio 87
+
+The [transcription desk](/transcription-desk/?witness=armeiro-mor-87) now makes this locator usable as a short edition exercise. The archive’s presentation places the illustration on **PDF page 23** and cites **book 19, folio 87**. These are two different addressing systems. Preserve the archival location in the witness inventory and use the PDF number as a navigation aid for that particular file.
+
+The modern caption supplies a quoted identification of Vasco da Gama and his office. This project has verified the caption and locator; it has not turned the caption into an independently reviewed transcription of the manuscript hand. That distinction gives the student a concrete task: inspect the original lettering, establish what can be read at the supplied resolution, and compare the reading with the modern archival designation.
+
+Keep the personal designation, office term, and geographical phrase visible in your notes. A translation should explain the role of *almirante* in the historical wording rather than treating a short label as a full account of the office’s powers. The page can support a study of how identity was represented; a claim about appointment, jurisdiction, or political authority needs appropriate documentary evidence beyond the shield and its label.
+
+The desk separates diplomatic transcription, normalized reading, and working English translation. If you supply ordinary word spaces, modern accents, or an expansion, record the intervention in an apparatus entry. If the available image does not support a reading, mark that limit. If the PDF cannot be opened, a study of the modern caption remains possible, but should say explicitly that the manuscript itself was not inspected.
+
+For a comparative assignment, use the French motto leaf from Getty alongside this Portuguese dossier in the [manuscript workshop](/transcription-desk/reading/). Compare the roles of manuscript writing, modern description, material change, and digital navigation. The French facsimile’s verified CC0 status does not supply permission for the Portuguese image; reuse rights belong to the specific reproduction and its source. This is a source-linked exercise, with Portuguese paleographic review and image clearance still outstanding. Caption source consulted 9 October 2026.
+
 ## Verified source gateways
 
 1. [Torre do Tombo, historical catalogue of the *Livro do Armeiro-Mor*](https://antt.dglab.gov.pt/wp-content/uploads/sites/17/2025/02/vasco-da-gama-doc.pdf).

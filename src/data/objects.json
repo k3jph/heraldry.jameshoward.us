@@ -404,5 +404,70 @@
     "exercise": "Write two catalogue fields: manufacture period and stylistic reference. Then write a separate entry for the accompanying impression, leaving its date and material unknown. Explain one historical claim that the matrix could help investigate and one claim for which treating it as medieval would be misleading.",
     "discussion": "A strong answer preserves the nineteenth- or twentieth-century date, places the thirteenth-century comparison in a style field, and treats the impression as a distinct witness. It avoids upgrading later manufacture into an accusation of forgery. It also labels the pictorial scene as comparative seal imagery instead of forcing every seal into a coat of arms.",
     "research": "Investigate earlier acquisition and catalogue records for this accession, then compare a securely dated matrix with a similar scene. Record whether the comparison is based on lettering, iconography, manufacture, or documentary context. Do not use a stylistic parallel as the sole reason to replace the museum’s date."
+  },
+  {
+    "id": "simon-de-varie",
+    "title": "The words survived. Which arms did?",
+    "catalogueTitle": "Simon de Varie Kneeling in Prayer",
+    "summary": "A French illuminated leaf puts personal mottoes beside armorial surfaces whose later changes matter to their interpretation.",
+    "date": "1455 (catalogue date)",
+    "culture": "French",
+    "material": "Illuminated manuscript",
+    "medium": "Tempera colors, gold paint, gold leaf, and ink",
+    "creator": "Jean Fouquet",
+    "accession": "85.ML.27.2",
+    "credit": "Partial gift of Gerald F. Borrmann",
+    "museum": "The J. Paul Getty Museum, Los Angeles",
+    "objectId": "103S0J",
+    "url": "https://www.getty.edu/art/collection/object/103S0J",
+    "imageSource": "https://media.getty.edu/iiif/image/2046d211-e152-41c0-9626-5c085d05863c/full/max/0/default.jpg",
+    "image": "/images/manuscripts/simon-de-varie-folio2.jpg",
+    "alt": "An illuminated manuscript leaf showing an armoured man kneeling beside a woman who holds a shield, with armorial corners, flowers, and two gold scrolls bearing red lettering.",
+    "width": 1474,
+    "height": 2168,
+    "accessed": "2026-10-09",
+    "imageRights": "CC0",
+    "rightsUrl": "https://www.getty.edu/projects/open-content-program/",
+    "lesson": "reading-the-evidence",
+    "workshop": "/transcription-desk/",
+    "imageNote": "Full leaf, compressed without cropping or restoration. Getty reports partial overpainting of the border arms; the manuscript date does not date every visible paint layer.",
+    "question": "Which statement comes from the image, and which from the catalogue?",
+    "observations": [
+      "A kneeling figure in armour occupies the central scene. A woman behind him supports a shield. Smaller armorial forms occupy the corners of a border with blue flowers and green stems.",
+      "Red letter forms appear on gold scrolls above and below the scene. Their arrangement follows the curves of the scrolls. Some armorial surfaces have visibly interrupted areas; this photograph alone does not identify each intervention or its date."
+    ],
+    "catalogue": "Getty identifies the kneeling figure as Simon de Varie, assigns the miniature to Jean Fouquet, and dates it to 1455. The location is Ms. 7 (85.ML.27), fol. 2, with leaf accession 85.ML.27.2. Its record reports partial overpainting of the border arms and gives the place of creation as Paris, France; or Tours, France. Those are institutional statements, with the geographical alternative retained. [1]",
+    "reading": [
+      "The page joins writing, portraiture, and armorial display. A shield-only extraction would leave out the motto scrolls and the relationship between the depicted person and the surrounding forms. Describe those relationships before using the image as a neatly bounded entry in an armorial database.",
+      "The museum’s identification of the kneeling person is different evidence from your observation that the figure wears armour. Clothing in a portrait does not, by itself, establish a military career. Likewise, a catalogue attribution to a named painter should remain an attributed statement until the project undertakes its own attribution research.",
+      "The reported overpainting changes the dating problem. The catalogue’s year for the miniature is not a blanket date for every surface now visible. Keep the original work, any reported intervention, and the present photographed state separate. An earlier design should be reconstructed only with a stated evidentiary basis.",
+      "The scrolls offer a manageable first transcription. Preserve the difference between visible letter forms, a normalized French reading, and an English translation. If you expand a joined form or supply ordinary word spaces, explain the intervention. A modern catalogue reading provides a comparison, not a substitute for inspecting the witness.",
+      "This study reproduces the full leaf under the CC0 declaration in Getty’s IIIF manifest. The catalogue’s descriptive prose has separate terms. Our teaching analysis is original editorial work; it does not claim to be a conservation report, a specialist transcription, or an authenticated reconstruction of the earlier arms."
+    ],
+    "claims": [
+      {
+        "claim": "Two lettered scrolls frame the central scene.",
+        "basis": "Inspected full-leaf photograph",
+        "limit": "Lettering is not supplied here as a complete diplomatic transcription."
+      },
+      {
+        "claim": "The miniature is dated 1455 and assigned to Jean Fouquet.",
+        "basis": "Getty collection date and maker fields [1]",
+        "limit": "Catalogue statements; no new attribution research undertaken here."
+      },
+      {
+        "claim": "The border arms are partly overpainted.",
+        "basis": "Getty curatorial account [1]",
+        "limit": "No independent layer dating or reconstruction supplied by this study."
+      },
+      {
+        "claim": "The creation location is Paris or Tours.",
+        "basis": "Getty creation-location field [1]",
+        "limit": "Alternative retained; neither location independently resolved here."
+      }
+    ],
+    "exercise": "Inventory the miniature, the two scrolls, the border shields, and the modern catalogue as distinct evidentiary components. Write a caption that preserves the manuscript date without dating every visible armorial form to that year. Then transcribe a short scroll inscription at the manuscript desk and disclose your normalization policy.",
+    "discussion": "A strong answer distinguishes the observed arrangement from Getty’s identifications, preserves the Paris-or-Tours alternative, and makes the reported overpainting visible in its dating argument. The transcription keeps the witness’s written form, editorial normalization, and translation in separate fields. It leaves unresolved paint layers and doubtful letters explicit.",
+    "research": "Compare this located leaf with Getty’s folio 1 record (85.ML.27.1). Record the different folio and the basis of each statement about overpainting or joined letters. A claim about one opening should not silently become an observation of another."
   }
 ]

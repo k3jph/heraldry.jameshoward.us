@@ -13,11 +13,12 @@ test('historical objects retain traceable image rights and accession records',()
     assert.equal(object.imageRights,'CC0');
     const record=new URL(object.url);
     assert.equal(record.pathname.split('/').at(-1),String(object.objectId));
-    const institution=record.hostname==='www.metmuseum.org'?'met':'cleveland';
-    assert.ok(['www.metmuseum.org','www.clevelandart.org'].includes(record.hostname));
+    const institution=record.hostname==='www.metmuseum.org'?'met':record.hostname==='www.getty.edu'?'getty':'cleveland';
+    assert.ok(['www.metmuseum.org','www.clevelandart.org','www.getty.edu'].includes(record.hostname));
     assert.equal(new URL(object.rightsUrl).hostname,record.hostname);
     const image=new URL(object.imageSource);
     if(institution==='met')assert.equal(image.hostname,'images.metmuseum.org');
+    else if(institution==='getty')assert.equal(image.hostname,'media.getty.edu');
     else{
       assert.equal(image.hostname,'www.clevelandart.org');
       assert.equal(new URL(image.searchParams.get('url')).hostname,'piction.clevelandart.org');

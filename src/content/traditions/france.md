@@ -57,6 +57,20 @@ Follow the BnF's [genealogical portal](https://gallica.bnf.fr/selections/fr/html
 
 **Graduate assignment:** Design a sampling protocol comparing civic and familial entries in one provincial volume. Identify errors introduced by family-name normalization, delayed illustration, missing digital scans, and registration motivated by taxation. Propose a versioned relational schema rather than merely counting attractive painted shields.
 
+## A fifteenth-century leaf with a later history
+
+The *Armorial général* is a large administrative corpus. A manuscript miniature supplies a different scale and kind of witness. Getty’s [*Simon de Varie Kneeling in Prayer*](https://www.getty.edu/art/collection/object/103S0J), *Hours of Simon de Varie*, Ms. 7 (85.ML.27), folio 2, offers a located French leaf dated 1455 and assigned to Jean Fouquet in the collection record. Its leaf accession is 85.ML.27.2. The [object study](/objects/simon-de-varie/) reproduces the full photograph under the CC0 declaration in Getty’s IIIF manifest.
+
+Look at how the leaf organizes identity. A kneeling figure occupies the miniature; a woman supports a shield behind him; smaller armorial forms occupy the corners; lettered scrolls frame the scene above and below. Extracting one shield would discard much of that arrangement. A useful description identifies the relations among person, display, lettering, and devotional scene before translating the image into isolated heraldic components.
+
+The museum identifies the kneeling figure and reports partial overpainting of the border arms. Those statements come from the modern catalogue. The photograph allows inspection of the present surface, but does not independently date every painted intervention. Keep the manuscript’s catalogue date and the history of a particular armorial form separate. A reconstruction of an earlier display needs its own documentary or technical basis.
+
+The motto scrolls are a practical philological exercise. Use the [transcription desk](/transcription-desk/?witness=simon-de-varie-2) to record a short span of visible lettering, a normalized reading, and a working English translation. Explain supplied spaces and joined letter forms in the apparatus. Then compare the institutional reference reading without treating it as your own inspection of the hand.
+
+This small edition also changes the questions you can ask of larger French registers. A normalized lookup name and a diplomatic name string are useful for different operations. An image’s present armorial form and an earlier recorded display need not be identical. A database must represent those relationships if its counts are to carry historical meaning. The general register’s scale makes disciplined witness control more necessary, not less.
+
+**Comparative exercise:** Read the [manuscript workshop](/transcription-desk/reading/) and compare the French motto dossier with the Portuguese archival caption. Identify which claims arise from inspected lettering, modern identification, institutional dating, and reported material change. End with one proposed source that could settle a doubtful reading. Sources consulted 9 October 2026; specialist transcription and conservation review remain outstanding.
+
 ## Essential original-language sources
 
 1. [BnF / Gallica, *Ressources généalogiques : Noblesse*](https://gallica.bnf.fr/selections/fr/html/histoire/ressources-genealogiques-noblesse) — institutional guide explaining scope and manuscript series.
