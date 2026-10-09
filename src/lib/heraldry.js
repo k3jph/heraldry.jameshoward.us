@@ -158,24 +158,27 @@ export function chargeSVG(kind,color,x,y,size=40,monochrome=false,uid='') {
 }
 
 const DIAGONAL = {x:75,y:84.5,slope:1.2,width:36};
+// A heater shield carries more visual weight in its upper half. Raise a lone
+// bend and its charges together; retain the centered intersection of a saltire.
+const BEND_CENTER_Y = 76;
 const CHEVRON = {x:75,top:44,bottom:84,slope:67/81};
-const diagonalX = y => DIAGONAL.x+(y-DIAGONAL.y)/DIAGONAL.slope;
+const diagonalX = (y,centerY=DIAGONAL.y) => DIAGONAL.x+(y-centerY)/DIAGONAL.slope;
 
 // Derive the bands and their charge positions from the same center line.
-function diagonalBand(reverse=false) {
+function diagonalBand(reverse=false,centerY=DIAGONAL.y) {
   const half=DIAGONAL.width*Math.hypot(1,DIAGONAL.slope)/(2*DIAGONAL.slope);
-  const points=[[diagonalX(0)-half,0],[diagonalX(0)+half,0],[diagonalX(174)+half,174],[diagonalX(174)-half,174]];
+  const points=[[diagonalX(0,centerY)-half,0],[diagonalX(0,centerY)+half,0],[diagonalX(174,centerY)+half,174],[diagonalX(174,centerY)-half,174]];
   return points.map(([x,y])=>[(reverse?150-x:x).toFixed(4),y].join(',')).join(' ');
 }
 
 export function chargePlacements(input={}) {
   const d=normalizeDesign(input);
   const middle=(CHEVRON.top+CHEVRON.bottom)/2;
-  const diagonal=(reverse=false)=>[46.5,84.5,122.5].map(y=>[reverse?150-diagonalX(y):diagonalX(y),y,24]);
+  const diagonal=(reverse=false,centerY=DIAGONAL.y)=>[centerY-38,centerY,centerY+38].map(y=>[reverse?150-diagonalX(y,centerY):diagonalX(y,centerY),y,24]);
   if(d.count===1){
     const singles={
-      fess:[75,84.5,32],pale:[75,84.5,26],bend:[75,84.5,24],
-      'bend-sinister':[75,84.5,24],chief:[75,25,30],chevron:[75,middle,21],
+      fess:[75,84.5,32],pale:[75,84.5,26],bend:[75,BEND_CENTER_Y,24],
+      'bend-sinister':[75,BEND_CENTER_Y,24],chief:[75,25,30],chevron:[75,middle+4,21],
       cross:[75,84,40],saltire:[75,84.5,40],bordure:[75,13.75,10]
     };
     return [singles[d.ordinary]||[75,85,50]];
@@ -185,9 +188,10 @@ export function chargePlacements(input={}) {
     case 'chief':return [[43,25,26],[75,25,26],[107,25,26]];
     case 'cross':return [[43,84,29],[75,84,29],[107,84,29]];
     case 'pale':return [[75,36,26],[75,83,26],[75,126,26]];
-    case 'bend':case 'saltire':return diagonal();
-    case 'bend-sinister':return diagonal(true);
-    case 'chevron':return [39,75,111].map(x=>[x,middle+Math.abs(x-CHEVRON.x)*CHEVRON.slope,21]);
+    case 'bend':return diagonal(false,BEND_CENTER_Y);
+    case 'saltire':return diagonal();
+    case 'bend-sinister':return diagonal(true,BEND_CENTER_Y);
+    case 'chevron':return [39,75,111].map(x=>[x,middle+Math.abs(x-CHEVRON.x)*CHEVRON.slope+(x===CHEVRON.x?4:0),21]);
     case 'bordure':return [[75,13.75,10],[18,72,10],[132,72,10]];
     default:return [[47,46,33],[103,46,33],[75,112,33]];
   }
@@ -222,8 +226,8 @@ export function armsSVG(input={},identifier="heraldic-study",monochrome=false) {
   let ordinary="";
   if(d.ordinary==="fess") ordinary='<rect x="0" y="67" width="150" height="35" fill="'+t+'"/>';
   if(d.ordinary==="pale") ordinary='<rect x="59" y="0" width="32" height="172" fill="'+t+'"/>';
-  if(d.ordinary==="bend") ordinary='<polygon points="'+diagonalBand()+'" fill="'+t+'"/>';
-  if(d.ordinary==="bend-sinister") ordinary='<polygon points="'+diagonalBand(true)+'" fill="'+t+'"/>';
+  if(d.ordinary==="bend") ordinary='<polygon points="'+diagonalBand(false,BEND_CENTER_Y)+'" fill="'+t+'"/>';
+  if(d.ordinary==="bend-sinister") ordinary='<polygon points="'+diagonalBand(true,BEND_CENTER_Y)+'" fill="'+t+'"/>';
   if(d.ordinary==="chief") ordinary='<rect x="0" y="0" width="150" height="43" fill="'+t+'"/>';
   if(d.ordinary==="chevron") ordinary='<polygon points="-6,'+(CHEVRON.bottom+67)+' -6,'+(CHEVRON.top+67)+' 75,'+CHEVRON.top+' 156,'+(CHEVRON.top+67)+' 156,'+(CHEVRON.bottom+67)+' 75,'+CHEVRON.bottom+'" fill="'+t+'"/>';
   if(d.ordinary==="cross") ordinary='<path d="M58 0H92V66H150V102H92V172H58V102H0V66H58Z" fill="'+t+'"/>';

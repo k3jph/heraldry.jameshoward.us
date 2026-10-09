@@ -93,14 +93,24 @@ test('saltire bands share their intersection with the central charge',()=>{
   }
 });
 
-test('chevron charges follow the lowered chevron rather than stale coordinates',()=>{
+test('chevron charges fit the lowered chevron with a lower middle star',()=>{
   const points=polygonPoints(armsSVG({ordinary:'chevron',charge:'none'}))[0];
   const apex=points[2],inner=points[5],shoulder=points[3];
   const middle=(apex[1]+inner[1])/2;
   const slope=(shoulder[1]-apex[1])/(shoulder[0]-apex[0]);
   assert.ok(apex[1]>40,'The chevron should leave space above its apex');
-  for(const count of [1,3])for(const [x,y] of chargePlacements({ordinary:'chevron',count})){
-    assert.ok(Math.abs(y-(middle+Math.abs(x-apex[0])*slope))<.001);
+  for(const count of [1,3])for(const [x,y,size] of chargePlacements({ordinary:'chevron',count})){
+    const line=middle+Math.abs(x-apex[0])*slope;
+    if(x===apex[0])assert.ok(y>line,'The middle star should sit slightly lower at the apex');
+    else assert.ok(Math.abs(y-line)<.001,'The shoulder stars should stay centered on the arms');
+    const star=chargeSVG('mullet','gules',x,y,size);
+    const scale=Number(star.match(/scale\(([^)]+)\)/)[1]);
+    const offset=Number(star.match(/<g transform="translate\(0 ([^)]+)\)"/)[1]);
+    for(const [px,py] of polygonPoints(star)[0]){
+      const vx=x+px*scale,vy=y+(py+offset)*scale;
+      const rise=Math.abs(vx-apex[0])*slope;
+      assert.ok(vy>apex[1]+rise && vy<inner[1]+rise,'The lowered star must remain within the chevron');
+    }
   }
 });
 
