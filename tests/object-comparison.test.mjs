@@ -48,3 +48,13 @@ test('local image failure retries the museum once, including failures before ins
     assert.equal(image.src,'https://museum.example/image.jpg');
   }
 });
+
+test('seal reports retain uncertain attribution, later manufacture, and impression limits',()=>{
+  const wax=objectStudies.find(object=>object.id==='lowlands-wax-seal');
+  const matrix=objectStudies.find(object=>object.id==='ghent-style-matrix');
+  const report=comparisonReport(wax,matrix,{});
+  assert.ok(report.includes(wax.culture));
+  assert.ok(report.includes(matrix.date));
+  assert.ok(report.includes(matrix.studyType));
+  assert.ok(report.includes(matrix.imageNote));
+});

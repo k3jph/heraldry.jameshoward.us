@@ -66,3 +66,14 @@ test('blocked persistent storage still keeps pair notes for the current page',()
   assert.equal(ui.inputs.get('question').value,'Session note');
   assert.ok(!ui.location.href.includes('Session'));
 });
+
+test('seal comparison links render photograph qualifications and clear them for other pairs',()=>{
+  const ui=notebook({search:'?left=lowlands-wax-seal&right=ghent-style-matrix'});
+  assert.equal(ui.cards[0].get('[data-culture]').textContent,'Netherlandish or South Lowlands (?)');
+  assert.equal(ui.cards[1].get('[data-date]').textContent,'19th or 20th century (13th century style)');
+  assert.match(ui.cards[1].get('[data-study-scope]').textContent,/no arms identified/);
+  assert.match(ui.cards[1].get('[data-image-note]').textContent,/no separate date or material/);
+  ui.right.value='cary-bookplate';ui.right.handlers.change();
+  assert.equal(ui.cards[1].get('[data-image-note]').textContent,'');
+  assert.equal(ui.cards[1].get('[data-study-scope]').textContent,'');
+});

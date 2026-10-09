@@ -41,7 +41,15 @@ test('object studies keep attribution limits and cite modern records without inv
   assert.match(objectStudies.find(o=>o.id==='halewyn-ghistele-enamel').catalogue,/not certain/);
   assert.match(objectStudies.find(o=>o.id==='vitelleschi-maiolica').creator,/^Circle of /);
   assert.match(objectStudies.find(o=>o.id==='cary-bookplate').date,/1766–1821/);
+  const wax=objectStudies.find(o=>o.id==='lowlands-wax-seal');
+  assert.equal(wax.date,'12th–16th century');
+  assert.equal(wax.culture,'Netherlandish or South Lowlands (?)');
+  const matrix=objectStudies.find(o=>o.id==='ghent-style-matrix');
+  assert.equal(matrix.date,'19th or 20th century (13th century style)');
+  assert.match(matrix.studyType,/no arms identified/);
+  assert.match(matrix.imageNote,/no separate date or material/);
   const sitemap=readFileSync(new URL('../src/pages/sitemap.xml.js',import.meta.url),'utf8');
   assert.match(sitemap,/objects\.map/);
   assert.ok(sitemap.includes('/objects/compare/'));
+  assert.ok(sitemap.includes('/objects/seals/'));
 });

@@ -1,7 +1,7 @@
 ---
 title: The armiger's workshop
 unit: 12
-updated: '2026-10-08'
+updated: '2026-10-09'
 status: 'Expanded teaching draft; specialist review pending'
 ---
 
@@ -60,6 +60,20 @@ A **witness** is a source manifestation you actually use. A manuscript image, ed
 | Limitations | Missing parts, uncertainty, derivative dependence, or unexamined layers |
 
 Do not invent an archive shelfmark to make the table look complete. “Identifier not established” is a valid research state. It tells you and the next reader exactly what is missing. Likewise, a general homepage is not a substitute for a source location when the argument depends on one entry.
+
+## A dating problem you can actually check
+
+The Met’s [*Seal Matrix*, accession 1981.291](/objects/ghent-style-matrix/) puts two periods into one catalogue date field: nineteenth- or twentieth-century manufacture, in thirteenth-century style.[^matrix] A hurried transcription could keep only the medieval period. The resulting record would be precise, searchable, and wrong.
+
+Give manufacture and style separate fields in your working inventory. The first answers when the physical object was made, according to the catalogue. The second identifies a period used as a stylistic reference. They may eventually be supported by different comparisons or documents. Keeping both makes it possible to explain how the object enters your historical argument.
+
+The photograph presents a second problem. A metal matrix appears beside an orange impression. Their arrangements are reversed, making the relationship between a cut face and a relief image easier to inspect. But that helpful comparison does not give the accompanying impression the same date as the matrix. Nor does the matrix’s bronze medium tell you what the orange material is. Create a separate witness entry, with those fields unresolved.
+
+This is why the historical question belongs at the beginning of a project. If you are investigating later representations of medieval seal imagery, the matrix may be directly relevant. If you are trying to prove that someone used this particular matrix in the thirteenth century, the museum’s dating presents an immediate problem. The same object can be useful for one question and misleading for another.
+
+There is also a temptation to replace uncertainty with a dramatic explanation. A later object in an earlier style might have been made as a reproduction, a revival piece, or for some other purpose. Calling it a deliberate forgery requires evidence of deceptive representation or intent. The date alone does not establish that history. Separate the catalogue’s dating from the story you would like the dating to tell.
+
+Write a revised catalogue note containing manufacture period, stylistic reference, the two photographed witnesses, and one unresolved question. Then use the [seal evidence workshop](/objects/seals/) to test what each sentence claims to know. You can keep the two objects and their source records together in the [comparative notebook](/objects/compare/?left=lowlands-wax-seal&right=ghent-style-matrix).
 
 ## Build a claim ledger
 
@@ -129,3 +143,5 @@ Keep your witness inventory and claim ledger. They can grow into a comparative s
 [^object]: The Metropolitan Museum of Art, [*Shield for the Field or Tournament (Targe)*, 25.26.1](https://www.metmuseum.org/art/collection/search/22876), alternative attribution in the curatorial account; consulted 8 October 2026. The source's uncertainty must be preserved.
 [^framework]: Court of the Lord Lyon, [*Coats of Arms*](https://www.courtofthelordlyon.scot/coats%20of%20arms.htm); College of Arms, [*The Law of Arms*](https://www.college-of-arms.gov.uk/resources/the-law-of-arms). Consulted 8 October 2026. For an actual case, follow the applicable institution's sources and the particular record.
 [^rights]: The Met targe record marks the image Public Domain; Governor General of Canada, [*Public Register of Arms, Flags and Badges of Canada*](https://gg.ca/en/heraldry/public-register), reproduction notice, and [*Frequently Asked Questions*, question 4](https://www.gg.ca/en/heraldry/faq). Consulted 8 October 2026. These are different image regimes, not universal rules for all armorial art.
+
+[^matrix]: The Metropolitan Museum of Art, [*Seal Matrix*, 1981.291](https://www.metmuseum.org/art/collection/search/466069), date field and photograph; consulted 9 October 2026. Manufacture period and stylistic reference are distinct; no separate date or material for the accompanying impression is established in this teaching study.

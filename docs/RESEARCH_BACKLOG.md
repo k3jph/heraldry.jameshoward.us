@@ -24,6 +24,8 @@ Last updated: 2026-10-09. This queue is ordered for **coverage gaps and primary 
 
 - [x] Expand to a second repository with Cleveland Museum of Art’s Vitelleschi plate (1950.155) and Thomas Cary bookplate (1918.149), preserving circle attribution and catalogue dating; individually verified CC0 image rights. Add a comparative research bench with browser-local notes, shareable object pairs, and source-linked Markdown export. Specialist review, manuscript witnesses, and further repository coverage remain open.
 
+- [x] Add an armorial wax impression (Met 1981.534.7) and a later bronze matrix (Met 1981.291) as a labelled non-armorial seal comparison. Individually checked Public Domain images and CC0 policy; preserve the broad date range, uncertain culture, manufacture/style distinction, and unknown dating/material of the accompanying impression. Add an eight-claim seal workshop with a witness inventory, catalogue assignment, answer discussions, and research-notebook integration. Expand the tinctures and source-criticism readings around these objects; reviewed inscription transcription and documentary attachment remain open.
+
 ## Stage B — substantive continental survey
 
 - [ ] France: medieval armorials, blasonnement, d'Hozier, the 1696 fiscal registration, Revolutionary rupture, public symbolism.

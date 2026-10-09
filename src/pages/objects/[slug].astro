@@ -17,12 +17,12 @@ const others=objectStudies.filter(other=>other.id!==object.id);
       <div class="object-layout">
         <figure class="object-figure">
           <a href={object.imageSource} target="_blank" rel="noopener" aria-label={'Enlarge photograph of '+object.catalogueTitle}><ObjectImage object={object} loading="eager" fetchpriority="high"/></a>
-          <figcaption>{object.catalogueTitle}. {object.museum}, {object.accession}. {object.credit}. <a href={object.imageSource}>Museum source photograph ↗</a> · <a href={object.rightsUrl}>Open Access (CC0)</a>. Web image resized without cropping or recolouring.</figcaption>
+          <figcaption>{object.catalogueTitle}. {object.museum}, {object.accession}. {object.credit}. <a href={object.imageSource}>Museum source photograph ↗</a> · <a href={object.rightsUrl}>Open Access (CC0)</a>. Web image resized without cropping or recolouring. {object.imageNote}</figcaption>
           <a class="btn btn-line" href={object.imageSource} target="_blank" rel="noopener">Enlarge the photograph ↗</a>
         </figure>
         <aside class="object-record" aria-label="Museum object record">
           <p class="eyebrow"><span class="star">✦</span> The documentary address</p><h2>{object.catalogueTitle}</h2>
-          <dl>{[['Institution',object.museum],['Accession',object.accession],['Catalogue date',object.date],['Catalogue culture',object.culture],...(object.creator?[['Catalogue maker',object.creator]]:[]),['Medium',object.medium],['Credit line',object.credit],['Record consulted',object.accessed]].map(([label,value])=><div><dt>{label}</dt><dd>{value}</dd></div>)}</dl>
+          <dl>{[['Institution',object.museum],['Accession',object.accession],...(object.studyType?[['Study scope',object.studyType]]:[]),['Catalogue date',object.date],['Catalogue culture',object.culture],...(object.creator?[['Catalogue maker',object.creator]]:[]),['Medium',object.medium],['Credit line',object.credit],['Record consulted',object.accessed]].map(([label,value])=><div><dt>{label}</dt><dd>{value}</dd></div>)}</dl>
           <a href={object.url} class="btn btn-dark">Read the museum record ↗</a>
           <p class="caption">Catalogue-based teaching study; specialist review pending. This is not a new authentication, grant, or bearer identification.</p>
         </aside>
@@ -37,7 +37,7 @@ const others=objectStudies.filter(other=>other.id!==object.id);
         <section id="sources"><h2>Sources and image rights</h2><ol><li id="source-1"><a href={object.url}>{object.museum}, <em>{object.catalogueTitle}</em>, accession {object.accession}</a>. Collection record consulted {object.accessed}. The object date above is the catalogue’s dating of the artifact, not the date of this webpage.</li><li><a href={object.rightsUrl}>{object.museum} Open Access policy</a>. The individual record permits this image’s reuse under CC0; the institution’s Open Access policy explains which images and data qualify. Image credit: {object.credit}. The museum catalogue’s prose is summarized, not reproduced in full.</li></ol>
           <details class="citation"><summary>Show the BibTeX citation</summary><pre id="object-bibtex">{citation}</pre></details><button class="chip" id="copy-object-citation" type="button">Copy BibTeX</button><p id="citation-status" class="caption" role="status" aria-live="polite"></p>
         </section>
-        <div class="other-studies"><h2>Keep looking</h2><a class="btn btn-dark" href={'/objects/compare/?left='+object.id+'&right='+others[0].id}>Compare this object with another ↗</a>{others.map(other=><a class="text-link" href={'/objects/'+other.id+'/'}>{other.title} ↗</a>)}</div>
+        <div class="other-studies"><h2>Keep looking</h2>{object.workshop&&<a class="btn btn-dark" href={object.workshop}>Work through the seal evidence ↗</a>}<a class="btn btn-line" href={'/objects/compare/?left='+object.id+'&right='+others[0].id}>Compare this object with another ↗</a>{others.map(other=><a class="text-link" href={'/objects/'+other.id+'/'}>{other.title} ↗</a>)}</div>
       </div>
     </div>
   </section>

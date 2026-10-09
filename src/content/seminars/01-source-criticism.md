@@ -45,6 +45,20 @@ For every proposed claim, build an evidence matrix:
 
 When a source is strong for one column but weak for another, say so. The answer may be provisional. Responsible uncertainty is scholarship, not timidity.
 
+## A seal dossier with deliberately separate witnesses
+
+The [seal evidence workshop](/objects/seals/) begins with two Met objects: an [armorial wax impression, 1981.534.7](https://www.metmuseum.org/art/collection/search/466081), and a [bronze matrix, 1981.291](https://www.metmuseum.org/art/collection/search/466069). The first has a broad date range and qualified cultural attribution. The second is catalogued as nineteenth- or twentieth-century manufacture in thirteenth-century style. Both records and their photographs were consulted on 9 October 2026.
+
+Begin by recording the physical witness you are discussing. In the wax photograph, the impression and the handwritten mount are distinguishable surfaces. In the matrix photograph, the cut face and its accompanying impression are distinguishable objects. The current museum catalogue is a third kind of witness in each case. One accession provides a documentary address; it does not make every photographed surface contemporary with every other surface.
+
+The National Archives’ [seals research guide](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/seals/) explains matrices, impressions, and documentary attachment in its British collection context. Use that distinction to formulate questions about the Low Countries objects, while taking their specific dates and cultural attributions from their own records. A general institutional guide does not provide the missing original document for either museum object.
+
+Next build a date inventory. Record the wax impression’s catalogue range in full, with the cultural question mark. For the matrix, separate manufacture date from stylistic reference. Give the pictured orange impression a separate row, without a supplied date or material. If you later find a documented sealing event, record its date in another field rather than silently replacing the manufacture date.
+
+Finally, examine the authority claim. A seal’s use in authenticating a document does not make a loose photograph equivalent to the document, its sealing clause, and its custody history. A shield and a name need a defensible connection to a person before they can become evidence in a genealogy. The workshop’s unverified mount inscription cannot provide that connection simply because the handwriting looks old.
+
+**Submission:** Write 750 words explaining which claims the supplied photographs support, which you attribute to the catalogues, and which require a further witness. Propose a repository search for one missing connection. Specify what a negative result would leave unresolved. The [comparison notebook](/objects/compare/?left=lowlands-wax-seal&right=ghent-style-matrix) can hold your observations and export them with both accession records.
+
 ## Graduate document exercise
 
 Study the BnF guide and the Portuguese national archive's description. Construct a sample catalogue record for each, using **actual verified shelfmarks where provided** and leaving unknown fields explicitly blank. Specify institution, collection, physical witness, dated or estimated creation, source language, script, original blazon, editorial transcription, English translation, image rights and related witnesses. Distinguish the source from its webpage.

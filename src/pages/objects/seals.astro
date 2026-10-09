@@ -1,0 +1,65 @@
+---
+import Base from '../../layouts/Base.astro';
+import PageIntro from '../../components/PageIntro.astro';
+import ObjectImage from '../../components/ObjectImage.astro';
+import {objectStudies} from '../../lib/objects.js';
+const wax=objectStudies.find(object=>object.id==='lowlands-wax-seal')!;
+const matrix=objectStudies.find(object=>object.id==='ghent-style-matrix')!;
+const pair='/objects/compare/?left='+wax.id+'&right='+matrix.id;
+const exercises=[
+  {claim:'The wax impression shows a shield below a helmet and ornament.',basis:'Photograph-based observation',reason:'The arrangement can be inspected in the photograph. This describes visible forms without supplying a complete blazon or identifying their bearer.',object:wax},
+  {claim:'The field of the arms is Sable because the wax is black.',basis:'Not established',reason:'The dark material carries the field and its device alike. Its colour does not distinguish their tinctures. You would need a securely connected colour witness, written blazon, or applicable notation.',object:wax},
+  {claim:'The museum’s date range for the impression is 12th–16th century.',basis:'Catalogue statement',reason:'This reports the linked date field. The photograph alone does not demonstrate the range, and the range does not identify a precise sealing event.',object:wax},
+  {claim:'The bronze matrix was made in the thirteenth century.',basis:'Not established; conflicts with the catalogue',reason:'The catalogue assigns nineteenth- or twentieth-century manufacture and a thirteenth-century style. The proposed sentence replaces the manufacture date with its stylistic reference.',object:matrix},
+  {claim:'The two forms in the matrix photograph have reversed arrangements.',basis:'Photograph-based observation',reason:'Compare the figure, the small animal above it, and the lettering. This comparison does not independently date the orange impression or establish its material.',object:matrix},
+  {claim:'The matrix was intentionally made to deceive a medieval-seal collector.',basis:'Not established',reason:'Later manufacture does not establish deceptive intent. Production or sale records, a false representation, and evidence about the intended audience would be needed. The catalogue date does not supply those facts.',object:matrix},
+  {claim:'An earlier acquisition record might help explain the writing on the wax impression’s mount.',basis:'Research proposal',reason:'This names a source to investigate and a question it might answer. It is not a report that the record has been found or that it identifies the bearer. The proposed search could produce no answer.',object:wax},
+  {claim:'Both objects demonstrate the same family’s medieval entitlement to arms.',basis:'Not established',reason:'This combines an unidentified armorial impression with a later pictorial matrix. No shared family, corresponding design, medieval use of the matrix, or entitlement record has been established in these studies.',object:matrix}
+];
+---
+<Base title="The Seal Evidence Workshop" description="Work with an armorial wax impression and a later bronze matrix to separate material colour, catalogue dating, style, and documentary authority.">
+  <PageIntro eyebrow="A workshop in source criticism" title="Read the impression. Recover the context." description="Two museum objects give us several different witnesses—and several opportunities to make a very confident mistake."/>
+  <section class="section"><div class="wrap">
+    <a class="text-link" href="/objects/">← Historical object studies</a>
+    <div class="seal-pair">
+      {[wax,matrix].map(object=><figure><a class="seal-photo" href={'/objects/'+object.id+'/'}><ObjectImage object={object} loading="eager"/></a><figcaption><span class="smallcaps">Accession {object.accession}</span><h2><a href={'/objects/'+object.id+'/'}>{object.title}</a></h2><p>{object.date}<br/>{object.medium}</p><p class="caption">{object.studyType}</p><p class="caption">{object.imageNote}</p><a class="text-link" href={object.url}>The Met collection record ↗</a></figcaption></figure>)}
+    </div>
+    <div class="seal-reading">
+      <section id="method"><h2>Begin with what survived.</h2>
+        <p>A seal seems to offer an unusually direct encounter with the past. Somebody pressed a design into a material, and here is the result. But an impression, its matrix, its mount, a document, and a museum photograph are different things. Their relationship is exactly what the researcher needs to establish.</p>
+        <p>The National Archives’ <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/seals/">research guide</a> distinguishes the engraved matrix from the impression and explains seals’ use in authenticating documents. It also describes how a seal could be attached. That is a starting point for documentary research, not a guarantee that every detached impression identifies its original document or its user.</p>
+        <p>Our wax example is catalogued with a broad date range and a qualified cultural attribution. The bronze matrix is catalogued as later manufacture in a medieval style. Its photograph includes an accompanying impression, whose separate date and material are not established here. Preserve those differences before comparing the images.</p>
+      </section>
+      <section id="witnesses"><h2>Give each witness its own record.</h2>
+        <div class="table-scroll" tabindex="0" role="region" aria-label="Witnesses and the questions they can answer"><table><thead><tr><th scope="col">Witness</th><th scope="col">Record separately</th><th scope="col">Question to investigate</th></tr></thead><tbody>
+          <tr><th scope="row">Impressed design</th><td>Visible relief, outline, damage, and any legible letters</td><td>Which details survive well enough to compare?</td></tr>
+          <tr><th scope="row">Matrix</th><td>Cut face, material, manufacture date, and provenance</td><td>What evidence dates this particular object?</td></tr>
+          <tr><th scope="row">Mount or later annotation</th><td>Support, wording, hand, and attribution if known</td><td>Who added the description, and on what basis?</td></tr>
+          <tr><th scope="row">Original document, if found</th><td>Repository reference, date, attachment, and sealing context</td><td>How does it connect the impression to an act or person?</td></tr>
+          <tr><th scope="row">Current catalogue</th><td>Institution, accession, dating, qualifications, and consultation date</td><td>Which statements are reported, and which remain open?</td></tr>
+        </tbody></table></div>
+        <p>The distinction matters even when all five records eventually agree. Agreement must be demonstrated; it cannot be supplied by putting everything into one confident caption. Leave a blank field where the witness has not been found.</p>
+      </section>
+      <section id="claims"><p class="eyebrow"><span class="star">✦</span> Try the claim audit</p><h2>What supports the sentence?</h2>
+        <p>For each proposed claim, identify its strongest basis: an observation in the supplied photograph, a statement attributed to the catalogue, a proposal for further research, or a claim not established by the available evidence. Write one sentence explaining your choice before opening the discussion. Some unsupported claims also conflict with what the catalogue actually says.</p>
+        <ol class="claim-exercises">{exercises.map(exercise=><li><h3>{exercise.claim}</h3><details><summary>Discuss the evidence</summary><p><strong>{exercise.basis}.</strong> {exercise.reason}</p><a href={exercise.object.url}>Check the relevant collection record ↗</a></details></li>)}</ol>
+      </section>
+      <section id="submission" class="seal-assignment"><p class="eyebrow"><span class="star">✦</span> Build an argument</p><h2>A short catalogue, then a research plan.</h2>
+        <p>Write a 250-word comparative catalogue note. Include both accessions, the full date fields, the material attributed to each catalogued object, and a description of what is visible. Identify the matrix as a comparison in seal imagery rather than a newly authenticated armorial bearer. State which information about the accompanying impression remains unknown.</p>
+        <p>Then write a 500-word research plan for one unresolved question. Name the first repository or record you would consult, explain how it could support or contradict your proposed answer, and identify a result that would require you to revise the claim. A failed search should remain a failed search; it is not proof that the sought document never existed.</p>
+        <p><a class="btn btn-dark" href={pair}>Open this pair in the research notebook ↗</a></p>
+        <details><summary>What should a strong submission do?</summary><p>Keep the impression, matrix, mount, and catalogue distinct. Preserve uncertainty in the wax object’s culture and dating. Keep the matrix’s manufacture date separate from its style. Do not derive tinctures from wax colour, supply an unverified name from the mount, or allege forgery without evidence of intent. The research plan should propose a test someone else can repeat.</p></details>
+      </section>
+      <section id="sources"><h2>Sources and photograph rights</h2>
+        <ol>{[wax,matrix].map(object=><li><a href={object.url}>{object.museum}, <em>{object.catalogueTitle}</em>, {object.accession}</a>. Collection record and photograph consulted {object.accessed}. <a href={object.imageSource}>Source photograph</a>; image credit: {object.credit}.</li>)}<li><a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/seals/">The National Archives, <em>Seals</em></a>. Institutional research guide; consulted 9 October 2026. This guide’s collection context is British; the two object records above provide their own Low Countries attributions.</li><li><a href="https://www.metmuseum.org/hubs/open-access">The Met Open Access policy</a>. Both individual records mark their photographs Public Domain; qualifying photographs and basic data are released under CC0. Local copies are resized without cropping or recolouring.</li></ol>
+        <p class="caption">Original editorial teaching workshop based on the linked photographs and institutional records. Specialist review pending; no new authentication, inscription edition, or bearer identification is claimed.</p>
+        <a href="/seminars/01-source-criticism/" class="text-link">Continue to the source-criticism seminar ↗</a>
+      </section>
+    </div>
+  </div></section>
+  <style>
+    .seal-pair{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:28px;margin:30px 0 50px}.seal-pair figure{margin:0;border:1px solid var(--line);background:var(--white);min-width:0}.seal-photo{height:360px;display:flex;align-items:center;justify-content:center;padding:22px;background:var(--paper-2)}.seal-photo :global(img){width:100%;height:100%;object-fit:contain}.seal-pair figcaption{padding:25px}.seal-pair h2{font:500 2rem/1.12 var(--serif);margin:14px 0}.seal-pair .smallcaps{color:var(--red)}.seal-pair figcaption p{font-size:.85rem}
+    .seal-reading{max-width:850px;margin:auto}.seal-reading section{margin:48px 0}.seal-reading h2{font:500 clamp(1.8rem,4vw,2.7rem)/1.15 var(--serif)}.seal-reading p{line-height:1.85}.seal-reading a{text-decoration:underline;text-underline-offset:3px}.table-scroll{overflow-x:auto}table{border-collapse:collapse;width:100%;min-width:580px;font-size:.83rem}th,td{padding:15px;text-align:left;vertical-align:top;border-bottom:1px solid var(--line)}.claim-exercises{padding-left:24px}.claim-exercises>li{margin:30px 0;padding-left:8px}.claim-exercises h3{font:500 1.45rem/1.3 var(--serif)}details{border:1px solid var(--line);padding:18px;margin:18px 0}summary{cursor:pointer;font-weight:650}.seal-assignment{padding:clamp(18px,4vw,35px);background:var(--paper-2);border:1px solid var(--line)}
+    @media(max-width:800px){.seal-pair{grid-template-columns:1fr}.seal-photo{height:320px}}
+  </style>
+</Base>

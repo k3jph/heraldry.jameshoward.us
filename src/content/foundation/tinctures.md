@@ -1,7 +1,7 @@
 ---
 title: Tinctures and contrast
 unit: 3
-updated: '2026-10-08'
+updated: '2026-10-09'
 status: 'Expanded teaching draft; specialist review pending'
 ---
 
@@ -57,6 +57,18 @@ But first establish that the marks are intended as a code. Parallel lines may re
 
 There are two separate tasks here. A transcription records the visible marks. An interpretation assigns them a heraldic value. For example: “vertical incised lines in the upper compartment” is an observation; “Azure” is an interpretation using a particular code. A good record retains both. If the interpretation is revised, the original observation remains available.
 
+## An actual witness: black wax and unknown tinctures
+
+The Met’s [*Seal Impression, Coat of Arms*, accession 1981.534.7](/objects/lowlands-wax-seal/) is a useful test of the distinction between material and specification. The catalogue identifies black wax mounted on paper and dates it broadly to the twelfth through sixteenth centuries. It also qualifies the cultural attribution as Netherlandish or South Lowlands, with a question mark.[^seal]
+
+In the photograph, the dark material carries a shield, a branching motif, and the ornament above it. That does not make every represented element Sable. The colour of the material applies across the image, while a colour blazon would distinguish the field and its device. Calling the field black because the wax is black would confuse those two kinds of information. It would also leave the equally dark charge with the same supposed tincture, for no reason supplied by the record.
+
+Now ask how you could recover the missing information. A securely identified colour witness might help. So might a written description demonstrably connected to this design and bearer. Each proposed connection requires its own evidence: an armorial with similar branches does not automatically belong to the person who used this impression. Keep the shape you can observe separate from the colour you hope to establish.
+
+The handwritten mount presents another problem. It is a separate surface with its own inscription. A catalogue note, a collector’s annotation, and lettering actually impressed into wax should occupy different rows in your witness table. Record what is legible before deciding whose statement it is.
+
+For a short submission, describe the visible arrangement without tinctures, quote the catalogue date as a range, and name the first source you would seek for a colour interpretation. Leave the colour fields blank until the connection can be defended. The [seal evidence workshop](/objects/seals/) extends this into a comparison of appearance, date, and documentary setting.
+
 ## Worked problem: trace the layers
 
 **Constructed teaching blazon:** *Azure, on a fess Or three mullets Gules.* The field is blue. The fess is gold and lies on the blue. The three red mullets lie on the gold fess. Examine each placement separately: metal on color, then color on metal. Comparing the red mullets directly to the blue field skips the intervening layer and answers the wrong question.
@@ -86,3 +98,5 @@ For a documentary extension, choose a monochrome armorial witness and report exa
 [^furs]: English Heritage, [*A beginner's guide to heraldry*, “The Colours of Heraldry”](https://www.english-heritage.org.uk/guide-to-heraldry); Fox-Davies, chapter VII. Consulted 8 October 2026.
 [^proper]: Fox-Davies, chapter VII, discussion of *proper*; compare Canadian Heraldic Authority FAQ, question 10, for a contemporary formulation.
 [^hatching]: Fox-Davies, chapters VII–VIII, [pp. 67–105](https://www.gutenberg.org/cache/epub/41617/pg41617-images.html#page67). Hatching and tricking are historical conventions whose applicability must be established for the witness.
+
+[^seal]: The Metropolitan Museum of Art, [*Seal Impression, Coat of Arms*, 1981.534.7](https://www.metmuseum.org/art/collection/search/466081), date, culture, medium, and photograph; consulted 9 October 2026. Catalogue-mediated study, not a new bearer identification.

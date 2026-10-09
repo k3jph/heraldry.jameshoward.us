@@ -5,8 +5,8 @@ import {objectStudies} from '../../lib/objects.js';
 import ObjectImage from '../../components/ObjectImage.astro';
 const materials=[...new Set(objectStudies.map(object=>object.material))];
 ---
-<Base title="Historical Object Studies" description="Read heraldry on real museum objects: a painted tournament shield, stained glass, Limoges enamel, maiolica, and an engraved bookplate, with photographs, accession numbers, evidence ledgers, and research exercises.">
-  <PageIntro eyebrow="Heraldry in the material world" title="Arms you can investigate." description="Paint, glass, enamel, pottery, print. Five historical objects, five ways to ask what an image tells us—and what it leaves unresolved."/>
+<Base title="Historical Object Studies" description="Read heraldry on real museum objects: a painted tournament shield, stained glass, Limoges enamel, maiolica, an engraved bookplate, and seal studies, with photographs, accession numbers, evidence ledgers, and research exercises.">
+  <PageIntro eyebrow="Heraldry in the material world" title="Arms you can investigate." description={objectStudies.length+' museum objects in paint, glass, enamel, pottery, print, wax, and bronze. Ask what an image tells us—and what it leaves unresolved.'}/>
   <section class="section">
     <div class="wrap">
       <div class="notice-box"><strong>Begin with the object.</strong><p>These studies reproduce museum photographs of historical artifacts. Dates, identifications, and attributions come from the linked collection records; our visual observations and research questions are editorial teaching notes. Specialist review remains pending.</p></div>
@@ -17,7 +17,7 @@ const materials=[...new Set(objectStudies.map(object=>object.material))];
       <div class="object-grid">
         {objectStudies.map(object=><article class="object-card" data-object data-material={object.material}>
           <a class="object-plinth" href={'/objects/'+object.id+'/'} aria-label={'Study '+object.catalogueTitle}><ObjectImage object={object}/></a>
-          <div class="object-body"><span class="smallcaps">{object.culture} · {object.date}</span><h2><a href={'/objects/'+object.id+'/'}>{object.title}</a></h2><p>{object.summary}</p><p class="object-accession">{object.museum}<br/>Accession {object.accession}</p><a class="text-link" href={'/objects/'+object.id+'/'}>Open the object study ↗</a></div>
+          <div class="object-body"><span class="smallcaps">{object.culture} · {object.date}</span><h2><a href={'/objects/'+object.id+'/'}>{object.title}</a></h2><p>{object.summary}</p>{'studyType' in object&&<p class="caption">{object.studyType}</p>}<p class="object-accession">{object.museum}<br/>Accession {object.accession}</p><a class="text-link" href={'/objects/'+object.id+'/'}>Open the object study ↗</a></div>
         </article>)}
       </div>
       <div class="object-comparison">
@@ -28,8 +28,11 @@ const materials=[...new Set(objectStudies.map(object=>object.material))];
           <tr><th scope="row"><a href="/objects/halewyn-ghistele-enamel/">Impalement in enamel</a></th><td>Two armorial compositions joined vertically</td><td>Patronage, workshop attribution, and possible larger ensemble</td></tr>
           <tr><th scope="row"><a href="/objects/vitelleschi-maiolica/">Arms on maiolica</a></th><td>A central shield within an ornamental border</td><td>Family identification, circle attribution, and the unknown commission</td></tr>
           <tr><th scope="row"><a href="/objects/cary-bookplate/">An engraved bookplate</a></th><td>Armorial display, name, and engraver’s inscription</td><td>Catalogue date range and evidence of actual use in a book</td></tr>
+          <tr><th scope="row"><a href="/objects/lowlands-wax-seal/">Armorial wax impression</a></th><td>A shield, helmet, ornament, and separate mount</td><td>Material colour, catalogue uncertainty, and missing documentary context</td></tr>
+          <tr><th scope="row"><a href="/objects/ghent-style-matrix/">A later pictorial matrix</a></th><td>Opposite arrangements on matrix and accompanying impression</td><td>Manufacture date, medieval style, and the impression’s separate history</td></tr>
         </tbody></table></div>
         <p>Choose one claim about each object. Write down its source, what it establishes, and what additional evidence would change your confidence. A catalogue attribution and a visible feature should not receive the same kind of explanation.</p>
+        <p><a href="/objects/seals/" class="btn btn-line">Try the seal evidence workshop ↗</a></p>
         <p><a href="/objects/compare/" class="btn btn-dark">Compare objects and keep research notes ↗</a></p>
         <a href="/seminars/05-material-culture/" class="text-link">Continue to the material-culture seminar ↗</a>
       </div>

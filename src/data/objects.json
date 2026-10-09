@@ -276,5 +276,133 @@
     "exercise": "Write a catalogue description of this loose impression. Then imagine it is found pasted inside a dated book: list the additional observations you would record before claiming ownership. Finally, distinguish the dates of the engraved design, the paper impression, and its insertion into a volume.",
     "discussion": "A strong answer reads the name and visual arrangement while leaving the specific person and original volume open. It distinguishes a printed ownership device from proof of use, and it does not convert the catalogue’s date range into a precise year. Examine the paper, binding, adhesive, inscriptions, and acquisition history before tying an impression to a volume.",
     "research": "Locate another impression of the same design, if one can be documented. Compare lettering, margins, plate wear, paper evidence, and any book context. Similarity can establish a shared design; it does not make the two impressions the same historical witness."
+  },
+  {
+    "museum": "The Metropolitan Museum of Art",
+    "accessed": "2026-10-09",
+    "imageRights": "CC0",
+    "rightsUrl": "https://www.metmuseum.org/hubs/open-access",
+    "workshop": "/objects/seals/",
+    "id": "lowlands-wax-seal",
+    "title": "The wax is black. What were the arms?",
+    "catalogueTitle": "Seal Impression, Coat of Arms",
+    "summary": "An armorial wax impression preserves a design while leaving its tinctures, precise date, and bearer unresolved in this study.",
+    "date": "12th–16th century",
+    "culture": "Netherlandish or South Lowlands (?)",
+    "material": "Wax",
+    "medium": "Black wax mounted on paper",
+    "accession": "1981.534.7",
+    "credit": "Gift of H.P. Kraus, 1981",
+    "objectId": 466081,
+    "url": "https://www.metmuseum.org/art/collection/search/466081",
+    "imageSource": "https://images.metmuseum.org/CRDImages/md/original/sf1981-534-7s1.jpg",
+    "image": "/images/objects/lowlands-wax-seal.jpg",
+    "alt": "A dark circular seal impression on a pale rectangular mount, with a central shield bearing a branching motif, helmet and surrounding ornament; cracks interrupt its edge.",
+    "width": 1575,
+    "height": 1600,
+    "lesson": "tinctures",
+    "studyType": "Armorial seal impression",
+    "question": "Which colour belongs to the material?",
+    "observations": [
+      "The dark impression sits on a larger, pale rectangular support. A shield occupies its lower centre, with a branching motif inside it. Above the shield are a helmet and curling ornament. The outer edge is irregular, with breaks and cracks.",
+      "Handwriting appears on the support below the impression. Its position matters: this writing belongs to the mount visible in the photograph. It should be recorded separately from any lettering impressed into the seal. This study does not supply a reading or a bearer identification from it."
+    ],
+    "catalogue": "The Met catalogues this as black wax mounted on paper, dates it to the twelfth through sixteenth centuries, and gives its culture as Netherlandish or South Lowlands with a question mark. The wax alone is recorded as 3 cm across; accession 1981.534.7 identifies the object. Those broad and qualified fields are retained here. [1]",
+    "reading": [
+      "The first temptation is easy to explain. The entire impression looks black, so a beginner might call the field Sable. But the surface colour describes the material carrying the image. It does not distinguish the tincture of the shield from the tincture of the branching device. The same dark surface carries both. A colour blazon would need another basis.",
+      "A second temptation is to sharpen the date until it feels useful. Four centuries is an inconvenient range if you want a precise historical story. It remains the catalogue range, however, and choosing its midpoint would create a date the source never supplied. Specify what evidence could narrow it: a documented attachment to a dated instrument, an independently identified legend, or a closely controlled comparison.",
+      "The mount introduces a third voice. We have the impressed image, handwriting on a separate support, and the present museum record. They may concern the same object, but their statements need not come from the same person or period. Transcribe the mount diplomatically if it can be read; investigate who wrote it and when before turning that annotation into the seal owner’s name.",
+      "A detached or mounted impression can be valuable evidence of an armorial representation. Its documentary setting still matters. The photograph here does not show an original charter, a cord, or a sealing clause. Do not invent those missing connections. Look for acquisition files, an earlier catalogue, or another documented impression that could recover context."
+    ],
+    "claims": [
+      {
+        "claim": "A shield with a branching motif appears beneath a helmet and ornament.",
+        "basis": "Object photograph",
+        "limit": "A description of visible arrangement; no complete blazon or bearer identification supplied."
+      },
+      {
+        "claim": "The medium is black wax mounted on paper.",
+        "basis": "Museum medium field [1]",
+        "limit": "Material colour does not establish the arms’ tinctures."
+      },
+      {
+        "claim": "The catalogue date is 12th–16th century.",
+        "basis": "Museum date field [1]",
+        "limit": "A broad catalogue range; no precise sealing event established."
+      },
+      {
+        "claim": "The cultural attribution is qualified.",
+        "basis": "Museum culture field [1]",
+        "limit": "The question mark is retained; no modern nationality or specific locality inferred."
+      }
+    ],
+    "exercise": "Make a witness table with three rows: the impressed design, the handwritten mount, and the museum record. For each, say what you have actually inspected and what claim it could support. Then explain why neither black wax nor the midpoint of the catalogue range produces a defensible colour blazon or exact date.",
+    "discussion": "A strong answer keeps support, image, and catalogue distinct. It records the visible shield and ornament without filling in tinctures; preserves the full date range and cultural question mark; and treats the mount’s writing as an additional witness requiring its own attribution. Unknown fields remain unknown until a source resolves them.",
+    "research": "Seek an earlier description of this particular impression, using the accession and museum record as the starting point. If a proposed matching seal is attached to a dated document, compare details and the identification chain before assuming the loose and attached impressions share a matrix. A resemblance is a lead to test."
+  },
+  {
+    "museum": "The Metropolitan Museum of Art",
+    "accessed": "2026-10-09",
+    "imageRights": "CC0",
+    "rightsUrl": "https://www.metmuseum.org/hubs/open-access",
+    "workshop": "/objects/seals/",
+    "id": "ghent-style-matrix",
+    "title": "Medieval style. A later object.",
+    "catalogueTitle": "Seal Matrix",
+    "summary": "A later bronze matrix provides a comparison in seal imagery: a medieval-looking design does not supply a medieval manufacture date.",
+    "date": "19th or 20th century (13th century style)",
+    "culture": "South Netherlandish",
+    "material": "Bronze",
+    "medium": "Bronze",
+    "accession": "1981.291",
+    "credit": "Rogers Fund, 1981",
+    "objectId": 466069,
+    "url": "https://www.metmuseum.org/art/collection/search/466069",
+    "imageSource": "https://images.metmuseum.org/CRDImages/md/original/sf1981-291s4.jpg",
+    "image": "/images/objects/ghent-style-matrix.jpg",
+    "alt": "A pointed oval metal seal matrix at right and an orange impression at left, with reversed arrangements of a haloed seated figure, a small animal, stars and a lettered border.",
+    "width": 1600,
+    "height": 1166,
+    "lesson": "reading-the-evidence",
+    "studyType": "Comparative seal imagery; no arms identified in this study",
+    "imageNote": "The photograph pairs the metal matrix with an orange impression. The catalogue’s date and medium describe the matrix; this study assigns no separate date or material to the accompanying impression.",
+    "question": "Which century belongs to the object?",
+    "observations": [
+      "The photograph places two pointed oval forms side by side: an orange impression on the left and a dark metal matrix on the right. Their central figures and lettered borders run in opposite directions. The difference can be inspected without first assigning a name to the figure.",
+      "A haloed figure sits within the central scene. A small animal and star-shaped forms appear above it. This is included as comparative seal imagery, not as a newly identified coat of arms. A seal can carry a pictorial scene rather than the shield one expects in an armorial collection."
+    ],
+    "catalogue": "The Met dates the bronze matrix to the nineteenth or twentieth century and separately describes its style as thirteenth century. It records manufacture in Ghent and a South Netherlandish culture, under accession 1981.291. The period qualification is part of the dating, not a parenthesis to discard. [1]",
+    "reading": [
+      "A catalogue date has a job: to describe when the object was made. A stylistic comparison has a different job: to describe the visual language it uses. Here the museum places those statements next to each other. Copying only thirteenth century would reverse the record’s meaning and turn a later object into supposed medieval evidence.",
+      "The matrix and the impression also have different jobs. The cut face is used to make the relief image; pressing it reverses the arrangement. A letter sequence inspected on the matrix therefore needs to be distinguished from its impression. Do not silently flip a photograph and cite the edited view as though it were the supplied museum image.",
+      "The orange impression is helpful for reading the design, but it introduces another dating question. A later impression can show the form carried by a matrix without having been made when the matrix was manufactured. This catalogue’s date and medium identify the matrix. The pictured impression does not receive an independently verified date or material in our study.",
+      "A later object made in an earlier style invites questions about revival, collecting, reproduction, and deception. It does not answer them. A catalogue’s later date alone is not evidence that a named person intentionally forged a medieval seal. That stronger claim would require records of production, sale, representation, or use.",
+      "The value of this comparison is methodological. The bronze matrix is a witness to its own manufacture and representation, as catalogued. It should not be used as an unqualified thirteenth-century witness to an institution, person, or heraldic entitlement. State the historical question before deciding which object can answer it."
+    ],
+    "claims": [
+      {
+        "claim": "The catalogue dates the matrix to the 19th or 20th century.",
+        "basis": "Museum date field [1]",
+        "limit": "The 13th-century description is stylistic, not the stated manufacture date."
+      },
+      {
+        "claim": "The matrix and accompanying impression show reversed arrangements.",
+        "basis": "Object photograph",
+        "limit": "No separate date or material for the pictured impression established here."
+      },
+      {
+        "claim": "The matrix is bronze and is catalogued as made in Ghent.",
+        "basis": "Museum medium and geography fields [1]",
+        "limit": "These catalogue statements are not material testing or provenance research undertaken by this project."
+      },
+      {
+        "claim": "The object provides a comparison in seal imagery.",
+        "basis": "Editorial teaching scope and visible pictorial scene",
+        "limit": "No coat of arms, identified seal owner, or intention to deceive established in this study."
+      }
+    ],
+    "exercise": "Write two catalogue fields: manufacture period and stylistic reference. Then write a separate entry for the accompanying impression, leaving its date and material unknown. Explain one historical claim that the matrix could help investigate and one claim for which treating it as medieval would be misleading.",
+    "discussion": "A strong answer preserves the nineteenth- or twentieth-century date, places the thirteenth-century comparison in a style field, and treats the impression as a distinct witness. It avoids upgrading later manufacture into an accusation of forgery. It also labels the pictorial scene as comparative seal imagery instead of forcing every seal into a coat of arms.",
+    "research": "Investigate earlier acquisition and catalogue records for this accession, then compare a securely dated matrix with a similar scene. Record whether the comparison is based on lettering, iconography, manufacture, or documentary context. Do not use a stylistic parallel as the sole reason to replace the museum’s date."
   }
 ]

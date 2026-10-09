@@ -25,11 +25,14 @@ export function comparisonReport(left,right,notes){
     '- Institution: '+object.museum,
     '- Accession: '+object.accession,
     '- Catalogue date: '+object.date,
+    '- Catalogue culture: '+object.culture,
+    ...(object.studyType?['- Study scope: '+object.studyType]:[]),
     ...(object.creator?['- Catalogue maker: '+object.creator]:[]),
     '- Medium: '+object.medium,
     '- Collection record: '+object.url,
     '- Record consulted: '+object.accessed,
     '- Photograph: '+object.imageSource,
+    ...(object.imageNote?['- Photograph note: '+object.imageNote]:[]),
     '- Image rights: '+object.imageRights+'; '+object.rightsUrl
   ].join('\n');
   const values=comparisonNotes(notes);
