@@ -20,6 +20,7 @@ Last updated: 2026-10-08. This queue is ordered for **coverage gaps and primary 
 - [ ] Extend every chapter toward the proposed 5,000–8,000-word depth, with broader bibliography, direct image and manuscript examination, extended assessment, and competent specialist review.
 - [ ] Reduce reliance on one historical British manual through additional dated and original-language witnesses. The current technical vocabulary cites Fox-Davies (1909) explicitly as historical instructional evidence.
 - [ ] Build reviewed object studies with separately verified image rights; do not relabel catalogue descriptions as original artifact authentication.
+- [x] Publish an initial three-object, photograph-based collection from The Met (targe 25.26.1, stained glass 12.137.2, enamel 14.40.697d), with CC0 images, accession records, source-image URLs, claim ledgers, exercises, and collection-record BibTeX copying. These are editorial teaching studies; specialist review and broader repository coverage remain open.
 
 ## Stage B — substantive continental survey
 
@@ -65,4 +66,3 @@ Last updated: 2026-10-08. This queue is ordered for **coverage gaps and primary 
 Completion criteria apply **per topic**, not to the entire site. A profile marked `source-ledger` is reconnaissance, `synthesized` is an original English research note, and `reviewed` requires human specialist review. The number of covered regions is not a substitute for depth.
 
 Continuous goal: eliminate gaps in this backlog, add newly discovered source traditions, and revisit contested scholarship. A checkmark is not a stopping signal.
-

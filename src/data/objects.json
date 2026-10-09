@@ -1,0 +1,131 @@
+[
+  {
+    "id": "franconian-targe",
+    "title": "A shield that contains a shield",
+    "catalogueTitle": "Shield for the Field or Tournament (Targe)",
+    "summary": "An armorial painting, a physical shield, and an attribution that remains deliberately open.",
+    "date": "ca. 1450",
+    "culture": "German",
+    "material": "Painted shield",
+    "medium": "Wood, leather, linen, gesso, pigments, silver",
+    "accession": "25.26.1",
+    "credit": "Gift of Mrs. Florence Blumenthal, 1925",
+    "museum": "The Metropolitan Museum of Art",
+    "objectId": 22876,
+    "url": "https://www.metmuseum.org/art/collection/search/22876",
+    "imageSource": "https://images.metmuseum.org/CRDImages/aa/original/DP-46315-001.jpg",
+    "image": "/images/objects/franconian-targe.webp",
+    "alt": "A scalloped tournament shield painted with a woman, a yellow armorial shield bearing a black animal head, and a helmet with a matching crest above it.",
+    "width": 1206,
+    "height": 1600,
+    "accessed": "2026-10-09",
+    "imageRights": "CC0",
+    "rightsUrl": "https://www.metmuseum.org/hubs/open-access",
+    "lesson": "anatomy-of-arms",
+    "question": "Which shield are you describing?",
+    "observations": [
+      "The physical support has a scalloped outline and a deep notch on the viewer’s left. A smaller painted armorial shield appears within it. These are two different outlines, doing two different jobs.",
+      "Above the painted shield is a helmet and a separate animal-head ornament. A female figure and scrolling inscription occupy the surrounding space. A description of the field alone would omit much of this object."
+    ],
+    "catalogue": "The Met dates this German targe to about 1450 and associates the arms with either the Gottsmann or the related Türriegel family of Franconia. Its curatorial account explains that later overpainting helped preserve the decoration beneath it. The museum also reports traces of Saint Christopher on the leather-lined reverse. That reverse is not the photograph reproduced here. [1]",
+    "reading": [
+      "Start with the support, then the painted achievement. The outer object is a shield; the small shield in its decoration is the armorial field; the ornament above the helmet is the crest. Calling every part a crest would discard the relationships that make the composition intelligible.",
+      "A digital redrawing could make the small shield perfectly symmetrical and turn its surface into flat yellow and black. That might help a beginner see the composition. It would also remove the irregular contour, aging, background figure, and evidence of the object’s material construction. Keep the photograph alongside any diagram, and explain which question each image answers.",
+      "The catalogue’s alternative family attribution is part of the evidence. A confident-looking animal head cannot choose between the two families for us. The useful next question is what dated records or comparative objects would distinguish those possibilities."
+    ],
+    "claims": [
+      {"claim": "The outer shield and painted armorial shield have different outlines.", "basis": "Front photograph", "limit": "Visible arrangement; does not identify the bearer."},
+      {"claim": "The arms are associated with Gottsmann or Türriegel.", "basis": "Museum curatorial account [1]", "limit": "Alternative attribution retained; no new identification."},
+      {"claim": "There are traces of Saint Christopher on the reverse.", "basis": "Museum curatorial account [1]", "limit": "Reported by the museum; not observable in this front view."}
+    ],
+    "exercise": "Write two descriptions: one of the physical object, one of the painted achievement. Then make a claim ledger with three columns: visible in this photograph, reported by the catalogue, and still to be established. Place the family attribution and reverse decoration in the appropriate columns.",
+    "discussion": "A strong answer separates the targe’s outline from the painted shield and identifies the crest by its position above the helmet. It keeps both family names and does not claim to have inspected the reverse. To resolve the attribution, propose a dated comparative witness rather than a surname search.",
+    "research": "Follow the collection record to its additional reverse photograph. Compare what can actually be seen there with the museum’s description. Record the image identifier and viewing conditions before arguing that a damaged painted trace represents a particular saint."
+  },
+  {
+    "id": "heraldic-glass",
+    "title": "Light passing through arms",
+    "catalogueTitle": "Heraldic Shield",
+    "summary": "A small stained-glass shield asks how much a photograph can tell us about colour, repair, and original setting.",
+    "date": "1300–1320",
+    "culture": "British",
+    "material": "Stained glass",
+    "medium": "Stained glass",
+    "accession": "12.137.2",
+    "credit": "Rogers Fund, 1912",
+    "museum": "The Metropolitan Museum of Art",
+    "objectId": 463565,
+    "url": "https://www.metmuseum.org/art/collection/search/463565",
+    "imageSource": "https://images.metmuseum.org/CRDImages/md/original/cdi12-137-2.jpg",
+    "image": "/images/objects/heraldic-glass.webp",
+    "alt": "A shield-shaped stained-glass panel with red and yellow areas, a pale five-pointed star at upper left, and dark structural lines and irregular joins.",
+    "width": 1558,
+    "height": 1600,
+    "accessed": "2026-10-09",
+    "imageRights": "CC0",
+    "rightsUrl": "https://www.metmuseum.org/hubs/open-access",
+    "lesson": "heraldry-in-public-life",
+    "question": "Is that line heraldry, or construction?",
+    "observations": [
+      "The photograph shows red and yellow areas, with a pale five-pointed star in the upper-left area as we view it. Dark lines divide the image into large regions and also cross individual pieces irregularly.",
+      "Some dark lines might seem to describe armorial divisions; others follow the joins of the glass. The photograph alone does not establish which pieces or joins are original."
+    ],
+    "catalogue": "The Met catalogues this object as British stained glass dated 1300–20, accession 12.137.2, acquired through the Rogers Fund in 1912. Its dimensions are 29.2 by 24.8 cm. The consulted overview does not supply a named armiger or an original architectural location. Those omissions should remain omissions in our account. [1]",
+    "reading": [
+      "Treat the photograph as a record of an object under particular lighting. The visible yellow and pale areas can start a discussion of tinctures, but pixels are not a conservation report. Before assigning a formal blazon, ask whether a dark region is pigment, an opaque part of the support, damage, or an effect of the photograph.",
+      "Position needs its own discipline. The pale star sits at the viewer’s upper left. If you use heraldic dexter, explain the change of viewpoint. That translation is a reading convention; it is not an attribution to a named bearer.",
+      "This is a good place to resist premature completion. A newly drawn shield would force decisions about the field, divisions, colour, and number of charges. A careful object description can preserve a feature without deciding its heraldic role. Write what the image supports, then identify the additional evidence a full reconstruction would need."
+    ],
+    "claims": [
+      {"claim": "A pale five-pointed star is visible at the viewer’s upper left.", "basis": "Object photograph", "limit": "A visual description, not a complete blazon."},
+      {"claim": "The panel is dated 1300–20 and catalogued as British.", "basis": "Museum object record [1]", "limit": "Catalogue date and culture; no narrower place of manufacture inferred."},
+      {"claim": "A particular family owned the original window.", "basis": "Not established here", "limit": "Needs provenance or other documentary evidence."}
+    ],
+    "exercise": "Annotate five features using only visual language. For each, say whether you think it is armorial design, material construction, or uncertain. Then write a short research request for the information you would need to distinguish original glass from later interventions.",
+    "discussion": "A strong answer describes the star and the visible colour areas without inventing a bearer. It recognizes that a dark join is not automatically an ordinary. Useful further evidence includes conservation documentation, earlier photographs, acquisition records, and evidence of the panel’s former architectural setting.",
+    "research": "Compare this photograph with a second image made under different illumination, if one can be located. Record the photographer or repository, date, and lighting where available. Which proposed tincture readings survive the comparison, and which become less secure?"
+  },
+  {
+    "id": "halewyn-ghistele-enamel",
+    "title": "Two coats, one painted shield",
+    "catalogueTitle": "Angels presenting the arms of Halewyn impaling Van Ghistele",
+    "summary": "An enamel plaque joins two armorial compositions while leaving its original larger setting uncertain.",
+    "date": "First quarter of the sixteenth century",
+    "culture": "French, Limoges",
+    "material": "Painted enamel",
+    "medium": "Painted enamel on copper, partly gilt",
+    "accession": "14.40.697d",
+    "credit": "Bequest of Benjamin Altman, 1913",
+    "museum": "The Metropolitan Museum of Art",
+    "objectId": 210213,
+    "url": "https://www.metmuseum.org/art/collection/search/210213",
+    "imageSource": "https://images.metmuseum.org/CRDImages/es/original/ES339.jpg",
+    "image": "/images/objects/halewyn-ghistele-enamel.webp",
+    "alt": "A long blue enamel plaque with winged angels holding a central shield divided vertically: dark animal forms on the viewer’s left, and a chevron with three stars on red at right.",
+    "width": 680,
+    "height": 234,
+    "accessed": "2026-10-09",
+    "imageRights": "CC0",
+    "rightsUrl": "https://www.metmuseum.org/hubs/open-access",
+    "lesson": "marshalling",
+    "question": "What does joining arms actually establish?",
+    "observations": [
+      "A vertical boundary divides the central shield. The viewer’s right half contains a chevron and three star-shaped charges; the left half contains dark animal forms. Angels hold the shield against a blue background.",
+      "The composition extends far beyond the armorial field. Describe the angels and surrounding blue area as part of the plaque before deciding whether they belong in an armorial description."
+    ],
+    "catalogue": "The Met identifies the arms as Halewyn impaling Van Ghistele and attributes the enamel to the workshop of Nardon Pénicaud. It dates the French, Limoges object to the first quarter of the sixteenth century. The curatorial note suggests the angels may once have accompanied a scene on a lower plaque in a triptych; that proposed setting is not certain. [1]",
+    "reading": [
+      "The vertical division offers a concrete example for studying impalement. Compare the two halves as compositions, not as two unrelated decorations. Each half has its own arrangement; joining them changes the space in which the charges must fit.",
+      "The catalogue provides the family names. The photograph provides the arrangement we can inspect. Those sources work together, but neither supplies a complete account of why this particular commission joined these particular arms. To identify a marriage or an individual patron, follow a documentary chain rather than treating the division itself as a marriage certificate.",
+      "The workshop attribution and the proposed triptych setting require different qualifications. Attributed to a workshop is not the same as signed by its master. A possible larger setting is not a surviving complete ensemble. Keep those distinctions visible when using the object in an argument about patronage or devotional display."
+    ],
+    "claims": [
+      {"claim": "The shield is divided vertically into two armorial compositions.", "basis": "Object photograph", "limit": "Visible arrangement does not identify a particular marriage."},
+      {"claim": "The arms are Halewyn impaling Van Ghistele.", "basis": "Museum catalogue title [1]", "limit": "Institutional identification retained; not newly established here."},
+      {"claim": "The plaque may have formed part of a triptych.", "basis": "Museum curatorial suggestion [1]", "limit": "A proposed original setting, not a demonstrated surviving ensemble."}
+    ],
+    "exercise": "Make a two-part account: an image description without family names, then a catalogue-based identification with the appropriate qualifications. List the evidence you would seek before naming the people who commissioned it or the occasion it commemorated.",
+    "discussion": "A strong answer recognizes the vertical joining of arms and separates the family identification from a claim about specific people. It preserves the workshop attribution and the museum’s tentative account of the original setting. Genealogical records might establish a relevant union, but a documented link to this object would still be needed.",
+    "research": "Compare the catalogue’s title, attribution, and provenance information with a dated publication or inventory. Track whether the identification changes between records. A research note should state which version supports each claim rather than silently treating all versions as interchangeable."
+  }
+]

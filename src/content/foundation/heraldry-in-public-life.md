@@ -49,6 +49,8 @@ Missing features are evidence too, but their cause must be investigated. A shiel
 
 ## Documentary encounter: stained glass
 
+**Look at the object:** open the [illustrated stained-glass study](/objects/heraldic-glass/) to compare visible colour areas, structural joins, and the limits of a photograph.
+
 The Metropolitan Museum of Art catalogues **Heraldic Shield**, object **12.137.2**, as British stained glass dated **1300–1320**. Its collection record supplies the medium, dimensions, credit line, and a Public Domain image designation.[^glass] This is a materially different witness from a painted parchment or metal seal.
 
 Glass has leading, transmission of light, possible repairs, and a history of installation or relocation. Those properties affect how an image is seen and preserved. A transcription of the design should not erase the medium. A material study should not infer a bearer without documentary evidence merely because a charge resembles known arms.

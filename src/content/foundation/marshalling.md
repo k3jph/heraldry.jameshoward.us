@@ -15,6 +15,8 @@ Even when the components are recognizable, the display does not prove every clai
 
 ## Impalement
 
+**Look at a historical example:** the [Halewyn–Van Ghistele enamel study](/objects/halewyn-ghistele-enamel/) examines a museum photograph of impaled arms and asks what additional evidence is needed to identify a particular patron or marriage.
+
 **Impalement** places two coats side by side in one shield. The component designs are fitted into their respective portions rather than reduced to whatever half of the original picture happens to remain. In conventional English marital display, the placement of the spouses' arms follows a particular arrangement.[^impalement]
 
 The compositional issue is straightforward: an ordinary that originally crossed the full shield must now fit a narrower compartment. Its proportion changes, but it remains the corresponding figure. This is another example of preserving identity while adapting an emblazonment to its support.

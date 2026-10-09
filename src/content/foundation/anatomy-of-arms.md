@@ -49,6 +49,8 @@ Do not assume every emblem derived from a charge is an officially granted badge.
 
 ## Documentary encounter: an actual shield is also an object
 
+**Look at the object:** our [illustrated targe study](/objects/franconian-targe/) reproduces the museum's photograph with an evidence ledger and a workshop distinguishing the physical shield from its painted achievement.
+
 The Metropolitan Museum of Art's **Shield for the Field or Tournament (Targe)**, object **25.26.1**, is catalogued as German and dated approximately **1450**. Its materials include wood, leather, linen, gesso, pigments, and silver. The museum identifies the painted arms with either the Gottsmann or the related Türriegel family of Franconia, preserving uncertainty rather than selecting one bearer.[^targe]
 
 That uncertainty is a teaching opportunity. A physical shield has a front, a back, layers, repairs, dimensions, and provenance. A modern SVG representing only its arms cannot preserve all of those properties. The museum reports that earlier decoration was protected under later paint. A photograph shows a surface; a conservation account explains a history of surfaces. Those are complementary kinds of evidence.

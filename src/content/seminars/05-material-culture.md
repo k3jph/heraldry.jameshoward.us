@@ -19,6 +19,8 @@ The historian must therefore describe both a design and the medium that carries 
 
 The Portuguese [1509 Livro do Armeiro-Mor](https://antt.dglab.gov.pt/wp-content/uploads/sites/17/2025/02/vasco-da-gama-conde-almirante.pdf) is a courtly illustrated manuscript. Its labels, hierarchy of arms, calligraphy and patronage matter. An extract showing Vasco da Gama's arms is strongest when identified by the national archive's precise folio reference rather than just by the bearing displayed.
 
+For a photograph-based comparative exercise, begin with the [historical object studies](/objects/). The painted targe, stained-glass panel, and Limoges enamel supply accession records, image-rights notes, and claim ledgers. Compare the different evidence required to discuss attribution, repair, and a proposed original setting.
+
 The Spanish [1998 Sotillo de la Ribera notice](https://www.boe.es/diario_boe/txt.php?id=BOE-A-1998-23942) is a government document establishing an official civic design. It is less visually spectacular, but its language explains the administrative decision and describes the composition. It can be more persuasive for the legal question 'Which municipal arms were officially approved in this proceeding?' than an undated painting of the same device.
 
 The source types are not ranked by beauty or governmental prestige. Their relative evidentiary value depends on the proposition. A courtly manuscript witnesses a particular historical representation; a statutory or administrative record can witness a particular legal act.
