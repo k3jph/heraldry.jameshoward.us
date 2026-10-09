@@ -11,9 +11,17 @@ test('historical objects retain traceable image rights and accession records',()
     assert.ok(!ids.has(object.id));ids.add(object.id);
     assert.ok(!accessions.has(object.accession));accessions.add(object.accession);
     assert.equal(object.imageRights,'CC0');
-    assert.match(object.rightsUrl,/^https:\/\/www\.metmuseum\.org\//);
-    assert.match(object.url,new RegExp('/'+object.objectId+'$'));
-    assert.match(object.imageSource,/^https:\/\/images\.metmuseum\.org\/CRDImages\//);
+    const record=new URL(object.url);
+    assert.equal(record.pathname.split('/').at(-1),String(object.objectId));
+    const institution=record.hostname==='www.metmuseum.org'?'met':'cleveland';
+    assert.ok(['www.metmuseum.org','www.clevelandart.org'].includes(record.hostname));
+    assert.equal(new URL(object.rightsUrl).hostname,record.hostname);
+    const image=new URL(object.imageSource);
+    if(institution==='met')assert.equal(image.hostname,'images.metmuseum.org');
+    else{
+      assert.equal(image.hostname,'www.clevelandart.org');
+      assert.equal(new URL(image.searchParams.get('url')).hostname,'piction.clevelandart.org');
+    }
     assert.ok(existsSync(new URL('../public'+object.image,import.meta.url)));
     assert.ok(object.width>0&&object.height>0&&object.alt.length>30);
     assert.ok(existsSync(new URL('../src/content/foundation/'+object.lesson+'.md',import.meta.url)));
@@ -31,6 +39,9 @@ test('object studies keep attribution limits and cite modern records without inv
   }
   assert.match(objectStudies.find(o=>o.id==='franconian-targe').catalogue,/either.*Gottsmann.*Türriegel/);
   assert.match(objectStudies.find(o=>o.id==='halewyn-ghistele-enamel').catalogue,/not certain/);
+  assert.match(objectStudies.find(o=>o.id==='vitelleschi-maiolica').creator,/^Circle of /);
+  assert.match(objectStudies.find(o=>o.id==='cary-bookplate').date,/1766–1821/);
   const sitemap=readFileSync(new URL('../src/pages/sitemap.xml.js',import.meta.url),'utf8');
   assert.match(sitemap,/objects\.map/);
+  assert.ok(sitemap.includes('/objects/compare/'));
 });

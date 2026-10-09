@@ -39,6 +39,12 @@ Italian communes and regional institutions used a rich language of banners, seal
 
 A future artifact collection should include documented civic shields from different cities, tracing the earliest known dated witness, modern official use, revisions and competing interpretations. The source type matters: a city statute, a building façade and a twentieth-century municipal graphic standard are three different historical witnesses, even when all display apparently similar arms.
 
+## A material witness before unification
+
+The [Vitelleschi maiolica study](/objects/vitelleschi-maiolica/) examines a plate that the Cleveland Museum of Art dates to 1527, accession 1950.155, and attributes to the **circle of Maestro Giorgio Andreoli**. Its [collection record](https://www.clevelandart.org/art/1950.155) identifies the family arms; the photograph lets us describe the shield’s position within a ceramic vessel. Neither source, on its own, identifies the commissioner or establishes the occasion for which the plate was made.
+
+Preserve the distinction between family identification and maker attribution. “Circle of” should survive in your notes even when a shorter caption would be easier. Compare the plate with the enamel in the [research bench](/objects/compare/?left=vitelleschi-maiolica&right=halewyn-ghistele-enamel): which facts are visible, and which depend on the museum records?
+
 ## Lexical discrimination
 
 | Italian original | English working term | Historical caution |

@@ -34,9 +34,21 @@
       "The catalogue’s alternative family attribution is part of the evidence. A confident-looking animal head cannot choose between the two families for us. The useful next question is what dated records or comparative objects would distinguish those possibilities."
     ],
     "claims": [
-      {"claim": "The outer shield and painted armorial shield have different outlines.", "basis": "Front photograph", "limit": "Visible arrangement; does not identify the bearer."},
-      {"claim": "The arms are associated with Gottsmann or Türriegel.", "basis": "Museum curatorial account [1]", "limit": "Alternative attribution retained; no new identification."},
-      {"claim": "There are traces of Saint Christopher on the reverse.", "basis": "Museum curatorial account [1]", "limit": "Reported by the museum; not observable in this front view."}
+      {
+        "claim": "The outer shield and painted armorial shield have different outlines.",
+        "basis": "Front photograph",
+        "limit": "Visible arrangement; does not identify the bearer."
+      },
+      {
+        "claim": "The arms are associated with Gottsmann or Türriegel.",
+        "basis": "Museum curatorial account [1]",
+        "limit": "Alternative attribution retained; no new identification."
+      },
+      {
+        "claim": "There are traces of Saint Christopher on the reverse.",
+        "basis": "Museum curatorial account [1]",
+        "limit": "Reported by the museum; not observable in this front view."
+      }
     ],
     "exercise": "Write two descriptions: one of the physical object, one of the painted achievement. Then make a claim ledger with three columns: visible in this photograph, reported by the catalogue, and still to be established. Place the family attribution and reverse decoration in the appropriate columns.",
     "discussion": "A strong answer separates the targe’s outline from the painted shield and identifies the crest by its position above the helmet. It keeps both family names and does not claim to have inspected the reverse. To resolve the attribution, propose a dated comparative witness rather than a surname search.",
@@ -77,9 +89,21 @@
       "This is a good place to resist premature completion. A newly drawn shield would force decisions about the field, divisions, colour, and number of charges. A careful object description can preserve a feature without deciding its heraldic role. Write what the image supports, then identify the additional evidence a full reconstruction would need."
     ],
     "claims": [
-      {"claim": "A pale five-pointed star is visible at the viewer’s upper left.", "basis": "Object photograph", "limit": "A visual description, not a complete blazon."},
-      {"claim": "The panel is dated 1300–20 and catalogued as British.", "basis": "Museum object record [1]", "limit": "Catalogue date and culture; no narrower place of manufacture inferred."},
-      {"claim": "A particular family owned the original window.", "basis": "Not established here", "limit": "Needs provenance or other documentary evidence."}
+      {
+        "claim": "A pale five-pointed star is visible at the viewer’s upper left.",
+        "basis": "Object photograph",
+        "limit": "A visual description, not a complete blazon."
+      },
+      {
+        "claim": "The panel is dated 1300–20 and catalogued as British.",
+        "basis": "Museum object record [1]",
+        "limit": "Catalogue date and culture; no narrower place of manufacture inferred."
+      },
+      {
+        "claim": "A particular family owned the original window.",
+        "basis": "Not established here",
+        "limit": "Needs provenance or other documentary evidence."
+      }
     ],
     "exercise": "Annotate five features using only visual language. For each, say whether you think it is armorial design, material construction, or uncertain. Then write a short research request for the information you would need to distinguish original glass from later interventions.",
     "discussion": "A strong answer describes the star and the visible colour areas without inventing a bearer. It recognizes that a dark join is not automatically an ordinary. Useful further evidence includes conservation documentation, earlier photographs, acquisition records, and evidence of the panel’s former architectural setting.",
@@ -120,12 +144,137 @@
       "The workshop attribution and the proposed triptych setting require different qualifications. Attributed to a workshop is not the same as signed by its master. A possible larger setting is not a surviving complete ensemble. Keep those distinctions visible when using the object in an argument about patronage or devotional display."
     ],
     "claims": [
-      {"claim": "The shield is divided vertically into two armorial compositions.", "basis": "Object photograph", "limit": "Visible arrangement does not identify a particular marriage."},
-      {"claim": "The arms are Halewyn impaling Van Ghistele.", "basis": "Museum catalogue title [1]", "limit": "Institutional identification retained; not newly established here."},
-      {"claim": "The plaque may have formed part of a triptych.", "basis": "Museum curatorial suggestion [1]", "limit": "A proposed original setting, not a demonstrated surviving ensemble."}
+      {
+        "claim": "The shield is divided vertically into two armorial compositions.",
+        "basis": "Object photograph",
+        "limit": "Visible arrangement does not identify a particular marriage."
+      },
+      {
+        "claim": "The arms are Halewyn impaling Van Ghistele.",
+        "basis": "Museum catalogue title [1]",
+        "limit": "Institutional identification retained; not newly established here."
+      },
+      {
+        "claim": "The plaque may have formed part of a triptych.",
+        "basis": "Museum curatorial suggestion [1]",
+        "limit": "A proposed original setting, not a demonstrated surviving ensemble."
+      }
     ],
     "exercise": "Make a two-part account: an image description without family names, then a catalogue-based identification with the appropriate qualifications. List the evidence you would seek before naming the people who commissioned it or the occasion it commemorated.",
     "discussion": "A strong answer recognizes the vertical joining of arms and separates the family identification from a claim about specific people. It preserves the workshop attribution and the museum’s tentative account of the original setting. Genealogical records might establish a relevant union, but a documented link to this object would still be needed.",
     "research": "Compare the catalogue’s title, attribution, and provenance information with a dated publication or inventory. Track whether the identification changes between records. A research note should state which version supports each claim rather than silently treating all versions as interchangeable."
+  },
+  {
+    "id": "vitelleschi-maiolica",
+    "title": "Arms at the centre of the table",
+    "catalogueTitle": "Plate with Arms of the Vitelleschi Family",
+    "summary": "An Italian maiolica plate puts a family identification inside a much larger decorative composition.",
+    "date": "1527",
+    "culture": "Italy, Urbino region, Gubbio",
+    "material": "Maiolica",
+    "medium": "Tin-glazed earthenware with gold luster (maiolica)",
+    "creator": "Circle of Maestro Giorgio Andreoli",
+    "accession": "1950.155",
+    "credit": "Purchase from the J. H. Wade Fund",
+    "museum": "Cleveland Museum of Art",
+    "objectId": "1950.155",
+    "url": "https://www.clevelandart.org/art/1950.155",
+    "imageSource": "https://www.clevelandart.org/_next/image?q=75&url=https%3A%2F%2Fpiction.clevelandart.org%2Fcma%2Fump.di%3Fe%3D0ED31AEE7E6AC8AC42F2228285807AA8AAFE9441DAE9815DC168C4FA54135AFF%26s%3D24247294%26se%3D399313166%26v%3D6%26f%3D1950.155_o5.jpg&w=1920",
+    "image": "/images/objects/vitelleschi-maiolica.jpg",
+    "alt": "An Italian plate with a blue and gold ornamental rim and a central shield containing checked compartments, crescent shapes, and a red area; an animal appears above the shield.",
+    "width": 750,
+    "height": 722,
+    "accessed": "2026-10-09",
+    "imageRights": "CC0",
+    "rightsUrl": "https://www.clevelandart.org/open-access",
+    "lesson": "heraldry-in-public-life",
+    "question": "How much of the plate belongs to the arms?",
+    "observations": [
+      "The shield occupies the centre of the plate. Around it is a broad blue rim filled with gold and pale ornament. The circular vessel and the armorial field have different boundaries.",
+      "Within the shield, checked compartments and crescent-shaped marks appear beside a red area. A small animal appears above it. The photograph supplies these visible relationships before it supplies a complete explanation of them."
+    ],
+    "catalogue": "Cleveland dates the plate to 1527, identifies its arms with the Vitelleschi family, and assigns the maker to the circle of Maestro Giorgio Andreoli. The medium is tin-glazed earthenware with gold luster, and the catalogue gives Gubbio in the Urbino region as its cultural location. The recorded diameter is 26.3 cm. [1]",
+    "reading": [
+      "Begin by separating the central armorial display from the ornament on the vessel. A blue rim is not automatically a blue bordure in the arms. The difference is spatial: does a feature belong inside the armorial field, around that field as heraldic composition, or elsewhere on the plate? State your reasoning rather than assigning every decoration a blazon term.",
+      "The maker field deserves the same care as the family identification. Circle of an artist describes an attribution category; it does not give us an autograph signature. Copying only the artist’s name into a caption would make the evidence look more definite than the museum presents it.",
+      "An armorial vessel invites a story about a wedding, a gift, or a wealthy household. Those are possible research questions. This plate’s visible design does not identify a particular ceremony, patron, or dining arrangement. Start with the documented object and seek an inventory, commission, or dated account that can connect it to a specific occasion."
+    ],
+    "claims": [
+      {
+        "claim": "The vessel’s ornamental rim surrounds a smaller central armorial display.",
+        "basis": "Object photograph",
+        "limit": "The rim should not automatically be read as part of the arms."
+      },
+      {
+        "claim": "The plate bears the arms of the Vitelleschi family.",
+        "basis": "Museum catalogue title [1]",
+        "limit": "Institutional identification; no particular patron established here."
+      },
+      {
+        "claim": "The maker is placed in the circle of Maestro Giorgio Andreoli.",
+        "basis": "Museum maker field [1]",
+        "limit": "Circle attribution retained; not an autograph attribution."
+      }
+    ],
+    "exercise": "Draw three boundaries on a rough sketch: the vessel, its ornament, and the armorial display. Explain one feature that would be lost in a shield-only redrawing. Then draft a caption that preserves the museum’s maker attribution without turning it into a named commission.",
+    "discussion": "A strong answer distinguishes the decorated rim from the central field and preserves the words circle of. It treats the family identification as catalogue evidence and leaves the identity of a patron or a specific occasion unresolved. The plate’s function needs object and documentary context as well as its decoration.",
+    "research": "Compare this plate with another documented armorial vessel from the same region. Ask whether their attributions rely on marks, inscriptions, workshop comparisons, or later cataloguing. Do not use a resemblance between painted arms as the sole basis for assigning both pieces to one service."
+  },
+  {
+    "id": "cary-bookplate",
+    "title": "A name beneath the shield",
+    "catalogueTitle": "Bookplate: Coat of Arms with Thomas Cary inscribed below",
+    "summary": "An American engraving connects an armorial image to a printed name while leaving the history of this particular impression open.",
+    "date": "1766–1821 (catalogue range)",
+    "culture": "America, late eighteenth–early nineteenth century",
+    "material": "Engraving",
+    "medium": "Engraving",
+    "creator": "Joseph Callender",
+    "accession": "1918.149",
+    "credit": "General Income Fund",
+    "museum": "Cleveland Museum of Art",
+    "objectId": "1918.149",
+    "url": "https://www.clevelandart.org/art/1918.149",
+    "imageSource": "https://www.clevelandart.org/_next/image?q=75&url=https%3A%2F%2Fpiction.clevelandart.org%2Fcma%2Fump.di%3Fe%3DF0E84E8BF43D846737AD05E9B175C555013AEC12EB961985369B9CA7C9742DC8%26s%3D24247294%26se%3D116628280%26v%3D1%26f%3D%5Cd5969%5Cu2859697%5C1918.149_o2.jpg&w=1920",
+    "image": "/images/objects/cary-bookplate.jpg",
+    "alt": "An engraved bookplate with a diagonal band bearing three roses on a shield, a bird above a wreath, hanging foliage, a motto scroll, and the name Thomas Cary below.",
+    "width": 1320,
+    "height": 1600,
+    "accessed": "2026-10-09",
+    "imageRights": "CC0",
+    "rightsUrl": "https://www.clevelandart.org/open-access",
+    "lesson": "reading-the-evidence",
+    "question": "What does the printed name prove?",
+    "observations": [
+      "Three floral charges sit along a diagonal band. The band is cross-hatched; much of the surrounding shield is left pale. A bird stands above a wreath, and hanging foliage frames the shield.",
+      "Below the motto scroll is the name Thomas Cary. A small maker’s inscription appears at the lower right. This photograph shows an individual impression on paper, including its margins and surface marks."
+    ],
+    "catalogue": "Cleveland identifies the work as a bookplate by the American engraver Joseph Callender and gives the range 1766–1821. The museum records accession 1918.149 and the General Income Fund credit line. Its printed collection record also points to a 1918 accession notice. The range is catalogue dating, not a date inscribed on the pictured print. [1]",
+    "reading": [
+      "The printed name establishes that this design associates its display with Thomas Cary. It does not, by itself, distinguish every person with that name or document how this particular impression was used. If a surviving book carries the plate, the binding, annotations, and provenance of that book become additional witnesses.",
+      "Separate the engraved design from this impression. A printing plate can produce multiple impressions, and surviving copies can acquire different histories. A photograph of loose paper does not establish which volume once held it. Nor does a bookplate prove that its named owner wrote the book in which it appears.",
+      "Hatching gives a further problem worth testing. The band’s regular cross-hatching can be compared with the project’s conventional tincture patterns, but shading also appears along the shield’s outer edge. Determine which marks describe the armorial field and which create an impression of relief. The distinction must be argued from their position and use, not from the existence of black lines alone.",
+      "A broad catalogue range should remain broad until better evidence is found. The maker’s career, a commission, an earlier impression, or a dated acquisition can supply different kinds of chronological limit. Record which event each date refers to before using it to date the engraved design."
+    ],
+    "claims": [
+      {
+        "claim": "The name Thomas Cary appears below the armorial composition.",
+        "basis": "Object photograph",
+        "limit": "Does not uniquely identify a person or document a particular book’s ownership."
+      },
+      {
+        "claim": "The engraving is assigned to Joseph Callender.",
+        "basis": "Museum maker field [1]",
+        "limit": "Catalogue attribution; the impression’s individual history still needs evidence."
+      },
+      {
+        "claim": "The work is dated 1766–1821.",
+        "basis": "Museum date field [1]",
+        "limit": "A catalogue range, not a precisely dated commission or impression."
+      }
+    ],
+    "exercise": "Write a catalogue description of this loose impression. Then imagine it is found pasted inside a dated book: list the additional observations you would record before claiming ownership. Finally, distinguish the dates of the engraved design, the paper impression, and its insertion into a volume.",
+    "discussion": "A strong answer reads the name and visual arrangement while leaving the specific person and original volume open. It distinguishes a printed ownership device from proof of use, and it does not convert the catalogue’s date range into a precise year. Examine the paper, binding, adhesive, inscriptions, and acquisition history before tying an impression to a volume.",
+    "research": "Locate another impression of the same design, if one can be documented. Compare lettering, margins, plate wear, paper evidence, and any book context. Similarity can establish a shared design; it does not make the two impressions the same historical witness."
   }
 ]

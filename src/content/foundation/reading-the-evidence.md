@@ -27,6 +27,8 @@ Choose a museum object, manuscript entry, seal, institutional grant or registrat
 
 Describe the visible composition without importing the expected blazon. Then compare your description with any source text. Where do they agree? Where does the image supply information absent from the text? Where does the text supply information the image cannot establish? Distinguish artistic variation from possible substantive discrepancy.
 
+For a small ownership problem, examine the [Thomas Cary bookplate](/objects/cary-bookplate/). The name is visible on the engraving; actual use in a particular surviving book requires evidence from that book. The study distinguishes this observation from the catalogue’s maker and date range. Bring it together with another witness in the [comparative research bench](/objects/compare/), then export a notebook with both collection records attached.
+
 If the source attributes the arms to a bearer, preserve its level of certainty. The Met's targe record, for example, gives an alternative family attribution rather than a single settled bearer.[^object] Your project should not become more certain than its source merely because a definitive caption is easier to write.
 
 Write a 1,200–1,800-word study addressing the question. Include a witness inventory and a claim ledger. You may use a linked image where reproduction permission is unavailable. If you make a teaching reconstruction, label it as a reconstruction and state its evidentiary basis.

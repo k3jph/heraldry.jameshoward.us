@@ -1,0 +1,100 @@
+---
+import Base from '../../layouts/Base.astro';
+import PageIntro from '../../components/PageIntro.astro';
+import ObjectImage from '../../components/ObjectImage.astro';
+import {objectStudies} from '../../lib/objects.js';
+import {NOTE_FIELDS} from '../../lib/object-comparison.js';
+const initial=[objectStudies[0],objectStudies.find(object=>object.id==='cary-bookplate')||objectStudies[1]];
+---
+<Base title="Compare Historical Objects" description="Compare two heraldic museum objects side by side, record observations and documentary claims, and export a source-linked research notebook.">
+  <PageIntro eyebrow="The comparative research bench" title="Put two witnesses together." description="Compare the objects, question their identifications, and keep a record of the evidence. Your argument begins where a resemblance stops being enough."/>
+  <section class="section"><div class="wrap">
+    <a href="/objects/" class="text-link">← The object-study collection</a>
+    <div class="bench-toolbar">
+      {['left','right'].map((side,i)=><label for={'choose-'+side}><span class="smallcaps">{side==='left'?'Left object':'Right object'}</span><select id={'choose-'+side}>{objectStudies.map(object=><option value={object.id} selected={object.id===initial[i].id}>{object.catalogueTitle} · {object.accession}</option>)}</select></label>)}
+      <button id="swap-objects" class="btn btn-line" type="button">Swap objects ⇄</button>
+    </div>
+    <div class="bench-pair" id="bench-pair">
+      {initial.map((object,i)=><article class="bench-object" data-side={i===0?'left':'right'}>
+        <a class="bench-picture" data-full-image href={object.imageSource} target="_blank" rel="noopener"><ObjectImage object={object} loading="eager"/></a>
+        <div class="bench-record"><p class="eyebrow" data-culture>{object.culture}</p><h2 data-title>{object.catalogueTitle}</h2><dl>
+          <div><dt>Catalogue date</dt><dd data-date>{object.date}</dd></div>
+          <div><dt>Material</dt><dd data-medium>{object.medium}</dd></div>
+          <div><dt>Catalogue maker</dt><dd data-creator>{'creator' in object?object.creator:'Not specified in this study'}</dd></div>
+          <div><dt>Repository</dt><dd data-museum>{object.museum}</dd></div>
+          <div><dt>Accession</dt><dd data-accession>{object.accession}</dd></div>
+        </dl><p data-summary>{object.summary}</p><div class="bench-links"><a data-study href={'/objects/'+object.id+'/'}>Read the study ↗</a><a data-record href={object.url}>Collection record ↗</a></div></div>
+      </article>)}
+    </div>
+    <div class="bench-notebook">
+      <div class="rule-heading"><div><p class="eyebrow"><span class="star">✦</span> Make your evidence explicit</p><h2 class="section-title">The research notebook.</h2></div><p>Notes are saved in this browser for each ordered pair. Keep a copy by exporting them with the objects’ accession numbers and source links.</p></div>
+      <p id="notes-status" class="caption" role="status" aria-live="polite">Choose your objects and begin with a question.</p>
+      <form id="comparison-notes">{NOTE_FIELDS.map(field=><label for={'note-'+field.id}><span>{field.label}</span><small>{field.prompt}</small><textarea id={'note-'+field.id} name={field.id} rows={field.id==='question'?2:4}></textarea></label>)}</form>
+      <div class="notebook-actions"><button class="btn btn-dark" id="export-notes" type="button">Export notes ↓</button><button class="btn btn-line" id="copy-notes" type="button">Copy notes</button><button class="btn btn-line" id="copy-comparison" type="button">Copy comparison link</button></div>
+      <noscript><p>The initial comparison and research prompts are readable without JavaScript. Interactive object selection, saving, and export require JavaScript; you can keep notes in your own document.</p></noscript>
+    </div>
+    <div class="bench-method"><p class="eyebrow"><span class="star">✦</span> Before you draw a conclusion</p><h2>Resemblance is a question.</h2><ol><li><strong>Describe the support.</strong> Is this a physical shield, a vessel, glass, enamel, or a printed impression? Identify what the photograph actually shows.</li><li><strong>Separate the voices.</strong> Mark which statements are your observations and which are the museum’s date, identification, or attribution.</li><li><strong>Compare like with like.</strong> A maker attribution, family identification, and object provenance answer different questions. A shared charge does not establish a shared owner or workshop.</li><li><strong>Propose a test.</strong> Name a dated source that could support or contradict your explanation. Record uncertainty while that evidence remains unavailable.</li></ol><a href="/seminars/01-source-criticism/" class="text-link">Continue to the source-criticism seminar ↗</a></div>
+  </div></section>
+  <script>
+    import {objectStudies} from '../../lib/objects.js';
+    import {NOTE_FIELDS,selectObjectPair,comparisonNotes,comparisonStorageKey,comparisonReport} from '../../lib/object-comparison.js';
+    import {installImageFallback} from '../../lib/object-images.js';
+    const leftSelect=document.querySelector<HTMLSelectElement>('#choose-left')!;
+    const rightSelect=document.querySelector<HTMLSelectElement>('#choose-right')!;
+    const form=document.querySelector<HTMLFormElement>('#comparison-notes')!;
+    const status=document.querySelector<HTMLElement>('#notes-status')!;
+    const params=new URLSearchParams(location.search);
+    let pair=selectObjectPair(objectStudies,params.get('left')||leftSelect.value,params.get('right')||rightSelect.value);
+    const readNotes=()=>comparisonNotes(Object.fromEntries(new FormData(form)));
+    const fillNotes=(notes:Record<string,string>)=>NOTE_FIELDS.forEach(field=>{const input=form.elements.namedItem(field.id) as HTMLTextAreaElement;input.value=notes[field.id]||'';});
+    const storageKey=()=>comparisonStorageKey(pair[0],pair[1]);
+    let storageWorks=true;
+    const sessionNotes=new Map<string,Record<string,string>>();
+    const save=()=>{
+      const notes=readNotes();sessionNotes.set(storageKey(),notes);
+      try{localStorage.setItem(storageKey(),JSON.stringify(notes));storageWorks=true;}catch{storageWorks=false;}
+      status.textContent=storageWorks?'Notes saved in this browser for this pair.':'Browser storage is unavailable. Export your notes before closing this page.';
+    };
+    const storedNotes=()=>{
+      let notes=sessionNotes.get(storageKey());
+      if(!notes)try{const stored=localStorage.getItem(storageKey());if(stored!==null)notes=comparisonNotes(JSON.parse(stored));}catch{storageWorks=false;}
+      return notes;
+    };
+    const restore=()=>{
+      const notes=storedNotes();
+      fillNotes(notes||comparisonNotes({}));
+      status.textContent=storageWorks?'Notes for this pair are ready.':'Browser storage is unavailable. You can still write and export notes.';
+    };
+    const render=()=>{
+      [leftSelect,rightSelect].forEach((select,i)=>{select.value=pair[i].id;Array.from(select.options).forEach(option=>{option.disabled=option.value===pair[1-i].id;});});
+      pair.forEach((object,i)=>{
+        const card=document.querySelector<HTMLElement>('[data-side="'+(i===0?'left':'right')+'"]')!;
+        const fields={'title':object.catalogueTitle,'culture':object.culture,'date':object.date,'medium':object.medium,'creator':'creator' in object?object.creator:'Not specified in this study','museum':object.museum,'accession':object.accession,'summary':object.summary};
+        Object.entries(fields).forEach(([key,value])=>{card.querySelector<HTMLElement>('[data-'+key+']')!.textContent=value;});
+        const image=new Image();image.alt=object.alt;image.width=object.width;image.height=object.height;image.decoding='async';image.dataset.sourceImage=object.imageSource;image.src=object.image;installImageFallback(image);
+        const photo=card.querySelector<HTMLAnchorElement>('[data-full-image]')!;photo.replaceChildren(image);photo.href=object.imageSource;photo.setAttribute('aria-label','Enlarge '+object.catalogueTitle);
+        card.querySelector<HTMLAnchorElement>('[data-study]')!.href='/objects/'+object.id+'/';card.querySelector<HTMLAnchorElement>('[data-record]')!.href=object.url;
+      });
+      const url=new URL(location.href);url.searchParams.set('left',pair[0].id);url.searchParams.set('right',pair[1].id);history.replaceState(null,'',url);
+    };
+    [leftSelect,rightSelect].forEach(select=>select.addEventListener('change',()=>{save();pair=selectObjectPair(objectStudies,leftSelect.value,rightSelect.value);render();restore();}));
+    form.addEventListener('input',save);
+    form.addEventListener('submit',event=>event.preventDefault());
+    document.querySelector('#swap-objects')?.addEventListener('click',()=>{
+      save();const notes=readNotes();pair=[pair[1],pair[0]];render();
+      if(storedNotes())restore();else{fillNotes({...notes,left:notes.right,right:notes.left});save();}
+    });
+    document.querySelector('#export-notes')?.addEventListener('click',()=>{
+      const url=URL.createObjectURL(new Blob([comparisonReport(pair[0],pair[1],readNotes())],{type:'text/markdown;charset=utf-8'}));const link=document.createElement('a');link.href=url;link.download='heraldry-'+pair[0].id+'-and-'+pair[1].id+'.md';document.body.append(link);link.click();link.remove();setTimeout(()=>URL.revokeObjectURL(url),1500);status.textContent='Research notes exported with accession numbers and source links.';
+    });
+    document.querySelector('#copy-notes')?.addEventListener('click',async()=>{try{await navigator.clipboard.writeText(comparisonReport(pair[0],pair[1],readNotes()));status.textContent='Research notes copied with their sources.';}catch{status.textContent='Clipboard access is unavailable. Use Export notes.';}});
+    document.querySelector('#copy-comparison')?.addEventListener('click',async()=>{try{await navigator.clipboard.writeText(location.href);status.textContent='Comparison link copied. Your private notes are not included.';}catch{status.textContent='Copy the address-bar URL to share these objects.';}});
+    render();restore();
+  </script>
+  <style>
+    .bench-toolbar{display:grid;grid-template-columns:1fr 1fr auto;align-items:end;gap:20px;margin:30px 0}.bench-toolbar label{min-width:0}.bench-toolbar label span{display:block;margin-bottom:8px}.bench-toolbar select{width:100%;min-height:48px;padding:12px;background:var(--white);border:1px solid var(--line);color:var(--ink)}
+    .bench-pair{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:28px}.bench-object{min-width:0;border:1px solid var(--line);background:var(--white)}.bench-picture{height:360px;display:flex;align-items:center;justify-content:center;background:var(--paper-2);padding:25px}.bench-picture :global(img){width:100%;height:100%;object-fit:contain}.bench-record{padding:25px}.bench-record h2{font:500 2rem/1.15 var(--serif)}.bench-record dl>div{display:grid;grid-template-columns:125px minmax(0,1fr);gap:15px;border-bottom:1px solid var(--line);padding:10px 0;font-size:.83rem}.bench-record dt{color:var(--muted)}.bench-record dd{margin:0}.bench-record p{font-size:.85rem}.bench-links{display:flex;gap:20px;flex-wrap:wrap;font-size:.8rem}.bench-links a{text-decoration:underline}
+    .bench-notebook{padding:clamp(20px,4vw,40px);margin-top:40px;background:var(--paper-2);border:1px solid var(--line)}.bench-notebook .section-title{font-size:2.5rem}.bench-notebook .rule-heading p{font-size:.85rem}.bench-notebook form{display:grid;grid-template-columns:1fr 1fr;gap:24px}.bench-notebook label{display:grid;gap:8px}.bench-notebook label:first-child,.bench-notebook label:nth-child(4),.bench-notebook label:nth-child(5),.bench-notebook label:nth-child(6){grid-column:1/-1}.bench-notebook label>span{font-weight:650}.bench-notebook small{color:var(--ink-2);font-size:.77rem}.bench-notebook textarea{width:100%;padding:14px;resize:vertical;border:1px solid var(--line);background:var(--white);color:var(--ink);line-height:1.6}.notebook-actions{display:flex;flex-wrap:wrap;gap:12px;margin-top:25px}.bench-method{max-width:850px;margin:55px auto 0}.bench-method h2{font:500 2.5rem var(--serif)}.bench-method li{margin:14px 0}
+    @media(max-width:800px){.bench-toolbar{grid-template-columns:1fr}.bench-pair{grid-template-columns:1fr}.bench-notebook form{grid-template-columns:1fr}.bench-notebook label{grid-column:1!important}.bench-picture{height:320px}}
+  </style>
+</Base>

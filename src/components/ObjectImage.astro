@@ -3,15 +3,6 @@ const {object,loading='lazy',fetchpriority='auto'}=Astro.props;
 ---
 <img src={object.image} alt={object.alt} width={object.width} height={object.height} loading={loading} fetchpriority={fetchpriority} decoding="async" data-source-image={object.imageSource}/>
 <script>
-  document.querySelectorAll<HTMLImageElement>('img[data-source-image]').forEach(image=>{
-    const useMuseumImage=()=>{
-      const source=image.dataset.sourceImage;
-      if(!source)return;
-      delete image.dataset.sourceImage;
-      image.src=source;
-    };
-    image.addEventListener('error',useMuseumImage,{once:true});
-    // An eager image can fail before this deferred module runs.
-    if(image.complete&&image.naturalWidth===0)useMuseumImage();
-  });
+  import {installImageFallback} from '../lib/object-images.js';
+  document.querySelectorAll<HTMLImageElement>('img[data-source-image]').forEach(installImageFallback);
 </script>

@@ -1,6 +1,6 @@
 # International heraldry research and translation backlog
 
-Last updated: 2026-10-08. This queue is ordered for **coverage gaps and primary evidence**, not prestige or proximity to English sources.
+Last updated: 2026-10-09. This queue is ordered for **coverage gaps and primary evidence**, not prestige or proximity to English sources.
 
 ## Stage A — primary-source foundation (under way)
 
@@ -21,6 +21,8 @@ Last updated: 2026-10-08. This queue is ordered for **coverage gaps and primary 
 - [ ] Reduce reliance on one historical British manual through additional dated and original-language witnesses. The current technical vocabulary cites Fox-Davies (1909) explicitly as historical instructional evidence.
 - [ ] Build reviewed object studies with separately verified image rights; do not relabel catalogue descriptions as original artifact authentication.
 - [x] Publish an initial three-object, photograph-based collection from The Met (targe 25.26.1, stained glass 12.137.2, enamel 14.40.697d), with CC0 images, accession records, source-image URLs, claim ledgers, exercises, and collection-record BibTeX copying. These are editorial teaching studies; specialist review and broader repository coverage remain open.
+
+- [x] Expand to a second repository with Cleveland Museum of Art’s Vitelleschi plate (1950.155) and Thomas Cary bookplate (1918.149), preserving circle attribution and catalogue dating; individually verified CC0 image rights. Add a comparative research bench with browser-local notes, shareable object pairs, and source-linked Markdown export. Specialist review, manuscript witnesses, and further repository coverage remain open.
 
 ## Stage B — substantive continental survey
 
