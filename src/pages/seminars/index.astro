@@ -16,10 +16,23 @@ const aims=[
       <div class="international-intro"><div><p class="eyebrow"><span class="star">✦</span> A graduate research framework</p><h2>Build an argument from the sources.</h2></div><div><p>Each seminar follows a research task from its evidence to a defensible conclusion. You will locate documents, compare readings, examine institutional differences, and explain the decisions that produced your result. The assignments and capstone give you a way to put those methods to work; they confer no academic or professional qualification.</p><div style="display:flex;gap:9px;flex-wrap:wrap"><a class="btn btn-dark" href="/traditions/">Regional research chapters ↗</a><a class="btn btn-line" href="/source-atlas/">Source atlas ↗</a><a class="btn btn-line" href="/translation-lab/" style="margin-top:9px">Practice source translation ↗</a></div></div></div>
       <div class="field-grid" style="margin-top:35px">{aims.map((aim,i)=><article class="field-panel"><p class="eyebrow"><span class="star">{String(i+1).padStart(2,'0')}</span> Research competency</p><h3>{aim.title}</h3><p>{aim.description}</p></article>)}</div>
       <div class="rule-heading" style="margin-top:70px"><div><p class="eyebrow"><span class="star">✦</span> Six documented seminars</p><h2 class="section-title">The curriculum.</h2></div><p>Read them sequentially or work on a method your research presently requires. Each unit asks for evidence that someone else can independently inspect.</p></div>
-      <ol class="seminar-list">
+      <ol class="seminar-list" role="list">
         {seminars.map(item=><li><a href={'/seminars/'+item.id+'/'}><span class="seminar-count">{String(item.data.order).padStart(2,'0')}</span><span class="seminar-main"><small>{item.data.focus} · {item.data.level}</small><strong>{item.data.title}</strong><span>{item.data.description}</span></span><span class="seminar-arrow" aria-hidden="true">↗</span></a></li>)}
       </ol>
     </div>
   </section>
   <section class="section section-dark"><div class="wrap split" style="align-items:center"><div><p class="eyebrow eyebrow-on-dark"><span class="star">✦</span> The master's level challenge</p><h2 class="section-title">Can someone<br/>verify your work?</h2></div><div><p class="section-subtitle">The capstone requires a research proposal, an original-language source corpus and a contribution another historian could critique or use. Another researcher should be able to follow your evidence and identify exactly where they agree or disagree.</p><a class="btn btn-gold" href="/seminars/06-research-capstone/">Read the capstone ↗</a></div></div></section>
 </Base>
+<style>
+  .seminar-list{list-style:none;margin:0;padding:0}
+  .seminar-list li+li{border-top:1px solid var(--line)}
+  .seminar-list a{display:grid;grid-template-columns:56px minmax(0,1fr) auto;gap:24px;align-items:start;padding:26px 0}
+  .seminar-count{color:var(--red);font:500 2.25rem/1.1 var(--serif)}
+  .seminar-main{display:grid;gap:9px;min-width:0}
+  .seminar-main small{color:var(--muted);font-size:.72rem;line-height:1.6}
+  .seminar-main strong{font:500 clamp(1.5rem,2.5vw,2rem)/1.2 var(--serif)}
+  .seminar-main>span{color:var(--ink-2);font-size:.88rem;line-height:1.7}
+  .seminar-arrow{color:var(--red);font-size:1.3rem;line-height:1.4}
+  .seminar-list a:hover .seminar-main strong{color:var(--red)}
+  @media(max-width:600px){.seminar-list a{grid-template-columns:34px minmax(0,1fr) auto;gap:12px;padding:22px 0}.seminar-count{font-size:1.65rem}}
+</style>
