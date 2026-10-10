@@ -9,7 +9,7 @@ level: "Graduate methods"
 
 ## The data model is already an historical argument
 
-A programmer may see hundreds of heraldic shields and propose a database with three columns: family name, design and URL. This is a poor starting point. A coat of arms is not an inherently unique identifier for a modern surname, a manuscript illustration is not a grant, and a gallery of digitized works is not automatically a representative sample of historical armorial use.
+Suppose we put hundreds of shields into a database with three columns: family name, design, and URL. A search now returns a convincing picture beside a familiar name. What relationship did we record? Perhaps a manuscript attributes the design to one named person; perhaps the URL points only to a later illustration. The three columns give us nowhere to distinguish those possibilities or to record a disputed attribution. The apparent simplicity of the model has made a historical decision before the researcher has examined the evidence.
 
 To represent heraldic history, the software must distinguish the abstract *design*, the particular *witness* in which the design is depicted or described, the *bearer* associated with it, the *claim* concerning that association, and the *institution* or compiler behind the source. A researcher may have a good reason to identify the same composition in three different manuscripts while refusing to conclude that all three documents independently prove one modern family's descent.
 

@@ -37,9 +37,9 @@
         ]
       },
       {
-        "heading": "No, your surname is not a subscription",
+        "heading": "Connecting arms to a bearer",
         "paragraphs": [
-          "The idea that every person with the same last name shares one coat of arms is a modern commercial misconception. In jurisdictions that regulate arms, entitlement generally depends on a grant or a demonstrable line of inheritance, not a name printed on a mug. Even two unrelated families named Howard might bear entirely unrelated arms.",
+          "Suppose two unrelated families named Howard appear in an armorial. The shared name helps us find the entries, but it does not connect the families or make their arms interchangeable. In jurisdictions that regulate arms, a claim ordinarily needs the relevant grant or a demonstrable line of inheritance. A surname on a mug supplies neither. Begin with the named bearer in the record, then establish how the person making the present claim is connected to that bearer.",
           "Heraldry is not a universal European legal system, either. It is a collection of related artistic practices, administrative histories, and local rules. Throughout this course, we'll mark the difference between a general convention, a regional custom, and an actual legal requirement."
         ]
       }
@@ -122,14 +122,14 @@
         ]
       },
       {
-        "heading": "The crest is not the coat of arms",
+        "heading": "Locate the crest above the helmet",
         "paragraphs": [
-          "The crest sits above the helmet, commonly on a wreath or coronet. Historically it developed from objects displayed on a knight's helm. Calling an entire coat of arms a 'family crest' is a bit like calling the entire automobile its roof rack. The rack may be interesting; it is not the car.",
+          "The crest sits above the helmet, commonly on a wreath or coronet, and developed historically from objects displayed on a knight’s helm. Locating it gives us a precise part to describe or reproduce. If a request calls the entire achievement a ‘family crest,’ an artist still has to determine whether the intended object is the shield, the crest, or the complete display. The component name matters because it controls what information the reproduction is supposed to retain.",
           "Mantling is the decorative cloth represented as hanging from the helm. It became elaborate foliage-like artwork, but originated in the practical and ceremonial equipment associated with a helmet. The wreath, or torse, is usually shown as twisted fabric below the crest."
         ]
       },
       {
-        "heading": "Permission is not decoration",
+        "heading": "Read the external components in context",
         "paragraphs": [
           "Supporters are figures placed beside the shield, often standing on a compartment. Their availability varies dramatically by jurisdiction and type of armiger. Adding lions to either side because there was empty space is not a substitute for understanding the applicable custom or grant.",
           "Mottos likewise have different statuses across heraldic traditions. An artist's drawing is not itself the entire legal or historical record. When studying an achievement, read the wording of its grant or registration, where available."
@@ -217,7 +217,7 @@
         "heading": "Why contrast matters",
         "paragraphs": [
           "On a traditional shield, legibility is a feature, not a pleasant accident. A familiar rule of thumb says not to place colour on colour or metal on metal. A gold star on blue is readily distinguishable; a red star on blue generally less so. This is a convention grounded in the visible structure of a design.",
-          "But do not promote a design principle into a law of physics. Divided fields, furs, charges shown proper (in natural colours), counterchanging, and other established cases complicate the rule. National and historical traditions also differ. Treat a quick contrast check as advice, not a certificate of heraldic validity."
+          "The simple test compares a charge with what lies directly beneath it. A divided field, fur, counterchanged figure, or charge shown proper can require a more detailed account of that relationship. Historical and regional conventions also differ. Use the warning to locate the part of the composition that needs inspection, then compare the source description and the actual drawing. The checker reports a limited design relationship; it cannot settle the status of the arms."
         ]
       },
       {
@@ -232,7 +232,7 @@
         "paragraphs": [
           "Consider an engraved silver plate or a seventeenth-century printed book. Its artist may be unable to use coloured paints, but the arms must still be recognizable. The hatching tradition associated with Silvestro Pietrasanta assigns patterns of dots and lines to the major tinctures. Gold becomes a field of dots; silver remains blank; red is drawn with vertical lines, blue with horizontal lines, and black with crossing lines.",
           "Green and purple have diagonals that run in opposite directions. This is another reason that a blazon describes more than a fixed image. A skillful engraver can preserve the underlying armorial information while replacing hues with textures. The system became popular in print and engraving during the seventeenth century and is historically specific—not a way every medieval artist represented colour.",
-          "Switch on the engraved view in our Atelier, or visit the Tincture Laboratory to see the same shield rendered in both systems. The grammar does not change when the ink does. That is the most important lesson."
+          "Switch on the engraved view in the Atelier, or compare both systems in the Tincture Laboratory. The colour and pattern views should preserve the same field, figures, and relationships. If they do, you have changed how the information is encoded while retaining the design. If a figure or tincture disappears in the conversion, the reproduction has lost part of its specification."
         ]
       }
     ],
@@ -327,7 +327,7 @@
         ]
       },
       {
-        "heading": "Quartering is not an ancestry collage",
+        "heading": "What does the four-part field represent?",
         "paragraphs": [
           "A quartered shield is also a familiar way of combining armorial identities. But as we'll see when studying marshalling, historically meaningful quartering usually follows rules of inheritance or official combination. It is not permission to divide a shield into four and insert whatever arms happen to appear in a genealogical search.",
           "Practice with the simple pedagogical examples first. Learning where the parts go gives you the tools to notice when the apparent geometry is carrying an argument about family or institutional history."
@@ -388,7 +388,7 @@
     "title": "Ordinaries & subordinaries",
     "eyebrow": "The grammar of shapes",
     "minutes": 25,
-    "description": "Fesses, bends, pales, chevrons, chiefs, crosses and the beauty of a simple geometry.",
+    "description": "Recognize fesses, bends, pales, chevrons, chiefs, and crosses, then follow how they carry charges.",
     "objectives": [
       "Recognize seven common ordinaries.",
       "Distinguish a partition from an ordinary.",
@@ -413,7 +413,7 @@
         ]
       },
       {
-        "heading": "Economy is not austerity",
+        "heading": "How simple geometry travels",
         "paragraphs": [
           "Some of the strongest heraldic arms are astonishingly plain. A single contrasting ordinary can survive a century of redrawings, embroidery, engraving, and stone carving without becoming unreadable. That adaptability is one reason heraldry lasted while other fashionable decorative systems passed by.",
           "Subordinaries are smaller or secondary geometric forms, including such familiar devices as the inescutcheon, lozenge, and billet. Classifications can differ between reference works; learning to describe the visible figure is more useful than fighting over which filing cabinet it belongs in."
@@ -422,7 +422,7 @@
       {
         "heading": "A geometry lab",
         "paragraphs": [
-          "Select a field tincture in the Atelier, then replace a fess with a pale, a chevron, and a saltire. The blazon should change each time, even when every colour stays the same. Shape is not decoration added after the identity is decided. Shape is a part of the identity.",
+          "Select a field tincture in the Atelier, then replace a fess with a pale, a chevron, and a saltire. The blazon should change each time, even when every colour stays the same. That gives you a controlled comparison: holding the palette fixed reveals which words describe the shape and orientation. The identity depends on those relationships as well as on the colours.",
           "Once you can distinguish these forms at a glance, you can read surprisingly complex shields by mentally separating the field, its large figures, and its smaller charges."
         ]
       }
@@ -513,10 +513,10 @@
         ]
       },
       {
-        "heading": "What a charge means—and does not",
+        "heading": "Establish the meaning in a particular record",
         "paragraphs": [
           "Popular guides love universal dictionaries of symbolism: courage from a lion, purity from a lily, and so on. Such associations may be relevant in individual grants, but they should not be treated as a complete codebook. A device might be a pun on someone's name, a reference to a place, or a deliberate quotation from another design.",
-          "Heraldic meaning is historical evidence, not a horoscope. Ask who chose the device, when, and why. If a grant explicitly describes a symbolism, that statement is far stronger evidence than a generic chart purchased next to the gift shop."
+          "Ask who chose the device, when, and what evidence explains the choice. If a grant supplies a symbolism statement, we can attribute that explanation to the document and the design it records. A similar lion in another coat gives us a reason to compare the figures, but no reason to transfer the first bearer’s explanation automatically. The meaning has to be established through the particular source relationship."
         ]
       }
     ],
@@ -595,21 +595,21 @@
         "heading": "Think of it as a specification",
         "paragraphs": [
           "A blazon is a concise formal description that identifies heraldic arms. In a typical English-language blazon, we begin with the field, then the main ordinary or charge, and then subsidiary charges or qualifications. The exact grammar can become ferociously intricate, but its purpose is remarkably sensible: two people should be able to communicate the essential design without swapping the same painting.",
-          "Read 'Azure, a fess Or' as a sequence of instructions. Establish a blue field. Add a horizontal band. Colour that band gold. No individual brushstroke is specified, because no individual brushstroke is essential to the armorial identity."
+          "Read ‘Azure, a fess Or’ as an instruction to place a gold horizontal band on a blue field. The words establish the field, figure, and tinctures, while leaving an artist room to fit the band to the chosen shield. Two drawings can therefore differ in brushwork and workable proportions while preserving the same specified design. Check which details the source controls before treating a visual difference as a change in the arms."
         ]
       },
       {
         "heading": "Small words carry large burdens",
         "paragraphs": [
           "'On a fess Or three mullets Gules' places red stars on the gold band; 'a fess Or between three mullets Gules' places those stars on the field around the band. These are entirely different compositions. The little preposition may matter more than several hours of elegant digital rendering.",
-          "Position, attitude, number, orientation, and ordering can all be specified. A more advanced blazon can describe quarterings, repeated charges, tincture differences, and relationships between charges. It is not merely decorative Latin; it is a disciplined vocabulary with regional variations."
+          "Position, attitude, number, orientation, and ordering can all be specified. A longer blazon may contain descriptions inside descriptions, as when each quarter carries its own composition. Keep those groups intact as you read. An inventory of the right figures will still produce the wrong drawing if it loses which figure belongs on which supporting element."
         ]
       },
       {
         "heading": "What the teaching atelier can and cannot do",
         "paragraphs": [
           "Our Atelier produces useful introductory blazons for a deliberately limited set of shapes and arrangements. It is not a full heraldic grammar engine. It cannot determine uniqueness, distinguish every specialized charge, verify descent, or adjudicate the law of arms. When you see a sophisticated historical achievement, you will need a fuller reference and the original record.",
-          "The virtue of a limited model is that it makes its assumptions visible. Build something you can describe without cheating. Then consult a real grant to see just how much more expressive the language can become."
+          "Begin with a design whose elements the model can represent, and describe the relationships yourself before consulting its generated blazon. Compare the two descriptions. Then read an actual grant to identify an expression the model cannot render and explain what information that expression carries. The limit becomes a specific question about the source rather than a reason to simplify the source away."
         ]
       }
     ],
@@ -685,7 +685,7 @@
     },
     "sections": [
       {
-        "heading": "Families are not photocopiers",
+        "heading": "Distinguishing related bearers",
         "paragraphs": [
           "Heraldry is associated with inheritance, but inheritance raises an immediate question: how do we distinguish one member of an armigerous family from another? Cadency refers to systems of making such distinctions. Differencing is a broader practice of altering a design to identify a particular branch or bearer.",
           "In a commonly taught English sequence, a label is associated with the eldest son during his father's lifetime; a crescent with the second son; a mullet with the third; and a martlet with the fourth. These marks are useful historical conventions, but real usage has not always been mechanically uniform."
@@ -702,7 +702,7 @@
         "heading": "Evidence before entitlement",
         "paragraphs": [
           "When researching a heraldic ancestor, keep separate records of genealogical descent, the blazon or illustration of the arms, the authority recording them, and any rules governing their transmission. A document showing that two people shared a surname is not a bridge between those steps.",
-          "This is where heraldry becomes excellent historical training. It forces us to separate what we would like a source to prove from what it actually establishes."
+          "Those records let us locate the missing step when a claim remains unresolved. We might establish descent while still lacking the recorded difference, or identify the design without connecting it to the alleged ancestor. Keeping the questions separate makes the next search more precise and prevents confidence in one part of the argument from concealing a gap in another."
         ]
       }
     ],
@@ -796,7 +796,7 @@
         ]
       },
       {
-        "heading": "Read the claims, not just the colours",
+        "heading": "Connect each component to its source",
         "paragraphs": [
           "A nineteenth-century printed pedigree, a modern commemorative painting, and a seventeenth-century official registration are not equally persuasive evidence of entitlement. Good scholarship records both the armorial claim and its documentary source.",
           "For our introductory gallery, quartered shields are illustrations of partition and combination, not declarations about real dynastic rights. We can admire the composition without pretending that a classroom example has descended through eight centuries."
@@ -874,7 +874,7 @@
     },
     "sections": [
       {
-        "heading": "There is no world heraldic government",
+        "heading": "Locate the institution and its scope",
         "paragraphs": [
           "Heraldry's artistic vocabulary crossed borders; its institutions did not become a single global authority. The College of Arms, founded in 1484, exercises official functions for England, Wales, Northern Ireland, and various Commonwealth jurisdictions. Scotland has the distinct Court of the Lord Lyon. Canada's Heraldic Authority was established in 1988. Other countries maintain their own institutions or customs.",
           "The processes are not synonyms. A grant creates arms under a competent authority's process; a Scottish matriculation records arms for a descendant or other eligible person in that jurisdiction; registration may record or confirm arms in another system. Assumed arms belong to different legal and customary settings."
@@ -884,14 +884,14 @@
         "heading": "What about the United States?",
         "paragraphs": [
           "The United States has no single federal agency issuing personal grants of arms in the manner of the College of Arms. Americans nevertheless use, inherit, study, and design heraldry, and voluntary organizations foster sound practice. A claim about an American bearer's legal rights therefore requires attention to the relevant legal question, history, and potentially foreign authorities—not the assumption that English rules have crossed the Atlantic unchanged.",
-          "Distinguish intellectual-property and trademark questions from the law of arms. Similar visual symbols can raise more than one kind of legal issue, but none of these systems is replaced by the Atelier's 'Download SVG' button. Convenient though that would be."
+          "An intellectual-property or trademark question concerns a different relationship from a claim under the law of arms. Identify the emblem, the proposed use, and the jurisdiction before selecting the relevant evidence. Downloading an SVG creates a file; a separate document or rule would be needed to establish any particular right attached to it."
         ]
       },
       {
         "heading": "The evidence hierarchy",
         "paragraphs": [
           "When you need an answer about entitlement, start with the institution that has authority over the relevant jurisdiction. Look for an actual grant, matriculation, or register entry and read its terms. Published heraldic compilations can help locate leads, but later armorial books and commercial surname products are not primary proof.",
-          "Historical uncertainty is not a research failure. It is often the responsible conclusion. The intellectually serious position is to say exactly what is known, where the record is thin, and which jurisdictional claim is being evaluated."
+          "If the surviving evidence leaves a connection open, state which connection it is. A missing register entry and an incomplete pedigree create different research problems. Naming the gap lets another reader assess the conclusion and identify what new source could change it. A precise unresolved result is more useful than either a confident guess or a general declaration that nothing can be known."
         ]
       }
     ],
@@ -1068,7 +1068,7 @@
     },
     "sections": [
       {
-        "heading": "Begin with a question, not a logo",
+        "heading": "Define the question before collecting images",
         "paragraphs": [
           "Good heraldic research begins by deciding exactly what you are trying to establish. Are you identifying the arms shown on a seal? Checking whether a person inherited arms? Explaining symbolism in a public institution's grant? Those are separate questions. Write the question down before you begin collecting attractive shields.",
           "Search first for primary grants, registers, seals, original charters, official institutional records, and dated visual sources. Record the repository, catalogue reference, date, language, and whether you saw an original or a later copy. A commercial image with a surname attached is not a substitute for any of these."
@@ -1078,7 +1078,7 @@
         "heading": "Design like a herald, explain like a historian",
         "paragraphs": [
           "Start your original exercise shield with a small palette, a simple partition or ordinary, and one clear class of charge. Ask whether it remains recognizable when small. Write its blazon. Now render it in a deliberately different style and see whether the essential identity has survived.",
-          "Choose the symbolism intentionally, but resist stuffing in every job, school, hobby, ancestor, and favourite sandwich. An armorial achievement is not your résumé in vector form. The strongest devices often encode one or two excellent ideas and leave the rest of the story to the person bearing them."
+          "Choose the symbolism intentionally, then test whether each additional idea earns its place in the drawing. A charge that works clearly on its own may become difficult to distinguish among several unrelated figures. Try removing one element and compare the blazon, silhouette, and intended meaning. This gives you a reasoned way to simplify the proposal while keeping the idea you most want it to communicate."
         ]
       },
       {

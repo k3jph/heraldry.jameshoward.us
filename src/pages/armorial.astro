@@ -11,8 +11,8 @@ const linkFor=(d:Record<string,string|number|undefined>)=>'/atelier/?'+new URLSe
   <PageIntro eyebrow="The teaching collection" title="The armorial." description="A cabinet of original shields. Every one illustrates a visual idea, carries a readable blazon, and opens directly in the Atelier so you can take it apart."/>
   <section class="section">
     <div class="wrap">
-      <div class="notice-box" style="margin-bottom:37px"><strong>These are teaching designs, not registered arms.</strong><p>Every shield in this collection was composed for the project. The names and illustrations are pedagogical, not identifications of historical bearers, authentic grants, or a searchable registry of armorial ownership.</p></div>
-      <div class="lexicon-top"><div><p class="eyebrow"><span class="star">✦</span> Original illustrated specimens</p><h2 class="small-title">{showcase.length} shields. Infinite interpretations.</h2></div><span class="smallcaps" id="gallery-counter" aria-live="polite">{showcase.length} shown</span></div>
+      <div class="notice-box" style="margin-bottom:37px"><strong>These are teaching designs, not registered arms.</strong><p>Every shield in this collection was composed for the project. Use their names to locate an exercise. They identify neither historical bearers nor grants, and the collection is not a register of ownership.</p></div>
+      <div class="lexicon-top"><div><p class="eyebrow"><span class="star">✦</span> Original illustrated specimens</p><h2 class="small-title">{showcase.length} designs to read and change.</h2></div><span class="smallcaps" id="gallery-counter" aria-live="polite">{showcase.length} shown</span></div>
       <div class="gallery-filter" role="group" aria-label="Filter shield studies">{categories.map((category,i)=><button class:list={['chip',i===0&&'active']} type="button" data-filter={category} aria-pressed={i===0}>{category}</button>)}</div>
       <div class="gallery-grid">
         {showcase.map((item,i)=><article class="gallery-card" data-gallery-card data-kind={item.kind}>

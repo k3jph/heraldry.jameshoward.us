@@ -11,7 +11,7 @@ level: "Advanced undergraduate / graduate"
 
 ## Begin with the plurality
 
-It is easy to say that the German-speaking world had heraldry. It is much harder, and much more useful, to say whose heraldry, where, when, and under what law. The territories of the Holy Roman Empire did not operate as one modern national legal jurisdiction. Imperial, territorial, ecclesiastical, noble, urban, and private patterns of armorial use intersected. Swiss and Austrian contexts add further complications to any account that treats today's German language as an adequate proxy for yesterday's institutions.
+A German-language armorial tells us the language in which its compiler worked. It does not, by that fact alone, identify the authority governing every bearer it includes. The territories of the Holy Roman Empire contained intersecting imperial, territorial, ecclesiastical, urban, noble, and private practices. Swiss and Austrian contexts complicate the map further. Begin with the compiler, place, and period, then establish what kind of armorial use the document records. The linguistic connection helps us find sources; the institutional connection explains what they can establish.
 
 The word *Wappen* translates comfortably as coat of arms, but that resemblance can become a trap. A *Bürgerwappen* or *bürgerliches Wappen* may be non-noble family arms, not a municipal device; *Stadtwappen* points more naturally to a city's arms. An English-speaking student who maps every occurrence of *Bürger* onto 'city' may confuse an armigerous family with a local government. This is exactly the sort of mistranslation that produces confident but wrong historical narratives.
 

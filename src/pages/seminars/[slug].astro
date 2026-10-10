@@ -26,7 +26,7 @@ const next=course[index+1]||null,previous=course[index-1]||null;
     <article class="world-article">
       <p class="eyebrow"><span class="star">✦</span> A methods seminar · original sources required</p>
       <Content/>
-      <div class="notice-box"><strong>Teaching, not credentialing.</strong><p>No university credit or professional qualification is conferred by this website. The seminar's value rests in its research method, original-language sources and the quality of the work students choose to perform.</p></div>
+      <div class="notice-box"><strong>What these seminars provide.</strong><p>No university credit or professional qualification is conferred by this website. The work asks you to make an argument from original-language sources and give another reader enough information to check it.</p></div>
       <nav class="lesson-pagination" aria-label="Graduate seminar navigation">
         {previous?<a class="lesson-pager" href={'/seminars/'+previous.id+'/'}><span>← Previous seminar</span><strong>{previous.data.title}</strong></a>:<a class="lesson-pager" href="/seminars/"><span>← Back</span><strong>Seminar overview</strong></a>}
         {next?<a class="lesson-pager" href={'/seminars/'+next.id+'/'}><span>Next seminar →</span><strong>{next.data.title}</strong></a>:<a class="lesson-pager" href="/traditions/"><span>Continue research →</span><strong>Regional chapters</strong></a>}
@@ -36,7 +36,7 @@ const next=course[index+1]||null,previous=course[index-1]||null;
       <div class="world-sidebar-box"><span class="smallcaps" style="color:var(--red)">Methods workbench</span><h2 class="small-title">Documents you can check.</h2>
         {related.map(s=><a class="world-source-mini" href={'/source-atlas/#source-'+s.id}><span class="smallcaps">{s.language.toUpperCase()} · {s.area}</span><strong>{s.titleOriginal}</strong><small>{s.holding}</small><span class="mini-arrow">Source dossier ↗</span></a>)}
       </div>
-      <div class="world-sidebar-box world-sidebar-dark"><p class="eyebrow eyebrow-on-dark"><span class="star">✦</span> The scholarly test</p><h2 class="small-title">What would change your mind?</h2><p>An argument that cannot be revised by evidence is not a defensible historical argument. Seek alternative explanations before defending your own.</p></div>
+      <div class="world-sidebar-box world-sidebar-dark"><p class="eyebrow eyebrow-on-dark"><span class="star">✦</span> The scholarly test</p><h2 class="small-title">What would change your mind?</h2><p>Suppose a newly located inventory dates an object differently from the catalogue you used. Identify which part of your argument depends on that date and work through the consequences. A useful conclusion tells the reader what would require its revision.</p></div>
     </aside>
   </div>
 </Base>

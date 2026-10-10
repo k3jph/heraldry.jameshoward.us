@@ -11,7 +11,7 @@ level: "Advanced undergraduate / graduate"
 
 ## A heraldic family need not share a modern surname
 
-If the main lesson of English heraldry were only 'arms do not belong to surnames', Polish–Lithuanian history would make the point look trivial. The historically familiar Polish *herb* is frequently a **named heraldic identity** associated with multiple noble families, rather than a unique device owned by a single modern surname. The term *ród herbowy*, often rendered 'heraldic clan', describes a grouping that cannot simply be translated into the English legal idea of a single line descending from one armiger.
+A Polish armorial can group several noble families under one named *herb*. The name identifies the arms, so an index entry may connect a family to a shared armorial identity rather than assign it an exclusive design. The term *ród herbowy*, often rendered “heraldic clan,” describes this kind of grouping. To use the record, we have to distinguish the named coat, the families associated with it, and any separately documented genealogical relationships. Otherwise a database can turn a shared armorial name into a descent claim the source never established.
 
 This is not an invitation to claim that every bearer of a shared *herb* had a demonstrable common ancestor. The historical relationships between armorial use, genealogical descent, noble affiliation and political organization require study rather than assumed biological unity. 'Clan' is a useful explanatory translation, but it has connotations from other European traditions and should always be qualified.
 

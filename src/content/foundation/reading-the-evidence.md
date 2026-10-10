@@ -1,13 +1,13 @@
 ---
 title: The armiger's workshop
 unit: 12
-updated: '2026-10-09'
+updated: '2026-10-10'
 status: 'Expanded teaching draft; specialist review pending'
 ---
 
 ## Make an argument that another person can check
 
-The final workshop brings together design, documentary reading, and interpretation. Its purpose is not to produce the most elaborate achievement or the longest bibliography. It is to make an armorial argument whose steps another researcher can examine. A good project identifies its question, assembles evidence appropriate to that question, and states a conclusion proportionate to the evidence.
+By now, you can describe a shield and recognize some of the documents that record its use. The final workshop asks you to connect those skills in an argument another researcher can examine. Begin with a question, select evidence capable of answering it, and show how the conclusion follows. The size of the achievement or bibliography matters less than whether the reader can retrace that connection. A modest result can be useful when its supporting steps are clear.
 
 There are two routes. The **documentary route** studies an existing, securely located witness. The **design route** constructs an original teaching proposal and researches the framework in which such a design would be used. Both require source criticism. The second does not manufacture a grant, and the first does not require you to claim the right to bear the arms you study.
 

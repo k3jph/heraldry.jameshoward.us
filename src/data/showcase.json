@@ -4,7 +4,7 @@
     "title": "A band of gold",
     "kind": "Ordinary",
     "theme": "The fess",
-    "summary": "Nothing more than a golden horizontal band on blue. Legibility is the whole point.",
+    "summary": "A gold horizontal band on blue gives us a simple field–ordinary relationship to describe.",
     "design": {
       "field": "azure",
       "division": "none",
@@ -18,7 +18,7 @@
     "title": "The white chevron",
     "kind": "Ordinary",
     "theme": "The chevron",
-    "summary": "Geometry that is striking from across a room—and recognizable at postage-stamp scale.",
+    "summary": "Compare the chevron at large and small sizes to see which features keep it recognizable.",
     "design": {
       "field": "vert",
       "division": "none",
@@ -106,7 +106,7 @@
     "title": "Parted in two",
     "kind": "Divisions",
     "theme": "Per pale",
-    "summary": "A field divided vertically. Its grammar is not that of an ordinary.",
+    "summary": "The field is divided vertically into two areas. Compare that division with a pale placed on one field.",
     "design": {
       "field": "or",
       "secondary": "azure",
@@ -134,7 +134,7 @@
     "title": "Quarter study",
     "kind": "Divisions",
     "theme": "Quarterly",
-    "summary": "A geometric demonstration of quartering, not a claim to inherited quarters.",
+    "summary": "Four compartments demonstrate the geometry of a quarterly field; the design is an unassigned teaching example.",
     "design": {
       "field": "gules",
       "secondary": "or",
@@ -164,7 +164,7 @@
     "title": "A scallop triptych",
     "kind": "Charges",
     "theme": "Shells",
-    "summary": "Scallops are conventional charges, not merely pictures of seaside souvenirs.",
+    "summary": "Three stylized scallop shells let us compare charge count, placement, and recognizable shape.",
     "design": {
       "field": "sable",
       "division": "none",

@@ -11,7 +11,7 @@ level: "Advanced undergraduate / graduate"
 
 ## A registry is not the whole history of a practice
 
-Start with what France did **not** inherit from England: a permanent English College of Arms administering all claims according to one familiar English genealogy of heraldic practice. Medieval French armory spread through courts, warfare, noble and urban society, seals, architecture, objects, and literature. Local and royal interests gave these practices distinct forms. A single institutional chart cannot capture all of them.
+A French armorial image might survive in a seal, a manuscript, or a building. Each object places the design in a different activity: authentication, compilation, or architectural display. Medieval French armory circulated through courts, warfare, noble and urban society, and literature as well. To explain a particular use, we need its date, bearer, and source history. Those connections let us investigate local and royal interests without making one later register stand for the whole practice.
 
 The surviving armorial is often an uneven evidentiary archive. One witness may identify a bearer in a roll, another may depict colours in a manuscript, and a third may preserve a seal with the same figure but none of the painted tinctures. Historians should ask whether a document describes an already-used device, records a transaction, or creates an administrative entry. Those are different evidentiary events.
 

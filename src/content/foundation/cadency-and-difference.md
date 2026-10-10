@@ -1,7 +1,7 @@
 ---
 title: Cadency and difference
 unit: 8
-updated: '2026-10-08'
+updated: '2026-10-10'
 status: 'Expanded teaching draft; specialist review pending'
 ---
 
@@ -17,7 +17,7 @@ This is particularly important because people move, institutions change, and spe
 
 The College of Arms describes a conventional English sequence: label for the eldest son during his father's lifetime, then crescent, mullet, martlet, annulet, fleur-de-lis, rose, cross moline, and double quatrefoil for subsequent sons.[^english] Memorizing the sequence is useful for recognizing a possible convention. It is not a complete method for reconstructing a pedigree from a shield.
 
-Three cautions matter. First, the mark must actually function as a difference; a principal martlet is not automatically a cadency mark. Second, a convention's existence does not prove uniform historical application. Third, a change in the bearer's circumstances or a specific documentary provision may affect how the arms are used. The picture must be interpreted with its source.
+To use that sequence in a historical argument, we first have to establish that the figure functions as a difference. A martlet placed among the principal charges gives us no reason, by itself, to assign birth order. Even a recognizable difference needs a dated context: the convention may have been applied unevenly, and the bearer’s circumstances or a particular instrument may affect its use. The chart helps formulate a question about the picture. The source has to supply the connection to the person.
 
 If a catalogue describes an ordinary coat containing a crescent, preserve that description. Do not silently add “second son” to the bearer field. Instead, record a possible cadency interpretation separately, with the grounds for it and the evidence still needed. A possibility becomes a claim only when you supply the missing support.
 

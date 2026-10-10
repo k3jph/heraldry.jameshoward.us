@@ -7,7 +7,7 @@ import {pairContext,COMPARISON_FIELDS,READING_FIELDS} from '../../lib/collation.
 const initial=[witnesses.find(w=>w.id==='simon-de-varie-2')!,witnesses.find(w=>w.id==='simon-de-varie-2v')!];
 ---
 <Base title="Compare Manuscript Witnesses" description="Compare two located manuscript witnesses, import transcription drafts, inspect exact text differences, explain readings in a located apparatus, and export a source-linked comparison.">
-  <PageIntro eyebrow="The manuscript comparison bench" title="Same words. Another witness." description="Put two located sources beside each other. Compare what you can read, explain the differences, and keep the evidence attached to the argument."/>
+  <PageIntro eyebrow="The manuscript comparison bench" title="Compare the located readings." description="Put two located sources beside each other. Compare what you can read, explain the differences, and keep the evidence attached to the argument."/>
   <section class="section"><div class="wrap">
     <p><a href="/transcription-desk/" class="text-link">← Single-witness transcription desk</a> · <a href="/transcription-desk/collation/" class="text-link">Read the comparison workshop ↗</a></p>
     <div class="pair-toolbar">{['left','right'].map((side,i)=><label for={'witness-'+side}><span class="smallcaps">{side==='left'?'Left witness':'Right witness'}</span><select id={'witness-'+side}>{witnesses.map(w=><option value={w.id} selected={w.id===initial[i].id}>{w.label}</option>)}</select></label>)}<button id="swap-witnesses" class="btn btn-line" type="button">Swap witnesses ⇄</button></div>

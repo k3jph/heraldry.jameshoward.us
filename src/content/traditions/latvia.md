@@ -9,9 +9,9 @@ sourceIds: ["lv-heraldry-law"]
 level: "Advanced undergraduate / graduate"
 ---
 
-## A general law of coats of arms—without an English grant
+## Which bearers does the statute include?
 
-Read the opening of Latvia's [*Ģerboņu likums*](https://likumi.lv/ta/id/123815-gerbonu-likums), or Coats of Arms Law. It offers something that English-language heraldry summaries frequently ignore: modern statutory regulation of arms that expressly includes **public bodies and private persons**. The law makes clear that heraldry can be an object of administrative registration and legal protection in its own right, rather than merely a pastime supported by private associations or a royal genealogical service.
+The opening of Latvia's [*Ģerboņu likums*](https://likumi.lv/ta/id/123815-gerbonu-likums), or Coats of Arms Law, requires us to identify the bearer before following the registration process. Its scope expressly includes **public bodies and private persons**, whose categories and applicable rules must remain distinguishable. A register entry can therefore concern more than one kind of armorial identity. Reading the definition first prevents us from treating every shield in the system as evidence of the same public or private right.
 
 The opening definitions of *ģerbonis* reach a state or municipality, another public body, an administrative institution, a legal person in private law, and a natural person. Those categories are not identical, and some special rules concern public bodies or state symbols. But the inclusion of private entities in the statutory scope is enough to undermine the claim that personal heraldry is everywhere a wholly unregulated matter outside Britain.
 

@@ -1,5 +1,5 @@
 ---
-title: "Japan: Kamon are not Japanese coats of arms"
+title: "Japan: Reading kamon in their own context"
 description: "A comparative study of Japanese family emblems using original Japanese reference pathways and indigenous historical categories."
 region: "Japan"
 languages: ["ja"]
@@ -11,7 +11,7 @@ level: "Advanced undergraduate / graduate"
 
 ## Begin with the category problem
 
-An English-language website might describe Japanese *kamon* (家紋) as 'Japanese coats of arms'. The phrase is understandable as an analogy: both can serve as identifiable family-associated visual devices. But **analogy is not identity**. Japanese emblems developed within different political, material and artistic traditions, and a graduate course should take the Japanese terms seriously before imposing the European language of blazon, shields or grants.
+A family-associated emblem on clothing, an object, or a banner gives us something we can compare with an armorial display. The comparison begins with the function of identification. Japanese *kamon* (家紋), however, developed within their own political, material, and artistic traditions. To explain a particular example, we need Japanese terms and evidence about its use. Calling it a “Japanese coat of arms” may help introduce the visual analogy, but it cannot supply the history or institutional relationships that the analogy leaves unresolved.
 
 The [National Diet Library's guide, *家紋・紋章を調べる（日本）*](https://ndlsearch.ndl.go.jp/rnavi/humanities/post_1127), provides Japanese-language bibliographies and reference tools for investigating family emblems and devices. Its organization offers a sound research starting point: search by visual pattern, by surname, and through historical literature. That is far more valuable than a chart purporting to tell everyone which mon their family 'must' have.
 

@@ -11,7 +11,7 @@ level: "Advanced undergraduate / graduate"
 
 ## A Dutch office with multiple responsibilities
 
-The [Hoge Raad van Adel](https://www.hogeraadvanadel.nl/) is a national advisory institution with responsibilities touching nobility, public bodies and heraldry. Its existence is sometimes made to look like evidence that the Netherlands has a single government office assigning all family arms. This is not what its own published descriptions say. The Council distinguishes officially acknowledged noble arms, public-body arms and the wider sphere of non-noble heraldic use.
+The [Hoge Raad van Adel](https://www.hogeraadvanadel.nl/) describes responsibilities concerning noble arms and the arms of public bodies. A noble armorial record and a municipal grant may therefore lead us to the same institution while answering different questions. The Council also distinguishes those functions from the wider use of non-noble family arms. We need to identify the bearer and the act before explaining what the institution’s involvement establishes; its name on a source is the beginning of that inquiry.
 
 The difference is not semantic. A member of the recognized nobility may be associated with an officially determined and recorded coat of arms. At the same time, non-noble families may use their own family arms without becoming noble. The very category *adellijke heraldiek* points to **noble heraldry**, not a synonym for the entirety of heraldic culture.
 

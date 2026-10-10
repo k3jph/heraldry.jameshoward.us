@@ -41,20 +41,20 @@ const next=lessons[index+1];
       <p class="lesson-lead">{lesson.description}</p>
       <div class="notice-box" style="display:flex;align-items:center;justify-content:space-between;gap:20px;flex-wrap:wrap;margin-bottom:32px"><div><strong>Start with a guided introduction.</strong><p>The shorter presentation introduces the unit. Continue here for the expanded reading, source notes, and documentary workshop.</p></div><a class="btn btn-dark" href={'/lecture/'+lesson.slug+'/'}>Enter the lecture hall ↗</a></div>
       <div class="lesson-outcomes"><h2>After this lesson, you should be able to…</h2><ul>{lesson.objectives.map(goal=><li>{goal}</li>)}</ul></div>
-      <div class="lesson-visual"><div><p class="eyebrow"><span class="star">✦</span> One shield, one thought</p><p>{blazon(lesson.example)}</p><small>Original teaching illustration · not a grant or register entry.</small></div><Shield design={lesson.example} id={'lesson-'+lesson.number}/></div>
+      <div class="lesson-visual"><div><p class="eyebrow"><span class="star">✦</span> The teaching example</p><p>{blazon(lesson.example)}</p><small>Original teaching illustration · not a grant or register entry.</small></div><Shield design={lesson.example} id={'lesson-'+lesson.number}/></div>
       <nav class="chapter-toc" aria-label="In this chapter"><h2>In this chapter</h2><ol>{chapterHeadings.map(heading=><li><a href={'#'+heading.slug}>{heading.text}</a></li>)}</ol></nav>
       <div class="chapter-status"><p><strong>{chapter.data.status}.</strong> Updated <time datetime={chapter.data.updated}>{chapter.data.updated}</time>. Sources and constructed examples are identified in the text.</p></div>
       <div class="foundation-chapter"><Content /></div>
       <aside class="lesson-exercise"><p class="eyebrow"><span class="star">✦</span> Put it to work</p><h2>{lesson.exercise.title}</h2><p>{lesson.exercise.prompt}</p>{lesson.exercise.link&&<a class="btn btn-gold" href={lesson.exercise.link}>Open the atelier ↗</a>}</aside>
       <form class="lesson-quiz" id="knowledge-check" data-slug={lesson.slug}>
         <p class="eyebrow"><span class="star">✦</span> Check what you learned</p>
-        <h2>Three questions.<br/>No surprises.</h2>
-        <p class="section-subtitle">This checks introductory comprehension. Aim for at least two correct answers to mark the browser checklist. The chapter's documentary workshop develops the deeper skills; the checklist is not an academic qualification.</p>
+        <h2>Check your<br/>understanding.</h2>
+        <p class="section-subtitle">These three questions check the unit's introductory concepts. Two correct answers mark the browser checklist. The documentary workshop asks you to apply those concepts to evidence and explain your reasoning, which takes more than recognizing a correct option.</p>
         {lesson.quiz.map((q,i)=><div class="quiz-question"><fieldset data-question data-correct={q.correct} data-explanation={q.explanation}><legend>{i+1}. {q.question}</legend>{q.choices.map((choice,j)=><label class="quiz-option"><input type="radio" name={'q-'+i} value={j} required /> <span>{choice}</span></label>)}<div class="quiz-feedback" data-feedback aria-live="polite"></div></fieldset></div>)}
         <button type="submit" class="btn btn-dark">Check my answers ↗</button>
         <div class="quiz-result" id="quiz-result" role="status" aria-live="polite"></div>
       </form>
-      <div class="lesson-sources"><h2>Read beyond this lesson.</h2><p class="caption">Select institutional and educational sources. Their claims and jurisdictions remain their own.</p><ul>{lesson.reading.map(item=><li><a href={item.url} target="_blank" rel="noopener noreferrer">{item.label} ↗</a> — <span class="caption">{item.note}</span></li>)}</ul></div>
+      <div class="lesson-sources"><h2>Read beyond this lesson.</h2><p class="caption">Follow these sources when you want to examine the underlying rule or argument. Note the place, period, and institution each source describes before applying it elsewhere.</p><ul>{lesson.reading.map(item=><li><a href={item.url} target="_blank" rel="noopener noreferrer">{item.label} ↗</a> — <span class="caption">{item.note}</span></li>)}</ul></div>
       <nav class="lesson-pagination" aria-label="Adjacent lessons">
         {previous?<a class="lesson-pager" href={'/academy/'+previous.slug+'/'}><span>← Previous unit</span><strong>{previous.title}</strong></a>:<a class="lesson-pager" href="/academy/"><span>← Curriculum</span><strong>Course overview</strong></a>}
         {next?<a class="lesson-pager" href={'/academy/'+next.slug+'/'}><span>Next unit →</span><strong>{next.title}</strong></a>:<a class="lesson-pager" href="/atelier/"><span>Continue →</span><strong>Practice in the Atelier</strong></a>}

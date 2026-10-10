@@ -9,9 +9,9 @@ sourceIds: ["be-vl-decree", "be-vl-procedure"]
 level: "Advanced undergraduate / graduate"
 ---
 
-## A difficult counterexample to easy generalizations
+## Private arms in a dated legal framework
 
-The claim that heraldry is merely customary throughout continental Europe collapses when confronted with a modern legal text: the Flemish [decree of 3 February 1998](https://codex.vlaanderen.be/Portals/Codex/documenten/1006070.html) concerning the coats of arms of private persons and institutions. This is legislation addressing private heraldry. It defines kinds of arms, establishes an administrative review process, and sets out conditions for recognition and new grants.
+An applicant seeking recognition of older arms and an applicant requesting a new design have different things to establish. The Flemish [decree of 3 February 1998](https://codex.vlaanderen.be/Portals/Codex/documenten/1006070.html) gives those differences a statutory form for private persons and institutions. It defines categories of arms, sets conditions for recognition and grants, and establishes an administrative review process. We can therefore ask which claim an application makes, what evidence that claim requires, and which act concludes the procedure.
 
 English-language discussions of Belgian heraldry can be especially misleading when they assume Belgium is a single linguistic and legal unit in every relevant respect. Flemish Community institutions occupy a particular constitutional and territorial context. A serious student should name the Flemish system, identify the scope of the decree, and avoid treating it as automatically governing all Belgian residents or all armorial history in the Low Countries.
 
