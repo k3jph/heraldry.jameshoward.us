@@ -4,9 +4,9 @@ import PageIntro from '../../components/PageIntro.astro';
 import sources from '../../data/world-sources.json';
 import readings from '../../data/parallel-readings.json';
 const sorted=[...sources].sort((a,b)=>a.area.localeCompare(b.area)||a.titleOriginal.localeCompare(b.titleOriginal));
-const languages=[...new Set(sorted.map(s=>s.language))].sort();
 const regions=[...new Set(sorted.map(s=>s.area))].sort();
-const languageLabels:Record<string,string>={fr:'French',de:'German',nl:'Dutch',sv:'Swedish',es:'Spanish',pt:'Portuguese',it:'Italian',pl:'Polish',cs:'Czech',ja:'Japanese',en:'English',lv:'Latvian',lt:'Lithuanian',fi:'Finnish',ro:'Romanian'};
+const languageLabels:Record<string,string>={fr:'French',de:'German',nl:'Dutch',sv:'Swedish',es:'Spanish',pt:'Portuguese',it:'Italian',pl:'Polish',cs:'Czech',ja:'Japanese',en:'English',lv:'Latvian',lt:'Lithuanian',fi:'Finnish',ro:'Romanian',hr:'Croatian',hu:'Hungarian',sl:'Slovenian'};
+const languages=[...new Set(sorted.map(s=>s.language))].sort((a,b)=>(languageLabels[a]||a).localeCompare(languageLabels[b]||b,'en'));
 ---
 <Base title="International Source Atlas" description="A searchable, source-provenanced atlas of heraldic archives, registers, legal records and specialist institutions in more than a dozen source languages, with original English synopses and bilingual terminology.">
   <PageIntro eyebrow="Read the world in its own words" title="The source atlas." description="Original-language documents, archival guides, statutes and research literature from around the world. Every entry links to its source, gives an English analysis, and preserves vocabulary you would otherwise have to guess."/>
