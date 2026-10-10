@@ -66,6 +66,20 @@ The file format introduces another editorial question. The desk’s portable JSO
 
 The institutional sources are [Getty’s folio 2 record](https://www.getty.edu/art/collection/object/103S0J), its [IIIF manifest](https://media.getty.edu/iiif/manifest/3/55d52612-3142-481c-8f92-95ee387c29b2), and [Torre do Tombo’s Portuguese presentation, page 23](https://antt.dglab.gov.pt/wp-content/uploads/sites/17/2025/02/vasco-da-gama-conde-almirante.pdf#page=23), consulted 9 October 2026. This project supplies original teaching analysis; an independently reviewed manuscript transcription remains a separate scholarly task.
 
+## Collation before interpretation
+
+The [comparison bench](/transcription-desk/compare/) extends the edition into a study of two located readings. Its default French pair consists of folios 2 and 2v from one manuscript, rather than two independent manuscript copies. Read the [collation workshop](/transcription-desk/collation/) and state what that relationship permits you to argue. A repeated inscription within a book and a separately transmitted copy answer different questions.
+
+Begin by aligning actual locations, not convenient modern strings. A lower scroll, an upper scroll, and a collar are distinct occurrences. If you supply a doubtful form from a parallel occurrence, retain the doubtful observation and the dependence of your proposed reading. The parallel cannot then be counted as independent confirmation of the completed text.
+
+Compare the diplomatic and normalized layers separately. The exact-text preview highlights case, punctuation, accents, and whitespace without normalizing them. A line break you entered can therefore produce a difference. A normalization policy can remove it. Explain which operation belongs to the witness and which belongs to your edition before drawing a philological conclusion.
+
+Translation adds another source of apparent agreement. Two English renderings may coincide because the translators chose the same idiom; different renderings may express the same established French wording. Write an apparatus note connecting each interpretive choice to the relevant source-language passage. The amount of highlighted English text cannot measure fidelity.
+
+**Collation assignment:** Supply three located comparison entries and a 600-word methodological argument. Include one difference affected by editorial policy, one agreement with a precisely limited implication, and one proposed check capable of changing a reading. Export the comparison with both source records and the original single-witness apparatus. Name the version used for the argument; imported drafts are editable copies, not automatic updates of the originals.
+
+The second French opening is [Getty’s folio 2v, accession 85.ML.27.2v](https://www.getty.edu/art/collection/object/103S0G). Its image has separately documented Public Domain Mark / PD-Art provenance, described in the workshop. The Portuguese dossier can support a comparison of source mediation, but its unrelated wording must not be treated as a variant copy of the French text.
+
 ## Comparative language exercises
 
 Take three records from the [source atlas](/source-atlas/): a German DWR entry, the Dutch noble-register explanation, and a Spanish municipal arms decision. Prepare a one-page concordance of the verbs they use for **recording** versus **granting**. Distinguish institution, private status, and the legal effect stated by the source itself.

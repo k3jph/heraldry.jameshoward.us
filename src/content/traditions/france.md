@@ -71,6 +71,14 @@ This small edition also changes the questions you can ask of larger French regis
 
 **Comparative exercise:** Read the [manuscript workshop](/transcription-desk/reading/) and compare the French motto dossier with the Portuguese archival caption. Identify which claims arise from inspected lettering, modern identification, institutional dating, and reported material change. End with one proposed source that could settle a doubtful reading. Sources consulted 9 October 2026; specialist transcription and conservation review remain outstanding.
 
+### A second opening, a different evidentiary relationship
+
+Getty’s [*Coat of Arms Held by a Woman and a Greyhound*](https://www.getty.edu/art/collection/object/103S0G), Ms. 7, folio 2v, accession 85.ML.27.2v, supplies a second photographed opening. Inspect it beside folio 2 on the [manuscript comparison bench](/transcription-desk/compare/). Record each occurrence by its actual position. A collar inscription and a scroll inscription remain different loci even if your normalized readings agree.
+
+Because the openings belong to one book, this comparison investigates recurrence and arrangement within that manuscript. It cannot independently establish transmission through another copy. Nor does agreement in wording date the paint or prove that two occurrences were executed together. Keep those possible claims separate from what the present photographs show.
+
+The [collation workshop](/transcription-desk/collation/) asks you to compare diplomatic readings, normalized readings, and translations in turn. Explain a difference that disappears through editorial intervention, then record an uncertainty whose proposed resolution depends on the parallel occurrence. The second image’s Public Domain Mark / PD-Art source record is retained separately from the first image’s Getty CC0 declaration.
+
 ## Essential original-language sources
 
 1. [BnF / Gallica, *Ressources généalogiques : Noblesse*](https://gallica.bnf.fr/selections/fr/html/histoire/ressources-genealogiques-noblesse) — institutional guide explaining scope and manuscript series.

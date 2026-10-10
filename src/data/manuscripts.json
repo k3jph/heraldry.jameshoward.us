@@ -25,7 +25,9 @@
     "referenceLabel": "Catalogue reading of the mottoes; not a supplied diplomatic transcription",
     "reference": "Plus que jamais · Vie à mon desir",
     "referenceUrl": "https://www.getty.edu/art/exhibitions/power_piety/",
-    "referenceLanguage": "fr"
+    "referenceLanguage": "fr",
+    "workId": "getty-ms7",
+    "folio": "fol. 2"
   },
   {
     "id": "armeiro-mor-87",
@@ -46,6 +48,38 @@
     "referenceLabel": "Modern archive caption’s quoted identification; manuscript wording remains to be checked",
     "reference": "Dom Vasco da Gama almirante da Índia",
     "referenceUrl": "https://antt.dglab.gov.pt/wp-content/uploads/sites/17/2025/02/vasco-da-gama-conde-almirante.pdf#page=23",
-    "referenceLanguage": "pt"
+    "referenceLanguage": "pt",
+    "workId": "tt-liv19",
+    "folio": "f. 87"
+  },
+  {
+    "id": "simon-de-varie-2v",
+    "workId": "getty-ms7",
+    "folio": "fol. 2v",
+    "title": "Hours of Simon de Varie",
+    "label": "French mottoes and greyhound · Getty, fol. 2v",
+    "repository": "The J. Paul Getty Museum, Los Angeles",
+    "locator": "Ms. 7 (85.ML.27), fol. 2v; folio accession 85.ML.27.2v",
+    "date": "1455 (catalogue date)",
+    "language": "French mottoes; collection description in English",
+    "creator": "Jean Fouquet (catalogue attribution)",
+    "url": "https://www.getty.edu/art/collection/object/103S0G",
+    "image": "/images/manuscripts/simon-de-varie-folio2v.jpg",
+    "imageSource": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Jean_Fouquet_%28French%2C_born_about_1415_-_1420%2C_died_before_1481%29_-_Coat_of_Arms_Held_by_a_Woman_and_a_Greyhound_-_Google_Art_Project.jpg",
+    "imageRecord": "https://commons.wikimedia.org/wiki/File:Jean_Fouquet_(French,_born_about_1415_-_1420,_died_before_1481)_-_Coat_of_Arms_Held_by_a_Woman_and_a_Greyhound_-_Google_Art_Project.jpg",
+    "sourceImageSha1": "2e643716232eb7f2861df2fbd5e45dc71e977b2d",
+    "width": 1500,
+    "height": 2175,
+    "alt": "An illuminated leaf with a woman and white dog beside an armorial shield, helmet and winged crest; red motto lettering appears on upper and lower gold scrolls and on the dog’s collar.",
+    "rights": "Image: Public Domain Mark / PD-Art, as stated on the Wikimedia Commons file record; a faithful reproduction from Getty’s Google Art Project contribution. This is distinct from the folio 2 image’s CC0 declaration. Getty collection metadata and catalogue prose have their own terms.",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Jean_Fouquet_(French,_born_about_1415_-_1420,_died_before_1481)_-_Coat_of_Arms_Held_by_a_Woman_and_a_Greyhound_-_Google_Art_Project.jpg",
+    "credit": "The J. Paul Getty Museum, Los Angeles, Partial gift of Gerald F. Borrmann, Ms. 7, fol. 2v; image via Google Art Project / Wikimedia Commons, uploaded by DcoetzeeBot. Full source image reduced without cropping or restoration.",
+    "accessed": "2026-10-09",
+    "scope": "A second opening in the same manuscript, not an independent manuscript copy. Getty describes repeated motto wording on the scrolls and dog’s collar and reports seventeenth-century repainting of the shield. This desk does not reconstruct the earlier arms or independently date the paint layers.",
+    "prompt": "Compare the lower scroll with the lower scroll on folio 2. Give each inscription its own locus. Then compare the upper scroll and collar: different placements of a phrase require separate readings, not one automatically copied transcription.",
+    "referenceLabel": "Modern Getty catalogue readings of the mottoes; not a supplied diplomatic transcription",
+    "reference": "Plus que jamais · Vie à mon desir",
+    "referenceUrl": "https://www.getty.edu/art/collection/object/103S0G",
+    "referenceLanguage": "fr"
   }
 ]

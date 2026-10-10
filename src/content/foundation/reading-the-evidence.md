@@ -79,7 +79,7 @@ Write a revised catalogue note containing manufacture period, stylistic referenc
 
 An inscription is a useful first documentary project because it gives you a small object of study without making the research trivial. You can locate a few words, inspect the form in which they survive, compare a modern reading, and explain the decisions needed to turn the witness into a text. The result is an edition at a modest scale. Its quality depends on the traceability of its decisions, rather than on the length of the passage.
 
-The [manuscript transcription desk](/transcription-desk/) supplies two dossiers. One reproduces Getty’s full photograph of *Simon de Varie Kneeling in Prayer*, a French illuminated leaf dated 1455 and assigned to Jean Fouquet in the museum catalogue. The second links the Torre do Tombo’s Portuguese presentation of the *Livro do Armeiro-Mor*, 1509, book 19, folio 87. The French photograph is rights-cleared under the CC0 declaration in the museum’s IIIF manifest. The Portuguese image remains at the archive because this project has not verified its reuse terms.[^manuscripts]
+The [manuscript transcription desk](/transcription-desk/) began with two dossiers. One reproduces Getty’s full photograph of *Simon de Varie Kneeling in Prayer*, a French illuminated leaf dated 1455 and assigned to Jean Fouquet in the museum catalogue. The other links the Torre do Tombo’s Portuguese presentation of the *Livro do Armeiro-Mor*, 1509, book 19, folio 87. The first French photograph is rights-cleared under the CC0 declaration in the museum’s IIIF manifest. The Portuguese image remains at the archive because this project has not verified its reuse terms. A third dossier now adds a separately located French opening for the comparison exercise below.[^manuscripts]
 
 These are deliberately different encounters. At the Getty desk you can inspect lettering beside the working fields. At the Portuguese desk you open the archive’s PDF separately. In either case, describe what you actually consulted. A student who cannot open the Portuguese image can still study its verified modern caption, but must identify the work as a caption study. An access failure cannot be cured by silently pretending to have seen the manuscript.
 
@@ -126,6 +126,40 @@ The desk saves separate drafts in your browser for each witness. That convenienc
 Before loading an imported draft, review its witness and preview. Export the destination witness’s existing draft if you want to preserve it. The desk validates the file format and uses its own source metadata, so an imported file cannot redefine the museum URL or archival location. Validation makes restoration safer; it does not validate the handwriting or the historical argument.
 
 Continue with the [full manuscript workshop](/transcription-desk/reading/) for a paired French and Portuguese assignment and an editorial rubric. The short inscription can become part of your documentary capstone, provided the scope of every claim remains clear.
+
+## Route A extended: what does a second witness add?
+
+A second source can strengthen an argument, redirect it, or merely repeat what the first source already said. Before adding another image to your capstone, write one sentence about its relationship to the first. Is it another photograph of the same surface? Another occurrence within the same manuscript? An independent copy? A modern description based on an edition you already consulted? These relationships support different uses of agreement.
+
+The [manuscript comparison bench](/transcription-desk/compare/) starts with Getty folios 2 and 2v from the *Hours of Simon de Varie*. Its third dossier is *Coat of Arms Held by a Woman and a Greyhound*, Ms. 7, folio 2v, accession 85.ML.27.2v. The museum record identifies that opening; the photograph lets you locate the present scrolls and collar lettering. Its reproduced image has a separate Wikimedia Commons Public Domain Mark / PD-Art record. Keep that provenance distinct from the first image’s Getty CC0 manifest.[^collation]
+
+These are two openings in one book. A comparison can establish how a chosen inscription recurs there, subject to the readings you can actually make. It does not supply an unrelated manuscript copy. This is a worthwhile result. It becomes misleading only if your conclusion claims independence that the source inventory does not establish.
+
+### Give the comparison a defined unit
+
+Select one occurrence on each leaf and describe its location before transcribing it. Pairing “motto” with “motto” is too broad when a leaf presents lettering on more than one scroll and on a collar. The bench’s located entries let you distinguish those occurrences. Record the visible extent, the direction of reading, and any fold or obstruction that interrupts the sequence.
+
+Apply a shared notation policy to both diplomatic readings. Otherwise your comparison may discover your own inconsistent treatment of capitals, line breaks, or joined forms. If the sources demand different treatment, explain the difference rather than forcing them into a policy that hides what matters. A short difficult passage can teach more than a long transcript whose decisions remain invisible.
+
+The exact-text preview highlights differences in the strings you entered. It includes whitespace, punctuation, case, and accents. It neither reads the painted letters nor chooses the historically correct reading. Treat it as a check on your transcription record. A red or green segment gives you a question to investigate; it does not give you a historical answer.
+
+Run the normalized comparison next. If a difference disappears, identify the intervention responsible. Perhaps both readings now use ordinary word spacing or consistent case. That disappearance tells the reader how your edition works. It does not retroactively remove the difference from the objects. The normalized agreement should therefore accompany the diplomatic evidence, rather than replace it.
+
+### Explain agreement as carefully as disagreement
+
+An apparatus entry may record an agreement. State what was compared and at what level. “The normalized wording agrees” is a narrower, more reproducible statement than “the inscriptions are identical.” It leaves room for arrangement, letter forms, omissions, and material history to differ.
+
+Likewise, record when an apparent resolution depends on the second occurrence. If you supplied a doubtful collar letter from a legible scroll, the completed reading is not independent evidence that both occurrences preserve that letter. Preserve the doubtful observation, the supplied resolution, and the reason. This avoids a circular argument in which your reconstruction becomes confirmation of the source used to construct it.
+
+Material questions need their own evidence. Getty’s account of folio 2v reports later repainting of the shield. A recurring inscription elsewhere on the leaf does not date that intervention or establish the earlier shield’s exact form. The catalogue statement, your description of the present photograph, and a proposed reconstruction belong to separate claims with separate support.
+
+### Submit the trail with the argument
+
+Extend your documentary study with three located comparison entries and a 400–600-word discussion of the second witness’s contribution. Include at least one editorial intervention, one agreement whose limits you explain, and one unresolved check. Use the [collation workshop](/transcription-desk/collation/) for the full method and rubric.
+
+Export the comparison as well as the single-witness drafts. The bench retains imported apparatus and source records in its report while keeping its own edited reading copies. If you change a reading at the desk, review that changed draft before loading it into the comparison. A dated export records which version supported the submitted argument. A pair link identifies the sources, but carries none of your analysis.
+
+Your final claim can now name the added evidence precisely: another located occurrence within one manuscript, a demonstrated difference between editorial layers, or a source limitation that changes the scope of the question. A smaller claim with a reproducible trail is stronger than a large claim resting on an unexplained second image.
 
 ## Build a claim ledger
 
@@ -200,3 +234,5 @@ Keep your witness inventory and claim ledger. They can grow into a comparative s
 
 [^manuscripts]: Getty, [IIIF manifest for *Hours of Simon de Varie*, Ms. 7](https://media.getty.edu/iiif/manifest/3/55d52612-3142-481c-8f92-95ee387c29b2), canvas labeled fol. 2, image CC0; Arquivo Nacional da Torre do Tombo, [archival presentation on Vasco da Gama](https://antt.dglab.gov.pt/wp-content/uploads/sites/17/2025/02/vasco-da-gama-conde-almirante.pdf#page=23), PDF p. 23, *Livro do Armeiro-Mor*, 1509, TT, Casa Real, Cartório da Nobreza, liv. 19, f. 87. Modern caption and locator verified; original-hand transcription and Portuguese image reuse remain open. Consulted 9 October 2026.
 [^getty-leaf]: Getty, [*Simon de Varie Kneeling in Prayer*](https://www.getty.edu/art/collection/object/103S0J), Ms. 7 (85.ML.27), fol. 2, accession 85.ML.27.2; collection date, maker, and account of partially overpainted border arms. Consulted 9 October 2026. Catalogue statements are distinct from this project’s visual observations.
+
+[^collation]: Getty, [*Coat of Arms Held by a Woman and a Greyhound*](https://www.getty.edu/art/collection/object/103S0G), Ms. 7, fol. 2v, accession 85.ML.27.2v; [Getty’s Google Arts & Culture account](https://artsandculture.google.com/asset/coat-of-arms-held-by-a-woman-and-a-greyhound-0000/cgEIvw0NzkW01A); [Wikimedia Commons image and rights record](https://commons.wikimedia.org/wiki/File:Jean_Fouquet_(French,_born_about_1415_-_1420,_died_before_1481)_-_Coat_of_Arms_Held_by_a_Woman_and_a_Greyhound_-_Google_Art_Project.jpg), Public Domain Mark / PD-Art. Consulted 9 October 2026. The full photograph was inspected; the project has not independently dated paint layers or published a reviewed transcription.

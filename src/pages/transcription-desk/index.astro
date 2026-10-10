@@ -9,6 +9,7 @@ import {witnesses,FIELDS} from '../../lib/transcription.js';
   <section class="section"><div class="wrap">
     <div class="desk-heading"><label for="desk-witness"><span class="smallcaps">Choose a manuscript witness</span><select id="desk-witness">{witnesses.map(w=><option value={w.id}>{w.label}</option>)}</select></label><a href="/transcription-desk/reading/" class="btn btn-line">Read the manuscript workshop ↗</a></div>
     <p id="desk-status" class="caption" role="status" aria-live="polite">Notes are saved in this browser when JavaScript is available. Export JSON to keep a portable copy.</p>
+    <p><a href="/transcription-desk/compare/" class="text-link">Compare two witnesses, readings, and editorial decisions ↗</a></p>
     <div class="desk-grid">
       <div class="witness-column">{witnesses.map((w,i)=><article class="witness" data-witness={w.id}>
         <p class="eyebrow">{w.language}</p><h2>{w.title}</h2><p class="locator">{w.locator}</p>
@@ -21,7 +22,7 @@ import {witnesses,FIELDS} from '../../lib/transcription.js';
         <p>{w.scope}</p><div class="witness-prompt"><h3>Your first reading</h3><p>{w.prompt}</p></div>
         <details><summary>Compare the modern reference reading</summary><p>{w.referenceLabel}</p><blockquote lang={w.referenceLanguage}>{w.reference}</blockquote><p class="caption"><a href={w.referenceUrl}>Reference source ↗</a>. A caption or catalogue reading is a separate witness; it does not silently fill your transcription.</p></details>
         <p class="caption">{w.credit}. Source consulted {w.accessed}.</p><p class="caption">{w.rights} <a href={w.rightsUrl}>Rights source ↗</a></p><a href={w.url} target="_blank" rel="noopener" class="text-link">Institutional source record ↗</a>
-        {'manifest' in w&&<p class="caption"><a href={w.manifest}>IIIF manifest</a> · Image canvas labeled fol. 2</p>}
+        {'manifest' in w&&<p class="caption"><a href={w.manifest}>IIIF manifest</a> · Image canvas labeled {w.folio}</p>}
       </article>)}</div>
       <div class="draft-column"><p class="eyebrow">An accountable working draft</p><h2>Your edition begins here.</h2><p class="caption">The desk preserves your text. It does not check the handwriting or certify a translation. “Checked” is your review status; identify the reviewer and basis in your notes.</p>
         <form id="desk-form">{FIELDS.map(f=><label for={'draft-'+f.id}><span>{f.label}</span><small>{f.prompt}</small><textarea id={'draft-'+f.id} name={f.id} rows={f.rows} maxlength="50000"></textarea></label>)}</form>
@@ -31,7 +32,7 @@ import {witnesses,FIELDS} from '../../lib/transcription.js';
         <p class="caption">Each witness has its own draft. Notes stay in your browser; shared witness links contain no notes. Browser data can be cleared, and exports are your backup. Keep the JSON for restoration and the Markdown for a readable report.</p>
       </div>
     </div>
-    <noscript><div class="notice-box"><strong>Read both witness dossiers without JavaScript.</strong><p>The images, source records, and <a href="/transcription-desk/reading/">workshop lesson</a> remain available. Witness selection, zoom, autosave, apparatus editing, and file export require JavaScript. Write in your own document if those tools are unavailable.</p></div></noscript>
+    <noscript><div class="notice-box"><strong>Read all {witnesses.length} witness dossiers without JavaScript.</strong><p>The images, source records, and <a href="/transcription-desk/reading/">workshop lesson</a> remain available. Witness selection, zoom, autosave, apparatus editing, and file export require JavaScript. Write in your own document if those tools are unavailable.</p></div></noscript>
   </div></section>
   <script>
     import {mountDesk} from '../../lib/transcription-controller.js';
