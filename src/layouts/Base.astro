@@ -1,9 +1,10 @@
 ---
 import '../styles/global.css';
 import BrandMark from '../components/BrandMark.astro';
+import CookieConsent from '../components/CookieConsent.astro';
 const {
   title = 'The language of arms',
-  description = 'The Heraldry Project: a free, interactive school of heraldry with lessons, a drawing atelier, armorial examples and an encyclopedic lexicon.',
+  description = 'The Heraldry Project: an interactive school of heraldry with lessons, a drawing atelier, armorial examples and an encyclopedic lexicon.',
   image = '/social-card.svg',
 } = Astro.props;
 const pageTitle = title === 'The language of arms' ? 'The Heraldry Project — The language of arms' : title + ' · The Heraldry Project';
@@ -91,10 +92,15 @@ const ld = {
       </div>
       <div class="footer-bottom">
         <span>© {new Date().getFullYear()} James P. Howard, II</span>
+        <div class="footer-privacy">
+          <a href="/privacy-and-cookie-notice/">Privacy & cookies</a>
+          <button type="button" class="cookie-settings" data-cookie-preferences aria-controls="gdpr-cookie">Cookie Settings</button>
+        </div>
         <a href="#main-content">Back to top ↑</a>
       </div>
     </div>
   </footer>
+  <CookieConsent />
   <script>
     const header = document.querySelector('.site-header');
     const onScroll = () => header?.classList.toggle('scrolled', window.scrollY > 12);

@@ -1,0 +1,59 @@
+---
+import Base from '../layouts/Base.astro';
+import PageIntro from '../components/PageIntro.astro';
+---
+<Base title="Privacy and Cookie Notice" description="What the Heraldry Project stores in your browser, what optional Google Analytics measures, and how to change your privacy choices.">
+  <PageIntro eyebrow="Privacy & cookies" title="What we keep track of." description="Your working notes and learning progress stay in your browser. Traffic measurement is optional. Here is how both work." />
+  <section class="section"><article class="wrap world-article">
+    <p><strong>Last updated: October 10, 2026.</strong> This notice applies to heraldryproject.org, an educational website operated by James P. Howard, II. For questions or privacy requests, use the <a href="https://jameshoward.us/">contact details published on James Howard’s website</a>.</p>
+    <div class="notice-box">
+      <strong>Your choice</strong>
+      <p>Google Analytics loads only after you select <strong>Accept analytics</strong>. Rejecting it leaves every lesson and tool available. You can change your choice using Cookie Settings in the footer or the button below.</p>
+      <p><button class="btn btn-dark" type="button" data-cookie-preferences aria-controls="gdpr-cookie">Cookie Settings</button></p>
+    </div>
+
+    <h2>Learning progress and research drafts</h2>
+    <p>The site has no user accounts or server-side student profiles. Lesson completion, best practice scores, lecture positions, transcription drafts, comparison notes, and recovery copies are saved in this browser’s local storage. We do not upload those records or send their contents to Analytics.</p>
+    <p>Local storage is different from a cookie: it holds the information a tool needs to remember your work on this device. Examples include <code>heraldry-completed-v1</code>, <code>heraldry-practice-best-v1</code>, lecture keys beginning <code>heraldry-lecture-v1-</code>, and research draft keys beginning <code>heraldry-transcription-v1:</code>, <code>heraldry-witness-comparison-v1:</code>, or <code>heraldry-object-notes-v1:</code>. Draft branches and recovery copies also remain local.</p>
+    <p>These records have no automatic expiry. They remain until you delete them, clear site data, or your browser removes them. They are not automatically synchronized between devices. Other people using the same browser profile may be able to see them. Export work you want to keep before clearing site storage; clearing it can permanently erase your progress and drafts.</p>
+    <p>Export buttons create files on your device. Copy buttons use your clipboard when you request it. A link to a manuscript or comparison identifies the source or pair, without including your written notes. Atelier links include the design choices needed to recreate the shield.</p>
+
+    <h2>Information needed to deliver the site</h2>
+    <p>GitHub Pages hosts the site, and Cloudflare provides its delivery and security layer. When your browser requests a page or image, these services may process your IP address, requested address, request time, referrer, browser and device information, and security or diagnostic information. This processing supports delivery, reliability, and protection against abuse, even if you reject Analytics.</p>
+    <p>Infrastructure logs are subject to the providers’ operational retention and privacy practices. See the <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement">GitHub Privacy Statement</a> and <a href="https://www.cloudflare.com/privacypolicy/">Cloudflare Privacy Policy</a>.</p>
+
+    <h2>Cookies and consent</h2>
+    <p>After you accept or reject Analytics, a necessary cookie named <code>cookieConsent</code> remembers that choice and the notice version for 365 days. It is restricted to this host, uses <code>SameSite=Lax</code>, and is marked Secure over HTTPS. It does not identify you for traffic measurement. Changing your choice replaces it; a material change to this consent notice can require a new choice.</p>
+    <p>Ignoring the banner is not consent. If your browser enables the recognized <strong>Global Privacy Control</strong> signal, the site treats that as rejection and keeps optional Analytics disabled. Consent on another JHCU website does not automatically grant consent here.</p>
+    <p>If you withdraw consent, we disable further Analytics collection on this page and attempt to remove the site’s <code>_ga</code> and <code>_ga_*</code> cookies. Future pages will also keep Analytics disabled. Withdrawal does not delete information already collected by Google. Browser restrictions may prevent a choice or a cookie deletion from being saved; you can also manage cookies in your browser.</p>
+
+    <h2>Optional Google Analytics</h2>
+    <p>With your consent, Google Analytics 4 helps us understand which pages people read, how they find the project, and which parts of the site are useful. It uses the shared JHCU measurement ID <code>G-FSDET4HG4L</code>, also used on James Howard’s other sites.</p>
+    <p>Analytics can receive page titles and addresses, visit times and durations, referral sources, browser and device characteristics, general geographic information, and page interactions such as scrolling, outbound links, or downloads. Depending on the shared stream’s enhanced-measurement settings, it may also record searches and form interactions. Page addresses can include search terms, source identifiers, or Atelier design parameters. Please do not put personal or sensitive information into a URL or site search.</p>
+    <p>Analytics cookies distinguish browsers and visits; this is not a guarantee of anonymity. Google receives technical information, including an IP address, when your browser contacts its service. We do not send quiz answers, completion records, practice scores, lecture positions, or the text of your research drafts as Analytics events.</p>
+    <table>
+      <caption>Cookies used by optional Analytics</caption>
+      <thead><tr><th scope="col">Cookie</th><th scope="col">Purpose</th><th scope="col">Typical lifetime</th></tr></thead>
+      <tbody>
+        <tr><td><code>_ga</code></td><td>Distinguishes a browser for statistical measurement</td><td>Up to two years</td></tr>
+        <tr><td><code>_ga_*</code></td><td>Maintains session information for the Analytics property</td><td>Up to two years</td></tr>
+      </tbody>
+    </table>
+    <p>Visits can renew these cookies, and Google may update their names or behavior. User-level and event-level data follow the shared property’s retention settings; standard GA4 properties offer two- or fourteen-month retention. Aggregated statistical reports may be retained longer. See <a href="https://support.google.com/analytics/answer/7667196">Google’s explanation of Analytics data retention</a>.</p>
+    <p>The site sets advertising storage, advertising user data, advertising personalization, Google Signals, and advertising-personalization signals to disabled. We do not use this information for targeted advertising or sell personal information. If cross-domain measurement is configured for participating JHCU sites, consented visits between them may be associated as one journey. Each site still makes its own consent choice available.</p>
+    <p>Google may process information outside your country. Its processing is covered by <a href="https://policies.google.com/privacy">Google’s Privacy Policy</a> and its explanation of <a href="https://policies.google.com/technologies/partner-sites">information from sites that use Google services</a>.</p>
+
+    <h2>Images, external links, and narration</h2>
+    <p>Most teaching images are served with this site. Some images, including the James Howard badge and museum-image fallbacks, load from external hosts. Those hosts receive the technical information needed for the request independently of your Analytics choice. Following an external source link also puts you under that service’s privacy practices.</p>
+    <p>Lecture narration uses your browser’s speech-synthesis service when you start playback. It does not record your microphone or upload your learning progress. Whether a selected voice is generated on your device or through a provider’s service depends on your browser and operating system.</p>
+
+    <h2>Contact, disclosure, and your choices</h2>
+    <p>If you contact James, the information you choose to send is used to read and respond to your message and handle your request. Correspondence may be kept as reasonably needed to respond, maintain records, resolve disputes, or meet legal obligations. The site itself does not have a registration or contact form.</p>
+    <p>Hosting, security, and measurement providers process information for the services described above. Information may also be disclosed where necessary to comply with law, address abuse, protect rights or safety, or establish or defend a legal claim.</p>
+    <p>Depending on where you live, you may have rights to access, correct, delete, or receive information about you, object to processing, withdraw consent, or complain to a data-protection authority. Contact James through the details linked above to make a request. Because browser drafts stay on your device, we cannot retrieve or delete those copies remotely. You can export or delete them yourself.</p>
+    <p>This project is for a general audience and does not knowingly solicit personal information from children. If you believe a child has provided personal information to us, please contact James. We use reasonable measures to protect information, but no storage or transmission method can be guaranteed secure.</p>
+
+    <h2>Changes to this notice</h2>
+    <p>We update this notice as the project and its services change. The revision date appears at the top. Changes that materially affect Analytics consent will require a new choice.</p>
+  </article></section>
+</Base>

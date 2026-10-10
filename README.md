@@ -1,6 +1,6 @@
 # The Heraldry Project
 
-**The language of arms, opened to everyone.** A free, independent, interactive school of heraldry at [heraldryproject.org](https://heraldryproject.org/).
+**The language of arms, opened to everyone.** An independent, interactive school of heraldry at [heraldryproject.org](https://heraldryproject.org/).
 
 Built with [Astro](https://astro.build/) and published using **GitHub Pages**.
 
@@ -22,7 +22,7 @@ Built with [Astro](https://astro.build/) and published using **GitHub Pages**.
 2. **Show, don't just tell.** Where possible, a learner can manipulate the relevant ideas.
 3. **Teach the difference between rules and customs.** Heraldic practices, law and entitlements differ by jurisdiction.
 4. **Original illustrations.** The pedagogical shields are original teaching designs, not purported grants.
-5. **Progress without surveillance.** Exercise progress stays in the visitor's browser; there are no accounts or tracking cookies.
+5. **Local progress and optional measurement.** Exercise progress and research drafts stay in the visitor's browser. Google Analytics loads only after consent; the shared JHCU banner and footer Cookie Settings manage that choice. See the [privacy and cookie notice](https://heraldryproject.org/privacy-and-cookie-notice/).
 6. **Accessibility and openness.** Semantic pages, keyboard operability, reduced-motion support, reading transcripts, and printable lessons.
 
 ## Development
