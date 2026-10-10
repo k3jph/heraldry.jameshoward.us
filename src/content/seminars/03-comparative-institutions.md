@@ -71,4 +71,6 @@ An advanced answer recognizes that a country may have *multiple different admini
 - [Italian Central State Archives, Libro d'oro](https://acs.cultura.gov.it/libro-doro-della-nobilta-italiana/)
 
 
-> **Status:** Research-methods teaching note. Source citations are provided for independent verification. These exercises do not constitute a degree, professional certification or authoritative legal opinion.
+<aside class="editorial-notice" aria-label="Editorial note">
+<p><strong>Status:</strong> Research-methods teaching note. Source citations are provided for independent verification. These exercises do not constitute a degree, professional certification or authoritative legal opinion.</p>
+</aside>

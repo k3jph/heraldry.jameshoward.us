@@ -1,7 +1,7 @@
 ---
 import Base from '../layouts/Base.astro';
 import PageIntro from '../components/PageIntro.astro';
-import {TINCTURES,FIELD_VALUES,armsSVG,assessDesign,normalizeDesign,blazon} from '../lib/heraldry.js';
+import {TINCTURES,armsSVG,normalizeDesign,blazon} from '../lib/heraldry.js';
 const demonstration=(field:string,charge:string='none')=>({field,secondary:'argent',division:'none',ordinary:'none',ordinaryTincture:'argent',charge,chargeTincture:'or',count:1});
 const fields=['or','argent','gules','azure','sable','vert','purpure'];
 const plural=(key:string)=>TINCTURES[key].kind==='metal'?'metal':'colour';
@@ -86,7 +86,7 @@ const sources=[
     </div>
   </section>
   <script>
-    import {TINCTURES,normalizeDesign,armsSVG,assessDesign,blazon} from '../lib/heraldry.js';
+    import {TINCTURES,normalizeDesign,armsSVG,blazon} from '../lib/heraldry.js';
     let field='azure',charge='or';
     const ink=document.querySelector<HTMLElement>('#tincture-colour-art');
     const hatch=document.querySelector<HTMLElement>('#tincture-hatched-art');

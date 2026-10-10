@@ -1,4 +1,5 @@
 import {witnesses,blankDraft,validateDraft,draftReport,MAX_FILE_BYTES} from './transcription.js';
+import {createDraftSession} from './draft-storage.js';
 
 export const COLLATION_FORMAT='heraldry-witness-comparison';
 export const COLLATION_VERSION=1;
@@ -75,12 +76,7 @@ export function comparisonReport(pair,value){
   return lines.join('\n')+'\n';
 }
 export function createComparisonSession(storage){
-  const memory=new Map();let storageWorks=true;
-  return {
-    get storageWorks(){return storageWorks;},
-    save(pair,draft){const clean=validateComparison(draft);memory.set(comparisonKey(pair),structuredClone(clean));try{storage.setItem(comparisonKey(pair),JSON.stringify(clean));storageWorks=true;}catch{storageWorks=false;}return clean;},
-    load(pair){const key=comparisonKey(pair);if(memory.has(key))return structuredClone(memory.get(key));try{const raw=storage.getItem(key);if(raw!==null){const clean=validateComparison(JSON.parse(raw));memory.set(key,clean);return structuredClone(clean);}}catch{storageWorks=false;}return null;}
-  };
+  return createDraftSession(storage,{key:comparisonKey,validate:validateComparison,blank:()=>null});
 }
 // A bounded longest-common-subsequence comparison of the supplied text. It
 // highlights strings, not manuscript strokes, copying relationships, or dates.

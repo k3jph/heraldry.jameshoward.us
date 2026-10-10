@@ -70,4 +70,6 @@ Next, plan a visit or documentary request to the [heraldry reading room](https:/
 
 **Research frontier:** early civic heraldry, regional usage before unification, papal heraldry, and the archival history of the *Consulta*. Modern constitutional law should frame these questions, not crowd them out.
 
-> **Editorial status:** Original English research synthesis, grounded in the linked institutional sources. Not a full translation of those sources, not legal advice, and awaiting specialist review.
+<aside class="editorial-notice" aria-label="Editorial note">
+<p><strong>Editorial status:</strong> Original English research synthesis, grounded in the linked institutional sources. Not a full translation of those sources, not legal advice, and awaiting specialist review.</p>
+</aside>

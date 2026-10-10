@@ -68,4 +68,6 @@ Next, identify one real municipal coat of arms with a presidential approval reco
 1. [Lietuvos Respublika, consolidated legislation via e-TAR](https://e-tar.lt/rs/actualedition/TAR.55B9E4E382B3/KccWpcqpst/) — original Lithuanian text, especially Articles 9–10.
 2. [Lithuanian parliamentary legislative database](https://e-seimas.lrs.lt/) — further statutory context and original amendments.
 
-> **Status:** Original research introduction based on official legislative material. It does not claim to be a specialist critical history of Lithuanian medieval armory. Primary artifact cataloguing and Lithuanian-language scholarly review remain future tasks.
+<aside class="editorial-notice" aria-label="Editorial note">
+<p><strong>Status:</strong> Original research introduction based on official legislative material. It does not claim to be a specialist critical history of Lithuanian medieval armory. Primary artifact cataloguing and Lithuanian-language scholarly review remain future tasks.</p>
+</aside>

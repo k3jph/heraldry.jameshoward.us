@@ -70,4 +70,6 @@ Now compare the statutory framework with the [Flemish private-arms decree](https
 1. [Latvian Saeima, *Ģerboņu likums*, published in the official Likumi.lv database](https://likumi.lv/ta/id/123815-gerbonu-likums) — consolidated law and amendments.
 2. [Latvian law, *Par Latvijas valsts ģerboni*](https://likumi.lv/ta/id/47133-par-latvijas-valsts-gerboni) — distinct regime governing the state coat of arms.
 
-> **Scholarly status:** An initial comparative chapter based on original Latvian legislation, not a definitive account of all private and civic heraldry across Latvian history. Specialist translation and legal review remain open.
+<aside class="editorial-notice" aria-label="Editorial note">
+<p><strong>Scholarly status:</strong> An initial comparative chapter based on original Latvian legislation, not a definitive account of all private and civic heraldry across Latvian history. Specialist translation and legal review remain open.</p>
+</aside>

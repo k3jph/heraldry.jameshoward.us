@@ -56,4 +56,6 @@ Create two sets of descriptions for an historic arms image: the first a purely f
 - [Japanese kamon bibliography](https://ndlsearch.ndl.go.jp/rnavi/humanities/post_1127)
 
 
-> **Research status:** Original teaching material, not a reviewed critical edition. Verify claims in cited sources. No academic credit is awarded.
+<aside class="editorial-notice" aria-label="Editorial note">
+<p><strong>Research status:</strong> Original teaching material, not a reviewed critical edition. Verify claims in cited sources. No academic credit is awarded.</p>
+</aside>

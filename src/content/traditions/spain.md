@@ -64,4 +64,6 @@ Read the [Sotillo de la Ribera notice](https://www.boe.es/diario_boe/txt.php?id=
 
 A serious Spanish curriculum must next add medieval manuscript readings from Castile, León, Aragon, Catalonia, Navarre, Portugal's neighboring traditions, and the later histories of Spanish-speaking American state symbolism.
 
-> **Editorial status:** Original English research synthesis, grounded in the linked institutional sources. Not a full translation of those sources, not legal advice, and awaiting specialist review.
+<aside class="editorial-notice" aria-label="Editorial note">
+<p><strong>Editorial status:</strong> Original English research synthesis, grounded in the linked institutional sources. Not a full translation of those sources, not legal advice, and awaiting specialist review.</p>
+</aside>

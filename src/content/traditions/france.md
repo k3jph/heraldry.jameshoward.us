@@ -86,4 +86,6 @@ The [collation workshop](/transcription-desk/collation/) asks you to compare dip
 
 The primary next step is **folio-level study**. The general archival guide alone cannot support a claim about an individual armiger.
 
-> **Editorial status:** Original English research synthesis based on the identified primary and institutional sources. Not a translation of an entire source, not a legal opinion, and not yet independently peer reviewed.
+<aside class="editorial-notice" aria-label="Editorial note">
+<p><strong>Editorial status:</strong> Original English research synthesis based on the identified primary and institutional sources. Not a translation of an entire source, not a legal opinion, and not yet independently peer reviewed.</p>
+</aside>

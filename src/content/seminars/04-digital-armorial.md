@@ -64,4 +64,6 @@ Using at least two original-language source collections, build a schema for twen
 - [Polish historical armorial bibliography](https://szlachta.org/baza-wiedzy-o-szlachcie/zrodla/herbarze/)
 
 
-> **Research status:** Original teaching material, not a reviewed critical edition. Verify claims in cited sources. No academic credit is awarded.
+<aside class="editorial-notice" aria-label="Editorial note">
+<p><strong>Research status:</strong> Original teaching material, not a reviewed critical edition. Verify claims in cited sources. No academic credit is awarded.</p>
+</aside>

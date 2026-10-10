@@ -78,4 +78,6 @@ The administrative decision also contemplates controlling use by private or corp
 2. [2013 consolidated act with the 2012 amendment notes](https://narodne-novine.nn.hr/clanci/sluzbeni/full/2013_02_19_323.html).
 3. [*Pravilnik o postupku davanja odobrenja grba i zastave*, 1998](https://narodne-novine.nn.hr/clanci/sluzbeni/full/1998_07_94_1289.html), especially Articles 2, 5, 6, 8, 11 and 12.
 
-> **Review note:** These are source-led observations about Croatian civic arms in modern local-government law. They do not claim comprehensive treatment of medieval Dalmatian, Croatian–Hungarian, Venetian, Habsburg or Yugoslav heraldry. Later statutory amendments and Croatian-language specialist review remain to be researched.
+<aside class="editorial-notice" aria-label="Editorial note">
+<p><strong>Review note:</strong> These are source-led observations about Croatian civic arms in modern local-government law. They do not claim comprehensive treatment of medieval Dalmatian, Croatian–Hungarian, Venetian, Habsburg or Yugoslav heraldry. Later statutory amendments and Croatian-language specialist review remain to be researched.</p>
+</aside>

@@ -6,11 +6,14 @@ import ts from 'typescript';
 import {objectStudies} from '../src/lib/objects.js';
 import * as comparison from '../src/lib/object-comparison.js';
 import {installImageFallback} from '../src/lib/object-images.js';
+import {browserDraftStorage} from '../src/lib/draft-storage.js';
+import {mountDraftRecovery} from '../src/lib/draft-recovery.js';
+import {draftPreview} from '../src/lib/draft-preview.js';
 
 // Exercise the page's client script against a small DOM adapter. This checks
 // notebook persistence and storage failure; it is not a visual browser test.
 function notebook({search='',blocked=false,stored=new Map()}={}){
-  const control=(value='')=>({value,handlers:{},addEventListener(event,handler){this.handlers[event]=handler;},setAttribute(){},replaceChildren(){}});
+  const control=(value='')=>({value,handlers:{},children:[],addEventListener(event,handler){this.handlers[event]=handler;},append(...children){this.children.push(...children);},setAttribute(){},replaceChildren(){this.children=[];}});
   const controls=new Map();
   for(const id of ['choose-left','choose-right','notes-status','swap-objects','export-notes','copy-notes','copy-comparison'])controls.set('#'+id,control());
   const left=controls.get('#choose-left'),right=controls.get('#choose-right');
@@ -21,7 +24,8 @@ function notebook({search='',blocked=false,stored=new Map()}={}){
   const cards=[new Map(),new Map()];
   for(const [i,side] of ['left','right'].entries())controls.set('[data-side="'+side+'"]',{querySelector(selector){if(!cards[i].has(selector))cards[i].set(selector,control());return cards[i].get(selector);}});
   const location={href:'https://heraldryproject.org/objects/compare/'+search,search};
-  const context={...comparison,objectStudies,installImageFallback,URL,URLSearchParams,Map,JSON,Image:class{dataset={};complete=false;naturalWidth=0;addEventListener(){}getAttribute(){return this.src;}},FormData:class{constructor(){return new Map([...inputs].map(([id,input])=>[id,input.value]));}},document:{querySelector:selector=>controls.get(selector)},location,history:{replaceState(_,__,url){location.href=url.href;}},localStorage:{getItem(key){if(blocked)throw Error('blocked');return stored.get(key)??null;},setItem(key,value){if(blocked)throw Error('blocked');stored.set(key,value);}}};
+  const context={...comparison,objectStudies,installImageFallback,browserDraftStorage,mountDraftRecovery,draftPreview,URL,URLSearchParams,Map,JSON,Image:class{dataset={};complete=false;naturalWidth=0;addEventListener(){}getAttribute(){return this.src;}},FormData:class{constructor(){return new Map([...inputs].map(([id,input])=>[id,input.value]));}},document:{querySelector:selector=>controls.get(selector),createElement:()=>control()},location,history:{replaceState(_,__,url){location.href=url.href;}},localStorage:{getItem(key){if(blocked)throw Error('blocked');return stored.get(key)??null;},setItem(key,value){if(blocked)throw Error('blocked');stored.set(key,value);}}};
+  context.window=context;
   const page=readFileSync(new URL('../src/pages/objects/compare.astro',import.meta.url),'utf8');
   const script=page.match(/<script>([\s\S]*?)<\/script>/)[1].replace(/^\s*import .*;$/gm,'');
   vm.runInNewContext(ts.transpileModule(script,{compilerOptions:{target:ts.ScriptTarget.ES2022,module:ts.ModuleKind.None}}).outputText,context);

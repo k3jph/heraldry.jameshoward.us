@@ -73,4 +73,6 @@ Read Ajdovščina's [Article 7](https://pisrs.si/pregledPredpisa?sop=2012-01-184
 1. [PISRS, *Statut Občine Ajdovščina* (2012), Article 7](https://pisrs.si/pregledPredpisa?sop=2012-01-1843).
 2. [PISRS, *Statut Občine Mežica* (2025), Article 6](https://pisrs.si/pregledPredpisa?sop=2025-01-2085).
 
-> **Editorial review status:** An original English comparative study of two modern local acts, not a full Slovenian heraldic history. Slovenian-language specialist input, local ordinances and authentic older civic seals still need research. No reproduction rights are implied for municipality artwork.
+<aside class="editorial-notice" aria-label="Editorial note">
+<p><strong>Editorial review status:</strong> An original English comparative study of two modern local acts, not a full Slovenian heraldic history. Slovenian-language specialist input, local ordinances and authentic older civic seals still need research. No reproduction rights are implied for municipality artwork.</p>
+</aside>

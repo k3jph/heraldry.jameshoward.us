@@ -44,4 +44,6 @@ Read the original Spanish account of the [*Escudo Nacional*](https://www.argenti
 
 **Research frontier:** heraldic histories of the former Spanish colonies, regional and provincial coats, colonial inheritance and independent national iconographies throughout South America, Central America and the Caribbean.
 
-> **Editorial status:** Original English synthesis supported by linked sources. Scope and interpretive assumptions are explicit. Specialist and, where relevant, community review remain to be completed.
+<aside class="editorial-notice" aria-label="Editorial note">
+<p><strong>Editorial status:</strong> Original English synthesis supported by linked sources. Scope and interpretive assumptions are explicit. Specialist and, where relevant, community review remain to be completed.</p>
+</aside>

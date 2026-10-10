@@ -64,7 +64,7 @@ const ld = {
       <div class="header-actions">
         <a class="header-study" href="/practice/">Start practicing <span aria-hidden="true">↗</span></a>
         <details class="mobile-nav">
-          <summary aria-label="Open navigation"><span class="menu-lines" aria-hidden="true">☰</span> Menu</summary>
+          <summary><span class="menu-lines" aria-hidden="true">☰</span> Menu</summary>
           <nav aria-label="Mobile navigation">
             {nav.map(item => <a href={item.href} aria-current={current.startsWith(item.href) ? 'page' : undefined}>{item.label}</a>)}
             <a href="/practice/">Practice</a>
@@ -91,7 +91,7 @@ const ld = {
       </div>
       <div class="footer-bottom">
         <span>© {new Date().getFullYear()} James P. Howard, II</span>
-        <a href="#main-content" aria-label="Back to the top">Back to top ↑</a>
+        <a href="#main-content">Back to top ↑</a>
       </div>
     </div>
   </footer>

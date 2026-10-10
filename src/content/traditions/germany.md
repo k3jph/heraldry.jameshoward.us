@@ -64,4 +64,6 @@ Read the German-language account of [the DWR and its statute](https://herold-ver
 
 Future chapters must engage regional archives and dated manuscript witnesses; contemporary society rules alone are not a full history of German armory.
 
-> **Editorial status:** Original English research synthesis based on the identified primary and institutional sources. Not a translation of an entire source, not a legal opinion, and not yet independently peer reviewed.
+<aside class="editorial-notice" aria-label="Editorial note">
+<p><strong>Editorial status:</strong> Original English research synthesis based on the identified primary and institutional sources. Not a translation of an entire source, not a legal opinion, and not yet independently peer reviewed.</p>
+</aside>

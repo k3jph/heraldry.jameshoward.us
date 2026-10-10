@@ -1,16 +1,19 @@
 import {witnesses,FIELDS,ROW_FIELDS,ROW_STATUSES,MAX_ROWS,MAX_FILE_BYTES,blankDraft,createDeskSession,exportDraft,importDraft,draftReport} from './transcription.js';
+import {browserDraftStorage} from './draft-storage.js';
+import {mountDraftRecovery} from './draft-recovery.js';
+import {draftPreview} from './draft-preview.js';
 
 export function mountDesk(document,window){
   const find=id=>document.getElementById(id);
   const choice=find('desk-witness'),form=find('desk-form'),rows=find('apparatus-rows'),status=find('desk-status');
-  const session=createDeskSession({getItem:key=>window.localStorage.getItem(key),setItem:(key,value)=>window.localStorage.setItem(key,value)});
+  const session=createDeskSession(browserDraftStorage(window));
   let id=witnesses.some(w=>w.id===new URLSearchParams(window.location.search).get('witness'))?new URLSearchParams(window.location.search).get('witness'):witnesses[0].id;
   let apparatus=[],pending=null,importSequence=0;
   const say=text=>{status.textContent=text;};
   const read=()=>({fields:Object.fromEntries(FIELDS.map(f=>[f.id,find('draft-'+f.id).value])),apparatus});
   const save=()=>{
-    try{session.save(id,read());}catch(error){say(error.message+' Your entered text is still on this page.');return false;}
-    say(session.storageWorks?'Draft saved in this browser for this witness. Export JSON to keep a portable copy.':'Browser storage is unavailable. Your draft stays in this open page; export before closing it.');
+    try{session.save(id,read());}catch(error){recovery.refresh();say(error.message+' Your entered text is still on this page.');return false;}
+    say(session.storageWorks?'Draft saved in this browser for this witness. Export JSON to keep a portable copy.':session.unavailable);
     return true;
   };
   const download=(name,content,type)=>{
@@ -42,7 +45,9 @@ export function mountDesk(document,window){
     const url=new URL(window.location.href);url.search='';url.searchParams.set('witness',id);window.history.replaceState(null,'',url);
     fill(session.load(id));
     say(session.storageWorks?'This witness’s draft is ready. Notes stay in this browser until you export or copy them.':'Saved drafts could not be read. You can still write and export; keep a copy before closing.');
+    recovery.refresh();
   };
+  const recovery=mountDraftRecovery({document,window,status,session,identity:()=>id,read,fill,exportRaw:(witnessId,draft)=>JSON.stringify(exportDraft(witnessId,draft),null,2)+'\n',previewDraft:draftPreview,download});
   const dismissImport=()=>{pending=null;importSequence++;find('import-review').hidden=true;find('import-file').value='';};
   choice.addEventListener('change',()=>{if(!save()){choice.value=id;return;}id=choice.value;dismissImport();render();});
   form.addEventListener('submit',event=>event.preventDefault());
@@ -69,7 +74,9 @@ export function mountDesk(document,window){
   find('cancel-import').addEventListener('click',()=>{dismissImport();say('Import cancelled. Your draft is unchanged.');});
   find('backup-import').addEventListener('click',()=>{if(!pending)return;const draft=pending.witnessId===id?read():session.load(pending.witnessId);jsonDownload(pending.witnessId,draft,'-before-import');say('Existing draft for the import’s witness exported.');});
   find('load-import').addEventListener('click',()=>{
-    if(!pending||!save())return;const incoming=pending;id=incoming.witnessId;session.save(id,incoming.draft);dismissImport();render();say(session.storageWorks?'Imported working draft loaded and saved in this browser.':'Imported draft loaded for this session. Browser storage is unavailable; export before closing.');
+    if(!pending||!save())return;const incoming=pending;
+    try{session.save(incoming.witnessId,incoming.draft);}catch(error){say('Import paused: '+error.message);return;}
+    id=incoming.witnessId;dismissImport();render();say(session.storageWorks?'Imported working draft loaded and saved in this browser.':'Imported draft loaded for this session. Browser storage is unavailable; export before closing.');
   });
   document.querySelectorAll('[data-zoom]').forEach(control=>control.addEventListener('input',()=>{
     const card=control.closest('[data-witness]'),image=card.querySelector('[data-facsimile]');image.style.width=control.value+'%';card.querySelector('[data-zoom-value]').textContent=control.value+'%';

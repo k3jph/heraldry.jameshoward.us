@@ -80,4 +80,6 @@ Hungarian charter descriptions often have an underlying Latin witness, and a mod
 3. [National Archives, Arany armorial charter and proceedings](https://mnl.gov.hu/mnl/ol/hirek/zart_sisakon_s_pajzson_kezbe_kivont_kardu/nagyfalusi_arany_szalontai_hajdu) — original **R 64, item 1, no. 325** and historical lawsuit.
 4. [National Archives, the 1453 Hunyadi grant's royal legal context](https://mnl.gov.hu/bal_menusor/hasznalat/nap_tippje_/_dokumentuma/v_laszlo_kiraly_hunyadi_janost_orokos_besztercei_groffa_teszi_es_cimeret_kiboviti.html).
 
-> **Editorial status:** Original English source-led synthesis of two genuine charter records, neither a complete critical edition nor a specialist-reviewed translation. The modern archival essays are interpretations about original objects; the original Latin charter texts remain distinct witnesses. Image reproduction rights have not been cleared for the site.
+<aside class="editorial-notice" aria-label="Editorial note">
+<p><strong>Editorial status:</strong> Original English source-led synthesis of two genuine charter records, neither a complete critical edition nor a specialist-reviewed translation. The modern archival essays are interpretations about original objects; the original Latin charter texts remain distinct witnesses. Image reproduction rights have not been cleared for the site.</p>
+</aside>

@@ -34,6 +34,7 @@ export function parseBlazon(value) {
       d.ordinary=ORDINARY_NAMES[match[2]];
       d.ordinaryTincture=match[3];
       remaining=(match[4]||'').trim();
+      if(match[1]==='on a '&&!remaining)return {ok:false,error:'After “on a”, describe the supported charge placed on the ordinary, such as three mullets Gules.'};
       if(match[1]==='a '&&remaining)return {ok:false,error:'For charges placed on an ordinary, use “on a fess Or three mullets Gules,” for example.'};
     }
   }

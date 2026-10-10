@@ -72,4 +72,6 @@ Next, locate the [1995 act's section 6](https://www.finlex.fi/fi/lainsaadanto/sa
 1. [Finlex, *Kuntalaki* 410/2015, § 5](https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2015/410).
 2. [Finlex, earlier *Kuntalaki* 365/1995, § 6](https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/1995/365).
 
-> **Status:** This is a legal and source-critical introduction, not yet a complete history of Finnish heraldry. A developed course must also cover personal and noble heraldry, material witnesses and comparative Nordic scholarship from original Finnish and Swedish sources.
+<aside class="editorial-notice" aria-label="Editorial note">
+<p><strong>Status:</strong> This is a legal and source-critical introduction, not yet a complete history of Finnish heraldry. A developed course must also cover personal and noble heraldry, material witnesses and comparative Nordic scholarship from original Finnish and Swedish sources.</p>
+</aside>

@@ -56,15 +56,22 @@ const examples=[
     const shield=document.querySelector<HTMLElement>('#decoder-shield');
     const canonical=document.querySelector<HTMLElement>('#decoder-canonical');
     const edit=document.querySelector<HTMLAnchorElement>('#decoder-edit');
+    const copy=document.querySelector<HTMLButtonElement>('#decoder-copy');
     const decode=()=>{
       const result=parseBlazon(input?.value||'');
       if(!result.ok){
         if(status){status.className='status caution';status.textContent='⚑ A phrase I cannot yet interpret.';}
         if(feedback)feedback.textContent=result.error||'Unrecognized blazon.';
+        if(shield){shield.replaceChildren();const empty=document.createElement('p');empty.className='caption';empty.textContent='No shield generated for this wording.';shield.append(empty);}
+        if(canonical)canonical.textContent='No interpretation available.';
+        if(edit){edit.hidden=true;edit.removeAttribute('href');}
+        if(copy)copy.disabled=true;
         return;
       }
       if(status){status.className='status good';status.textContent='✦ A readable introductory blazon.';}
       if(feedback)feedback.textContent=result.note||'';
+      if(edit)edit.hidden=false;
+      if(copy)copy.disabled=false;
       if(shield)shield.innerHTML=armsSVG(result.design,'decoder-active');
       if(canonical)canonical.textContent=result.canonical||'';
       if(edit){const d=normalizeDesign(result.design);edit.href='/atelier/?'+new URLSearchParams(Object.entries(d).map(([k,v])=>[k,String(v)])).toString();}

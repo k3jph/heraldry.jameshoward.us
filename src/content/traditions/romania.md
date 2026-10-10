@@ -73,4 +73,6 @@ Now read the [2016 amendment](https://legislatie.just.ro/Public/DetaliiDocumentA
 1. [Romanian Parliament, *Legea nr. 102/1992 privind stema ţării şi sigiliul statului*](https://legislatie.just.ro/Public/DetaliiDocument/2381) — original legislation and consolidated forms.
 2. [Romanian Parliament, *Legea nr. 146/2016*](https://legislatie.just.ro/Public/DetaliiDocumentAfis/180207) — modifying act and transitional provisions.
 
-> **Research status:** Original English statutory synthesis with source links, not a legal opinion or complete history of Romanian armorial art. Specialist review and dated historic regional witnesses remain to be added.
+<aside class="editorial-notice" aria-label="Editorial note">
+<p><strong>Research status:</strong> Original English statutory synthesis with source links, not a legal opinion or complete history of Romanian armorial art. Specialist review and dated historic regional witnesses remain to be added.</p>
+</aside>

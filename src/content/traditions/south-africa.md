@@ -52,4 +52,6 @@ Open the [official national arms page](https://www.gov.za/about-sa/national-coat
 
 **Research frontier:** South African heraldry before and after apartheid, civic and institutional armory, the heritage and rights of original artworks, and a properly comparative history of heraldic systems across the African continent.
 
-> **Editorial status:** Original English synthesis supported by linked sources. Scope and interpretive assumptions are explicit. Specialist and, where relevant, community review remain to be completed.
+<aside class="editorial-notice" aria-label="Editorial note">
+<p><strong>Editorial status:</strong> Original English synthesis supported by linked sources. Scope and interpretive assumptions are explicit. Specialist and, where relevant, community review remain to be completed.</p>
+</aside>
