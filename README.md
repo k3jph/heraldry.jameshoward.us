@@ -12,6 +12,7 @@ Built with [Astro](https://astro.build/) and published using **GitHub Pages**.
 - **Blazon decoder:** Write a supported simple blazon to generate an illustration; the parser declines unsupported constructions rather than guessing.
 - **Tincture laboratory:** View heraldic colours, historical monochrome hatching, and a 49-cell contrast matrix.
 - **Teaching armorial:** 16 original examples, deliberately distinguished from authentic registered grants, each directly editable in the Atelier.
+- **Object studies:** 35 sourced studies of armour, glass, textiles, coins, manuscripts, seals, and chapel banners; three homepage features, combined collection filters, and an exportable comparison notebook. Image reuse evidence and author credits are documented in [Object Studies](docs/OBJECT_STUDIES.md).
 - **Practice:** A ten-round shield-reading challenge.
 - **Lexicon:** Search 399 heraldic, comparative and archival terms, with accent-insensitive queries, subject and source-linked filters, permanent links, and 166 documentary pointers for 103 terms; a browser-only recall deck at `/lexicon/study/`.
 - **Field guide and resources:** Annotated historical chronology, myths, comparison of jurisdictions, and links to the original heraldic authorities.

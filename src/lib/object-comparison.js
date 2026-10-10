@@ -28,7 +28,7 @@ export const createObjectSession=storage=>createDraftSession(storage,{key:pair=>
 
 export function exportObjectRecovery(pair,notes){
   return {format:'heraldry-object-notes',version:1,objectIds:pair.map(object=>object.id),exportedAt:new Date().toISOString(),
-    sources:pair.map(object=>({id:object.id,title:object.catalogueTitle,institution:object.museum,accession:object.accession,url:object.url,accessed:object.accessed,imageSource:object.imageSource,imageRights:object.imageRights,rightsUrl:object.rightsUrl})),
+    sources:pair.map(object=>({id:object.id,title:object.catalogueTitle,institution:object.museum,accession:object.accession,url:object.url,accessed:object.accessed,imageSource:object.imageSource,imageRights:object.imageRights,rightsUrl:object.rightsUrl,imageAttribution:object.imageAttribution||object.credit,imageRecordUrl:object.imageRecordUrl||object.url,identifierLabel:object.identifierLabel||'Accession'})),
     notes:validateObjectNotes(notes),report:comparisonReport(pair[0],pair[1],notes)};
 }
 
@@ -36,17 +36,21 @@ export function comparisonReport(left,right,notes){
   const source=object=>[
     '### '+object.catalogueTitle,
     '- Institution: '+object.museum,
-    '- Accession: '+object.accession,
+    '- '+(object.identifierLabel||'Accession')+': '+object.accession,
     '- Catalogue date: '+object.date,
     '- Catalogue culture: '+object.culture,
     ...(object.studyType?['- Study scope: '+object.studyType]:[]),
     ...(object.creator?['- Catalogue maker: '+object.creator]:[]),
     '- Medium: '+object.medium,
-    '- Collection record: '+object.url,
+    '- Source record: '+object.url,
     '- Record consulted: '+object.accessed,
     '- Photograph: '+object.imageSource,
     ...(object.imageNote?['- Photograph note: '+object.imageNote]:[]),
-    '- Image rights: '+object.imageRights+'; '+object.rightsUrl
+    '- Image credit: '+(object.imageAttribution||object.credit),
+    '- Image rights: '+object.imageRights+'; '+object.rightsUrl,
+    '- Web image: resized without cropping or recolouring.',
+    ...(object.imageRecordUrl?['- Photograph rights record: '+object.imageRecordUrl]:[]),
+    ...(object.imageRightsNote?['- Image reuse: '+object.imageRightsNote]:[])
   ].join('\n');
   const values=comparisonNotes(notes);
   return '# Comparative object research notes\n\n'

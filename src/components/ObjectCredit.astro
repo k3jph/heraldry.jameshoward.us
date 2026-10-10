@@ -1,0 +1,5 @@
+---
+const {object}=Astro.props;
+---
+<p class="caption object-credit">{object.imageAttribution||object.credit} · <a href={object.rightsUrl}>{object.imageRights}</a>. Resized without cropping or recolouring.</p>
+<style>.object-credit{font-size:.72rem;line-height:1.5}.object-credit a{text-decoration:underline}</style>
