@@ -55,7 +55,7 @@ Uncolored representations can communicate tinctures through conventions. **Hatch
 
 But first establish that the marks are intended as a code. Parallel lines may represent shading. Dots may be damage, engraving texture, or part of a charge. In a seal impression, surface marks are not automatically a tincture key. Do not import a later standardized convention into an earlier object without evidence that the convention applies.
 
-There are two separate tasks here. A transcription records the visible marks. An interpretation assigns them a heraldic value. For example: “vertical incised lines in the upper compartment” is an observation; “Azure” is an interpretation using a particular code. A good record retains both. If the interpretation is revised, the original observation remains available.
+There are two separate tasks here. A transcription records the visible marks. An interpretation assigns them a heraldic value. For example: “vertical incised lines in the upper compartment” is an observation; “Gules” is an interpretation using the conventional hatching code. A good record retains both. If the interpretation is revised, the original observation remains available.
 
 ## An actual witness: black wax and unknown tinctures
 

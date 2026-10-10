@@ -29,7 +29,7 @@ const initial=[objectStudies[0],objectStudies.find(object=>object.id==='cary-boo
     <div class="bench-notebook">
       <div class="rule-heading"><div><p class="eyebrow"><span class="star">✦</span> Make your evidence explicit</p><h2 class="section-title">The research notebook.</h2></div><p>Notes are saved in this browser for each ordered pair. Keep a copy by exporting them with the objects’ accession numbers and source links.</p></div>
       <p id="notes-status" class="caption" role="status" aria-live="polite">Choose your objects and begin with a question.</p>
-      <form id="comparison-notes">{NOTE_FIELDS.map(field=><label for={'note-'+field.id}><span>{field.label}</span><small>{field.prompt}</small><textarea id={'note-'+field.id} name={field.id} rows={field.id==='question'?2:4}></textarea></label>)}</form>
+      <form id="comparison-notes">{NOTE_FIELDS.map(field=><label for={'note-'+field.id}><span>{field.label}</span><small>{field.prompt}</small><textarea id={'note-'+field.id} name={field.id} maxlength="50000" rows={field.id==='question'?2:4}></textarea></label>)}</form>
       <div class="notebook-actions"><button class="btn btn-dark" id="export-notes" type="button">Export notes ↓</button><button class="btn btn-line" id="copy-notes" type="button">Copy notes</button><button class="btn btn-line" id="copy-comparison" type="button">Copy comparison link</button></div>
       <noscript><p>The initial comparison and research prompts are readable without JavaScript. Interactive object selection, saving, and export require JavaScript; you can keep notes in your own document.</p></noscript>
     </div>
@@ -37,7 +37,9 @@ const initial=[objectStudies[0],objectStudies.find(object=>object.id==='cary-boo
   </div></section>
   <script>
     import {objectStudies} from '../../lib/objects.js';
-    import {NOTE_FIELDS,selectObjectPair,comparisonNotes,comparisonStorageKey,comparisonReport} from '../../lib/object-comparison.js';
+    import {NOTE_FIELDS,selectObjectPair,comparisonNotes,comparisonReport,createObjectSession} from '../../lib/object-comparison.js';
+    import {browserDraftStorage} from '../../lib/draft-storage.js';
+    import {mountDraftRecovery} from '../../lib/draft-recovery.js';
     import {installImageFallback} from '../../lib/object-images.js';
     const leftSelect=document.querySelector<HTMLSelectElement>('#choose-left')!;
     const rightSelect=document.querySelector<HTMLSelectElement>('#choose-right')!;
@@ -47,23 +49,18 @@ const initial=[objectStudies[0],objectStudies.find(object=>object.id==='cary-boo
     let pair=selectObjectPair(objectStudies,params.get('left')||leftSelect.value,params.get('right')||rightSelect.value);
     const readNotes=()=>comparisonNotes(Object.fromEntries(new FormData(form)));
     const fillNotes=(notes:Record<string,string>)=>NOTE_FIELDS.forEach(field=>{const input=form.elements.namedItem(field.id) as HTMLTextAreaElement;input.value=notes[field.id]||'';});
-    const storageKey=()=>comparisonStorageKey(pair[0],pair[1]);
-    let storageWorks=true;
-    const sessionNotes=new Map<string,Record<string,string>>();
+    const session=createObjectSession(browserDraftStorage(window));
+    const download=(name:string,content:string,type:string)=>{const url=URL.createObjectURL(new Blob([content],{type}));const link=document.createElement('a');link.href=url;link.download=name;document.body.append(link);link.click();link.remove();setTimeout(()=>URL.revokeObjectURL(url),1500);};
+    const recovery=mountDraftRecovery({document,window,status,session,identity:()=>pair,read:readNotes,fill:fillNotes,exportRaw:(_pair:unknown,notes:Record<string,string>)=>JSON.stringify(notes,null,2),previewDraft:(p:typeof pair,notes:Record<string,string>)=>comparisonReport(p[0],p[1],notes),download});
     const save=()=>{
-      const notes=readNotes();sessionNotes.set(storageKey(),notes);
-      try{localStorage.setItem(storageKey(),JSON.stringify(notes));storageWorks=true;}catch{storageWorks=false;}
-      status.textContent=storageWorks?'Notes saved in this browser for this pair.':'Browser storage is unavailable. Export your notes before closing this page.';
+      try{session.save(pair,readNotes());}catch(error){recovery.refresh();status.textContent=(error as Error).message;return false;}
+      status.textContent=session.storageWorks?'Notes saved in this browser for this pair.':'Browser storage is unavailable. Export your notes before closing this page.';return true;
     };
-    const storedNotes=()=>{
-      let notes=sessionNotes.get(storageKey());
-      if(!notes)try{const stored=localStorage.getItem(storageKey());if(stored!==null)notes=comparisonNotes(JSON.parse(stored));}catch{storageWorks=false;}
-      return notes;
-    };
+    const storedNotes=()=>session.load(pair);
     const restore=()=>{
       const notes=storedNotes();
       fillNotes(notes||comparisonNotes({}));
-      status.textContent=storageWorks?'Notes for this pair are ready.':'Browser storage is unavailable. You can still write and export notes.';
+      status.textContent=session.storageWorks?'Notes for this pair are ready.':'Browser storage is unavailable. You can still write and export notes.';recovery.refresh();
     };
     const render=()=>{
       [leftSelect,rightSelect].forEach((select,i)=>{select.value=pair[i].id;Array.from(select.options).forEach(option=>{option.disabled=option.value===pair[1-i].id;});});
@@ -77,11 +74,11 @@ const initial=[objectStudies[0],objectStudies.find(object=>object.id==='cary-boo
       });
       const url=new URL(location.href);url.searchParams.set('left',pair[0].id);url.searchParams.set('right',pair[1].id);history.replaceState(null,'',url);
     };
-    [leftSelect,rightSelect].forEach(select=>select.addEventListener('change',()=>{save();pair=selectObjectPair(objectStudies,leftSelect.value,rightSelect.value);render();restore();}));
+    [leftSelect,rightSelect].forEach(select=>select.addEventListener('change',()=>{if(!save()){render();return;}pair=selectObjectPair(objectStudies,leftSelect.value,rightSelect.value);render();restore();}));
     form.addEventListener('input',save);
     form.addEventListener('submit',event=>event.preventDefault());
     document.querySelector('#swap-objects')?.addEventListener('click',()=>{
-      save();const notes=readNotes();pair=[pair[1],pair[0]];render();
+      if(!save())return;const notes=readNotes();pair=[pair[1],pair[0]];render();
       if(storedNotes())restore();else{fillNotes({...notes,left:notes.right,right:notes.left});save();}
     });
     document.querySelector('#export-notes')?.addEventListener('click',()=>{

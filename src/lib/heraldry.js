@@ -220,7 +220,8 @@ export function armsSVG(input={},identifier="heraldic-study",monochrome=false) {
   let ground='<path d="'+p+'" fill="'+col(d.field)+'"/>';
   if(d.division==="per-pale") ground+='<rect x="75" width="75" height="172" fill="'+col(d.secondary)+'"/>';
   if(d.division==="per-fess") ground+='<rect x="0" y="80" width="150" height="92" fill="'+col(d.secondary)+'"/>';
-  if(d.division==="per-bend") ground+='<polygon points="0,0 150,0 150,172" fill="'+col(d.secondary)+'"/>';
+  // Per bend names the chief tincture first; the secondary occupies the base.
+  if(d.division==="per-bend") ground+='<polygon points="0,0 0,172 150,172" fill="'+col(d.secondary)+'"/>';
   if(d.division==="quarterly") ground+='<rect x="75" y="0" width="75" height="86" fill="'+col(d.secondary)+'"/><rect x="0" y="86" width="75" height="86" fill="'+col(d.secondary)+'"/>';
   const t=col(d.ordinaryTincture);
   let ordinary="";

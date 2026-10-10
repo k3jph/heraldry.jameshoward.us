@@ -62,4 +62,6 @@ The historian's task is to reconstruct process rather than celebrate its complex
 
 The distinctions in these sources are precisely what an all-purpose assertion about European 'family crests' would miss.
 
-> **Editorial status:** Original English research synthesis based on the identified primary and institutional sources. Not a translation of an entire source, not a legal opinion, and not yet independently peer reviewed.
+<aside class="editorial-notice" aria-label="Editorial note">
+<p><strong>Editorial status:</strong> Original English research synthesis based on the identified primary and institutional sources. Not a translation of an entire source, not a legal opinion, and not yet independently peer reviewed.</p>
+</aside>

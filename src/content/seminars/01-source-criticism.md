@@ -76,4 +76,6 @@ An outstanding submission distinguishes visual identification from entitlement, 
 - [Związek Szlachty Polskiej, *Herbarze* bibliography](https://szlachta.org/baza-wiedzy-o-szlachcie/zrodla/herbarze/)
 
 
-> **Status:** Research-methods teaching note. Source citations are provided for independent verification. These exercises do not constitute a degree, professional certification or authoritative legal opinion.
+<aside class="editorial-notice" aria-label="Editorial note">
+<p><strong>Status:</strong> Research-methods teaching note. Source citations are provided for independent verification. These exercises do not constitute a degree, professional certification or authoritative legal opinion.</p>
+</aside>

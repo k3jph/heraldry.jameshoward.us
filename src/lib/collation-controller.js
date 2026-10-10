@@ -1,15 +1,17 @@
 import {witnesses,importDraft,createDeskSession,MAX_FILE_BYTES} from './transcription.js';
 import {installImageFallback} from './object-images.js';
+import {browserDraftStorage} from './draft-storage.js';
+import {mountDraftRecovery} from './draft-recovery.js';
 import {COMPARISON_FIELDS,READING_FIELDS,ALIGNMENT_FIELDS,CATEGORIES,REVIEW_STATES,MAX_ALIGNMENTS,selectWitnessPair,pairContext,blankComparison,validateComparison,createComparisonSession,reverseComparison,compareText,exportComparison,importComparison,comparisonReport} from './collation.js';
 
 export function mountComparison(document,window){
   const find=id=>document.getElementById(id),say=text=>{find('comparison-status').textContent=text;};
-  const storage={getItem:key=>window.localStorage.getItem(key),setItem:(key,value)=>window.localStorage.setItem(key,value)};
+  const storage=browserDraftStorage(window);
   const session=createComparisonSession(storage),params=new URLSearchParams(window.location.search);
   let pair=selectWitnessPair(params.get('left'),params.get('right')),draft=blankComparison(),pending=null,sequence=0;
   const download=(name,content,type)=>{const url=window.URL.createObjectURL(new window.Blob([content],{type})),link=document.createElement('a');link.href=url;link.download=name;document.body.append(link);link.click();link.remove();window.setTimeout(()=>window.URL.revokeObjectURL(url),1500);};
   const jsonDownload=(p,value,suffix='')=>download('heraldry-compare-'+p.map(w=>w.id).join('-')+suffix+'.json',JSON.stringify(exportComparison(p,value),null,2)+'\n','application/json;charset=utf-8');
-  const save=()=>{try{session.save(pair,draft);say(session.storageWorks?'Comparison saved in this browser for this ordered pair. Export a portable copy.':'Browser storage is unavailable. Keep this page open and export before closing.');return true;}catch(error){say(error.message+' Your entered text remains on this page.');return false;}};
+  const save=()=>{try{session.save(pair,draft);say(session.storageWorks?'Comparison saved in this browser for this ordered pair. Export a portable copy.':'Browser storage is unavailable. Keep this page open and export before closing.');return true;}catch(error){recovery.refresh();say(error.message+' Your entered text remains on this page.');return false;}};
   const stale=()=>{find('text-difference').replaceChildren();find('difference-status').textContent='Readings or layer changed. Run the text comparison again.';};
   const provenance=side=>{
     const reading=draft.readings[side];find('reading-meta-'+side).textContent='Origin: '+reading.origin+(reading.loadedAt?' · loaded '+reading.loadedAt:'')+' · '+(reading.edited?'edited':'no subsequent edit recorded')+' · '+reading.draft.apparatus.length+' original apparatus entries retained in exports.';
@@ -50,7 +52,8 @@ export function mountComparison(document,window){
     find('pair-context').textContent=pairContext(pair);
     const url=new URL(window.location.href);url.search='';url.hash='';url.searchParams.set('left',pair[0].id);url.searchParams.set('right',pair[1].id);window.history.replaceState(null,'',url);
   };
-  const restore=()=>{draft=session.load(pair)||blankComparison();fill();say(session.storageWorks?'This pair’s comparison is ready. Enter readings or load saved desk drafts.':'Saved comparisons could not be read. You can still work and export in this page.');};
+  const recovery=mountDraftRecovery({document,window,status:find('comparison-status'),session,identity:()=>pair,read:()=>draft,fill:value=>{draft=value;fill();},exportRaw:(p,value)=>JSON.stringify(exportComparison(p,value),null,2)+'\n',previewDraft:comparisonReport,download});
+  const restore=()=>{draft=session.load(pair)||blankComparison();fill();say(session.storageWorks?'This pair’s comparison is ready. Enter readings or load saved desk drafts.':'Saved comparisons could not be read. You can still work and export in this page.');recovery.refresh();};
   const dismiss=()=>{pending=null;sequence++;find('comparison-import-review').hidden=true;for(const id of ['comparison-file','reading-file-left','reading-file-right'])find(id).value='';};
   const stage=value=>{
     pending=value;find('comparison-import-review').hidden=false;
@@ -76,7 +79,7 @@ export function mountComparison(document,window){
   });
   COMPARISON_FIELDS.forEach(f=>find('comparison-'+f.id).addEventListener('input',()=>{draft.fields[f.id]=find('comparison-'+f.id).value;save();}));
   find('comparison-form').addEventListener('submit',event=>event.preventDefault());
-  find('swap-witnesses').addEventListener('click',()=>{if(!save())return;const reversed=reverseComparison(draft);pair=[pair[1],pair[0]];dismiss();renderSources();const saved=session.load(pair);draft=saved||reversed;fill();if(!saved)save();say(saved?'Restored the previously saved reverse-pair comparison.':'Readings and located entries swapped. Review directional wording in your argument.');});
+  find('swap-witnesses').addEventListener('click',()=>{if(!save())return;const reversed=reverseComparison(draft);pair=[pair[1],pair[0]];dismiss();renderSources();const saved=session.load(pair);draft=saved||reversed;fill();if(!saved)save();say(saved?'Restored the previously saved reverse-pair comparison.':'Readings and located entries swapped. Review directional wording in your argument.');recovery.refresh();});
   find('add-alignment').addEventListener('click',()=>{if(draft.alignments.length>=MAX_ALIGNMENTS)return;draft.alignments.push({leftLocus:'',rightLocus:'',leftReading:'',rightReading:'',category:'unclassified',status:'unresolved',note:''});renderAlignments();save();find('alignment-'+(draft.alignments.length-1)+'-leftLocus').focus();});
   find('comparison-layer').addEventListener('change',()=>{draft.layer=find('comparison-layer').value;stale();save();});
   find('run-comparison').addEventListener('click',()=>{

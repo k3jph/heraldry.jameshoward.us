@@ -61,4 +61,6 @@ Now compare a discussion of the 1413 adoption in [Jerzy Grygiel's study](https:/
 
 Lithuanian-language documentary scholarship, Ruthenian and Grand Ducal variants, and the full archival record are next priorities—not side-notes beneath a Polish genealogy.
 
-> **Editorial status:** Original English synthesis supported by linked sources. Scope and interpretive assumptions are explicit. Specialist and, where relevant, community review remain to be completed.
+<aside class="editorial-notice" aria-label="Editorial note">
+<p><strong>Editorial status:</strong> Original English synthesis supported by linked sources. Scope and interpretive assumptions are explicit. Specialist and, where relevant, community review remain to be completed.</p>
+</aside>

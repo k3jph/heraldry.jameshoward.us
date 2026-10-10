@@ -60,4 +60,6 @@ Begin with the [National Diet Library research guide](https://ndlsearch.ndl.go.j
 
 **Research frontier:** access and transcribe actual Japanese historical witnesses, evaluate literature written in Japanese, and consult specialists rather than projecting European concepts onto local art and customs.
 
-> **Editorial status:** Original English synthesis supported by linked sources. Scope and interpretive assumptions are explicit. Specialist and, where relevant, community review remain to be completed.
+<aside class="editorial-notice" aria-label="Editorial note">
+<p><strong>Editorial status:</strong> Original English synthesis supported by linked sources. Scope and interpretive assumptions are explicit. Specialist and, where relevant, community review remain to be completed.</p>
+</aside>

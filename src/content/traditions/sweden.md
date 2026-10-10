@@ -62,4 +62,6 @@ Translate the blazons into idiomatic English while retaining their original Swed
 
 **Research frontier:** family and noble arms, historical manuscript witnesses, Nordic comparisons, and contested historical reuse demand separate units. A state-symbol portal is the beginning of Swedish heraldry, not its entirety.
 
-> **Editorial status:** Original English research synthesis, grounded in the linked institutional sources. Not a full translation of those sources, not legal advice, and awaiting specialist review.
+<aside class="editorial-notice" aria-label="Editorial note">
+<p><strong>Editorial status:</strong> Original English research synthesis, grounded in the linked institutional sources. Not a full translation of those sources, not legal advice, and awaiting specialist review.</p>
+</aside>

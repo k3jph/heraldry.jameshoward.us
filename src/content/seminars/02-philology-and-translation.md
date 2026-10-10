@@ -96,4 +96,6 @@ Next, use the [National Diet Library's Japanese guide](https://ndlsearch.ndl.go.
 - [National Diet Library, Japanese heraldic research guide](https://ndlsearch.ndl.go.jp/rnavi/humanities/post_1127)
 
 
-> **Status:** Research-methods teaching note. Source citations are provided for independent verification. These exercises do not constitute a degree, professional certification or authoritative legal opinion.
+<aside class="editorial-notice" aria-label="Editorial note">
+<p><strong>Status:</strong> Research-methods teaching note. Source citations are provided for independent verification. These exercises do not constitute a degree, professional certification or authoritative legal opinion.</p>
+</aside>

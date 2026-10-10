@@ -59,4 +59,6 @@ Now suppose an unrelated applicant seeks a newly designed shield with similar ch
 
 This is a concrete example of why **there is no universal legal status of armory even within continental Europe**.
 
-> **Editorial status:** Original English research synthesis based on the identified primary and institutional sources. Not a translation of an entire source, not a legal opinion, and not yet independently peer reviewed.
+<aside class="editorial-notice" aria-label="Editorial note">
+<p><strong>Editorial status:</strong> Original English research synthesis based on the identified primary and institutional sources. Not a translation of an entire source, not a legal opinion, and not yet independently peer reviewed.</p>
+</aside>

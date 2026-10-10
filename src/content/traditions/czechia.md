@@ -60,4 +60,6 @@ Use the [REKOS searchable registry](https://rekos.psp.cz/vyhledani-symbolu) to l
 
 **Research frontier:** the Bohemian Crown lands, Moravian and Silesian armorial traditions, noble and urban heraldry before 1918, the interwar Czechoslovak state and differences within contemporary Slovakia.
 
-> **Editorial status:** Original English synthesis supported by linked sources. Scope and interpretive assumptions are explicit. Specialist and, where relevant, community review remain to be completed.
+<aside class="editorial-notice" aria-label="Editorial note">
+<p><strong>Editorial status:</strong> Original English synthesis supported by linked sources. Scope and interpretive assumptions are explicit. Specialist and, where relevant, community review remain to be completed.</p>
+</aside>

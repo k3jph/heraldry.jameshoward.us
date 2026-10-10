@@ -73,4 +73,6 @@ For a comparative assignment, use the French motto leaf from Getty alongside thi
 
 The next phase is a critical inventory of the book's folios, with their complete original captions and verified image rights. The folio-level foundation is more valuable than a thousand illustrations without provenance.
 
-> **Editorial status:** Original English research synthesis, grounded in the linked institutional sources. Not a full translation of those sources, not legal advice, and awaiting specialist review.
+<aside class="editorial-notice" aria-label="Editorial note">
+<p><strong>Editorial status:</strong> Original English research synthesis, grounded in the linked institutional sources. Not a full translation of those sources, not legal advice, and awaiting specialist review.</p>
+</aside>

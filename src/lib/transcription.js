@@ -1,4 +1,5 @@
 import witnesses from '../data/manuscripts.json' with {type:'json'};
+import {createDraftSession} from './draft-storage.js';
 
 export {witnesses};
 export const DESK_FORMAT='heraldry-transcription';
@@ -59,18 +60,5 @@ export function draftReport(id,draft){
   return lines.join('\n')+'\n';
 }
 export function createDeskSession(storage){
-  const memory=new Map();let storageWorks=true;
-  return {
-    get storageWorks(){return storageWorks;},
-    save(id,draft){
-      const clean=validateDraft(draft);memory.set(id,clean);
-      try{storage.setItem(storageKey(id),JSON.stringify(clean));storageWorks=true;}catch{storageWorks=false;}
-      return clean;
-    },
-    load(id){
-      if(memory.has(id))return structuredClone(memory.get(id));
-      try{const raw=storage.getItem(storageKey(id));if(raw!==null){const clean=validateDraft(JSON.parse(raw));memory.set(id,clean);return structuredClone(clean);}}catch{storageWorks=false;}
-      return blankDraft();
-    }
-  };
+  return createDraftSession(storage,{key:storageKey,validate:validateDraft,blank:blankDraft});
 }

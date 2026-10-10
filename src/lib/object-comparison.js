@@ -1,3 +1,4 @@
+import {createDraftSession} from './draft-storage.js';
 export const NOTE_FIELDS=[
   {id:'question',label:'Research question',prompt:'What relationship or difference are you investigating?'},
   {id:'left',label:'Observations: left object',prompt:'What can you see? Describe features before identifying a bearer.'},
@@ -18,6 +19,12 @@ export function comparisonNotes(value){
 }
 
 export const comparisonStorageKey=(left,right)=>'heraldry-object-notes-v1:'+left.id+':'+right.id;
+
+export function validateObjectNotes(value){
+  if(!value||typeof value!=='object'||Array.isArray(value)||NOTE_FIELDS.some(field=>typeof value[field.id]!=='string'||value[field.id].length>50000))throw new Error('The object notebook has invalid or oversized text fields.');
+  return comparisonNotes(value);
+}
+export const createObjectSession=storage=>createDraftSession(storage,{key:pair=>comparisonStorageKey(...pair),validate:validateObjectNotes,blank:()=>null});
 
 export function comparisonReport(left,right,notes){
   const source=object=>[
