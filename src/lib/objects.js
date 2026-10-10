@@ -3,10 +3,10 @@ import objects from '../data/objects.json' with {type:'json'};
 // Cite the modern collection record; the object's date is not its publication year.
 export const objectCitation = object => ({
   id: 'object-'+object.id,
-  titleOriginal: object.catalogueTitle+' ('+(object.identifierLabel||'accession')+' '+object.accession+')',
-  holding: object.museum,
+  titleOriginal: (object.recordTitle||object.catalogueTitle)+' ('+(object.recordTitle?'study photograph identifier':object.identifierLabel||'accession')+' '+object.accession+')',
+  holding: object.recordHolding||object.museum,
   language: 'en',
-  kind: object.identifierLabel?'institutional or photograph record':'museum collection record',
+  kind: object.recordKind||(object.identifierLabel?'photograph record':'museum collection record'),
   area: object.culture,
   url: object.url,
   accessed: object.accessed,

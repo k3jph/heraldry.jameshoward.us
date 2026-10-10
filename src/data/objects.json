@@ -2031,7 +2031,10 @@
     "accessed": "2026-10-10",
     "alt": "Large coloured banners occupy the upper left, with helms and ornaments over the stalls. Shields also appear within the patterned vault, while lamps, seats, and a patterned floor organize the occupied room.",
     "width": 1122,
-    "height": 1600
+    "height": 1600,
+    "recordTitle": "Heraldry in St George’s Chapel",
+    "recordHolding": "College of St George",
+    "recordKind": "institutional account"
   },
   {
     "id": "st-michael-george-banners",
@@ -2103,6 +2106,9 @@
     "accessed": "2026-10-10",
     "alt": "Coloured rectangular banners hang over the stalls on the right of a bright chapel. Carved wooden seats and wall panels face one another across an aisle leading to an altar.",
     "width": 1600,
-    "height": 1224
+    "height": 1224,
+    "recordTitle": "The Most Distinguished Order of St Michael and St George",
+    "recordHolding": "Central Chancery of the Orders of Knighthood",
+    "recordKind": "institutional account"
   }
 ]
