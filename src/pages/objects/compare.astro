@@ -37,9 +37,10 @@ const initial=[objectStudies[0],objectStudies.find(object=>object.id==='cary-boo
   </div></section>
   <script>
     import {objectStudies} from '../../lib/objects.js';
-    import {NOTE_FIELDS,selectObjectPair,comparisonNotes,comparisonReport,createObjectSession} from '../../lib/object-comparison.js';
+    import {NOTE_FIELDS,selectObjectPair,comparisonNotes,comparisonReport,createObjectSession,exportObjectRecovery} from '../../lib/object-comparison.js';
     import {browserDraftStorage} from '../../lib/draft-storage.js';
     import {mountDraftRecovery} from '../../lib/draft-recovery.js';
+    import {draftPreview} from '../../lib/draft-preview.js';
     import {installImageFallback} from '../../lib/object-images.js';
     const leftSelect=document.querySelector<HTMLSelectElement>('#choose-left')!;
     const rightSelect=document.querySelector<HTMLSelectElement>('#choose-right')!;
@@ -51,10 +52,10 @@ const initial=[objectStudies[0],objectStudies.find(object=>object.id==='cary-boo
     const fillNotes=(notes:Record<string,string>)=>NOTE_FIELDS.forEach(field=>{const input=form.elements.namedItem(field.id) as HTMLTextAreaElement;input.value=notes[field.id]||'';});
     const session=createObjectSession(browserDraftStorage(window));
     const download=(name:string,content:string,type:string)=>{const url=URL.createObjectURL(new Blob([content],{type}));const link=document.createElement('a');link.href=url;link.download=name;document.body.append(link);link.click();link.remove();setTimeout(()=>URL.revokeObjectURL(url),1500);};
-    const recovery=mountDraftRecovery({document,window,status,session,identity:()=>pair,read:readNotes,fill:fillNotes,exportRaw:(_pair:unknown,notes:Record<string,string>)=>JSON.stringify(notes,null,2),previewDraft:(p:typeof pair,notes:Record<string,string>)=>comparisonReport(p[0],p[1],notes),download});
+    const recovery=mountDraftRecovery({document,window,status,session,identity:()=>pair,read:readNotes,fill:fillNotes,exportRaw:(p:typeof pair,notes:Record<string,string>)=>JSON.stringify(exportObjectRecovery(p,notes),null,2),previewDraft:draftPreview,download});
     const save=()=>{
       try{session.save(pair,readNotes());}catch(error){recovery.refresh();status.textContent=(error as Error).message;return false;}
-      status.textContent=session.storageWorks?'Notes saved in this browser for this pair.':'Browser storage is unavailable. Export your notes before closing this page.';return true;
+      status.textContent=session.storageWorks?'Notes saved in this browser for this pair.':session.unavailable;return true;
     };
     const storedNotes=()=>session.load(pair);
     const restore=()=>{

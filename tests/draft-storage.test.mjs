@@ -6,7 +6,7 @@ import {createObjectSession,comparisonNotes,comparisonStorageKey} from '../src/l
 
 const memoryStorage=()=>{
   const values=new Map();
-  return {values,getItem:key=>values.get(key)??null,setItem:(key,value)=>values.set(key,value),get length(){return values.size;},key:index=>[...values.keys()][index]??null};
+  return {values,getItem:key=>values.get(key)??null,setItem:(key,value)=>values.set(key,value),removeItem:key=>values.delete(key),get length(){return values.size;},key:index=>[...values.keys()][index]??null};
 };
 const cases=[
   {name:'single witness',create:createDeskSession,id:witnesses[0].id,key:storageKey(witnesses[0].id),blank:blankDraft,edit:(d,text)=>{d.fields.diplomatic=text;},text:d=>d.fields.diplomatic},
@@ -23,6 +23,36 @@ test('a damaged recovery entry does not hide subsequent readable copies',()=>{
   assert.ok(copies.some(copy=>copy.draft?.fields.notes==='Readable recovery'));
 });
 for(const c of cases){
+  test(c.name+': recovery deletion frees quota without removing the shared draft or current page safety copy',()=>{
+    const storage=memoryStorage(),set=storage.setItem;let capacity=Infinity;
+    storage.setItem=(key,raw)=>{if(raw.length+[...storage.values].reduce((n,[k,v])=>n+(k===key?0:v.length),0)>capacity)throw Error('Quota');set(key,raw);};
+    for(let i=0;i<5;i++){const old=c.create(storage),draft=c.blank();c.edit(draft,String(i).repeat(30000));old.save(c.id,draft);}
+    const current=c.create(storage),draft=current.load(c.id);c.edit(draft,'Latest work');
+    capacity=[...storage.values.values()].reduce((n,raw)=>n+raw.length,0);
+    current.save(c.id,draft);assert.equal(current.storageWorks,false);
+    const originalShared=storage.getItem(c.key),copy=current.recoveries(c.id).find(copy=>copy.deletable);
+    const downloaded=copy.raw;current.deleteRecovery(c.id,copy);
+    assert.equal(storage.getItem(copy.key),null);assert.equal(storage.getItem(c.key),originalShared);
+    assert.ok(c.text(JSON.parse(downloaded)).length);
+    current.save(c.id,draft);assert.equal(current.storageWorks,true);
+    const protectedCopies=current.recoveries(c.id).filter(copy=>!copy.deletable);
+    assert.equal(protectedCopies.length,2);
+    for(const saved of protectedCopies)assert.throws(()=>current.deleteRecovery(c.id,saved),/cannot be deleted/);
+    assert.equal(c.text(c.create(storage).load(c.id)),'Latest work');
+  });
+  test(c.name+': deletion refuses a changed preview, and recovery failures during conflict explain storage rather than expose raw errors',()=>{
+    const storage=memoryStorage(),a=c.create(storage),b=c.create(storage);a.load(c.id);b.load(c.id);
+    const first=c.blank(),second=c.blank();c.edit(first,'A');c.edit(second,'B');a.save(c.id,first);
+    assert.throws(()=>b.save(c.id,second),/Another saved version/);
+    const copy=b.recoveries(c.id).find(copy=>copy.deletable);
+    storage.setItem(copy.key,JSON.stringify({raw:'changed',savedAt:'later'}));
+    assert.throws(()=>b.deleteRecovery(c.id,copy),/changed after its preview/);
+    assert.match(storage.getItem(copy.key),/changed/);
+    storage.setItem=()=>{throw Object.assign(new Error('Technical raw browser exception'),{name:'QuotaExceededError'});};
+    assert.throws(()=>b.replace(c.id,second,b.inspect(c.id).observed),/Browser storage is unavailable.*Export/);
+    assert.equal(b.inspect(c.id).working!==null,true);assert.equal(c.text(b.load(c.id)),'B');
+    assert.equal(c.text(JSON.parse(storage.getItem(c.key))),'A');
+  });
   test(c.name+': stale tabs pause while both drafts survive page closure and explicit recovery',()=>{
     const storage=memoryStorage(),a=c.create(storage),b=c.create(storage);a.load(c.id);b.load(c.id);
     const first=c.blank(),second=c.blank();c.edit(first,'A’s research');c.edit(second,'B’s alternatives');
@@ -71,7 +101,7 @@ for(const c of cases){
     const changed=c.blank();c.edit(changed,'Still on page');storage.setItem=()=>{throw new Error('Quota exceeded');};
     session.save(c.id,changed);assert.equal(session.storageWorks,false);
     assert.deepEqual(JSON.parse(storage.getItem(c.key)),first);assert.deepEqual(session.load(c.id),changed);
-    session.replace(c.id,first,storage.getItem(c.key));assert.equal(session.storageWorks,false);
+    assert.throws(()=>session.replace(c.id,first,storage.getItem(c.key)),/Browser storage is unavailable/);assert.equal(session.storageWorks,false);
     assert.deepEqual(session.load(c.id),changed);
   });
 }

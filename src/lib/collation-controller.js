@@ -2,6 +2,7 @@ import {witnesses,importDraft,createDeskSession,MAX_FILE_BYTES} from './transcri
 import {installImageFallback} from './object-images.js';
 import {browserDraftStorage} from './draft-storage.js';
 import {mountDraftRecovery} from './draft-recovery.js';
+import {draftPreview} from './draft-preview.js';
 import {COMPARISON_FIELDS,READING_FIELDS,ALIGNMENT_FIELDS,CATEGORIES,REVIEW_STATES,MAX_ALIGNMENTS,selectWitnessPair,pairContext,blankComparison,validateComparison,createComparisonSession,reverseComparison,compareText,exportComparison,importComparison,comparisonReport} from './collation.js';
 
 export function mountComparison(document,window){
@@ -11,7 +12,7 @@ export function mountComparison(document,window){
   let pair=selectWitnessPair(params.get('left'),params.get('right')),draft=blankComparison(),pending=null,sequence=0;
   const download=(name,content,type)=>{const url=window.URL.createObjectURL(new window.Blob([content],{type})),link=document.createElement('a');link.href=url;link.download=name;document.body.append(link);link.click();link.remove();window.setTimeout(()=>window.URL.revokeObjectURL(url),1500);};
   const jsonDownload=(p,value,suffix='')=>download('heraldry-compare-'+p.map(w=>w.id).join('-')+suffix+'.json',JSON.stringify(exportComparison(p,value),null,2)+'\n','application/json;charset=utf-8');
-  const save=()=>{try{session.save(pair,draft);say(session.storageWorks?'Comparison saved in this browser for this ordered pair. Export a portable copy.':'Browser storage is unavailable. Keep this page open and export before closing.');return true;}catch(error){recovery.refresh();say(error.message+' Your entered text remains on this page.');return false;}};
+  const save=()=>{try{session.save(pair,draft);say(session.storageWorks?'Comparison saved in this browser for this ordered pair. Export a portable copy.':session.unavailable);return true;}catch(error){recovery.refresh();say(error.message+' Your entered text remains on this page.');return false;}};
   const stale=()=>{find('text-difference').replaceChildren();find('difference-status').textContent='Readings or layer changed. Run the text comparison again.';};
   const provenance=side=>{
     const reading=draft.readings[side];find('reading-meta-'+side).textContent='Origin: '+reading.origin+(reading.loadedAt?' · loaded '+reading.loadedAt:'')+' · '+(reading.edited?'edited':'no subsequent edit recorded')+' · '+reading.draft.apparatus.length+' original apparatus entries retained in exports.';
@@ -52,7 +53,7 @@ export function mountComparison(document,window){
     find('pair-context').textContent=pairContext(pair);
     const url=new URL(window.location.href);url.search='';url.hash='';url.searchParams.set('left',pair[0].id);url.searchParams.set('right',pair[1].id);window.history.replaceState(null,'',url);
   };
-  const recovery=mountDraftRecovery({document,window,status:find('comparison-status'),session,identity:()=>pair,read:()=>draft,fill:value=>{draft=value;fill();},exportRaw:(p,value)=>JSON.stringify(exportComparison(p,value),null,2)+'\n',previewDraft:comparisonReport,download});
+  const recovery=mountDraftRecovery({document,window,status:find('comparison-status'),session,identity:()=>pair,read:()=>draft,fill:value=>{draft=value;fill();},exportRaw:(p,value)=>JSON.stringify(exportComparison(p,value),null,2)+'\n',previewDraft:draftPreview,download});
   const restore=()=>{draft=session.load(pair)||blankComparison();fill();say(session.storageWorks?'This pair’s comparison is ready. Enter readings or load saved desk drafts.':'Saved comparisons could not be read. You can still work and export in this page.');recovery.refresh();};
   const dismiss=()=>{pending=null;sequence++;find('comparison-import-review').hidden=true;for(const id of ['comparison-file','reading-file-left','reading-file-right'])find(id).value='';};
   const stage=value=>{

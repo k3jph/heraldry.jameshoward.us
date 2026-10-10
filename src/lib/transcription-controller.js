@@ -1,6 +1,7 @@
 import {witnesses,FIELDS,ROW_FIELDS,ROW_STATUSES,MAX_ROWS,MAX_FILE_BYTES,blankDraft,createDeskSession,exportDraft,importDraft,draftReport} from './transcription.js';
 import {browserDraftStorage} from './draft-storage.js';
 import {mountDraftRecovery} from './draft-recovery.js';
+import {draftPreview} from './draft-preview.js';
 
 export function mountDesk(document,window){
   const find=id=>document.getElementById(id);
@@ -12,7 +13,7 @@ export function mountDesk(document,window){
   const read=()=>({fields:Object.fromEntries(FIELDS.map(f=>[f.id,find('draft-'+f.id).value])),apparatus});
   const save=()=>{
     try{session.save(id,read());}catch(error){recovery.refresh();say(error.message+' Your entered text is still on this page.');return false;}
-    say(session.storageWorks?'Draft saved in this browser for this witness. Export JSON to keep a portable copy.':'Browser storage is unavailable. Your draft stays in this open page; export before closing it.');
+    say(session.storageWorks?'Draft saved in this browser for this witness. Export JSON to keep a portable copy.':session.unavailable);
     return true;
   };
   const download=(name,content,type)=>{
@@ -46,7 +47,7 @@ export function mountDesk(document,window){
     say(session.storageWorks?'This witness’s draft is ready. Notes stay in this browser until you export or copy them.':'Saved drafts could not be read. You can still write and export; keep a copy before closing.');
     recovery.refresh();
   };
-  const recovery=mountDraftRecovery({document,window,status,session,identity:()=>id,read,fill,exportRaw:(witnessId,draft)=>JSON.stringify(exportDraft(witnessId,draft),null,2)+'\n',previewDraft:draftReport,download});
+  const recovery=mountDraftRecovery({document,window,status,session,identity:()=>id,read,fill,exportRaw:(witnessId,draft)=>JSON.stringify(exportDraft(witnessId,draft),null,2)+'\n',previewDraft:draftPreview,download});
   const dismissImport=()=>{pending=null;importSequence++;find('import-review').hidden=true;find('import-file').value='';};
   choice.addEventListener('change',()=>{if(!save()){choice.value=id;return;}id=choice.value;dismissImport();render();});
   form.addEventListener('submit',event=>event.preventDefault());

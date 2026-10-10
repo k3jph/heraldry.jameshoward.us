@@ -26,6 +26,12 @@ export function validateObjectNotes(value){
 }
 export const createObjectSession=storage=>createDraftSession(storage,{key:pair=>comparisonStorageKey(...pair),validate:validateObjectNotes,blank:()=>null});
 
+export function exportObjectRecovery(pair,notes){
+  return {format:'heraldry-object-notes',version:1,objectIds:pair.map(object=>object.id),exportedAt:new Date().toISOString(),
+    sources:pair.map(object=>({id:object.id,title:object.catalogueTitle,institution:object.museum,accession:object.accession,url:object.url,accessed:object.accessed,imageSource:object.imageSource,imageRights:object.imageRights,rightsUrl:object.rightsUrl})),
+    notes:validateObjectNotes(notes),report:comparisonReport(pair[0],pair[1],notes)};
+}
+
 export function comparisonReport(left,right,notes){
   const source=object=>[
     '### '+object.catalogueTitle,

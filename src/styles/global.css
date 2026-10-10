@@ -35,6 +35,7 @@ button:focus-visible, a:focus-visible, input:focus-visible, textarea:focus-visib
 .wrap { width: min(100% - 64px, 1240px); margin-inline: auto; }
 .skip-link { position: fixed; top: -90px; left: 1rem; z-index: 100; background: var(--white); color: var(--ink); padding: .6rem 1rem; font-weight: 700; }
 .skip-link:focus { top: .75rem; }
+.skip-link:focus-visible { outline-color: var(--gold-light); }
 .site-header { position: sticky; top: 0; z-index: 50; background: var(--midnight); color: var(--paper); border-bottom: 1px solid rgba(231,201,147,.3); transition: box-shadow .25s; }
 .site-header.scrolled { box-shadow: 0 8px 24px rgba(38,14,25,.25); }
 .header-inner { min-height: 86px; display: flex; align-items: center; justify-content: space-between; gap: 32px; }
@@ -61,6 +62,7 @@ button:focus-visible, a:focus-visible, input:focus-visible, textarea:focus-visib
 .mobile-nav nav a:hover, .mobile-nav nav a[aria-current=page] { background: rgba(231,201,147,.1); color: var(--gold-light); }
 .eyebrow { display: flex; align-items: center; gap: .65rem; margin: 0 0 1.2rem; text-transform: uppercase; letter-spacing: .18em; font-size: .67rem; font-weight: 750; color: var(--red); line-height: 1.4; overflow-wrap: anywhere; }
 .eyebrow .star { color: var(--gold); font-size: 1rem; }
+.field-panel .eyebrow:not(.eyebrow-on-dark) .star { color: #855c26; }
 .eyebrow-on-dark { color: var(--gold-light); }
 .display-serif { font: 500 clamp(3.7rem, 7.4vw, 8.4rem)/.91 var(--serif); letter-spacing: -.055em; margin: 0; }
 .section-title { font: 500 clamp(2.55rem,4.5vw,4.6rem)/1 var(--serif); letter-spacing: -.04em; margin: 0; }
@@ -270,8 +272,8 @@ button:focus-visible, a:focus-visible, input:focus-visible, textarea:focus-visib
 .atelier-actions { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 20px; }
 .assessment { border-top: 1px solid var(--line); padding-top: 18px; font-size: .78rem; }
 .assessment .status { font-weight: 750; display: inline-flex; align-items: center; gap: .45rem; }
-.assessment .status.good { color: #2d7556; }
-.assessment .status.caution { color: #a36b21; }
+.assessment .status.good { color: #28684c; }
+.assessment .status.caution { color: #855c26; }
 .assessment ul { margin: 6px 0 9px; padding-left: 19px; }
 .assessment .notice { color: var(--muted); margin: 6px 0; }
 .atelier-note { color: var(--muted); font-size: .86rem; padding: 0 0 85px; }
@@ -575,6 +577,7 @@ button:focus-visible, a:focus-visible, input:focus-visible, textarea:focus-visib
 .draft-recovery details { margin-top: 16px; padding-top: 12px; border-top: 1px solid var(--line); }
 .draft-recovery pre { white-space: pre-wrap; overflow-wrap: anywhere; max-height: 240px; overflow: auto; font-size: .78rem; }
 .draft-recovery .chip { margin: 6px 8px 0 0; }
+.table-wrapper { max-width: 100%; overflow-x: auto; margin: 24px 0; }
 .world-article ul,.world-article ol{padding-left:27px;margin:14px 0 26px;}
 .world-article li{margin:.55rem 0;line-height:1.67;}
 .world-article li::marker{color:var(--gold);}
@@ -623,7 +626,7 @@ button:focus-visible, a:focus-visible, input:focus-visible, textarea:focus-visib
 .atlas-card .btn{width:100%;}
 @media(max-width:1060px){.tradition-grid{grid-template-columns:repeat(2,1fr);}.world-article-shell{grid-template-columns:minmax(0,1fr) 245px;gap:30px;}.world-sidebar-box{padding:18px;}}
 @media(max-width:840px){.world-article-shell{grid-template-columns:1fr;}.world-sidebar{position:static;grid-row:1;grid-template-columns:1fr 1fr;}.atlas-tools{grid-template-columns:1fr 1fr;}.atlas-tools label:first-child{grid-column:1/-1;}}
-@media(max-width:650px){.international-intro{grid-template-columns:1fr;}.tradition-grid,.atlas-grid,.world-sidebar{grid-template-columns:1fr;}.atlas-tools{grid-template-columns:1fr;}.atlas-tools label:first-child{grid-column:auto;}.international-cluster{margin:42px 0 55px;}.world-article-shell{padding-top:25px;}.world-article{overflow-x:auto;}.world-article h2{font-size:2.1rem;}.world-article p{font-size:.95rem;}.world-article table{min-width:480px;}.atlas-glossary dl{grid-template-columns:1fr 1fr;}}
+@media(max-width:650px){.international-intro{grid-template-columns:1fr;}.tradition-grid,.atlas-grid,.world-sidebar{grid-template-columns:1fr;}.atlas-tools{grid-template-columns:1fr;}.atlas-tools label:first-child{grid-column:auto;}.international-cluster{margin:42px 0 55px;}.world-article-shell{padding-top:25px;}.world-article h2{font-size:2.1rem;}.world-article p{font-size:.95rem;}.world-article table{min-width:480px;}.atlas-glossary dl{grid-template-columns:1fr 1fr;}}
 
 /* Linked, accessible entries in the expanded scholarly lexicon. */
 .lexicon-entry { scroll-margin-top: 115px; }
