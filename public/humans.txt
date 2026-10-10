@@ -1,6 +1,8 @@
 The Heraldry Project
 Concept, writing and direction: James P. Howard, II
 A small and slightly unreasonable public humanities project.
-No cookies, no accounts, no learning-progress surveillance.
+Learning progress and research drafts stay in your browser.
+Google Analytics is optional and loads only after consent.
+Privacy and cookie notice: https://heraldryproject.org/privacy-and-cookie-notice/
 
 https://jameshoward.us/
