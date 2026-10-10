@@ -52,7 +52,10 @@
     ],
     "exercise": "Write two descriptions: one of the physical object, one of the painted achievement. Then make a claim ledger with three columns: visible in this photograph, reported by the catalogue, and still to be established. Place the family attribution and reverse decoration in the appropriate columns.",
     "discussion": "A strong answer separates the targe’s outline from the painted shield and identifies the crest by its position above the helmet. It keeps both family names and does not claim to have inspected the reverse. To resolve the attribution, propose a dated comparative witness rather than a surname search.",
-    "research": "Follow the collection record to its additional reverse photograph. Compare what can actually be seen there with the museum’s description. Record the image identifier and viewing conditions before arguing that a damaged painted trace represents a particular saint."
+    "research": "Follow the collection record to its additional reverse photograph. Compare what can actually be seen there with the museum’s description. Record the image identifier and viewing conditions before arguing that a damaged painted trace represents a particular saint.",
+    "periods": [
+      "Medieval"
+    ]
   },
   {
     "id": "heraldic-glass",
@@ -107,7 +110,10 @@
     ],
     "exercise": "Annotate five features using only visual language. For each, say whether you think it is armorial design, material construction, or uncertain. Then write a short research request for the information you would need to distinguish original glass from later interventions.",
     "discussion": "A strong answer describes the star and the visible colour areas without inventing a bearer. It recognizes that a dark join is not automatically an ordinary. Useful further evidence includes conservation documentation, earlier photographs, acquisition records, and evidence of the panel’s former architectural setting.",
-    "research": "Compare this photograph with a second image made under different illumination, if one can be located. Record the photographer or repository, date, and lighting where available. Which proposed tincture readings survive the comparison, and which become less secure?"
+    "research": "Compare this photograph with a second image made under different illumination, if one can be located. Record the photographer or repository, date, and lighting where available. Which proposed tincture readings survive the comparison, and which become less secure?",
+    "periods": [
+      "Medieval"
+    ]
   },
   {
     "id": "halewyn-ghistele-enamel",
@@ -162,7 +168,10 @@
     ],
     "exercise": "Make a two-part account: an image description without family names, then a catalogue-based identification with the appropriate qualifications. List the evidence you would seek before naming the people who commissioned it or the occasion it commemorated.",
     "discussion": "A strong answer recognizes the vertical joining of arms and separates the family identification from a claim about specific people. It preserves the workshop attribution and the museum’s tentative account of the original setting. Genealogical records might establish a relevant union, but a documented link to this object would still be needed.",
-    "research": "Compare the catalogue’s title, attribution, and provenance information with a dated publication or inventory. Track whether the identification changes between records. A research note should state which version supports each claim rather than silently treating all versions as interchangeable."
+    "research": "Compare the catalogue’s title, attribution, and provenance information with a dated publication or inventory. Track whether the identification changes between records. A research note should state which version supports each claim rather than silently treating all versions as interchangeable.",
+    "periods": [
+      "Early modern"
+    ]
   },
   {
     "id": "vitelleschi-maiolica",
@@ -218,7 +227,10 @@
     ],
     "exercise": "Draw three boundaries on a rough sketch: the vessel, its ornament, and the armorial display. Explain one feature that would be lost in a shield-only redrawing. Then draft a caption that preserves the museum’s maker attribution without turning it into a named commission.",
     "discussion": "A strong answer distinguishes the decorated rim from the central field and preserves the words circle of. It treats the family identification as catalogue evidence and leaves the identity of a patron or a specific occasion unresolved. The plate’s function needs object and documentary context as well as its decoration.",
-    "research": "Compare this plate with another documented armorial vessel from the same region. Ask whether their attributions rely on marks, inscriptions, workshop comparisons, or later cataloguing. Do not use a resemblance between painted arms as the sole basis for assigning both pieces to one service."
+    "research": "Compare this plate with another documented armorial vessel from the same region. Ask whether their attributions rely on marks, inscriptions, workshop comparisons, or later cataloguing. Do not use a resemblance between painted arms as the sole basis for assigning both pieces to one service.",
+    "periods": [
+      "Early modern"
+    ]
   },
   {
     "id": "cary-bookplate",
@@ -275,7 +287,11 @@
     ],
     "exercise": "Write a catalogue description of this loose impression. Then imagine it is found pasted inside a dated book: list the additional observations you would record before claiming ownership. Finally, distinguish the dates of the engraved design, the paper impression, and its insertion into a volume.",
     "discussion": "A strong answer reads the name and visual arrangement while leaving the specific person and original volume open. It distinguishes a printed ownership device from proof of use, and it does not convert the catalogue’s date range into a precise year. Examine the paper, binding, adhesive, inscriptions, and acquisition history before tying an impression to a volume.",
-    "research": "Locate another impression of the same design, if one can be documented. Compare lettering, margins, plate wear, paper evidence, and any book context. Similarity can establish a shared design; it does not make the two impressions the same historical witness."
+    "research": "Locate another impression of the same design, if one can be documented. Compare lettering, margins, plate wear, paper evidence, and any book context. Similarity can establish a shared design; it does not make the two impressions the same historical witness.",
+    "periods": [
+      "Early modern",
+      "Modern"
+    ]
   },
   {
     "museum": "The Metropolitan Museum of Art",
@@ -338,7 +354,11 @@
     ],
     "exercise": "Make a witness table with three rows: the impressed design, the handwritten mount, and the museum record. For each, say what you have actually inspected and what claim it could support. Then explain why neither black wax nor the midpoint of the catalogue range produces a defensible colour blazon or exact date.",
     "discussion": "A strong answer keeps support, image, and catalogue distinct. It records the visible shield and ornament without filling in tinctures; preserves the full date range and cultural question mark; and treats the mount’s writing as an additional witness requiring its own attribution. Unknown fields remain unknown until a source resolves them.",
-    "research": "Seek an earlier description of this particular impression, using the accession and museum record as the starting point. If a proposed matching seal is attached to a dated document, compare details and the identification chain before assuming the loose and attached impressions share a matrix. A resemblance is a lead to test."
+    "research": "Seek an earlier description of this particular impression, using the accession and museum record as the starting point. If a proposed matching seal is attached to a dated document, compare details and the identification chain before assuming the loose and attached impressions share a matrix. A resemblance is a lead to test.",
+    "periods": [
+      "Medieval",
+      "Early modern"
+    ]
   },
   {
     "museum": "The Metropolitan Museum of Art",
@@ -403,7 +423,10 @@
     ],
     "exercise": "Write two catalogue fields: manufacture period and stylistic reference. Then write a separate entry for the accompanying impression, leaving its date and material unknown. Explain one historical claim that the matrix could help investigate and one claim for which treating it as medieval would be misleading.",
     "discussion": "A strong answer preserves the nineteenth- or twentieth-century date, places the thirteenth-century comparison in a style field, and treats the impression as a distinct witness. It avoids upgrading later manufacture into an accusation of forgery. It also labels the pictorial scene as comparative seal imagery instead of forcing every seal into a coat of arms.",
-    "research": "Investigate earlier acquisition and catalogue records for this accession, then compare a securely dated matrix with a similar scene. Record whether the comparison is based on lettering, iconography, manufacture, or documentary context. Do not use a stylistic parallel as the sole reason to replace the museum’s date."
+    "research": "Investigate earlier acquisition and catalogue records for this accession, then compare a securely dated matrix with a similar scene. Record whether the comparison is based on lettering, iconography, manufacture, or documentary context. Do not use a stylistic parallel as the sole reason to replace the museum’s date.",
+    "periods": [
+      "Modern"
+    ]
   },
   {
     "id": "simon-de-varie",
@@ -468,6 +491,1624 @@
     ],
     "exercise": "Inventory the miniature, the two scrolls, the border shields, and the modern catalogue as distinct evidentiary components. Write a caption that preserves the manuscript date without dating every visible armorial form to that year. Then transcribe a short scroll inscription at the manuscript desk and disclose your normalization policy.",
     "discussion": "A strong answer distinguishes the observed arrangement from Getty’s identifications, preserves the Paris-or-Tours alternative, and makes the reported overpainting visible in its dating argument. The transcription keeps the witness’s written form, editorial normalization, and translation in separate fields. It leaves unresolved paint layers and doubtful letters explicit.",
-    "research": "Compare this located leaf with Getty’s folio 1 record (85.ML.27.1). Record the different folio and the basis of each statement about overpainting or joined letters. A claim about one opening should not silently become an observation of another."
+    "research": "Compare this located leaf with Getty’s folio 1 record (85.ML.27.1). Record the different folio and the basis of each statement about overpainting or joined letters. A claim about one opening should not silently become an observation of another.",
+    "periods": [
+      "Medieval"
+    ]
+  },
+  {
+    "id": "vols-colonna-armour",
+    "title": "Arms on the rider. Arms on the horse.",
+    "summary": "A mounted armour display repeats a family composition across steel, while the precise bearer remains unknown.",
+    "material": "Armour",
+    "lesson": "marshalling",
+    "question": "How many witnesses does one suit contain?",
+    "observations": [
+      "A fully armoured rider sits above an armoured horse. Red fabric, etched metal, and the museum’s supporting mount make this a much larger display than a single painted shield.",
+      "The photograph presents one side of the ensemble. It cannot show every decorated surface on the breastplate, backplate, shoulders, or horse defence at once."
+    ],
+    "reading": [
+      "Repetition is evidence about the intended unity of the display. It can connect separate pieces visually, but a modern mounted ensemble still needs a component history. Ask which pieces share decoration, manufacture, provenance, and conservation records before assuming every part began together.",
+      "Quartering does not finish the identification. The catalogue recognizes one component and leaves another open. Repeating that unresolved composition seven times increases the number of witnesses; it does not turn an uncertain bearer into a named individual. The modern horse, feathers, fittings, and mounting arrangement also need to be distinguished from the catalogued steel."
+    ],
+    "exercise": "Make a diagram of the visible rider and horse. Mark every armorial location you can actually inspect, then add the catalogue’s remaining locations using a different symbol. Write a separate sentence about what would establish that two pieces belong to the same original commission.",
+    "discussion": "A strong answer distinguishes a photographed surface from a reported one. It preserves the unidentified quarter and proposed family connection. Matching decoration supports a question about an ensemble; a dated inventory, technical study, or documented provenance is needed to argue that particular components were made and used together.",
+    "research": "Use the museum’s additional views and component records. Choose two locations with the same arms and compare their engraving, borders, wear, and attachment. Record the image identifiers and ask whether the differences suggest manufacture, repair, photography, or later assembly.",
+    "catalogueTitle": "Armor for Man and Horse with Völs-Colonna Arms",
+    "date": "c. 1575",
+    "culture": "North Italy, 16th century",
+    "medium": "steel",
+    "accession": "1964.88",
+    "credit": "John L. Severance Fund",
+    "museum": "Cleveland Museum of Art",
+    "objectId": 141444,
+    "url": "https://clevelandart.org/art/1964.88",
+    "imageSource": "https://www.clevelandart.org/_next/image?url=https%3A%2F%2Fpiction.clevelandart.org%2Fcma%2Fump.di%3Fe%3DE61917BCFDB140E5E6FB1B0391015E5F7C7C429A7BDED9DE8BA0C90CD6D77C68%26s%3D24247294%26se%3D116628280%26v%3D0%26f%3D1964.88_o2.jpg&w=1920&q=90",
+    "image": "/images/objects/vols-colonna-armour.jpg",
+    "width": 1067,
+    "height": 1600,
+    "accessed": "2026-10-10",
+    "imageRights": "CC0",
+    "rightsUrl": "https://www.clevelandart.org/open-access",
+    "periods": [
+      "Early modern"
+    ],
+    "alt": "A fully armoured rider sits above an armoured horse. Red fabric, etched metal, and the museum’s supporting mount make this a much larger display than a single painted shield.",
+    "catalogue": "The Cleveland Museum of Art catalogues Armor for Man and Horse with Völs-Colonna Arms (1964.88) to c. 1575, with the culture field North Italy, 16th century. Cleveland reports seven armorial displays across the rider’s armour and the horse’s breastplate. It identifies Colonna arms quartered with an unidentified family and proposes an unknown member of the Völs-Colonna family as the owner. Its suggestion that the ensemble belonged to an interchangeable garniture remains a possibility, not a demonstrated complete reconstruction. [1]",
+    "claims": [
+      {
+        "claim": "A fully armoured rider sits above an armoured horse. Red fabric, etched metal, and the museum’s supporting mount make this a much larger display than a single painted shield.",
+        "basis": "Object photograph",
+        "limit": "Photographed arrangement; not a new dating or bearer identification."
+      },
+      {
+        "claim": "c. 1575; North Italy, 16th century.",
+        "basis": "Museum object record [1]",
+        "limit": "Catalogue date and attribution, with their stated qualifications."
+      },
+      {
+        "claim": "The catalogue reports seven instances of the armorial composition.",
+        "basis": "Museum object record [1]",
+        "limit": "Not all seven can be inspected in this single photograph."
+      }
+    ]
+  },
+  {
+    "id": "durer-skull-arms",
+    "title": "A coat of arms for an argument",
+    "summary": "Dürer’s skull-bearing achievement makes heraldic form carry an allegory rather than an identified family pedigree.",
+    "material": "Print",
+    "lesson": "anatomy-of-arms",
+    "question": "Does an achievement need an actual armiger?",
+    "observations": [
+      "A large skull occupies a tilted shield beneath a helmet and an elaborate winged ornament. A woman and a hairy male figure stand beside the display.",
+      "The plate’s monochrome lines establish shape, light, and texture. They do not supply a set of painted tinctures, and the figures are not automatically formal supporters."
+    ],
+    "reading": [
+      "A familiar heraldic structure can persuade before its charge has been explained. Shield, helmet, ornament, and flanking figures give the image the authority of an achievement. The skull then makes that structure do a different kind of work. Read the print as a designed argument, not as a register entry waiting for a surname.",
+      "Keep description and interpretation separate. A skull is observable; mortality is an interpretation supported by the composition and curatorial reading. A person standing next to a shield need not be a legally defined supporter. Likewise, engraved shading from 1503 should not be retroactively decoded as a later standardized system of tincture hatching."
+    ],
+    "exercise": "Write a visual inventory of the achievement without interpreting it. Then write a second paragraph explaining how one feature changes the meaning of the whole scene. Label the museum’s allegorical interpretation and your own proposed reading as separate contributions.",
+    "discussion": "A strong answer notices how heraldic form organizes an allegory while declining to invent a family called Skull. It distinguishes the helmet’s ornament from the shield’s charge, questions the status of the adjacent figures, and does not assign tinctures from artistic line shading.",
+    "research": "Compare another impression or institutional record of the engraving. Check the title, state, paper, inscriptions, and recorded provenance. Ask whether a change between impressions affects the armorial arrangement, the legibility of the monogram, or only the physical history of the printed sheet.",
+    "studyType": "Allegorical achievement; no historical bearer identified",
+    "catalogueTitle": "Coat of Arms with a Skull",
+    "date": "1503",
+    "culture": "Germany, early 16th Century",
+    "medium": "engraving",
+    "accession": "1953.9",
+    "credit": "John L. Severance Fund",
+    "museum": "Cleveland Museum of Art",
+    "objectId": 131200,
+    "url": "https://clevelandart.org/art/1953.9",
+    "imageSource": "https://www.clevelandart.org/_next/image?url=https%3A%2F%2Fpiction.clevelandart.org%2Fcma%2Fump.di%3Fe%3DCBC82B95DA68F9DBF369C8F90C5A69D4AE98EC0EB53B2D26627D72C035888E1C%26s%3D24247294%26se%3D399313166%26v%3D3%26f%3D1953.9_o2.jpg&w=1920&q=90",
+    "image": "/images/objects/durer-skull-arms.jpg",
+    "width": 1161,
+    "height": 1600,
+    "accessed": "2026-10-10",
+    "imageRights": "CC0",
+    "rightsUrl": "https://www.clevelandart.org/open-access",
+    "periods": [
+      "Early modern"
+    ],
+    "creator": "Albrecht Dürer (German, 1471–1528)",
+    "alt": "A large skull occupies a tilted shield beneath a helmet and an elaborate winged ornament. A woman and a hairy male figure stand beside the display.",
+    "catalogue": "The Cleveland Museum of Art catalogues Coat of Arms with a Skull (1953.9) to 1503, with the culture field Germany, early 16th Century. The museum identifies the print as Albrecht Dürer’s engraving of 1503. Its interpretation connects the skull, maiden, and wild man with an allegory of love, desire, vanity, and mortality. It describes a fanciful armorial composition rather than authenticating a historical grant. [1]",
+    "claims": [
+      {
+        "claim": "A large skull occupies a tilted shield beneath a helmet and an elaborate winged ornament. A woman and a hairy male figure stand beside the display.",
+        "basis": "Object photograph",
+        "limit": "Photographed arrangement; not a new dating or bearer identification."
+      },
+      {
+        "claim": "1503; Germany, early 16th Century.",
+        "basis": "Museum object record [1]",
+        "limit": "Catalogue date and attribution, with their stated qualifications."
+      },
+      {
+        "claim": "The engraving uses a skull as the shield’s dominant charge.",
+        "basis": "Museum object record [1]",
+        "limit": "The composition does not establish a historical bearer or a grant."
+      }
+    ]
+  },
+  {
+    "id": "medici-millefleurs",
+    "title": "The arms changed. The flowers stayed.",
+    "summary": "A millefleurs tapestry becomes a witness to altered ownership because its Medici arms replaced an earlier composition.",
+    "material": "Tapestry",
+    "lesson": "reading-the-evidence",
+    "question": "Which part of the object dates the claim?",
+    "observations": [
+      "Two circular armorial displays interrupt a dense field of flowers. A narrow border encloses the horizontal textile, while repeated plant forms continue between the shields.",
+      "At gallery scale the arms and surrounding field appear to form one composition. A photograph at this scale cannot establish the exact structure of joins, inserted panels, or repaired threads."
+    ],
+    "reading": [
+      "An object can outlive the identity it was first made to display. Replacing the arms preserves expensive material while changing its public meaning. The surviving textile therefore contains a sequence of claims, even if a visitor sees only the most recent armorial layer.",
+      "Do not date every feature from the museum’s broad object date. That date describes the tapestry as catalogued; it is not, by itself, the date of the replacement. The useful evidence would include weaving structure, dyes, stitching, older images, inventories, and records of transfer. Similar flowers on either side of a shield cannot settle that chronology."
+    ],
+    "exercise": "Build a two-stage object biography: initial weaving and armorial alteration. For each stage, record what the museum states, what the photograph lets you observe, and what evidence is still needed. Avoid filling the first shield with a guessed family device.",
+    "discussion": "A strong answer treats the replacement as reported evidence while leaving its date and earlier design unresolved. It recognizes that a beautiful, apparently coherent display may contain interventions from different periods. A technical observation about textile structure should be attributed to a conservation source rather than inferred from a small reproduction.",
+    "research": "Look for a conservation report or older catalogue image. Identify the borders of one inserted armorial area and compare its threads and weave with the floral field. Explain what result would support a later replacement, and what would force you to revise that explanation.",
+    "catalogueTitle": "Millefleurs Tapestry with Medici Coat of Arms",
+    "date": "1520s",
+    "culture": "Netherlands, Hainault, early 16th century",
+    "medium": "tapestry weave: wool and silk",
+    "accession": "1942.824",
+    "credit": "Bequest of John L. Severance",
+    "museum": "Cleveland Museum of Art",
+    "objectId": 122570,
+    "url": "https://clevelandart.org/art/1942.824",
+    "imageSource": "https://www.clevelandart.org/_next/image?url=https%3A%2F%2Fpiction.clevelandart.org%2Fcma%2Fump.di%3Fe%3D8EF4A30561ECD389BC886948322DE2DC4481F89EFBF6AC3CF7DF4ACAC46A7572%26s%3D24247294%26se%3D399313166%26v%3D5%26f%3D1942.824_o2.jpg&w=1920&q=90",
+    "image": "/images/objects/medici-millefleurs.jpg",
+    "width": 1600,
+    "height": 702,
+    "accessed": "2026-10-10",
+    "imageRights": "CC0",
+    "rightsUrl": "https://www.clevelandart.org/open-access",
+    "periods": [
+      "Early modern"
+    ],
+    "alt": "Two circular armorial displays interrupt a dense field of flowers. A narrow border encloses the horizontal textile, while repeated plant forms continue between the shields.",
+    "catalogue": "The Cleveland Museum of Art catalogues Millefleurs Tapestry with Medici Coat of Arms (1942.824) to 1520s, with the culture field Netherlands, Hainault, early 16th century. Cleveland dates the Netherlandish, Hainault tapestry to the 1520s. Its description states that the original arms were replaced with those of the Medici. That reported alteration is central to this study: the current armorial display and the first weaving are not necessarily one historical event. [1]",
+    "claims": [
+      {
+        "claim": "Two circular armorial displays interrupt a dense field of flowers. A narrow border encloses the horizontal textile, while repeated plant forms continue between the shields.",
+        "basis": "Object photograph",
+        "limit": "Photographed arrangement; not a new dating or bearer identification."
+      },
+      {
+        "claim": "1520s; Netherlands, Hainault, early 16th century.",
+        "basis": "Museum object record [1]",
+        "limit": "Catalogue date and attribution, with their stated qualifications."
+      },
+      {
+        "claim": "The museum reports replacement of the original arms by Medici arms.",
+        "basis": "Museum object record [1]",
+        "limit": "The supplied view does not independently date or reconstruct the earlier arms."
+      }
+    ]
+  },
+  {
+    "id": "zurich-civic-roundel",
+    "title": "A city arranged around a shield",
+    "summary": "Zürich’s roundel combines civic and imperial imagery, with a ring of small arms that invites careful counting.",
+    "material": "Stained glass",
+    "lesson": "heraldry-in-public-life",
+    "question": "What does the hierarchy of shields tell us?",
+    "observations": [
+      "A central eagle shield, a crown, and paired lions occupy the largest area. Smaller shields form a ring around them, enclosed by lettering and a coloured border.",
+      "Scale and position create a visible hierarchy. The little shields remain individual compositions; their surrounding circle is not one quartered coat."
+    ],
+    "reading": [
+      "A civic display can connect different levels of authority without merging their identities. The central eagle, the supporting animals, and the peripheral shields need separate descriptions before any political explanation. Relative size is a compositional observation; the exact legal relation between the represented bodies needs documentary evidence.",
+      "Counting is a small act of scholarship. Decide whether the central eagle shield, shields held by the lions, and every peripheral compartment belong in your total. Then compare the result with the museum’s texts. Differences can arise from counting conventions, interpretation, or editorial error. A source conflict should become a research question, not disappear in a rewritten caption."
+    ],
+    "exercise": "Number the distinct shield-shaped fields on a copy of the image, keeping the central group and outer ring separate. State your counting rule. Then write a paragraph showing how the arrangement connects a civic community with a larger political vocabulary.",
+    "discussion": "A strong answer gives a reproducible count rather than repeating one attractive number. It retains the workshop qualification, distinguishes the ring from marshalling within a single shield, and explains which political statements come from the catalogue and which remain interpretive.",
+    "research": "Find a larger photograph and a published catalogue discussion. Record how each author counts and identifies the peripheral devices. If names or administrative units differ, ask whether they describe the city of 1593, later territorial divisions, or a modern explanatory convention.",
+    "catalogueTitle": "Heraldic Roundel with Arms of the Canton of Zürich",
+    "date": "1593",
+    "culture": "Switzerland, Zurich, late 16th Century",
+    "medium": "white glass with silver stain and pot metal",
+    "accession": "1955.71",
+    "credit": "Purchase from the J. H. Wade Fund",
+    "museum": "Cleveland Museum of Art",
+    "objectId": 133347,
+    "url": "https://clevelandart.org/art/1955.71",
+    "imageSource": "https://www.clevelandart.org/_next/image?url=https%3A%2F%2Fpiction.clevelandart.org%2Fcma%2Fump.di%3Fe%3DCAB06CA644F4960E0F5EA86C075B4C80EECD62920BCD4A102501143C71814408%26s%3D24247294%26se%3D399313166%26v%3D3%26f%3D1955.71_o2.jpg&w=1920&q=90",
+    "image": "/images/objects/zurich-civic-roundel.jpg",
+    "width": 1583,
+    "height": 1600,
+    "accessed": "2026-10-10",
+    "imageRights": "CC0",
+    "rightsUrl": "https://www.clevelandart.org/open-access",
+    "periods": [
+      "Early modern"
+    ],
+    "creator": "workshop of Hans Rütter (Swiss, 1550–1610)",
+    "alt": "A central eagle shield, a crown, and paired lions occupy the largest area. Smaller shields form a ring around them, enclosed by lettering and a coloured border.",
+    "catalogue": "The Cleveland Museum of Art catalogues Heraldic Roundel with Arms of the Canton of Zürich (1955.71) to 1593, with the culture field Switzerland, Zurich, late 16th Century. The museum dates the roundel to 1593 and attributes it to the workshop of Hans Rütter. Its descriptive text calls the surrounding devices the arms of Zürich’s wards and gives a count of thirty, while its educational note gives a different total. This study preserves that discrepancy rather than choosing a confident number without a diagram. [1]",
+    "claims": [
+      {
+        "claim": "A central eagle shield, a crown, and paired lions occupy the largest area. Smaller shields form a ring around them, enclosed by lettering and a coloured border.",
+        "basis": "Object photograph",
+        "limit": "Photographed arrangement; not a new dating or bearer identification."
+      },
+      {
+        "claim": "1593; Switzerland, Zurich, late 16th Century.",
+        "basis": "Museum object record [1]",
+        "limit": "Catalogue date and attribution, with their stated qualifications."
+      },
+      {
+        "claim": "The museum dates the glass to 1593 and assigns it to Rütter’s workshop.",
+        "basis": "Museum object record [1]",
+        "limit": "A workshop attribution does not identify the individual hand; the shield count needs checking."
+      }
+    ]
+  },
+  {
+    "id": "pucci-maiolica",
+    "title": "A family device in a crowded sky",
+    "summary": "A painted plate places Pucci arms inside a figurative scene, joining domestic display with a difficult history of representation.",
+    "material": "Maiolica",
+    "lesson": "charges",
+    "question": "What belongs to the arms, and what belongs to the story?",
+    "observations": [
+      "A small shield with a dark profile head sits near the centre of a richly painted plate. A winged child holds it amid larger figures, clouds, a column, and a yellow rim.",
+      "The field inside the shield is only one part of the decoration. Figures surrounding it are larger than the charge, but visual prominence does not make them heraldic supporters."
+    ],
+    "reading": [
+      "Begin with the boundary of the shield. A figurative scene and an armorial charge may share the same painted surface while performing different functions. Describe the head as represented, then investigate the language used in historical and modern catalogues rather than replacing it with an unexamined inherited label.",
+      "Family identification does not identify a particular sitter, patron, or contemporary descendant. The device also raises questions about how race and human difference were represented in elite European visual culture. Those questions need evidence from the period and the object’s commission. Neither a modern surname search nor a decorative description can answer them."
+    ],
+    "exercise": "Draw the border of the shield and list its internal features separately from the surrounding scene. Then write a short account of the family identification that distinguishes the museum’s attribution from a claim about a specific patron.",
+    "discussion": "A strong answer treats the human head as a charge without turning the larger narrative figures into parts of a blazon. It attributes the family and maker to the museum, preserves the unknown commission, and recognizes that responsible interpretation may require historical research into the representation itself.",
+    "research": "Compare the companion Pucci plate in Cleveland and look for inscriptions, dates, or published discussions of the service. Ask which evidence ties individual plates to one commission and which merely demonstrates the repeated use of a family’s device.",
+    "catalogueTitle": "Plate with Arms of the Pucci Family",
+    "date": "1532",
+    "culture": "Italy, Urbino",
+    "medium": "tin-glazed earthenware (maiolica)",
+    "accession": "1942.625",
+    "credit": "Bequest of John L. Severance",
+    "museum": "Cleveland Museum of Art",
+    "objectId": 122326,
+    "url": "https://clevelandart.org/art/1942.625",
+    "imageSource": "https://www.clevelandart.org/_next/image?url=https%3A%2F%2Fpiction.clevelandart.org%2Fcma%2Fump.di%3Fe%3D5EB69687ADE0C0B8FAF8F690C10F323FC23D7EEAF05C270722C30D90CFC696DB%26s%3D24247294%26se%3D399313166%26v%3D6%26f%3D1942.625_o2.jpg&w=1920&q=90",
+    "image": "/images/objects/pucci-maiolica.jpg",
+    "width": 1600,
+    "height": 1528,
+    "accessed": "2026-10-10",
+    "imageRights": "CC0",
+    "rightsUrl": "https://www.clevelandart.org/open-access",
+    "periods": [
+      "Early modern"
+    ],
+    "creator": "Francesco Xanto Avelli (Italian, 1487?–1544?)",
+    "alt": "A small shield with a dark profile head sits near the centre of a richly painted plate. A winged child holds it amid larger figures, clouds, a column, and a yellow rim.",
+    "catalogue": "The Cleveland Museum of Art catalogues Plate with Arms of the Pucci Family (1942.625) to 1532, with the culture field Italy, Urbino. Cleveland identifies the family as Pucci and records Francesco Xanto Avelli as the maker. It dates the Urbino maiolica to 1532. Its discussion places armorial tableware within elite commissions; it does not establish a named recipient or the original circumstances of this particular plate’s use. [1]",
+    "claims": [
+      {
+        "claim": "A small shield with a dark profile head sits near the centre of a richly painted plate. A winged child holds it amid larger figures, clouds, a column, and a yellow rim.",
+        "basis": "Object photograph",
+        "limit": "Photographed arrangement; not a new dating or bearer identification."
+      },
+      {
+        "claim": "1532; Italy, Urbino.",
+        "basis": "Museum object record [1]",
+        "limit": "Catalogue date and attribution, with their stated qualifications."
+      },
+      {
+        "claim": "The museum identifies Pucci arms and dates the plate to 1532.",
+        "basis": "Museum object record [1]",
+        "limit": "No named original owner or recipient is established in this study."
+      }
+    ]
+  },
+  {
+    "id": "saxon-guard-morion",
+    "title": "The state’s arms on a guard’s helmet",
+    "summary": "A gilded morion shows why an official’s heraldic display does not necessarily identify the person wearing it.",
+    "material": "Armour",
+    "lesson": "heraldry-in-public-life",
+    "question": "Whose identity does a uniform display?",
+    "observations": [
+      "A high central ridge and a sharply curved brim define the helmet. Gilded bands and circular decorative fields stand out against darkened steel.",
+      "One decorated area lies on the helmet’s raised ridge. The ridge is a structural part of the morion; its English name does not automatically make every motif upon it a heraldic crest."
+    ],
+    "reading": [
+      "Heraldry on equipment can identify the authority served by a wearer. A guard may display the elector’s arms without claiming those arms as an inheritable personal achievement. That distinction matters when reading uniforms, livery, regalia, and official buildings as sources for individual identity.",
+      "Material vocabulary and heraldic vocabulary can overlap. A helmet’s crest can mean its raised comb; a heraldic crest is an ornament associated with an achievement. State clearly which sense you mean. The object’s etched and gilded decoration also needs to be separated from the conventional colours of the arms it represents."
+    ],
+    "exercise": "Write three labels: the helmet’s physical form, the authority represented by its heraldic decoration, and the unknown wearer. Then explain why replacing the last label with the elector’s own name would overstate the evidence.",
+    "discussion": "A strong answer distinguishes state service from personal armorial entitlement. It keeps the date range and Nuremberg attribution, uses crest carefully, and does not read the steel’s dark colour as a heraldic tincture. Wear, repair, or a unit inventory could reveal use without identifying a wearer.",
+    "research": "Compare another helmet from the same guard series. Look for repeated decoration, workshop marks, construction differences, and documented inventories. Ask whether the objects support a uniform commission or several commissions following a common official design.",
+    "catalogueTitle": "Morion of the State Guard of Elector Christian I of Saxony",
+    "date": "c. 1580–91",
+    "culture": "Germany, Nuremberg",
+    "medium": "russet steel, etched and gilded",
+    "accession": "1916.1516",
+    "credit": "Gift of Mr. and Mrs. John L. Severance",
+    "museum": "Cleveland Museum of Art",
+    "objectId": 95839,
+    "url": "https://clevelandart.org/art/1916.1516",
+    "imageSource": "https://www.clevelandart.org/_next/image?url=https%3A%2F%2Fpiction.clevelandart.org%2Fcma%2Fump.di%3Fe%3DD21BCF3A648412672E2DBF89C45AF6AF7CBA1372FD05B4FC363A0CF2DDEE804E%26s%3D24247294%26se%3D399313166%26v%3D1%26f%3D%255Cd4843%255Cu228048430%255C1916.1516_o2.jpg&w=1920&q=90",
+    "image": "/images/objects/saxon-guard-morion.jpg",
+    "width": 1600,
+    "height": 1345,
+    "accessed": "2026-10-10",
+    "imageRights": "CC0",
+    "rightsUrl": "https://www.clevelandart.org/open-access",
+    "periods": [
+      "Early modern"
+    ],
+    "alt": "A high central ridge and a sharply curved brim define the helmet. Gilded bands and circular decorative fields stand out against darkened steel.",
+    "catalogue": "The Cleveland Museum of Art catalogues Morion of the State Guard of Elector Christian I of Saxony (1916.1516) to c. 1580–91, with the culture field Germany, Nuremberg. The museum identifies this as a morion of the state guard of Elector Christian I of Saxony, made in Nuremberg around 1580–91. Its educational note connects such coordinated helmets and clothing with the elector’s display of grandeur and identifies Saxon arms on the helmet. [1]",
+    "claims": [
+      {
+        "claim": "A high central ridge and a sharply curved brim define the helmet. Gilded bands and circular decorative fields stand out against darkened steel.",
+        "basis": "Object photograph",
+        "limit": "Photographed arrangement; not a new dating or bearer identification."
+      },
+      {
+        "claim": "c. 1580–91; Germany, Nuremberg.",
+        "basis": "Museum object record [1]",
+        "limit": "Catalogue date and attribution, with their stated qualifications."
+      },
+      {
+        "claim": "The museum associates the morion with Christian I’s state guard.",
+        "basis": "Museum object record [1]",
+        "limit": "That association does not name the individual guard who wore this object."
+      }
+    ]
+  },
+  {
+    "id": "spanish-devotional-banner",
+    "title": "Royal arms beside the Madonna",
+    "summary": "A Spanish banner alternates royal and devotional imagery, making two systems of representation share one fabric.",
+    "material": "Banner",
+    "lesson": "marshalling",
+    "question": "Are these quarters of arms, or quarters of the banner?",
+    "observations": [
+      "Four large textile compartments alternate two armorial displays with two images of a mother and child. Fringe outlines the rectangular fabric, which hangs from a long pole.",
+      "The royal compositions contain their own internal divisions. The banner’s four-part layout and the marshalling inside each armorial display are different levels of organization."
+    ],
+    "reading": [
+      "The word quartered can describe the whole banner’s layout and the arms displayed within it. A careful account specifies its scale: four sections of cloth are not necessarily four quarters within one heraldic field. This banner places sacred figures beside dynastic devices rather than turning every devotional figure into a charge of the royal shield.",
+      "A catalogue century and a royal composition cannot identify a ceremony by themselves. Several events and users may have employed related imagery. The pole, embroidered panels, fringe, and later repairs also have material histories that need checking before they are assigned a single date. The museum photograph records their present arrangement, not an original procession."
+    ],
+    "exercise": "Make two diagrams: one of the banner’s four compartments, another of one royal shield. Explain how their boundaries differ. Then draft a museum label that retains the devotional imagery without treating it as a new royal quarter.",
+    "discussion": "A strong answer distinguishes textile layout from armorial marshalling. It uses the institution’s identifications while avoiding a guessed event. It recognizes that an assembled museum display may include components whose dates or original relationships need separate documentation.",
+    "research": "Follow the component records for fabric and pole. Compare their dating and provenance, then look for an inventory or procession image that records a closely related banner. State how you would distinguish a general iconographic parallel from this particular surviving object.",
+    "catalogueTitle": "Banner with a Quartered Royal Arms of Spain and the Madonna and Child",
+    "date": "1500s",
+    "culture": "Spain",
+    "medium": "red and dark brown velvet, embroidered; fringe",
+    "accession": "1916.1885",
+    "credit": "Gift of Mr. and Mrs. John L. Severance",
+    "museum": "Cleveland Museum of Art",
+    "objectId": 96171,
+    "url": "https://clevelandart.org/art/1916.1885",
+    "imageSource": "https://www.clevelandart.org/_next/image?url=https%3A%2F%2Fpiction.clevelandart.org%2Fcma%2Fump.di%3Fe%3D3E399604BD73C196B8E0CEFB78DC97DB1420009F96A886C4D39F06451A27D599%26s%3D24247294%26se%3D399313166%26v%3D1%26f%3D%255Cd4184%255Cu248641846%255C1916.1885_o2.jpg&w=1920&q=90",
+    "image": "/images/objects/spanish-devotional-banner.jpg",
+    "width": 946,
+    "height": 1600,
+    "accessed": "2026-10-10",
+    "imageRights": "CC0",
+    "rightsUrl": "https://www.clevelandart.org/open-access",
+    "periods": [
+      "Early modern"
+    ],
+    "alt": "Four large textile compartments alternate two armorial displays with two images of a mother and child. Fringe outlines the rectangular fabric, which hangs from a long pole.",
+    "catalogue": "The Cleveland Museum of Art catalogues Banner with a Quartered Royal Arms of Spain and the Madonna and Child (1916.1885) to 1500s, with the culture field Spain. Cleveland catalogues this Spanish banner to the 1500s. Its description identifies royal arms alongside the Virgin and Child and relates the castles, lions, eagles, and pomegranate to the represented kingdoms. It also notes the yoke and arrows. It does not supply an occasion of use or a named original bearer. [1]",
+    "claims": [
+      {
+        "claim": "Four large textile compartments alternate two armorial displays with two images of a mother and child. Fringe outlines the rectangular fabric, which hangs from a long pole.",
+        "basis": "Object photograph",
+        "limit": "Photographed arrangement; not a new dating or bearer identification."
+      },
+      {
+        "claim": "1500s; Spain.",
+        "basis": "Museum object record [1]",
+        "limit": "Catalogue date and attribution, with their stated qualifications."
+      },
+      {
+        "claim": "The museum identifies alternating royal and Virgin-and-Child compartments.",
+        "basis": "Museum object record [1]",
+        "limit": "No particular ceremony, carrier, or original installation is established."
+      }
+    ]
+  },
+  {
+    "id": "charles-navarre-hours",
+    "title": "A royal identity inside a prayer book",
+    "summary": "Charles of Navarre’s arms occupy a decorated leaf, while the manuscript’s commission and acquisition remain separate questions.",
+    "material": "Manuscript",
+    "lesson": "reading-the-evidence",
+    "question": "Did the owner commission the book?",
+    "observations": [
+      "A small red-and-blue armorial shield sits inside a lobed frame, surrounded by fine vines, birds, and coloured ornament. It occupies a complete manuscript leaf rather than an isolated register entry.",
+      "The border is much larger than the heraldic field. Its animals and plants contribute to the page’s decoration without necessarily becoming charges in the shield."
+    ],
+    "reading": [
+      "Ownership, manufacture, and commission can be three different events. Repeated personal arms may show how a manuscript was made to belong to a royal reader, but they do not prove that the reader initiated every part of its production. A book could be commissioned, purchased ready-made, adapted, given, or inherited.",
+      "A single leaf also has limits as a witness to a whole codex. Border style, text, armorial additions, and the relation between recto and verso need comparison across the manuscript. Keep the folio number in every citation so that another reader can find the particular armorial display behind your description."
+    ],
+    "exercise": "Create a timeline with separate tracks for production, acquisition, and armorial personalization. Put each catalogue claim on the appropriate track and mark proposals as proposals. Then compare the size and placement of the arms with the surrounding page decoration.",
+    "discussion": "A strong answer cites the individual folio rather than only the book’s title. It preserves the possibility of market acquisition, declines to identify every border creature heraldically, and asks what material or documentary evidence would establish when the arms were added.",
+    "research": "Locate another leaf carrying Charles’s arms. Compare its border, shield frame, pigments as photographed, and relation to the text. Ask whether a consistent placement supports a planned decoration programme, while keeping physical inspection and conservation evidence separate from image-based comparison.",
+    "catalogueTitle": "Hours of Charles the Noble, King of Navarre (1361-1425): fol. 137r, Coat of Arms of Charles the Noble",
+    "date": "c. 1405",
+    "culture": "France, Paris",
+    "medium": "ink, tempera, and gold on vellum",
+    "accession": "1964.40.137.a",
+    "credit": "Mr. and Mrs. William H. Marlatt Fund",
+    "museum": "Cleveland Museum of Art",
+    "objectId": 140575,
+    "url": "https://clevelandart.org/art/1964.40.137.a",
+    "imageSource": "https://www.clevelandart.org/_next/image?url=https%3A%2F%2Fpiction.clevelandart.org%2Fcma%2Fump.di%3Fe%3DA88DF8BDD3C74D5BE8663A5533F84E20563C0D231A2491BE85B2CAC39ABA6E57%26s%3D24247294%26se%3D399313166%26v%3D0%26f%3D1964.40.137.a_o2.jpg&w=1920&q=90",
+    "image": "/images/objects/charles-navarre-hours.jpg",
+    "width": 1079,
+    "height": 1600,
+    "accessed": "2026-10-10",
+    "imageRights": "CC0",
+    "rightsUrl": "https://www.clevelandart.org/open-access",
+    "periods": [
+      "Medieval"
+    ],
+    "creator": "Master of the Brussels Initials and Associates (French)",
+    "alt": "A small red-and-blue armorial shield sits inside a lobed frame, surrounded by fine vines, birds, and coloured ornament. It occupies a complete manuscript leaf rather than an isolated register entry.",
+    "catalogue": "The Cleveland Museum of Art catalogues Hours of Charles the Noble, King of Navarre (1361-1425): fol. 137r, Coat of Arms of Charles the Noble (1964.40.137.a) to c. 1405, with the culture field France, Paris. The museum identifies folio 137r from the Hours of Charles the Noble, King of Navarre, and dates the Parisian manuscript around 1405. It reports his arms on numerous leaves and proposes acquisition during a Paris visit in 1404–05, possibly from the luxury market, rather than a direct commission. The proposed acquisition history remains qualified. [1]",
+    "claims": [
+      {
+        "claim": "A small red-and-blue armorial shield sits inside a lobed frame, surrounded by fine vines, birds, and coloured ornament. It occupies a complete manuscript leaf rather than an isolated register entry.",
+        "basis": "Object photograph",
+        "limit": "Photographed arrangement; not a new dating or bearer identification."
+      },
+      {
+        "claim": "c. 1405; France, Paris.",
+        "basis": "Museum object record [1]",
+        "limit": "Catalogue date and attribution, with their stated qualifications."
+      },
+      {
+        "claim": "The museum identifies the leaf as folio 137r of Charles’s Hours.",
+        "basis": "Museum object record [1]",
+        "limit": "The proposed acquisition does not establish a direct royal commission."
+      }
+    ]
+  },
+  {
+    "id": "elizabeth-half-pound",
+    "title": "A royal claim small enough to spend",
+    "summary": "Elizabeth I’s coin places a crowned armorial shield opposite her portrait, while the claim to France exceeds possession.",
+    "material": "Coin",
+    "lesson": "jurisdictions",
+    "question": "Does an armorial claim describe a territory actually ruled?",
+    "observations": [
+      "Two faces of a gold coin are reproduced together. A crowned portrait occupies one; a crowned, quartered shield and surrounding letters occupy the other.",
+      "The shield contains repeated groups of fleurs-de-lis and lions. Its tiny scale compresses heraldry, title, and royal authority into a circulating object."
+    ],
+    "reading": [
+      "An armorial display can make a political assertion rather than describe an uncontested fact. Treat the French quarter as a claim expressed by the issuing monarchy. Reading it as a map of lands Elizabeth actually governed would erase the difference between title, ambition, and control.",
+      "A coin also has several dates worth separating: the reign of the represented monarch, the issue indicated by its marks, the manufacture of this piece, and the modern photograph. Wear may obscure a letter or charge without changing the intended design. A transcription should record what survives before expanding abbreviations from a reference work."
+    ],
+    "exercise": "Transcribe the visible legends with uncertain letters marked. Write separate sentences about the issuer’s title, the shield’s composition, and actual territorial control. Explain why none of those three sentences can simply stand in for the others.",
+    "discussion": "A strong answer attributes the issue date and expanded title to the museum. It distinguishes the two faces, recognizes that armorial display can assert a contested title, and does not date the photographic arrangement of obverse and reverse as an original physical feature of the coin.",
+    "research": "Compare another documented issue from Elizabeth’s reign and one from James I. Record denomination, mint or initial marks, and shield structure. Ask what changed in the royal composition and what evidence dates the change more precisely than a monarch’s entire reign.",
+    "catalogueTitle": "Half Pound: Elizabeth I (obverse); Crowned Shield of Arms (reverse)",
+    "date": "1601",
+    "culture": "England, Elizabeth I, 1558-1603",
+    "medium": "gold",
+    "accession": "1969.186",
+    "credit": "The Norweb Collection",
+    "museum": "Cleveland Museum of Art",
+    "objectId": 144450,
+    "url": "https://clevelandart.org/art/1969.186",
+    "imageSource": "https://www.clevelandart.org/_next/image?url=https%3A%2F%2Fpiction.clevelandart.org%2Fcma%2Fump.di%3Fe%3D0586FCD2607E170F41E1823F207AAC2C0967D932B3C2D9C2A745CD080E94C9C1%26s%3D24247294%26se%3D399313166%26v%3D1%26f%3D%255Cd1967%255Cu214219670%255C1969.186_o2.jpg&w=1920&q=90",
+    "image": "/images/objects/elizabeth-half-pound.jpg",
+    "width": 1600,
+    "height": 727,
+    "accessed": "2026-10-10",
+    "imageRights": "CC0",
+    "rightsUrl": "https://www.clevelandart.org/open-access",
+    "periods": [
+      "Early modern"
+    ],
+    "alt": "Two faces of a gold coin are reproduced together. A crowned portrait occupies one; a crowned, quartered shield and surrounding letters occupy the other.",
+    "catalogue": "The Cleveland Museum of Art catalogues Half Pound: Elizabeth I (obverse); Crowned Shield of Arms (reverse) (1969.186) to 1601, with the culture field England, Elizabeth I, 1558-1603. The museum dates this half pound to 1601, using its initial marks. It describes Elizabeth’s abbreviated title and the English royal shield incorporating French lilies. Its account explicitly distinguishes the claim to France from territorial possession after the loss of Calais. [1]",
+    "claims": [
+      {
+        "claim": "Two faces of a gold coin are reproduced together. A crowned portrait occupies one; a crowned, quartered shield and surrounding letters occupy the other.",
+        "basis": "Object photograph",
+        "limit": "Photographed arrangement; not a new dating or bearer identification."
+      },
+      {
+        "claim": "1601; England, Elizabeth I, 1558-1603.",
+        "basis": "Museum object record [1]",
+        "limit": "Catalogue date and attribution, with their stated qualifications."
+      },
+      {
+        "claim": "The museum dates the coin to 1601 and identifies French and English quarters.",
+        "basis": "Museum object record [1]",
+        "limit": "The French quarter does not establish English possession of France in 1601."
+      }
+    ]
+  },
+  {
+    "id": "isabella-hours",
+    "title": "The arms at the front of the prayers",
+    "summary": "A Flemish manuscript presents Isabella’s royal devices, while its possible diplomatic gift history remains qualified.",
+    "material": "Manuscript",
+    "lesson": "marshalling",
+    "question": "Can a frontispiece identify a giver?",
+    "observations": [
+      "A spread-winged eagle carries a large crowned shield. A yoke and bundle of arrows flank the upper composition, and a lettered scroll extends beneath it.",
+      "The shield’s internal quarters, the eagle, the separate emblems, and the scroll occupy different positions. They should not be collapsed into one undifferentiated list of charges."
+    ],
+    "reading": [
+      "A royal frontispiece makes the intended reader visible before a devotional text begins. Heraldry can be a form of personalization and a statement about the relationship between a luxurious object and its recipient. That does not establish who paid for the book, who selected the devices, or when every layer was painted.",
+      "Separate shield, supporting eagle, badges, and motto. Their associations may work together, but each needs its own identification and documentary basis. The proposed gift history is particularly vulnerable to overstatement: probable receipt is not a signed dedication, and a possible donor must remain possible until additional evidence is supplied."
+    ],
+    "exercise": "Annotate the shield, eagle, yoke, arrows, crown, and scroll as distinct features. Then write two versions of a gift-history sentence: one that wrongly states the proposal as fact, and one that accurately preserves its evidential status.",
+    "discussion": "A strong answer records the folio reference and exact maker attribution. It keeps the surrounding devices distinct from quarters inside the shield, does not silently translate uncertain lettering, and preserves the catalogue’s qualification about who may have given the book.",
+    "research": "Compare the frontispiece with another armorial page from the manuscript and a documented royal gift. Look for dedicatory wording, payments, correspondence, or inventory entries that could distinguish a proposed diplomatic commission from later ownership or personalization.",
+    "catalogueTitle": "Hours of Queen Isabella the Catholic, Queen of Spain:  Fol. 1v, Arms and Mottoes of Isabel la Católica",
+    "date": "c. 1500",
+    "culture": "Flanders, Ghent and Bruges, late 15th century",
+    "medium": "ink, tempera, and gold on vellum",
+    "accession": "1963.256.1.b",
+    "credit": "Leonard C. Hanna Jr. Fund",
+    "museum": "Cleveland Museum of Art",
+    "objectId": 138887,
+    "url": "https://clevelandart.org/art/1963.256.1.b",
+    "imageSource": "https://www.clevelandart.org/_next/image?url=https%3A%2F%2Fpiction.clevelandart.org%2Fcma%2Fump.di%3Fe%3DCA1455B25B0B37B9645896287ED17A1A50ED286667E2B2E156C4CC90B6A10CF9%26s%3D24247294%26se%3D399313166%26v%3D2%26f%3D1963.256.1.b_o2.jpg&w=1920&q=90",
+    "image": "/images/objects/isabella-hours.jpg",
+    "width": 1097,
+    "height": 1600,
+    "accessed": "2026-10-10",
+    "imageRights": "CC0",
+    "rightsUrl": "https://www.clevelandart.org/open-access",
+    "periods": [
+      "Medieval",
+      "Early modern"
+    ],
+    "creator": "Master of the First Prayerbook of Maximillian (Flemish, c. 1444–1519); and Associates",
+    "alt": "A spread-winged eagle carries a large crowned shield. A yoke and bundle of arrows flank the upper composition, and a lettered scroll extends beneath it.",
+    "catalogue": "The Cleveland Museum of Art catalogues Hours of Queen Isabella the Catholic, Queen of Spain:  Fol. 1v, Arms and Mottoes of Isabel la Católica (1963.256.1.b) to c. 1500, with the culture field Flanders, Ghent and Bruges, late 15th century. Cleveland identifies this as folio 1v of the Hours of Queen Isabella the Catholic, around 1500. It attributes the manuscript to the Master of the First Prayerbook of Maximillian and associates, active in Ghent and Bruges. The suggested diplomatic gift, possibly connected with Francisco Jiménez de Cisneros, is a proposal rather than a secure commission. [1]",
+    "claims": [
+      {
+        "claim": "A spread-winged eagle carries a large crowned shield. A yoke and bundle of arrows flank the upper composition, and a lettered scroll extends beneath it.",
+        "basis": "Object photograph",
+        "limit": "Photographed arrangement; not a new dating or bearer identification."
+      },
+      {
+        "claim": "c. 1500; Flanders, Ghent and Bruges, late 15th century.",
+        "basis": "Museum object record [1]",
+        "limit": "Catalogue date and attribution, with their stated qualifications."
+      },
+      {
+        "claim": "The museum identifies the frontispiece with Isabella’s arms and mottoes.",
+        "basis": "Museum object record [1]",
+        "limit": "The proposed donor and diplomatic occasion are not established by the image alone."
+      }
+    ]
+  },
+  {
+    "id": "great-seal-burse",
+    "title": "Authority wrapped in velvet",
+    "summary": "An embroidered purse for the Great Seal makes official custody visible through royal arms and a cypher.",
+    "material": "Embroidery",
+    "lesson": "heraldry-in-public-life",
+    "question": "What kind of authority does the object carry?",
+    "observations": [
+      "A small decorated purse hangs from cords and long tassels. Its front is densely worked with a crowned achievement, flanking animals, letters, and raised ornamental elements.",
+      "The central shield sits within an arrangement larger than its field. Goldwork, beads, and embroidery create physical relief rather than the flat colour planes of a teaching diagram."
+    ],
+    "reading": [
+      "Official arms can connect an object with an office and a constitutional practice. A seal purse does not perform the same evidentiary function as a seal impression attached to a document. One is equipment for custody and ceremony; the other can witness the authentication of a particular act.",
+      "A reign-long date range is not the date of an identified parliamentary opening. The royal cypher narrows a political association while leaving the individual commission and user open. Separate the purse’s construction, the seal it could have held, and any ceremonial display in which it may have appeared."
+    ],
+    "exercise": "Create an evidence chain with four nodes: embroidered arms, royal office, seal matrix, and sealed document. Explain what each could establish and what documentary connection would be required to move from this purse to a named act.",
+    "discussion": "A strong answer distinguishes official symbolism from documentary authentication. It retains the broad catalogue date, avoids naming a Chancellor without evidence, and does not mistake the seal’s container for a surviving impression or a record of one transaction.",
+    "research": "Find a dated portrait or inventory that describes a Chancellor’s burse. Compare materials, cypher, armorial arrangement, and tassels. State whether it is evidence for a general office tradition, a particular commission, or this accession’s own history.",
+    "catalogueTitle": "Lord Chancellor's Burse (Purse) with Royal Cypher and Coat of Arms of George III",
+    "date": "1760–1801",
+    "culture": "England, 18th century",
+    "medium": "Red silk velvet, silk embroidery, goldwork, pearls, black beads, sequins, pendant tassels",
+    "accession": "1916.1366",
+    "credit": "Gift of Mr. and Mrs. J. H. Wade",
+    "museum": "Cleveland Museum of Art",
+    "objectId": 95658,
+    "url": "https://clevelandart.org/art/1916.1366",
+    "imageSource": "https://www.clevelandart.org/_next/image?url=https%3A%2F%2Fpiction.clevelandart.org%2Fcma%2Fump.di%3Fe%3DEB6CF4A96B884444C6E42BD0A880FB9CD838FA0EF4E133F1D0FAA0491109D4EA%26s%3D24247294%26se%3D116628280%26v%3D2%26f%3D%255Cd3930%255Cu73239304%255C1916.1366_o2.jpg&w=1920&q=90",
+    "image": "/images/objects/great-seal-burse.jpg",
+    "width": 1169,
+    "height": 1600,
+    "accessed": "2026-10-10",
+    "imageRights": "CC0",
+    "rightsUrl": "https://www.clevelandart.org/open-access",
+    "periods": [
+      "Early modern",
+      "Modern"
+    ],
+    "alt": "A small decorated purse hangs from cords and long tassels. Its front is densely worked with a crowned achievement, flanking animals, letters, and raised ornamental elements.",
+    "catalogue": "The Cleveland Museum of Art catalogues Lord Chancellor's Burse (Purse) with Royal Cypher and Coat of Arms of George III (1916.1366) to 1760–1801, with the culture field England, 18th century. The museum identifies the object as a Lord Chancellor’s burse associated with George III and dates it to 1760–1801. It explains the purse’s relationship to custody of the Great Seal and describes the historical replacement of burses. That function does not identify a particular document sealed with this object’s contents. [1]",
+    "claims": [
+      {
+        "claim": "A small decorated purse hangs from cords and long tassels. Its front is densely worked with a crowned achievement, flanking animals, letters, and raised ornamental elements.",
+        "basis": "Object photograph",
+        "limit": "Photographed arrangement; not a new dating or bearer identification."
+      },
+      {
+        "claim": "1760–1801; England, 18th century.",
+        "basis": "Museum object record [1]",
+        "limit": "Catalogue date and attribution, with their stated qualifications."
+      },
+      {
+        "claim": "The museum identifies the purse’s association with the Great Seal and George III.",
+        "basis": "Museum object record [1]",
+        "limit": "No particular sealing act or parliamentary occasion is established."
+      }
+    ]
+  },
+  {
+    "id": "ueberlingen-glass",
+    "title": "A city’s arms made somewhere else",
+    "summary": "A Swiss-catalogued glass panel named for Überlingen warns against equating represented identity with place of manufacture.",
+    "material": "Stained glass",
+    "lesson": "jurisdictions",
+    "question": "Which place does a catalogue place-name describe?",
+    "observations": [
+      "A large yellow shield with a dark eagle occupies the lower centre beneath a helmet and curling ornament. A red lion with a sword appears above, framed by columns and a populated arch.",
+      "Figures, lettering, and architectural decoration surround the achievement. The date visible at the base belongs to the depicted panel’s inscription; its interpretation still needs transcription."
+    ],
+    "reading": [
+      "A name in the title may identify the arms represented; a culture field may describe the object’s attributed manufacture. Trade, patronage, gifts, and specialist workshops can bring those places together. The apparent mismatch is a useful question about production and commission, not evidence that one field must be wrong.",
+      "Keep the central eagle, the upper lion, and the surrounding people distinct before deciding how they relate heraldically. A lion placed above an achievement might be a crest, another emblem, or part of a narrative. Its role needs comparison with the full arrangement and documentary descriptions, rather than identification from animal shape alone."
+    ],
+    "exercise": "Make separate catalogue fields for represented identity, attributed manufacture, inscription, and provenance. Fill only what the museum or image supports. Then explain what evidence could connect the Swiss attribution with the commission of a panel bearing another city’s arms.",
+    "discussion": "A strong answer preserves both place references and asks what each means. It avoids turning catalogue culture into the bearer’s nationality, records the date’s visual location, and leaves the functions of surrounding figures open until they can be compared with stronger sources.",
+    "research": "Consult a specialist glass catalogue for the panel’s attribution and provenance. Look for workshop parallels, inscriptions, and evidence of exchange between civic bodies. Record whether a proposed origin relies on style, an archival payment, a maker’s mark, or later acquisition.",
+    "catalogueTitle": "Arms of Ueberlingen",
+    "date": "1559",
+    "culture": "Switzerland",
+    "medium": "pot metal and white glass, silver stain",
+    "accession": "1953.283",
+    "credit": "Gift of William G. Mather",
+    "museum": "Cleveland Museum of Art",
+    "objectId": 130548,
+    "url": "https://clevelandart.org/art/1953.283",
+    "imageSource": "https://www.clevelandart.org/_next/image?url=https%3A%2F%2Fpiction.clevelandart.org%2Fcma%2Fump.di%3Fe%3DCAB06CA644F4960E8F8846309273CC9C490237E0112BAFDA8EB1EFA1967C3AA9%26s%3D24247294%26se%3D399313166%26v%3D3%26f%3D1953.283_o2.jpg&w=1920&q=90",
+    "image": "/images/objects/ueberlingen-glass.jpg",
+    "width": 1236,
+    "height": 1600,
+    "accessed": "2026-10-10",
+    "imageRights": "CC0",
+    "rightsUrl": "https://www.clevelandart.org/open-access",
+    "periods": [
+      "Early modern"
+    ],
+    "alt": "A large yellow shield with a dark eagle occupies the lower centre beneath a helmet and curling ornament. A red lion with a sword appears above, framed by columns and a populated arch.",
+    "catalogue": "The Cleveland Museum of Art catalogues Arms of Ueberlingen (1953.283) to 1559, with the culture field Switzerland. Cleveland titles the panel Arms of Ueberlingen, dates it to 1559, and catalogues its culture as Swiss. The record gives glass, silver stain, and pot metal as materials. Those fields describe different kinds of information and should not be silently converted into a single national identity. [1]",
+    "claims": [
+      {
+        "claim": "A large yellow shield with a dark eagle occupies the lower centre beneath a helmet and curling ornament. A red lion with a sword appears above, framed by columns and a populated arch.",
+        "basis": "Object photograph",
+        "limit": "Photographed arrangement; not a new dating or bearer identification."
+      },
+      {
+        "claim": "1559; Switzerland.",
+        "basis": "Museum object record [1]",
+        "limit": "Catalogue date and attribution, with their stated qualifications."
+      },
+      {
+        "claim": "The museum records a 1559 panel titled for Ueberlingen and catalogued as Swiss.",
+        "basis": "Museum object record [1]",
+        "limit": "Represented civic identity does not independently establish the workshop location."
+      }
+    ]
+  },
+  {
+    "id": "british-royal-banner",
+    "title": "An achievement carried by silk",
+    "summary": "A royal banner displays a whole achievement on a coloured ground, rather than simply filling the cloth with a shield’s field.",
+    "material": "Banner",
+    "lesson": "anatomy-of-arms",
+    "question": "What exactly has become a flag?",
+    "observations": [
+      "A green rectangular textile with a broad red border hangs from a pole. An embroidered achievement occupies the centre, with flanking figures and scrolling elements around the shield.",
+      "Cords and tassels extend beyond the fabric. The outer flag is therefore not shaped like the small shield displayed within it."
+    ],
+    "reading": [
+      "A flag bearing an achievement is not automatically a banner of arms in the strict sense of a rectangular field carrying the shield’s design across its surface. Here the achievement is placed as an image upon another textile field. State the distinction before assigning a technical name that could obscure the actual construction.",
+      "A museum title identifying royal arms does not date every component to one sovereign or occasion. The arms, textile, pole, embroidery, and accessories each need their own evidence. The visible green ground is also the colour of the banner support, not necessarily a tincture of the shield inside the central composition."
+    ],
+    "exercise": "Write one description of the complete flag and another of its central achievement. Explain which colours belong to the support and which appear within the arms. Then list the evidence needed to argue for a particular ceremonial use.",
+    "discussion": "A strong answer distinguishes the cloth’s outer field from the armorial field and preserves the probable origin. It avoids treating fringe, pole, tassels, and embroidered arms as interchangeable components of a blazon, while recognizing their importance to the object’s use.",
+    "research": "Compare a documented royal standard with this embroidered display. Record whether each reproduces a shield’s divisions across the entire cloth or places an achievement within another field. Use dated inventories or images to test functional names rather than choosing them by appearance alone.",
+    "catalogueTitle": "Banner with Royal Coat of Arms of Great Britain",
+    "date": "1700s",
+    "culture": "Great Britain, probably England, 18th century",
+    "medium": "green silk ground with embroidery; crimson cords and tassels",
+    "accession": "1916.1548",
+    "credit": "Gift of Mr. and Mrs. John L. Severance",
+    "museum": "Cleveland Museum of Art",
+    "objectId": 95867,
+    "url": "https://clevelandart.org/art/1916.1548",
+    "imageSource": "https://www.clevelandart.org/_next/image?url=https%3A%2F%2Fpiction.clevelandart.org%2Fcma%2Fump.di%3Fe%3D5E433AB078F1D12293C23B94451ACBBB8CC762147E2026174FE89F109A26DC28%26s%3D24247294%26se%3D399313166%26v%3D1%26f%3D%255Cd3997%255Cu248639978%255C1916.1548_o2.jpg&w=1920&q=90",
+    "image": "/images/objects/british-royal-banner.jpg",
+    "width": 1600,
+    "height": 815,
+    "accessed": "2026-10-10",
+    "imageRights": "CC0",
+    "rightsUrl": "https://www.clevelandart.org/open-access",
+    "periods": [
+      "Early modern"
+    ],
+    "alt": "A green rectangular textile with a broad red border hangs from a pole. An embroidered achievement occupies the centre, with flanking figures and scrolling elements around the shield.",
+    "catalogue": "The Cleveland Museum of Art catalogues Banner with Royal Coat of Arms of Great Britain (1916.1548) to 1700s, with the culture field Great Britain, probably England, 18th century. The museum dates this British banner to the 1700s and gives a probable English origin. It records a green silk ground, embroidery, crimson cords, and tassels. The consulted record does not establish a specific ceremony or an original bearer. [1]",
+    "claims": [
+      {
+        "claim": "A green rectangular textile with a broad red border hangs from a pole. An embroidered achievement occupies the centre, with flanking figures and scrolling elements around the shield.",
+        "basis": "Object photograph",
+        "limit": "Photographed arrangement; not a new dating or bearer identification."
+      },
+      {
+        "claim": "1700s; Great Britain, probably England, 18th century.",
+        "basis": "Museum object record [1]",
+        "limit": "Catalogue date and attribution, with their stated qualifications."
+      },
+      {
+        "claim": "The museum catalogues a British royal-armorial banner to the 1700s.",
+        "basis": "Museum object record [1]",
+        "limit": "The broad dating does not identify a particular sovereign’s ceremony."
+      }
+    ]
+  },
+  {
+    "id": "medici-velvet",
+    "title": "A coat of arms becomes a repeat",
+    "summary": "Medici devices sit inside a repeating velvet pattern, where heraldry works at the scale of woven cloth.",
+    "material": "Textile",
+    "lesson": "charges",
+    "question": "When does an armorial device become ornament?",
+    "observations": [
+      "A long, narrow textile fragment repeats large red-and-green rosettes against a pale ground. Small groups of round forms sit inside the repeated centres.",
+      "The armorial motifs are embedded in a regular pattern rather than isolated as one large achievement. The surviving fragment shows only part of the original textile’s possible extent."
+    ],
+    "reading": [
+      "A repeated device can create an environment of identity rather than a single statement on a shield. Count the pattern’s units and describe how the armorial motif fits within them. Repetition does not create a corresponding number of separate bearers or commissions.",
+      "A textile fragment also changes what can be inferred about function. It might preserve material once used for furnishing, dress, or another purpose, but a narrow surviving strip cannot establish that use on its own. The catalogue’s material analysis and dating need to stay distinct from observations about the photographed red, green, and pale areas."
+    ],
+    "exercise": "Trace one complete repeat and mark the device within it. Then write a short account at three scales: charge, pattern unit, and surviving fragment. Explain what information is lost when the motif is redrawn alone on a modern shield.",
+    "discussion": "A strong answer preserves the repeating textile context and the date range. It attributes the construction and selvage-based dating to the museum, avoids naming an original garment or room, and distinguishes a family device from the identity of a particular purchaser.",
+    "research": "Find another Medici textile with a published technical description. Compare repeat size, thread materials, selvage, and recorded use. Ask whether similarities support a workshop connection, a shared motif, or only the broad circulation of an elite family’s device.",
+    "catalogueTitle": "Four-color Velvet with Medici Armorial in Rosettes",
+    "date": "1450–1500",
+    "culture": "Italy, Florence",
+    "medium": "silk, velvet: cut pile and voided",
+    "accession": "1943.67",
+    "credit": "Purchase from the J. H. Wade Fund",
+    "museum": "Cleveland Museum of Art",
+    "objectId": 123447,
+    "url": "https://clevelandart.org/art/1943.67",
+    "imageSource": "https://www.clevelandart.org/_next/image?url=https%3A%2F%2Fpiction.clevelandart.org%2Fcma%2Fump.di%3Fe%3D513C586E27DD547E79B019C8003F646A20BA4BA6BFDB1C735D6C029C00B8EA9B%26s%3D24247294%26se%3D116628280%26v%3D4%26f%3D1943.67_o2.jpg&w=1920&q=90",
+    "image": "/images/objects/medici-velvet.jpg",
+    "width": 369,
+    "height": 1600,
+    "accessed": "2026-10-10",
+    "imageRights": "CC0",
+    "rightsUrl": "https://www.clevelandart.org/open-access",
+    "periods": [
+      "Medieval",
+      "Early modern"
+    ],
+    "alt": "A long, narrow textile fragment repeats large red-and-green rosettes against a pale ground. Small groups of round forms sit inside the repeated centres.",
+    "catalogue": "The Cleveland Museum of Art catalogues Four-color Velvet with Medici Armorial in Rosettes (1943.67) to 1450–1500, with the culture field Italy, Florence. Cleveland dates the Florentine velvet to 1450–1500 and identifies Medici armorial devices in the rosettes. Its description relates the design to cut-pile and voided velvet construction and discusses the selvage as evidence for dating. That technical assessment is reported from the museum, not independently established from this photograph. [1]",
+    "claims": [
+      {
+        "claim": "A long, narrow textile fragment repeats large red-and-green rosettes against a pale ground. Small groups of round forms sit inside the repeated centres.",
+        "basis": "Object photograph",
+        "limit": "Photographed arrangement; not a new dating or bearer identification."
+      },
+      {
+        "claim": "1450–1500; Italy, Florence.",
+        "basis": "Museum object record [1]",
+        "limit": "Catalogue date and attribution, with their stated qualifications."
+      },
+      {
+        "claim": "The museum identifies Medici devices within the velvet’s rosettes.",
+        "basis": "Museum object record [1]",
+        "limit": "The original extent, use, and individual patron are not established here."
+      }
+    ]
+  },
+  {
+    "id": "castile-leon-lampas",
+    "title": "Christian royal arms, Nasrid cloth",
+    "summary": "A textile catalogued to Granada joins Castilian and Leonese heraldry with the question of who made cloth for whom.",
+    "material": "Textile",
+    "lesson": "the-visual-language",
+    "question": "Does the bearer’s identity identify the maker?",
+    "observations": [
+      "A narrow strip repeats small quartered shields between ornamental bands. Castles and upright animals alternate within each armorial field.",
+      "The photograph shows a surviving fragment with worn edges. Repetition lets us compare motifs, but it does not reconstruct the full original robe or every alteration."
+    ],
+    "reading": [
+      "Arms can identify the person or institution represented by a textile while telling us much less about its maker’s language, religion, or political allegiance. The catalogue’s Granada attribution and Christian royal association should be retained together. They make a productive question about exchange and specialist manufacture rather than a contradiction to be corrected.",
+      "Do not make an entire cultural history from one strip. Materials, weaving, circulation, and patronage require comparative and documentary sources. The broad date range also crosses possible political and personal changes. A repeated castle-and-lion composition cannot alone name the king who wore, ordered, inherited, or received the cloth."
+    ],
+    "exercise": "Write separate headings for production, represented identity, original use, and surviving material. Attribute every entry to the museum or your own observation. Then propose one test for the garment association and another for the place of manufacture.",
+    "discussion": "A strong answer keeps the cross-cultural relationship visible without replacing it with an invented workshop story. It retains the wide dating, recognizes that a fragment cannot reconstruct a complete robe, and distinguishes armorial identification from an individual wearer’s provenance.",
+    "research": "Compare a securely documented Iberian royal textile with published weave analysis. Record the criteria used for attribution and the chain linking a garment to its burial, treasury, or inventory context. Ask which of those criteria are available for this fragment.",
+    "catalogueTitle": "Lampas with heraldry of Castile and León, from a royal Christian robe",
+    "date": "1200–1325",
+    "culture": "Spain, Granada, Nasrid period",
+    "medium": "lampas: silk and gold thread",
+    "accession": "1939.48",
+    "credit": "Purchase from the J. H. Wade Fund",
+    "museum": "Cleveland Museum of Art",
+    "objectId": 118437,
+    "url": "https://clevelandart.org/art/1939.48",
+    "imageSource": "https://www.clevelandart.org/_next/image?url=https%3A%2F%2Fpiction.clevelandart.org%2Fcma%2Fump.di%3Fe%3D4CDD1B1AA1E4EBCC6A48B95A5A38CFCAB06E997A2E6031152EC38DF6E46E982C%26s%3D24247294%26se%3D399313166%26v%3D0%26f%3D1939.48_o2.jpg&w=1920&q=90",
+    "image": "/images/objects/castile-leon-lampas.jpg",
+    "width": 1600,
+    "height": 401,
+    "accessed": "2026-10-10",
+    "imageRights": "CC0",
+    "rightsUrl": "https://www.clevelandart.org/open-access",
+    "periods": [
+      "Medieval"
+    ],
+    "alt": "A narrow strip repeats small quartered shields between ornamental bands. Castles and upright animals alternate within each armorial field.",
+    "catalogue": "The Cleveland Museum of Art catalogues Lampas with heraldry of Castile and León, from a royal Christian robe (1939.48) to 1200–1325, with the culture field Spain, Granada, Nasrid period. The museum dates the lampas to 1200–1325 and catalogues it to Granada in the Nasrid period. Its title associates the fragment with a royal Christian robe and identifies the heraldry of Castile and León. The record makes attributed production and represented royal identity separate facts. [1]",
+    "claims": [
+      {
+        "claim": "A narrow strip repeats small quartered shields between ornamental bands. Castles and upright animals alternate within each armorial field.",
+        "basis": "Object photograph",
+        "limit": "Photographed arrangement; not a new dating or bearer identification."
+      },
+      {
+        "claim": "1200–1325; Spain, Granada, Nasrid period.",
+        "basis": "Museum object record [1]",
+        "limit": "Catalogue date and attribution, with their stated qualifications."
+      },
+      {
+        "claim": "The museum attributes the cloth to Nasrid-period Granada and identifies Castile and León devices.",
+        "basis": "Museum object record [1]",
+        "limit": "The devices do not identify an individual weaver or a named royal wearer."
+      }
+    ]
+  },
+  {
+    "id": "falcons-patterned-silk",
+    "title": "Heraldic vocabulary outside a shield",
+    "summary": "Falcons, wings, claws, and plumes form an Italian silk pattern whose relationship to a named bearer remains open.",
+    "material": "Textile",
+    "lesson": "charges",
+    "question": "Must an emblem sit inside a shield to matter?",
+    "observations": [
+      "Large paired bird forms alternate with upright plumes and curling ornaments in a gold-patterned fabric. The design repeats across the surviving textile.",
+      "There is no single large shield organizing the whole fragment. The repeated figures need to be described as a pattern before they are assigned a complete armorial identity."
+    ],
+    "reading": [
+      "Heraldic vocabulary can circulate through dress, furnishing, badges, and ornament. A charge-like figure does not need to appear within a shield to carry associations, but its presence does not automatically establish a full coat of arms. State what is repeated and what is actually bounded by a field.",
+      "The question of influence needs more evidence than resemblance. A catalogue’s comparison with another design tradition is an attributed interpretation, not a documented itinerary for this textile. A workshop connection, trade route, or patron’s programme would require material comparisons and dated sources beyond the single image."
+    ],
+    "exercise": "Describe one repeat without using a family name. Then explain which features could support a heraldic reading and which might also belong to falconry or textile ornament. Identify a comparative source that could help distinguish those possibilities.",
+    "discussion": "A strong answer retains the pattern’s repeated structure, attributes specialized motif names to the museum, and does not convert the fragment into an invented shield. It treats resemblance as a reason to investigate rather than proof of ownership or direct cultural borrowing.",
+    "research": "Compare a dated garment, badge, or manuscript that uses one of the same motifs. Record whether the figure has a named bearer, a written caption, or only a stylistic resemblance. Explain what additional evidence would connect that witness to this woven pattern.",
+    "catalogueTitle": "Gold-patterned Silk with Falcons and Heraldry",
+    "date": "1360–1400",
+    "culture": "Italy, last third of 14th century",
+    "medium": "Silk, gold thread; a combination of two weaves (lampas)",
+    "accession": "1943.283",
+    "credit": "Purchase from the J. H. Wade Fund",
+    "museum": "Cleveland Museum of Art",
+    "objectId": 123031,
+    "url": "https://clevelandart.org/art/1943.283",
+    "imageSource": "https://www.clevelandart.org/_next/image?url=https%3A%2F%2Fpiction.clevelandart.org%2Fcma%2Fump.di%3Fe%3D847FCD165725E6D7ABB4A553E6407A74C6FCF088703A6C0BEC1CE01B9B52587D%26s%3D24247294%26se%3D399313166%26v%3D4%26f%3D1943.283_o2.jpg&w=1920&q=90",
+    "image": "/images/objects/falcons-patterned-silk.jpg",
+    "width": 1041,
+    "height": 1600,
+    "accessed": "2026-10-10",
+    "imageRights": "CC0",
+    "rightsUrl": "https://www.clevelandart.org/open-access",
+    "periods": [
+      "Medieval"
+    ],
+    "alt": "Large paired bird forms alternate with upright plumes and curling ornaments in a gold-patterned fabric. The design repeats across the surviving textile.",
+    "catalogue": "The Cleveland Museum of Art catalogues Gold-patterned Silk with Falcons and Heraldry (1943.283) to 1360–1400, with the culture field Italy, last third of 14th century. Cleveland dates the Italian silk to 1360–1400. Its description interprets the pattern through falconry and heraldic motifs, including a wing-and-claw form and plumes. It also discusses relationships with wider design traditions. The consulted account does not establish a named armiger for this fragment. [1]",
+    "claims": [
+      {
+        "claim": "Large paired bird forms alternate with upright plumes and curling ornaments in a gold-patterned fabric. The design repeats across the surviving textile.",
+        "basis": "Object photograph",
+        "limit": "Photographed arrangement; not a new dating or bearer identification."
+      },
+      {
+        "claim": "1360–1400; Italy, last third of 14th century.",
+        "basis": "Museum object record [1]",
+        "limit": "Catalogue date and attribution, with their stated qualifications."
+      },
+      {
+        "claim": "The museum reads the pattern as a combination of falconry and heraldic motifs.",
+        "basis": "Museum object record [1]",
+        "limit": "No named bearer or specific route of design transmission is established."
+      }
+    ]
+  },
+  {
+    "id": "lichtenfels-unicorn-glass",
+    "title": "A unicorn hunt above the arms",
+    "summary": "A glass panel puts a Lichtenfels achievement beneath a religious scene, inviting two distinct readings of the same animals.",
+    "material": "Stained glass",
+    "lesson": "charges",
+    "question": "When is an animal a charge, and when is it a character?",
+    "observations": [
+      "A shield and helmet occupy the lower portion beside human figures. An upper scene includes a unicorn, a seated woman, hounds, and a winged figure.",
+      "Lead lines divide the picture into physical pieces. The upper narrative and lower achievement remain distinct compositional areas even where the same kinds of creatures appear."
+    ],
+    "reading": [
+      "An animal’s role depends on its setting. A beast inside an armorial field functions differently from an animal participating in a story above it. Describe those positions before choosing heraldic or iconographic vocabulary. A general rule about unicorns as charges cannot substitute for reading this panel’s religious scene.",
+      "The catalogue offers both identification and interpretation, but with different kinds of evidence. The family name is an armorial attribution; the Annunciation reading explains a narrative; the glass layering concerns construction. Keeping those claims separate makes it possible to test one without assuming all three must stand or fall together."
+    ],
+    "exercise": "Divide the panel into narrative, achievement, and structural glass features. Select an animal in each relevant area and explain its role from location and action before assigning a technical label. Mark which identifications are borrowed from the catalogue.",
+    "discussion": "A strong answer distinguishes the lower arms from the upper sacred narrative and retains the German-or-Swiss qualification. It does not confuse leading with a heraldic division or claim a conservation finding from the colour of an online reproduction.",
+    "research": "Compare a specialist account of unicorn-Annunciation imagery with another Lichtenfels armorial witness. Ask how the religious narrative and family device have been identified independently, and whether the original commission explains why they share this panel.",
+    "catalogueTitle": "Heraldic Panel with Arms of Lichtenfels and a Unicorn Hunt",
+    "date": "c. 1515",
+    "culture": "Germany or Switzerland, 16th century",
+    "medium": "white glass with silver stain and pot metal",
+    "accession": "1954.149",
+    "credit": "Purchase from the J. H. Wade Fund",
+    "museum": "Cleveland Museum of Art",
+    "objectId": 131371,
+    "url": "https://clevelandart.org/art/1954.149",
+    "imageSource": "https://www.clevelandart.org/_next/image?url=https%3A%2F%2Fpiction.clevelandart.org%2Fcma%2Fump.di%3Fe%3DCAB06CA644F4960EAF2234020F99F308CF777EF7D640EA6767CD9F0E2C055870%26s%3D24247294%26se%3D399313166%26v%3D3%26f%3D1954.149_o2.jpg&w=1920&q=90",
+    "image": "/images/objects/lichtenfels-unicorn-glass.jpg",
+    "width": 1235,
+    "height": 1600,
+    "accessed": "2026-10-10",
+    "imageRights": "CC0",
+    "rightsUrl": "https://www.clevelandart.org/open-access",
+    "periods": [
+      "Early modern"
+    ],
+    "alt": "A shield and helmet occupy the lower portion beside human figures. An upper scene includes a unicorn, a seated woman, hounds, and a winged figure.",
+    "catalogue": "The Cleveland Museum of Art catalogues Heraldic Panel with Arms of Lichtenfels and a Unicorn Hunt (1954.149) to c. 1515, with the culture field Germany or Switzerland, 16th century. The museum identifies Lichtenfels arms and dates the panel around 1515, with a German or Swiss cultural attribution. It interprets the unicorn hunt above as a representation of the Annunciation. Its explanation of layered red glass is a technical statement that the photograph does not independently verify. [1]",
+    "claims": [
+      {
+        "claim": "A shield and helmet occupy the lower portion beside human figures. An upper scene includes a unicorn, a seated woman, hounds, and a winged figure.",
+        "basis": "Object photograph",
+        "limit": "Photographed arrangement; not a new dating or bearer identification."
+      },
+      {
+        "claim": "c. 1515; Germany or Switzerland, 16th century.",
+        "basis": "Museum object record [1]",
+        "limit": "Catalogue date and attribution, with their stated qualifications."
+      },
+      {
+        "claim": "The museum interprets the upper unicorn scene as the Annunciation.",
+        "basis": "Museum object record [1]",
+        "limit": "That interpretation does not make every animal in the narrative part of the arms."
+      }
+    ]
+  },
+  {
+    "id": "austrian-knight-lady-glass",
+    "title": "The figures beside the Austrian shield",
+    "summary": "An armoured figure and elaborately dressed companion flank Austrian arms without identifying a particular couple.",
+    "material": "Stained glass",
+    "lesson": "anatomy-of-arms",
+    "question": "Are these people portraits, supporters, or something else?",
+    "observations": [
+      "A red shield with a broad pale horizontal band stands between an armoured man and a richly dressed woman. A helmet and large feather-like ornament rise above the field.",
+      "An arch and columns frame the scene. The people stand beside the achievement, but the image alone does not tell us whether they portray named patrons, ideal types, or another role."
+    ],
+    "reading": [
+      "A recognizable territorial shield can sit within a scene whose people remain unidentified. Resist using the arms to name a royal couple without a dated source. Dress, gesture, armour, and armorial arrangement can support a comparative inquiry, but resemblance is not a portrait identification.",
+      "The alternative production locations are also evidence. They show the limits of the catalogue’s current attribution. A technical or stylistic comparison might narrow the options; a confident national label in a gallery caption would merely hide the uncertainty. Describe the displayed identity and the attributed manufacture in separate fields."
+    ],
+    "exercise": "Write a label of no more than 120 words that includes the date, all production alternatives, the shield’s visual arrangement, and the unnamed figures. Then list the evidence you would need to turn either figure into an identified portrait.",
+    "discussion": "A strong answer gives the broad attribution its full space, distinguishes territorial arms from the identity of the people, and does not automatically classify the figures as formal supporters. It can describe the central band and surrounding display without pretending to have solved the commission.",
+    "research": "Find a related panel with an inscription naming its patrons. Compare pose, costume, shield, framing, and documentary history. Explain which parallels might indicate a shared workshop model and which would be needed to identify these particular figures.",
+    "catalogueTitle": "Heraldic Panel Depicting a Knight and a Lady with the Arms of the Archduchy of Austria",
+    "date": "c. 1515",
+    "culture": "Switzerland, Germany, or Austria, 16th century",
+    "medium": "white glass with silver stain, sanguine, and pot metal",
+    "accession": "1955.72",
+    "credit": "Purchase from the J. H. Wade Fund",
+    "museum": "Cleveland Museum of Art",
+    "objectId": 133358,
+    "url": "https://clevelandart.org/art/1955.72",
+    "imageSource": "https://www.clevelandart.org/_next/image?url=https%3A%2F%2Fpiction.clevelandart.org%2Fcma%2Fump.di%3Fe%3D26774E4C75A7E58FBEE892CF03E911F02C189B04F5D5C8A3C50D249CCE320C7E%26s%3D24247294%26se%3D399313166%26v%3D3%26f%3D1955.72_o2.jpg&w=1920&q=90",
+    "image": "/images/objects/austrian-knight-lady-glass.jpg",
+    "width": 1259,
+    "height": 1600,
+    "accessed": "2026-10-10",
+    "imageRights": "CC0",
+    "rightsUrl": "https://www.clevelandart.org/open-access",
+    "periods": [
+      "Early modern"
+    ],
+    "alt": "A red shield with a broad pale horizontal band stands between an armoured man and a richly dressed woman. A helmet and large feather-like ornament rise above the field.",
+    "catalogue": "The Cleveland Museum of Art catalogues Heraldic Panel Depicting a Knight and a Lady with the Arms of the Archduchy of Austria (1955.72) to c. 1515, with the culture field Switzerland, Germany, or Austria, 16th century. Cleveland identifies the arms of the Archduchy of Austria and dates the panel around 1515. Its culture field offers Switzerland, Germany, or Austria rather than a definite workshop location. The title identifies a knight and lady; it does not supply their personal names. [1]",
+    "claims": [
+      {
+        "claim": "A red shield with a broad pale horizontal band stands between an armoured man and a richly dressed woman. A helmet and large feather-like ornament rise above the field.",
+        "basis": "Object photograph",
+        "limit": "Photographed arrangement; not a new dating or bearer identification."
+      },
+      {
+        "claim": "c. 1515; Switzerland, Germany, or Austria, 16th century.",
+        "basis": "Museum object record [1]",
+        "limit": "Catalogue date and attribution, with their stated qualifications."
+      },
+      {
+        "claim": "The museum identifies Austrian arms while retaining several possible production regions.",
+        "basis": "Museum object record [1]",
+        "limit": "The flanking figures are not identified as a particular historical couple."
+      }
+    ]
+  },
+  {
+    "id": "bodmer-baden-glass",
+    "title": "A named achievement in a busy window",
+    "summary": "Heinrich Bodmer’s named arms share a panel with a richly dressed figure and scenes above and below.",
+    "material": "Stained glass",
+    "lesson": "reading-the-evidence",
+    "question": "What does the name explain—and what does it leave open?",
+    "observations": [
+      "A large animal-bearing shield and helmet stand beside a woman in a long gown and elaborate hat. Smaller scenes occupy the top and lower border.",
+      "The achievement is visibly only part of the panel. The figure’s dress, surrounding events, and lettering need separate descriptions before they can be connected to a named patron."
+    ],
+    "reading": [
+      "A catalogue name solves one kind of question: which achievement the institution associates with the work. It does not answer every biographical question prompted by the scene. Keep the bearer attribution distinct from claims about the woman, the small upper narrative, or the original installation.",
+      "Windows can be social objects as well as heraldic ones. Their arrangement may connect identity with conduct, patronage, or a setting of exchange. Those are useful lines of inquiry, but they need inscriptions, inventories, or specialist catalogues. A named shield should not become permission to write an unsupported life story for everything around it."
+    ],
+    "exercise": "Make one list of features within the achievement and another of the surrounding narrative. Write a claim ledger that names Bodmer only where the catalogue supports the connection. Propose a source for one of the remaining biographical questions.",
+    "discussion": "A strong answer preserves the approximate dating and named armorial attribution while leaving other identities open. It distinguishes the large shield, ornament above the helmet, adjacent figure, and small scenes rather than flattening them into a single personal coat of arms.",
+    "research": "Locate a specialist Swiss glass catalogue or archival reference to the commission. Check the transcription of inscriptions and any reported original setting. Ask whether a person’s name is read directly on the object, inferred from the arms, or supplied by later provenance.",
+    "catalogueTitle": "The Arms of Heinrich Bodmer of Baden",
+    "date": "c. 1530",
+    "culture": "Switzerland, Baden, 16th century",
+    "medium": "pot-metal and white glass, silver stain",
+    "accession": "1954.150",
+    "credit": "Purchase from the J. H. Wade Fund",
+    "museum": "Cleveland Museum of Art",
+    "objectId": 131372,
+    "url": "https://clevelandart.org/art/1954.150",
+    "imageSource": "https://www.clevelandart.org/_next/image?url=https%3A%2F%2Fpiction.clevelandart.org%2Fcma%2Fump.di%3Fe%3DCAB06CA644F4960E4666F4E0D92DF24835D5E3FDBFD609A235CC76B67D555B50%26s%3D24247294%26se%3D399313166%26v%3D0%26f%3D1954.150_o2.jpg&w=1920&q=90",
+    "image": "/images/objects/bodmer-baden-glass.jpg",
+    "width": 1072,
+    "height": 1600,
+    "accessed": "2026-10-10",
+    "imageRights": "CC0",
+    "rightsUrl": "https://www.clevelandart.org/open-access",
+    "periods": [
+      "Early modern"
+    ],
+    "alt": "A large animal-bearing shield and helmet stand beside a woman in a long gown and elaborate hat. Smaller scenes occupy the top and lower border.",
+    "catalogue": "The Cleveland Museum of Art catalogues The Arms of Heinrich Bodmer of Baden (1954.150) to c. 1530, with the culture field Switzerland, Baden, 16th century. The museum names the arms of Heinrich Bodmer of Baden, dates the glass around 1530, and catalogues it as Swiss. Its discussion places the work within a tradition of glass made for individuals, families, civic bodies, and guilds. It does not provide a complete identification of every depicted figure. [1]",
+    "claims": [
+      {
+        "claim": "A large animal-bearing shield and helmet stand beside a woman in a long gown and elaborate hat. Smaller scenes occupy the top and lower border.",
+        "basis": "Object photograph",
+        "limit": "Photographed arrangement; not a new dating or bearer identification."
+      },
+      {
+        "claim": "c. 1530; Switzerland, Baden, 16th century.",
+        "basis": "Museum object record [1]",
+        "limit": "Catalogue date and attribution, with their stated qualifications."
+      },
+      {
+        "claim": "The museum identifies the displayed achievement with Heinrich Bodmer of Baden.",
+        "basis": "Museum object record [1]",
+        "limit": "That identification does not independently name every person or event in the panel."
+      }
+    ]
+  },
+  {
+    "id": "magdeburg-humpen",
+    "title": "A chapter of names around a glass",
+    "summary": "An enamelled beaker records several achievements and names on a curved surface associated with Magdeburg Cathedral.",
+    "material": "Enamelled glass",
+    "lesson": "heraldry-in-public-life",
+    "question": "How much of a collective display can one view contain?",
+    "observations": [
+      "A tall cylindrical beaker carries enameled achievements, lettering, dotted bands, and figures. The curved glass turns part of the display away from the camera.",
+      "Different armorial groups occupy separate areas on the vessel. Their proximity does not make them quarters of one coat, and one front view cannot show the full circuit."
+    ],
+    "reading": [
+      "An institutional community can be represented by a collection of personal achievements. Read each name-and-arms pairing before interpreting the vessel as a single institutional coat. Its circular form matters: sequence, orientation, and the relation between neighbouring devices may be lost in a flat photograph.",
+      "The vessel’s names are potentially strong evidence, but only if they are actually transcribed and connected to the right display. A partly visible inscription should not be completed from a familiar surname without a source. Likewise, the object’s recorded cathedral association is not a list of everyone who drank from it."
+    ],
+    "exercise": "Create a diagram of the vessel as a cylinder, marking what this view reveals and what remains around the back. Transcribe one legible name conservatively. Explain how another view could confirm the pairing between that inscription and a specific achievement.",
+    "discussion": "A strong answer distinguishes the community’s many arms from one marshalled coat. It retains the probable geographic attribution, records gaps in the view, and does not infer a drinking event or individual owner from the presence of a name.",
+    "research": "Seek additional rotational views or a complete published transcription. Compare the names with a dated chapter list, keeping membership dates and the vessel’s date separate. Ask whether the display records a moment of membership, a retrospective commemoration, or another programme.",
+    "catalogueTitle": "Beaker (Humpen)",
+    "date": "1568",
+    "culture": "Germany, probably Bohemia, 16th century",
+    "medium": "enameled glass",
+    "accession": "1948.232",
+    "credit": "Gift of Mrs. Henry White Cannon",
+    "museum": "Cleveland Museum of Art",
+    "objectId": 126010,
+    "url": "https://clevelandart.org/art/1948.232",
+    "imageSource": "https://www.clevelandart.org/_next/image?url=https%3A%2F%2Fpiction.clevelandart.org%2Fcma%2Fump.di%3Fe%3D318F18DBA6BDE1DC3D9F7D335140B8901561AC600252805C738EB67A4FB3AF42%26s%3D24247294%26se%3D399313166%26v%3D4%26f%3D1948.232_o2.jpg&w=1920&q=90",
+    "image": "/images/objects/magdeburg-humpen.jpg",
+    "width": 1062,
+    "height": 1600,
+    "accessed": "2026-10-10",
+    "imageRights": "CC0",
+    "rightsUrl": "https://www.clevelandart.org/open-access",
+    "periods": [
+      "Early modern"
+    ],
+    "alt": "A tall cylindrical beaker carries enameled achievements, lettering, dotted bands, and figures. The curved glass turns part of the display away from the camera.",
+    "catalogue": "The Cleveland Museum of Art catalogues Beaker (Humpen) (1948.232) to 1568, with the culture field Germany, probably Bohemia, 16th century. Cleveland dates the humpen to 1568 and associates it with the chapter of Magdeburg Cathedral. It reports a figure of Saint Mauritius, an inscription including his name and the year, and shields accompanied by chapter members’ names. The culture field retains a probable Bohemian association. [1]",
+    "claims": [
+      {
+        "claim": "A tall cylindrical beaker carries enameled achievements, lettering, dotted bands, and figures. The curved glass turns part of the display away from the camera.",
+        "basis": "Object photograph",
+        "limit": "Photographed arrangement; not a new dating or bearer identification."
+      },
+      {
+        "claim": "1568; Germany, probably Bohemia, 16th century.",
+        "basis": "Museum object record [1]",
+        "limit": "Catalogue date and attribution, with their stated qualifications."
+      },
+      {
+        "claim": "The museum reports named chapter members and a Saint Mauritius inscription.",
+        "basis": "Museum object record [1]",
+        "limit": "The photograph does not expose every inscription or establish individual use."
+      }
+    ]
+  },
+  {
+    "id": "pedralbes-choir-panel",
+    "title": "A carved beast is not always an armorial charge",
+    "summary": "A fragment from a Catalan choir stall invites comparison between sacred imagery, heraldic vocabulary, and furniture construction.",
+    "material": "Woodcarving",
+    "lesson": "charges",
+    "question": "What context did the fragment lose?",
+    "observations": [
+      "A dark wooden panel has an irregular curved profile and projecting joints. Carved figures and animal-like forms occupy part of the edge, while much of the broad face remains plain.",
+      "The side-on view and worn relief make some details difficult to read. The fragment’s outline belongs to furniture construction, not to a heraldic field."
+    ],
+    "reading": [
+      "Heraldic vocabulary overlaps with other visual systems. A winged lion can function as an evangelist symbol, an armorial charge, or a figure in ornament. Its name and posture are not enough to select among those roles. The lost architectural and liturgical setting is part of the evidence needed to interpret the carving.",
+      "Fragments can make a composition seem more self-contained than it was. A projecting joint, plain back, or curved cut may reveal attachment to a larger seat or screen. Before redrawing the animals as an achievement, investigate the original furniture and neighbouring panels. The museum’s identification of sacred imagery is a reason to preserve that wider context."
+    ],
+    "exercise": "Describe the panel first as furniture: edges, thickness, joints, carved and uncarved faces. Then make a second account of the imagery. Explain which missing views or neighbouring components would help decide how the two accounts belong together.",
+    "discussion": "A strong answer preserves the monastery association and approximate date while attributing detailed iconography to the catalogue. It distinguishes sacred animal symbols from an armorial charge and recognizes that a fragment’s current display cannot reconstruct its entire original setting.",
+    "research": "Compare photographs or plans of the Pedralbes choir stalls and a specialist discussion of their carvings. Record how the fragment was located within the ensemble and whether that reconstruction relies on surviving joints, old images, inventories, or stylistic comparison.",
+    "studyType": "Comparative sacred imagery; no personal arms identified",
+    "catalogueTitle": "Panel from a Choir Stall",
+    "date": "c. 1330–1340",
+    "culture": "Spain, Catalonia, Monastery of Pedralbes, 14th century",
+    "medium": "walnut",
+    "accession": "1977.74",
+    "credit": "John L. Severance Fund",
+    "museum": "Cleveland Museum of Art",
+    "objectId": 149151,
+    "url": "https://clevelandart.org/art/1977.74",
+    "imageSource": "https://www.clevelandart.org/_next/image?url=https%3A%2F%2Fpiction.clevelandart.org%2Fcma%2Fump.di%3Fe%3D4B3DC349A9A9675C5E27F9C3C184F80AAF7302F33DF533ECA0C78B89405196A7%26s%3D24247294%26se%3D399313166%26v%3D0%26f%3D1977.74_o2.jpg&w=1920&q=90",
+    "image": "/images/objects/pedralbes-choir-panel.jpg",
+    "width": 976,
+    "height": 1600,
+    "accessed": "2026-10-10",
+    "imageRights": "CC0",
+    "rightsUrl": "https://www.clevelandart.org/open-access",
+    "periods": [
+      "Medieval"
+    ],
+    "alt": "A dark wooden panel has an irregular curved profile and projecting joints. Carved figures and animal-like forms occupy part of the edge, while much of the broad face remains plain.",
+    "catalogue": "The Cleveland Museum of Art catalogues Panel from a Choir Stall (1977.74) to c. 1330–1340, with the culture field Spain, Catalonia, Monastery of Pedralbes, 14th century. Cleveland identifies this walnut panel with the Monastery of Pedralbes in Catalonia and dates it around 1330–40. Its interpretation includes a female figure, evangelist beasts, and a wyvern. Those iconographic identifications are reported from the museum; this view does not independently establish every small carved detail. [1]",
+    "claims": [
+      {
+        "claim": "A dark wooden panel has an irregular curved profile and projecting joints. Carved figures and animal-like forms occupy part of the edge, while much of the broad face remains plain.",
+        "basis": "Object photograph",
+        "limit": "Photographed arrangement; not a new dating or bearer identification."
+      },
+      {
+        "claim": "c. 1330–1340; Spain, Catalonia, Monastery of Pedralbes, 14th century.",
+        "basis": "Museum object record [1]",
+        "limit": "Catalogue date and attribution, with their stated qualifications."
+      },
+      {
+        "claim": "The museum connects the panel with Pedralbes and interprets its carved sacred imagery.",
+        "basis": "Museum object record [1]",
+        "limit": "The creatures are not identified here as the personal arms of a bearer."
+      }
+    ]
+  },
+  {
+    "id": "chinese-export-monogram",
+    "title": "A shield shape around somebody’s initials",
+    "summary": "Chinese export porcelain uses armorial-style framing for a monogram, showing why a shield outline alone does not establish arms.",
+    "material": "Porcelain",
+    "lesson": "the-visual-language",
+    "question": "Is a shield-shaped cartouche enough?",
+    "observations": [
+      "A cylindrical white teapot carries a blue-and-gold shield-shaped cartouche containing intertwined letters. A small ornament sits above, while blue patterns encircle the lid and upper body.",
+      "The central letters are not a conventional field of ordinary shapes and charges. The surrounding frame borrows the visual language of an achievement without supplying a securely identified coat."
+    ],
+    "reading": [
+      "A shield outline is a powerful frame for identity. It can enclose initials, a trade mark, a decorative device, or arms. Begin by describing its contents before deciding which kind of claim it makes. The presence of a shield-like shape does not, by itself, establish hereditary armorial entitlement.",
+      "Production and consumption are separate places here too. The catalogue’s Chinese attribution and Western-market description connect a maker’s material tradition with a customer’s identity vocabulary. A recognizable set of initials would still need a provenance or documented service before it could identify an individual purchaser."
+    ],
+    "exercise": "Describe the initials without expanding them into a name. Compare this cartouche with a plate carrying documented family arms. Explain what each image supplies that the other lacks, and how an original order or surviving companion piece could change your conclusion.",
+    "discussion": "A strong answer recognizes the monogram and armorial-style framing without supplying a family coat. It preserves both possible markets, the approximate date, and the distinction between the place of manufacture and the identity of an unknown customer.",
+    "research": "Locate another piece from a documented export-porcelain service with matching initials or decoration. Record its provenance, inscriptions, and any original order. Distinguish a match in ornamental style from evidence that the vessels belonged to the same commissioned service.",
+    "studyType": "Monogram in armorial-style framing; bearer not identified",
+    "catalogueTitle": "Teapot",
+    "date": "c. 1775–1800",
+    "culture": "China, Chinese Export -- English or American Markets, 18th century",
+    "medium": "porcelain",
+    "accession": "1958.212",
+    "credit": "Gift of Mr. and Mrs. Robert Hays Gries",
+    "museum": "Cleveland Museum of Art",
+    "objectId": 135190,
+    "url": "https://clevelandart.org/art/1958.212",
+    "imageSource": "https://www.clevelandart.org/_next/image?url=https%3A%2F%2Fpiction.clevelandart.org%2Fcma%2Fump.di%3Fe%3D6128FA4E46DE4CE1983A1D6D4DD8454953385198B29CC613649736BB534A433C%26s%3D24247294%26se%3D399313166%26v%3D1%26f%3D%255Cd3885%255Cu13338856%255C1958.212_o2.jpg&w=1920&q=90",
+    "image": "/images/objects/chinese-export-monogram.jpg",
+    "width": 1600,
+    "height": 1148,
+    "accessed": "2026-10-10",
+    "imageRights": "CC0",
+    "rightsUrl": "https://www.clevelandart.org/open-access",
+    "periods": [
+      "Early modern",
+      "Modern"
+    ],
+    "alt": "A cylindrical white teapot carries a blue-and-gold shield-shaped cartouche containing intertwined letters. A small ornament sits above, while blue patterns encircle the lid and upper body.",
+    "catalogue": "The Cleveland Museum of Art catalogues Teapot (1958.212) to c. 1775–1800, with the culture field China, Chinese Export -- English or American Markets, 18th century. The museum titles the object Teapot, dates it around 1775–1800, and catalogues it as Chinese export porcelain for English or American markets. The consulted record does not name a patron or identify the letters. This study therefore treats the decoration as monogrammed and armorial in style rather than assigning an invented bearer. [1]",
+    "claims": [
+      {
+        "claim": "A cylindrical white teapot carries a blue-and-gold shield-shaped cartouche containing intertwined letters. A small ornament sits above, while blue patterns encircle the lid and upper body.",
+        "basis": "Object photograph",
+        "limit": "Photographed arrangement; not a new dating or bearer identification."
+      },
+      {
+        "claim": "c. 1775–1800; China, Chinese Export -- English or American Markets, 18th century.",
+        "basis": "Museum object record [1]",
+        "limit": "Catalogue date and attribution, with their stated qualifications."
+      },
+      {
+        "claim": "The museum catalogues Chinese porcelain made for English or American markets.",
+        "basis": "Museum object record [1]",
+        "limit": "No patron or secure expansion of the photographed monogram is established."
+      }
+    ]
+  },
+  {
+    "id": "shunei-stage-banner",
+    "title": "An actor, a costume, a banner",
+    "summary": "A Japanese theatre print makes identity visible through costume and a carried banner, without becoming a record of an actual military lord.",
+    "material": "Print",
+    "lesson": "the-visual-language",
+    "question": "Whose identity is the image performing?",
+    "observations": [
+      "A figure in broad red clothing holds a long banner and wears swords. Repeated angular devices decorate the garment, while lettering and seals occupy part of the sheet.",
+      "The image is a printed representation of a performance figure. The garment’s repeated devices, the banner’s pattern, and the sheet’s inscriptions are distinct witnesses."
+    ],
+    "reading": [
+      "Actor, character, publisher, and audience can all participate in an image’s identity. A name in a theatre-print catalogue may identify the performer rather than the person supposedly represented on stage. Preserve that distinction before using the image as evidence for the clothing or arms of a historical lord.",
+      "Comparative heraldry benefits from keeping local terminology and context visible. Repeated Japanese costume devices need their own sources rather than automatic translation into European crest, quartering, or coat of arms. The print provides a strong question about performance and recognition; it is not a military inventory or an armorial register."
+    ],
+    "exercise": "Write three captions: the actor, the role, and the physical printed sheet. Assign each visible device or inscription to the appropriate caption. Then explain which additional theatrical source would help identify the banner’s meaning in the performance.",
+    "discussion": "A strong answer retains the artist, year, actor, and role as separate facts. It does not make a battlefield record from a stage image or impose a European armorial system upon Japanese devices without evidence. It also treats an uncertain inscription as a transcription problem rather than a guessed name.",
+    "research": "Find a specialist theatre-print record or programme that connects this actor, year, and costume with a named play. Compare the banner with another performance image and ask whether its device identifies a character, actor lineage, production convention, or another association.",
+    "studyType": "Comparative Japanese performance emblems",
+    "catalogueTitle": "Ichikawa Monnosuke II as a Lord Holding a Banner",
+    "date": "1791",
+    "culture": "Japan, Edo period (1615–1868)",
+    "medium": "color woodblock print",
+    "accession": "1974.81",
+    "credit": "Gift of Jeptha H. Wade in honor of Emily V. Wade",
+    "museum": "Cleveland Museum of Art",
+    "objectId": 147986,
+    "url": "https://clevelandart.org/art/1974.81",
+    "imageSource": "https://www.clevelandart.org/_next/image?url=https%3A%2F%2Fpiction.clevelandart.org%2Fcma%2Fump.di%3Fe%3D81BDA71DCD534D05F4A97CF3508B646BD07512D352B23F1E2B28036885E81C3E%26s%3D24247294%26se%3D399313166%26v%3D0%26f%3D1974.81_o2.jpg&w=1920&q=90",
+    "image": "/images/objects/shunei-stage-banner.jpg",
+    "width": 764,
+    "height": 1600,
+    "accessed": "2026-10-10",
+    "imageRights": "CC0",
+    "rightsUrl": "https://www.clevelandart.org/open-access",
+    "periods": [
+      "Early modern"
+    ],
+    "creator": "Katsukawa Shunei (Japanese, 1762–1819)",
+    "alt": "A figure in broad red clothing holds a long banner and wears swords. Repeated angular devices decorate the garment, while lettering and seals occupy part of the sheet.",
+    "catalogue": "The Cleveland Museum of Art catalogues Ichikawa Monnosuke II as a Lord Holding a Banner (1974.81) to 1791, with the culture field Japan, Edo period (1615–1868). Cleveland identifies the subject as Ichikawa Monnosuke II as a lord holding a banner, gives Katsukawa Shunei as the artist, and dates the colour woodblock print to 1791. The record’s title distinguishes the actor from the role. This study does not independently identify the depicted play or every costume emblem. [1]",
+    "claims": [
+      {
+        "claim": "A figure in broad red clothing holds a long banner and wears swords. Repeated angular devices decorate the garment, while lettering and seals occupy part of the sheet.",
+        "basis": "Object photograph",
+        "limit": "Photographed arrangement; not a new dating or bearer identification."
+      },
+      {
+        "claim": "1791; Japan, Edo period (1615–1868).",
+        "basis": "Museum object record [1]",
+        "limit": "Catalogue date and attribution, with their stated qualifications."
+      },
+      {
+        "claim": "The museum identifies an actor represented in the role of a lord.",
+        "basis": "Museum object record [1]",
+        "limit": "The depicted role is not evidence that the actor held that lordship or used the banner in battle."
+      }
+    ]
+  },
+  {
+    "id": "champa-heraldic-lion",
+    "title": "The catalogue says heraldic. Does that mean arms?",
+    "summary": "A Cham sandstone lion challenges a European reading of the word heraldic in a much older Southeast Asian religious setting.",
+    "material": "Sculpture",
+    "lesson": "the-visual-language",
+    "question": "Which meaning of heraldic are we using?",
+    "observations": [
+      "A sandstone lion-like figure rises with lifted forelimbs, prominent eyes, an open mouth, and a heavy chest ornament. Its surviving stone surface is worn and uneven.",
+      "No shield, helmet, inscription naming an armiger, or complete European-style achievement is visible. The animal’s posture can be described without supplying those missing structures."
+    ],
+    "reading": [
+      "Terms move between cataloguing traditions. Heraldic can describe a formal, emblematic arrangement of animals outside the narrower institutional history of European armory. A resemblance to a rampant lion is therefore a useful comparison, not proof of a shared armorial system, family descent, or a missing shield.",
+      "Chronology and religious setting should resist the temptation to complete the image. The tenth-century context described by the source must not be replaced by a later European vocabulary merely because the animal is familiar. Here the museum dates the sculpture to the tenth century; keep that specific dating while investigating what the catalogue title is intended to convey."
+    ],
+    "exercise": "Write a visual description without using rampant, crest, supporter, or coat of arms. Then explain whether one of those terms could be useful as an explicitly limited comparison. Identify what evidence would be required to claim an actual armorial system.",
+    "discussion": "A strong answer respects the Cham attribution, tenth-century date, and religious context. It distinguishes a comparative posture term from a historical claim about heraldry, and recognizes that a catalogue adjective may have a broader meaning than the vocabulary of this course’s shield exercises.",
+    "research": "Consult a specialist account of Cham temple lions and the museum’s provenance discussion. Compare terminology across those sources and a European armorial description. Ask which differences concern religious meaning, sculptural arrangement, chronology, or the institutions that define armorial use.",
+    "studyType": "Comparative emblematic sculpture; no coat of arms identified",
+    "catalogueTitle": "Heraldic Lion",
+    "date": "900s",
+    "culture": "Vietnam (Champa)",
+    "medium": "Beige sandstone",
+    "accession": "1982.146",
+    "credit": "Leonard C. Hanna Jr. Fund",
+    "museum": "Cleveland Museum of Art",
+    "objectId": 150722,
+    "url": "https://clevelandart.org/art/1982.146",
+    "imageSource": "https://www.clevelandart.org/_next/image?url=https%3A%2F%2Fpiction.clevelandart.org%2Fcma%2Fump.di%3Fe%3DF6CED7F4878A35EA895001D070EA990819DAA5426AAF5F3ED3C620488E25AD86%26s%3D24247294%26se%3D399313166%26v%3D0%26f%3D1982.146_o2.jpg&w=1920&q=90",
+    "image": "/images/objects/champa-heraldic-lion.jpg",
+    "width": 997,
+    "height": 1600,
+    "accessed": "2026-10-10",
+    "imageRights": "CC0",
+    "rightsUrl": "https://www.clevelandart.org/open-access",
+    "periods": [
+      "Medieval"
+    ],
+    "alt": "A sandstone lion-like figure rises with lifted forelimbs, prominent eyes, an open mouth, and a heavy chest ornament. Its surviving stone surface is worn and uneven.",
+    "catalogue": "The Cleveland Museum of Art catalogues Heraldic Lion (1982.146) to 900s, with the culture field Vietnam (Champa). Cleveland titles the sculpture Heraldic Lion, dates it to the 900s, and attributes it to Vietnam, Champa. Its description places lion imagery within Cham religious sites and broader relationships with Indian Buddhist and Hindu traditions. The word heraldic in that title does not establish a medieval European coat of arms. [1]",
+    "claims": [
+      {
+        "claim": "A sandstone lion-like figure rises with lifted forelimbs, prominent eyes, an open mouth, and a heavy chest ornament. Its surviving stone surface is worn and uneven.",
+        "basis": "Object photograph",
+        "limit": "Photographed arrangement; not a new dating or bearer identification."
+      },
+      {
+        "claim": "900s; Vietnam (Champa).",
+        "basis": "Museum object record [1]",
+        "limit": "Catalogue date and attribution, with their stated qualifications."
+      },
+      {
+        "claim": "The museum attributes the sculpture to tenth-century Champa and a religious visual tradition.",
+        "basis": "Museum object record [1]",
+        "limit": "No personal coat of arms or European armorial bearer is established."
+      }
+    ]
+  },
+  {
+    "id": "garter-banners-bain",
+    "title": "The banners that leave. The plates that stay.",
+    "catalogueTitle": "St. George’s Chapel: Bain News Service photograph",
+    "summary": "An early twentieth-century photograph records the Garter’s layered display of banners, crests, helms, and permanent stall plates.",
+    "date": "Photograph: ca. 1915–1920",
+    "culture": "British · Windsor",
+    "material": "Architectural display",
+    "medium": "Glass-negative photograph of the chapel’s textile, metal, and wooden display",
+    "accession": "LC-B2-4463-12; digital ID ggbain.26050",
+    "identifierLabel": "Photograph identifiers",
+    "credit": "Bain News Service; Library of Congress, Prints and Photographs Division",
+    "museum": "Library of Congress / St George’s Chapel",
+    "objectId": "ggbain.26050",
+    "url": "https://www.loc.gov/resource/ggbain.26050/",
+    "imageRights": "Public domain",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:St._George%27s_Chapel_LOC_24206236434.jpg",
+    "imageAttribution": "Bain News Service / Library of Congress",
+    "imageRightsNote": "The Commons file identifies the Bain photograph as public domain and reproduces the Library of Congress advisory: no known restrictions on publication. This is not a CC0 licence from the chapel.",
+    "imageRecordUrl": "https://commons.wikimedia.org/wiki/File:St._George%27s_Chapel_LOC_24206236434.jpg",
+    "lesson": "heraldry-in-public-life",
+    "periods": [
+      "Modern"
+    ],
+    "studyType": "Dated photographic witness to a changing Garter display",
+    "question": "Which parts of an honour survive their holder?",
+    "observations": [
+      "Rows of banners hang over carved stalls. Helms and crest-like ornaments stand along the canopies, while small rectangular plates cover parts of the woodwork below.",
+      "The photograph is monochrome and angled. It records the relative placement of these things, but folded cloth and distance conceal some charges and inscriptions. Written numbers along the upper edge belong to the photographic record."
+    ],
+    "catalogue": "The photograph’s reproduced Library of Congress metadata gives a date between about 1915 and 1920, Bain News Service as publisher, and the call number LC-B2-4463-12. The College of St George’s institutional explanation distinguishes temporary banner, helm, mantling, and crest displays from stall plates that remain after a holder’s death. That explanation supplies the practice, not a verified name for every banner in this particular view. [1]",
+    "reading": [
+      "The ensemble combines objects with different durations. A stall can acquire a new holder while older plates remain as witnesses to previous members. A photograph therefore records a particular arrangement within a longer accumulation of honours, not an immutable diagram of the Order.",
+      "Separate the living display from the enduring memorial record. The presence of a banner and a plate near one another is a promising relationship, but the camera’s angle is not a catalogue of their identities. A dated stall list, legible plate, and documented banner position would be needed to connect them securely.",
+      "The image’s own history also matters. A catalogue range is not an exact exposure date, and the photograph’s date is not the date of the medieval architecture or every item shown. Comparing this view with another period is valuable precisely because the display can change."
+    ],
+    "claims": [
+      {
+        "claim": "Banners hang above the stalls, with further heraldic objects beneath them.",
+        "basis": "Bain photograph",
+        "limit": "The view does not identify every represented holder."
+      },
+      {
+        "claim": "The photo is catalogued to about 1915–1920.",
+        "basis": "Library of Congress metadata reproduced with the file",
+        "limit": "A date range, not a precise day or the dates of all displayed objects."
+      },
+      {
+        "claim": "Stall plates remain after a holder’s death while other achievements are removed.",
+        "basis": "College of St George institutional account",
+        "limit": "The general practice does not reconstruct this photograph’s complete display."
+      }
+    ],
+    "exercise": "Choose one visible stall. Inventory its cloth, metal, wood, and plates without naming its holder. Then design a research table connecting each item to a date, inscription, and source. Explain how you would distinguish a permanent memorial from the display of the stall’s current occupant.",
+    "discussion": "A strong answer treats the photograph as a dated witness and the College’s account as evidence of practice. It does not reconstruct tinctures from grey values or turn an approximate exposure date into an original installation date. It proposes a documented method for identifying a particular stall.",
+    "research": "Compare this view with the 1983 colour photograph in this collection. Record which architectural features can anchor the comparison, which banners are obscured, and which apparent differences could be camera position rather than a change of holder.",
+    "additionalSources": [
+      {
+        "title": "Heraldry in St George’s Chapel",
+        "holding": "College of St George",
+        "url": "https://www.stgeorges-windsor.org/featured_articles/heraldry-st-georges-chapel/",
+        "note": "Institutional explanation of banners, helms, crests, and lasting stall plates. Its illustrated holders are not a current roll call."
+      },
+      {
+        "title": "Garter Banner List",
+        "holding": "College of St George",
+        "url": "https://www.stgeorges-windsor.org/about-st-georges/history/the-order-of-the-garter/garter-banner-list/",
+        "note": "Institutional account of removal and subsequent locations of banners; consult the linked list’s own revision date."
+      }
+    ],
+    "imageSource": "https://upload.wikimedia.org/wikipedia/commons/c/cf/St._George%27s_Chapel_LOC_24206236434.jpg",
+    "image": "/images/objects/garter-banners-bain.jpg",
+    "accessed": "2026-10-10",
+    "alt": "Rows of banners hang over carved stalls. Helms and crest-like ornaments stand along the canopies, while small rectangular plates cover parts of the woodwork below.",
+    "width": 796,
+    "height": 1024
+  },
+  {
+    "id": "garter-banners-colour",
+    "title": "A living order inside an old chapel",
+    "catalogueTitle": "St George’s Chapel, Windsor Castle: colour photograph, 1983",
+    "summary": "A colour view from 1983 shows the Garter display in use, with armorial cloth suspended above a much older setting.",
+    "date": "Photograph: 21 September 1983",
+    "culture": "British · Windsor",
+    "material": "Architectural display",
+    "medium": "Colour photograph of banners, helms, crests, stalls, and architectural heraldry",
+    "accession": "Flickr photograph 41181845160",
+    "identifierLabel": "Photograph identifier",
+    "credit": "Photograph by Serendigity, released to the public domain by its author",
+    "museum": "St George’s Chapel, Windsor / Wikimedia Commons",
+    "objectId": "41181845160",
+    "url": "https://www.stgeorges-windsor.org/featured_articles/heraldry-st-georges-chapel/",
+    "imageRights": "Public domain",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:St_George%27s_Chapel_Windsor_Castle_(41181845160).jpg",
+    "imageAttribution": "Photo by Serendigity",
+    "imageRightsNote": "The author marked the Flickr photograph public domain; the Commons file records a PD-author-FlickrPDM release and a passed licence review. The public-domain status concerns this photograph, not an armorial entitlement.",
+    "imageRecordUrl": "https://commons.wikimedia.org/wiki/File:St_George%27s_Chapel_Windsor_Castle_(41181845160).jpg",
+    "lesson": "heraldry-in-public-life",
+    "periods": [
+      "Modern"
+    ],
+    "studyType": "Modern photographic witness; arrangement shown is from 1983",
+    "question": "What changes inside a seemingly timeless display?",
+    "observations": [
+      "Large coloured banners occupy the upper left, with helms and ornaments over the stalls. Shields also appear within the patterned vault, while lamps, seats, and a patterned floor organize the occupied room.",
+      "The photograph shows both cloth that hangs and heraldry incorporated into the architecture. Several banners turn away or overlap; a clear room photograph is still an incomplete armorial record."
+    ],
+    "catalogue": "The photographer’s file record dates this view to 21 September 1983 and credits the author Serendigity. The College of St George explains that the Garter’s banners and other achievements relate to individual holders, while stall plates remain as a lasting record. The photograph is an archived twentieth-century arrangement, not a list of the banners installed today. [1]",
+    "reading": [
+      "Heraldry can give a room a sense of continuity while particular displays are replaced. Keep the identity of the institution, the architecture’s history, and the membership represented on a date separate. An old setting can contain newly granted arms; an older banner can also be removed without erasing its holder’s stall plate.",
+      "Colour is useful but not conclusive. Light, aged fabric, photographic film, and a later scan can affect the hues a screen displays. A banner’s fold can hide a charge even in a sharp image. Use the photograph to locate and compare features, then consult a documented blazon or institutional record before completing the design.",
+      "The view is also a record of use: lamps, cushions, seating, and circulation sit beside heraldic objects. Those details remind us that this is a working chapel. A clean vector reconstruction of a banner would answer a different question from a photograph of the ensemble."
+    ],
+    "claims": [
+      {
+        "claim": "The archived file dates the photograph to 21 September 1983.",
+        "basis": "Photographer’s file record",
+        "limit": "Not the manufacture date of every banner or a statement of today’s arrangement."
+      },
+      {
+        "claim": "Banners and architectural shield decoration coexist in the room.",
+        "basis": "Colour photograph",
+        "limit": "The image does not establish a shared date, maker, or function for all devices."
+      },
+      {
+        "claim": "The College distinguishes removable achievements from lasting stall plates.",
+        "basis": "College of St George institutional account",
+        "limit": "A general explanation, not a verified identification of every object in this view."
+      }
+    ],
+    "exercise": "Choose one banner and one shield in the vault. Describe their material, location, visible design, and relationship to the room. Then explain why the same method of dating or identifying them would be inadequate. Propose a source appropriate to each.",
+    "discussion": "A strong answer keeps the 1983 exposure date explicit, leaves hidden charges unresolved, and distinguishes the changing personal display from architectural heraldry. It treats colour as photographed evidence and does not name current members from an archived image.",
+    "research": "Compare the College’s explanation and revised banner-location list with this archived image. Identify one feature that could be anchored by a dated stall record. Avoid treating a present-day list as a retrospective inventory of 1983.",
+    "additionalSources": [
+      {
+        "title": "The Quire",
+        "holding": "College of St George",
+        "url": "https://www.stgeorges-windsor.org/about-st-georges/experience-st-georges/360-virtual-tours/the-quire/",
+        "note": "Institutional tour explaining the quire, stalls, banners, and crests."
+      },
+      {
+        "title": "Garter Banner List",
+        "holding": "College of St George",
+        "url": "https://www.stgeorges-windsor.org/about-st-georges/history/the-order-of-the-garter/garter-banner-list/",
+        "note": "Background on banner removal and subsequent locations; lists carry their own dates."
+      }
+    ],
+    "imageSource": "https://upload.wikimedia.org/wikipedia/commons/4/46/St_George%27s_Chapel_Windsor_Castle_%2841181845160%29.jpg",
+    "image": "/images/objects/garter-banners-colour.jpg",
+    "accessed": "2026-10-10",
+    "alt": "Large coloured banners occupy the upper left, with helms and ornaments over the stalls. Shields also appear within the patterned vault, while lamps, seats, and a patterned floor organize the occupied room.",
+    "width": 1122,
+    "height": 1600,
+    "recordTitle": "Heraldry in St George’s Chapel",
+    "recordHolding": "College of St George",
+    "recordKind": "institutional account"
+  },
+  {
+    "id": "st-michael-george-banners",
+    "title": "Another order. Another room of arms.",
+    "catalogueTitle": "Chapel of St Michael and St George, St Paul’s Cathedral, looking east",
+    "summary": "A detailed 2014 photograph shows modern armorial banners above stalls in the London chapel of a different order of chivalry.",
+    "date": "Photograph: 30 May 2014",
+    "culture": "British · London",
+    "material": "Architectural display",
+    "medium": "Digital colour photograph of chapel banners, stalls, and memorial display",
+    "accession": "Wikimedia Commons file 33156317",
+    "identifierLabel": "Photograph identifier",
+    "credit": "Photo by DAVID ILIFF. License: https://creativecommons.org/licenses/by-sa/3.0/",
+    "museum": "St Paul’s Cathedral / Wikimedia Commons",
+    "creator": "David Iliff",
+    "objectId": "33156317",
+    "url": "https://www.centralchancery.org.uk/orders-of-chivalry/the-most-distinguished-order-of-st-michael-and-st-george/",
+    "imageRights": "CC BY-SA 3.0",
+    "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "imageAttribution": "Photo by DAVID ILIFF",
+    "imageRightsNote": "Photograph and this resized copy are distributed under CC BY-SA 3.0. Credit the photographer, link the licence, indicate changes, and apply the same or a compatible licence to adaptations. Resized without cropping or recolouring.",
+    "imageRecordUrl": "https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_Chapel_of_St_Michael_%26_St_George,_London_UK_-_Diliff.jpg",
+    "lesson": "heraldry-in-public-life",
+    "periods": [
+      "Modern"
+    ],
+    "studyType": "Modern armorial display photographed in 2014; not the Garter chapel",
+    "question": "What does a shared name conceal?",
+    "observations": [
+      "Coloured rectangular banners hang over the stalls on the right of a bright chapel. Carved wooden seats and wall panels face one another across an aisle leading to an altar.",
+      "The banners contain different compositions, some partly folded or cut by the frame. The room’s architecture, lettering, memorial panels, and textiles are separate kinds of evidence."
+    ],
+    "catalogue": "David Iliff’s file record dates the eastward-looking photograph to 30 May 2014. The Central Chancery identifies this as the Order of St Michael and St George’s chapel at St Paul’s, dedicated in 1906. Its account and annual report distinguish stall furnishings, permanent stall plates, and the armorial banners displayed by Knights and Dames Grand Cross. These are the practices of this order; they should not be borrowed indiscriminately from the Garter. [1]",
+    "reading": [
+      "Saint George appears in the names of both chapels, but the institutions are different. Windsor’s Garter chapel and this London chapel have their own orders, membership, grades, and display practices. A useful comparison begins by establishing those documentary addresses rather than assuming every room of armorial banners follows one rule.",
+      "The photograph preserves a modern display on a particular day. It does not establish that every banner is newly designed, nor does it identify today’s stall holders. Familiar charges should prompt a search for a documented bearer, not a name guessed from a resemblance or a present-day list.",
+      "Image rights belong in the evidence too. This photograph is licensed by its author under CC BY-SA 3.0, which differs from the museum’s CC0 photographs and public-domain archival images elsewhere in the collection. Keeping the credit, licence link, and resize statement attached to reproductions makes the image’s modern authorship visible."
+    ],
+    "claims": [
+      {
+        "claim": "The photograph records the chapel looking east on 30 May 2014.",
+        "basis": "Photographer’s file record",
+        "limit": "A dated view, not a current inventory or the age of every object shown."
+      },
+      {
+        "claim": "The chapel belongs to the Order of St Michael and St George and was dedicated in 1906.",
+        "basis": "Central Chancery institutional account",
+        "limit": "Not the Garter or St George’s Chapel at Windsor."
+      },
+      {
+        "claim": "Grand Cross holders display armorial banners in the chapel.",
+        "basis": "Central Chancery annual report",
+        "limit": "Do not infer banner rights for every grade or identify holders from this image alone."
+      }
+    ],
+    "exercise": "Compare this photograph with a Windsor view. Make a table with the order, location, dated view, forms of display, and institutional source for each. Explain one resemblance and one rule that needs its own documentary support rather than being transferred between the two settings.",
+    "discussion": "A strong answer keeps the orders separate and gives both photographs their own dates. It distinguishes a banner from a wall memorial or plate, leaves obscured designs incomplete, and attributes the different display practices to the correct institution.",
+    "research": "Read the Central Chancery’s annual report alongside its institutional chapel description. Select one difference between temporary banners and lasting stall records, then identify the kind of dated record needed to connect a photographed banner with a particular holder.",
+    "additionalSources": [
+      {
+        "title": "The Chapel of the Order: Annual Report 2023–2025",
+        "holding": "Central Chancery of the Orders of Knighthood",
+        "url": "https://www.centralchancery.org.uk/media/yjddltld/2023-2025-smsg-annual-report.pdf",
+        "note": "Describes permanent stall plates and lifetime armorial banners for Knights and Dames Grand Cross; this later report is contextual evidence, not a list of the 2014 photograph’s holders."
+      }
+    ],
+    "imageSource": "https://upload.wikimedia.org/wikipedia/commons/6/6f/St_Paul%27s_Cathedral_Chapel_of_St_Michael_%26_St_George%2C_London_UK_-_Diliff.jpg",
+    "image": "/images/objects/st-michael-george-banners.jpg",
+    "accessed": "2026-10-10",
+    "alt": "Coloured rectangular banners hang over the stalls on the right of a bright chapel. Carved wooden seats and wall panels face one another across an aisle leading to an altar.",
+    "width": 1600,
+    "height": 1224,
+    "recordTitle": "The Most Distinguished Order of St Michael and St George",
+    "recordHolding": "Central Chancery of the Orders of Knighthood",
+    "recordKind": "institutional account"
   }
 ]

@@ -6,7 +6,7 @@ import {objectStudies} from '../../lib/objects.js';
 import {NOTE_FIELDS} from '../../lib/object-comparison.js';
 const initial=[objectStudies[0],objectStudies.find(object=>object.id==='cary-bookplate')||objectStudies[1]];
 ---
-<Base title="Compare Historical Objects" description="Compare two heraldic museum objects side by side, record observations and documentary claims, and export a source-linked research notebook.">
+<Base title="Compare Object Studies" description="Compare two heraldic objects or displays side by side, record observations and documentary claims, and export a source-linked research notebook.">
   <PageIntro eyebrow="The comparative research bench" title="Put two witnesses together." description="Compare the objects, question their identifications, and keep a record of the evidence. Your argument begins where a resemblance stops being enough."/>
   <section class="section"><div class="wrap">
     <a href="/objects/" class="text-link">← The object-study collection</a>
@@ -17,17 +17,17 @@ const initial=[objectStudies[0],objectStudies.find(object=>object.id==='cary-boo
     <div class="bench-pair" id="bench-pair">
       {initial.map((object,i)=><article class="bench-object" data-side={i===0?'left':'right'}>
         <a class="bench-picture" data-full-image href={object.imageSource} target="_blank" rel="noopener"><ObjectImage object={object} loading="eager"/></a>
-        <div class="bench-record"><p class="eyebrow" data-culture>{object.culture}</p><h2 data-title>{object.catalogueTitle}</h2><dl>
+        <div class="bench-record"><p class="caption"><span data-image-attribution>{object.imageAttribution||object.credit}</span> · <a data-image-license href={object.rightsUrl}>{object.imageRights}</a>. Resized without cropping or recolouring.</p><p class="eyebrow" data-culture>{object.culture}</p><h2 data-title>{object.catalogueTitle}</h2><dl>
           <div><dt>Catalogue date</dt><dd data-date>{object.date}</dd></div>
           <div><dt>Material</dt><dd data-medium>{object.medium}</dd></div>
           <div><dt>Catalogue maker</dt><dd data-creator>{'creator' in object?object.creator:'Not specified in this study'}</dd></div>
           <div><dt>Repository</dt><dd data-museum>{object.museum}</dd></div>
-          <div><dt>Accession</dt><dd data-accession>{object.accession}</dd></div>
-        </dl><p data-summary>{object.summary}</p><p class="caption" data-study-scope>{'studyType' in object?object.studyType:''}</p><p class="caption" data-image-note>{'imageNote' in object?object.imageNote:''}</p><div class="bench-links"><a data-study href={'/objects/'+object.id+'/'}>Read the study ↗</a><a data-record href={object.url}>Collection record ↗</a></div></div>
+          <div><dt data-identifier-label>{object.identifierLabel||'Accession'}</dt><dd data-accession>{object.accession}</dd></div>
+        </dl><p data-summary>{object.summary}</p><p class="caption" data-study-scope>{'studyType' in object?object.studyType:''}</p><p class="caption" data-image-note>{'imageNote' in object?object.imageNote:''}</p><div class="bench-links"><a data-study href={'/objects/'+object.id+'/'}>Read the study ↗</a><a data-record href={object.url}>Source record ↗</a></div></div>
       </article>)}
     </div>
     <div class="bench-notebook">
-      <div class="rule-heading"><div><p class="eyebrow"><span class="star">✦</span> Make your evidence explicit</p><h2 class="section-title">The research notebook.</h2></div><p>Notes are saved in this browser for each ordered pair. Keep a copy by exporting them with the objects’ accession numbers and source links.</p></div>
+      <div class="rule-heading"><div><p class="eyebrow"><span class="star">✦</span> Make your evidence explicit</p><h2 class="section-title">The research notebook.</h2></div><p>Notes are saved in this browser for each ordered pair. Keep a copy by exporting them with the objects’ identifiers and source links.</p></div>
       <p id="notes-status" class="caption" role="status" aria-live="polite">Choose your objects and begin with a question.</p>
       <form id="comparison-notes">{NOTE_FIELDS.map(field=><label for={'note-'+field.id}><span>{field.label}</span><small>{field.prompt}</small><textarea id={'note-'+field.id} name={field.id} maxlength="50000" rows={field.id==='question'?2:4}></textarea></label>)}</form>
       <div class="notebook-actions"><button class="btn btn-dark" id="export-notes" type="button">Export notes ↓</button><button class="btn btn-line" id="copy-notes" type="button">Copy notes</button><button class="btn btn-line" id="copy-comparison" type="button">Copy comparison link</button></div>
@@ -67,8 +67,9 @@ const initial=[objectStudies[0],objectStudies.find(object=>object.id==='cary-boo
       [leftSelect,rightSelect].forEach((select,i)=>{select.value=pair[i].id;Array.from(select.options).forEach(option=>{option.disabled=option.value===pair[1-i].id;});});
       pair.forEach((object,i)=>{
         const card=document.querySelector<HTMLElement>('[data-side="'+(i===0?'left':'right')+'"]')!;
-        const fields={'title':object.catalogueTitle,'culture':object.culture,'date':object.date,'medium':object.medium,'creator':'creator' in object?object.creator:'Not specified in this study','museum':object.museum,'accession':object.accession,'summary':object.summary,'study-scope':'studyType' in object?object.studyType:'','image-note':'imageNote' in object?object.imageNote:''};
+        const fields={'title':object.catalogueTitle,'culture':object.culture,'date':object.date,'medium':object.medium,'creator':'creator' in object?object.creator:'Not specified in this study','museum':object.museum,'accession':object.accession,'identifier-label':object.identifierLabel||'Accession','image-attribution':object.imageAttribution||object.credit,'summary':object.summary,'study-scope':'studyType' in object?object.studyType:'','image-note':'imageNote' in object?object.imageNote:''};
         Object.entries(fields).forEach(([key,value])=>{card.querySelector<HTMLElement>('[data-'+key+']')!.textContent=value;});
+        const license=card.querySelector<HTMLAnchorElement>('[data-image-license]')!;license.href=object.rightsUrl;license.textContent=object.imageRights;
         const image=new Image();image.alt=object.alt;image.width=object.width;image.height=object.height;image.decoding='async';image.dataset.sourceImage=object.imageSource;image.src=object.image;installImageFallback(image);
         const photo=card.querySelector<HTMLAnchorElement>('[data-full-image]')!;photo.replaceChildren(image);photo.href=object.imageSource;photo.setAttribute('aria-label','Enlarge '+object.catalogueTitle);
         card.querySelector<HTMLAnchorElement>('[data-study]')!.href='/objects/'+object.id+'/';card.querySelector<HTMLAnchorElement>('[data-record]')!.href=object.url;
@@ -83,7 +84,7 @@ const initial=[objectStudies[0],objectStudies.find(object=>object.id==='cary-boo
       if(storedNotes())restore();else{fillNotes({...notes,left:notes.right,right:notes.left});save();}
     });
     document.querySelector('#export-notes')?.addEventListener('click',()=>{
-      const url=URL.createObjectURL(new Blob([comparisonReport(pair[0],pair[1],readNotes())],{type:'text/markdown;charset=utf-8'}));const link=document.createElement('a');link.href=url;link.download='heraldry-'+pair[0].id+'-and-'+pair[1].id+'.md';document.body.append(link);link.click();link.remove();setTimeout(()=>URL.revokeObjectURL(url),1500);status.textContent='Research notes exported with accession numbers and source links.';
+      const url=URL.createObjectURL(new Blob([comparisonReport(pair[0],pair[1],readNotes())],{type:'text/markdown;charset=utf-8'}));const link=document.createElement('a');link.href=url;link.download='heraldry-'+pair[0].id+'-and-'+pair[1].id+'.md';document.body.append(link);link.click();link.remove();setTimeout(()=>URL.revokeObjectURL(url),1500);status.textContent='Research notes exported with object identifiers and source links.';
     });
     document.querySelector('#copy-notes')?.addEventListener('click',async()=>{try{await navigator.clipboard.writeText(comparisonReport(pair[0],pair[1],readNotes()));status.textContent='Research notes copied with their sources.';}catch{status.textContent='Clipboard access is unavailable. Use Export notes.';}});
     document.querySelector('#copy-comparison')?.addEventListener('click',async()=>{try{await navigator.clipboard.writeText(location.href);status.textContent='Comparison link copied. Your private notes are not included.';}catch{status.textContent='Copy the address-bar URL to share these objects.';}});

@@ -81,3 +81,15 @@ test('seal comparison links render photograph qualifications and clear them for 
   assert.equal(ui.cards[1].get('[data-image-note]').textContent,'');
   assert.equal(ui.cards[1].get('[data-study-scope]').textContent,'');
 });
+
+test('switching a comparison preserves the photograph licence and replaces its credit on the next choice',()=>{
+  const ui=notebook({search:'?left=st-michael-george-banners&right=garter-banners-colour'});
+  assert.equal(ui.cards[0].get('[data-image-attribution]').textContent,'Photo by DAVID ILIFF');
+  assert.equal(ui.cards[0].get('[data-image-license]').href,'https://creativecommons.org/licenses/by-sa/3.0/');
+  assert.equal(ui.cards[0].get('[data-image-license]').textContent,'CC BY-SA 3.0');
+  assert.equal(ui.cards[0].get('[data-identifier-label]').textContent,'Photograph identifier');
+  ui.left.value='cary-bookplate';ui.left.handlers.change();
+  assert.equal(ui.cards[0].get('[data-image-license]').textContent,'CC0');
+  assert.equal(ui.cards[0].get('[data-image-attribution]').textContent,objectStudies.find(o=>o.id==='cary-bookplate').credit);
+  assert.equal(ui.cards[0].get('[data-identifier-label]').textContent,'Accession');
+});

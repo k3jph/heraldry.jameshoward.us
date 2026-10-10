@@ -1,7 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import {objectStudies} from '../src/lib/objects.js';
-import {NOTE_FIELDS,selectObjectPair,comparisonNotes,comparisonStorageKey,comparisonReport} from '../src/lib/object-comparison.js';
+import {NOTE_FIELDS,selectObjectPair,comparisonNotes,comparisonStorageKey,comparisonReport,exportObjectRecovery} from '../src/lib/object-comparison.js';
 import {installImageFallback} from '../src/lib/object-images.js';
 
 test('comparison links normalize unknown and repeated objects to distinct real records',()=>{
@@ -57,4 +57,17 @@ test('seal reports retain uncertain attribution, later manufacture, and impressi
   assert.ok(report.includes(matrix.date));
   assert.ok(report.includes(matrix.studyType));
   assert.ok(report.includes(matrix.imageNote));
+});
+
+
+test('both notebook export formats preserve licensed photograph attribution and reuse terms',()=>{
+  const photo=objectStudies.find(object=>object.id==='st-michael-george-banners');
+  const other=objectStudies[0];
+  const report=comparisonReport(photo,other,{});
+  for(const value of ['DAVID ILIFF',photo.rightsUrl,photo.imageRecordUrl,photo.imageRightsNote,'resized without cropping or recolouring'])assert.ok(report.includes(value));
+  const recovery=exportObjectRecovery([photo,other],comparisonNotes({}));
+  assert.equal(recovery.sources[0].imageAttribution,photo.imageAttribution);
+  assert.equal(recovery.sources[0].rightsUrl,photo.rightsUrl);
+  assert.equal(recovery.sources[0].imageRecordUrl,photo.imageRecordUrl);
+  assert.match(report,/Photograph identifier:/);
 });

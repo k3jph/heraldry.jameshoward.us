@@ -29,10 +29,7 @@
   border-top: 3px solid var(--gdpr-cookie-gold);
   box-shadow: 0 -8px 28px rgb(0 0 0 / 30%);
   opacity: 0;
-  transform: translateY(100%);
-  transition:
-    opacity 180ms linear,
-    transform 180ms linear;
+  transition: opacity 180ms linear;
 }
 
 .gdpr-cookie,
@@ -46,7 +43,6 @@
 
 .gdpr-cookie.is-visible {
   opacity: 1;
-  transform: translateY(0);
 }
 
 .gdpr-cookie__panel {
