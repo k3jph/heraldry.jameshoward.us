@@ -1,7 +1,7 @@
 ---
 title: Cadency and difference
 unit: 8
-updated: '2026-10-08'
+updated: '2026-10-10'
 status: 'Expanded teaching draft; specialist review pending'
 ---
 

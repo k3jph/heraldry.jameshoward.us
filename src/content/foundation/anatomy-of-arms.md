@@ -1,7 +1,7 @@
 ---
 title: Anatomy of an achievement
 unit: 2
-updated: '2026-10-08'
+updated: '2026-10-10'
 status: 'Expanded teaching draft; specialist review pending'
 ---
 

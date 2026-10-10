@@ -1,7 +1,7 @@
 ---
 title: The armiger's workshop
 unit: 12
-updated: '2026-10-09'
+updated: '2026-10-10'
 status: 'Expanded teaching draft; specialist review pending'
 ---
 
