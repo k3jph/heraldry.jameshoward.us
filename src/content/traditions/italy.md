@@ -23,7 +23,7 @@ The [Archivio Centrale dello Stato](https://acs.cultura.gov.it/libro-doro-della-
 
 The archive's discussion also places the *Libro d'oro della Nobiltà Italiana* and official lists in the legal-historical context of recognition by the Kingdom. These are important sources of historic administrative status. Their survival as records does not mean the abolished heraldic machinery persists unchanged as a source of contemporary legal privileges.
 
-This illustrates a principle familiar to legal historians but surprisingly neglected in heraldry websites: **documents survive political regimes**. The file created by a former government remains an archival object; its old legal force need not survive intact. A graduate student should explain that distinction before presenting a nineteenth- or twentieth-century Italian record as a present-day certification.
+The file survives the government that created it. We can still use it to investigate a recognition made under the Kingdom, provided we identify the act, date, and competent authority. A claim about the record’s present legal effects adds another step: it has to be examined under the constitutional settlement that followed. The continuity of the parchment or paper cannot supply that missing legal connection. This is why historical recognition and contemporary status belong in separate parts of the argument.
 
 ## The archive as a research site
 

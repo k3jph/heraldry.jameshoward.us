@@ -11,7 +11,7 @@ level: "Advanced undergraduate / graduate"
 
 ## The ordinary municipal coat is historically interesting
 
-Many websites jump from royal coats of arms to spectacular noble achievements. The [Czech Parliament's REKOS register](https://www.rekos.psp.cz/) presents a different kind of archive: an enormous body of municipal coats and flags, each tied to a specific local identity and, where applicable, a dated authorization process. This is a direct reminder that heraldry is infrastructure for institutions, not only a language of hereditary nobles.
+A municipal coat identifies a public body whose elected officers can change while the institution continues. That makes the [Czech Parliament's REKOS register](https://www.rekos.psp.cz/) useful for studying both visual identity and administration. Its records connect coats and flags to named municipalities and, where applicable, dated authorizations. We can follow a design into the procedure that established its official use, then ask how that act relates to older local imagery. The picture becomes an entry into an institutional history.
 
 REKOS documents applications and records information about municipal symbols of the Czech Republic. The parliamentary site explains that the right to use municipal emblems is granted by the Speaker of the Chamber of Deputies, following the relevant committee process. Specialist heraldic and vexillological expertise supports that process.
 

@@ -11,7 +11,7 @@ level: "Advanced undergraduate / graduate"
 
 ## A book that can actually be located
 
-The Portuguese *Livro do Armeiro-Mor*, compiled and illuminated in **1509** during the reign of Manuel I, is an excellent place to begin a serious study of Portuguese heraldry. The national archive, the [Torre do Tombo](https://antt.dglab.gov.pt/), identifies the historical manuscript with the royal papers, *Casa Real, Cartório da Nobreza, livro 19*. Once we have a specific catalogue identification, a heraldic image ceases to be an anonymous web decoration and becomes a historical object capable of citation.
+The Portuguese *Livro do Armeiro-Mor*, compiled and illuminated in **1509** during the reign of Manuel I, gives us a dated manuscript through which to investigate Portuguese heraldry. The national archive, the [Torre do Tombo](https://antt.dglab.gov.pt/), identifies the historical manuscript with the royal papers, *Casa Real, Cartório da Nobreza, livro 19*. Once we have a specific catalogue identification, a heraldic image ceases to be an anonymous web decoration and becomes a historical object capable of citation.
 
 The manuscript is also a reminder that armorial books were created for particular projects. An illustrated compilation is a deliberate selection, produced in a courtly and political environment. Its page order, inclusion of particular bearers, treatment of titles and incorporation of non-Portuguese material may tell us as much about the compiler's ambitions as any single shield.
 

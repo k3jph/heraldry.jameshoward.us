@@ -16,8 +16,8 @@ const foundation=await getCollection('foundation');
 const lessonMinutes=(slug:string)=>chapterReadMinutes(foundation.find(chapter=>chapter.id===slug)?.body);
 const example={field:'azure',division:'none',ordinary:'fess',ordinaryTincture:'or',charge:'martlet',chargeTincture:'gules',count:3};
 const cards=[
-  {symbol:'Ⅰ',title:'Learn the language',description:'Twelve self-paced university-style units. From the first field to the law of arms.',link:'/academy/',action:'Enter the academy'},
-  {symbol:'✦',title:'Draw the impossible',description:'Change colours, charges and ordinaries. Watch the heraldic grammar respond.',link:'/atelier/',action:'Open the atelier'},
+  {symbol:'Ⅰ',title:'Learn the language',description:'Twelve readings explain how a shield is composed, how we describe it, and what evidence connects it to a bearer.',link:'/academy/',action:'Enter the academy'},
+  {symbol:'✦',title:'Build a shield',description:'Change colours, charges and ordinaries. Watch the heraldic grammar respond.',link:'/atelier/',action:'Open the atelier'},
   {symbol:'⌕',title:'Read the evidence',description:'A multilingual primary-source atlas, a field guide and links to the actual authorities.',link:'/resources/',action:'Explore the sources'}
 ];
 ---
@@ -26,7 +26,7 @@ const cards=[
     <div class="wrap hero-layout">
       <div class="hero-copy">
         <h1>THE<br/>LANGUAGE <em>of arms.</em></h1>
-        <p class="hero-description">A thousand years of symbols. A language you can learn. An interactive academy where history, art, geometry and identity finally speak to one another.</p>
+        <p class="hero-description">A coat of arms can move from a shield to a window and still be recognizable. Learn how that works, draw your own examples, and investigate what surviving objects can actually tell us.</p>
         <div class="hero-actions">
           <a class="btn btn-gold" href="/academy/">Begin your education <span aria-hidden="true">↗</span></a><a class="btn btn-light-line" href="/lecture/the-visual-language/">Enter the lecture hall ▶</a>
           <a class="btn btn-light-line" href="/atelier/">Enter the atelier <span aria-hidden="true">→</span></a>
@@ -49,13 +49,13 @@ const cards=[
   </div>
   <section class="section">
     <div class="wrap">
-      <p class="eyebrow"><span class="star">✦</span> Not another family crest shop</p>
-      <p class="intro-statement">Heraldry is <strong>part visual grammar, part historical evidence, part living art.</strong> We built a place to learn all three—without the mythology, the gatekeeping, or the insistence that every surname comes with a matching coffee mug.</p>
+      <p class="eyebrow"><span class="star">✦</span> Start with the design</p>
+      <p class="intro-statement">Heraldry is <strong>a way to describe a design, recognize it, and investigate its use.</strong> Recognizing a lion is a beginning. We also need to know which features identify the arms, who used them, and what supports that connection. The drawings let you test the first question; the documents and object studies help with the others. A matching surname, unfortunately, cannot do all that work for us.</p>
     </div>
   </section>
   <section class="section section-toned" id="explore">
     <div class="wrap">
-      <div class="rule-heading"><div><p class="eyebrow"><span class="star">✦</span> Choose your entrance</p><h2 class="section-title">Many doors.<br/>One language.</h2></div><p>Read, make, question. Every major concept is linked to an illustration, an exercise, or a source worth following.</p></div>
+      <div class="rule-heading"><div><p class="eyebrow"><span class="star">✦</span> Choose your entrance</p><h2 class="section-title">Choose where<br/>to begin.</h2></div><p>If a word is unfamiliar, start with a reading. If an arrangement is unclear, change it in the Atelier. If a claim sounds too easy, follow its source. Each route gives you a different way to test what you think you know.</p></div>
       <div class="feature-grid">
         {cards.map(card => <a class="card feature-card" href={card.link}><span class="feature-icon">{card.symbol}</span><h3>{card.title}</h3><p>{card.description}</p><span class="smallcaps" style="color:var(--red)">{card.action}</span><span class="feature-arrow" aria-hidden="true">↗</span></a>)}
       </div>
@@ -63,12 +63,12 @@ const cards=[
   </section>
   <section class="section">
     <div class="wrap">
-      <div class="rule-heading"><div><p class="eyebrow"><span class="star">✦</span> Our flagship studio</p><h2 class="section-title">The blazon<br/>atelier.</h2></div><p>Try a shield. Change its composition. See how a formal heraldic description emerges from your decisions.</p></div>
+      <div class="rule-heading"><div><p class="eyebrow"><span class="star">✦</span> Try the arrangement</p><h2 class="section-title">The blazon<br/>atelier.</h2></div><p>Choose a simple composition, then change one element and compare the blazons. The changed words help identify what the changed drawing communicates.</p></div>
       <div class="teaser-stage">
         <div>
           <p class="eyebrow"><span class="star">✦</span> From image to language</p>
-          <h3>Paint a shield.<br/>Read its story.</h3>
-          <p>A small, exacting laboratory for building simplified coats of arms with live SVG, a downloadable design, an introductory blazon, and thoughtful warnings about contrast.</p>
+          <h3>Change the drawing.<br/>Follow the description.</h3>
+          <p>Move the charges onto a band, change their colour, and watch the description change with them. The Atelier uses a limited set of forms so that you can see the relationship between a drawing and its blazon. You can download the result and compare it with your next attempt.</p>
           <p class="blazon-quote">{blazon(example)}</p>
           <a class="btn btn-gold" href="/atelier/">Make your own study <span aria-hidden="true">↗</span></a> <a class="btn btn-light-line" href="/decoder/" style="margin-top:9px">Decode a blazon ↗</a>
         </div>
@@ -78,13 +78,13 @@ const cards=[
   </section>
   <section class="section section-toned" id="objects">
     <div class="wrap">
-      <div class="rule-heading"><div><p class="eyebrow"><span class="star">✦</span> The material evidence</p><h2 class="section-title">Real objects.<br/>Better questions.</h2></div><div><p>Armour, civic glass, royal textiles, coins, and the banners of living orders. Explore 35 studies and learn to separate observation, attribution, and uncertainty.</p><a href="/objects/" class="text-link">Enter the object-study collection ↗</a><p><a href="/transcription-desk/" class="text-link">Read and annotate a manuscript ↗</a></p></div></div>
+      <div class="rule-heading"><div><p class="eyebrow"><span class="star">✦</span> The material evidence</p><h2 class="section-title">Read the arms<br/>on the object.</h2></div><div><p>The same design can appear on armour, glass, or cloth, but those objects preserve different evidence. A coin can state a royal claim; a chapel photograph can record a display on a particular day. These 35 studies work through what we can see, what the sources establish, and what we still need to investigate.</p><a href="/objects/" class="text-link">Enter the object-study collection ↗</a><p><a href="/transcription-desk/" class="text-link">Read and annotate a manuscript ↗</a></p></div></div>
       <div class="home-objects">{objects.map(object=><article><a href={'/objects/'+object.id+'/'}><div><ObjectImage object={object}/></div><span class="smallcaps">{object.culture} · {object.date}</span><h3>{object.title}</h3>{'studyType' in object&&<p class="caption">{object.studyType}</p>}<span class="text-link">Investigate the object ↗</span></a><ObjectCredit object={object}/></article>)}</div>
     </div>
   </section>
   <section class="section section-toned">
     <div class="wrap">
-      <div class="rule-heading"><div><p class="eyebrow"><span class="star">✦</span> A real course, not a list of links</p><h2 class="section-title">The academy.</h2></div><div><p>Start in the twelfth century. Finish by researching and designing a defensible original armorial study.</p><a class="text-link" href="/academy/">View the full curriculum ↗</a></div></div>
+      <div class="rule-heading"><div><p class="eyebrow"><span class="star">✦</span> The introductory course</p><h2 class="section-title">The academy.</h2></div><div><p>Start in the twelfth century. Finish by researching and designing a defensible original armorial study.</p><a class="text-link" href="/academy/">View the full curriculum ↗</a></div></div>
       <div class="module-grid">
         {lessons.slice(0,6).map(lesson => <a class="card module-card" href={'/academy/'+lesson.slug+'/'}><div class="module-top"><span class="module-number">{String(lesson.number).padStart(2,'0')}</span><span class="module-duration">About {lessonMinutes(lesson.slug)} min reading</span></div><h3>{lesson.title}</h3><p>{lesson.description}</p><div class="module-foot"><span>{lesson.eyebrow}</span><span aria-hidden="true">↗</span></div></a>)}
       </div>
@@ -97,15 +97,15 @@ const cards=[
       <div>
         <p class="eyebrow eyebrow-on-dark"><span class="star">✦</span> The international research programme</p>
         <h2 class="section-title">The world has<br/>more than one<br/>law of arms.</h2>
-        <p class="section-subtitle" style="margin-top:20px">French manuscripts. German Wappenrollen. Polish heraldic clans. Flemish legislation. Portuguese royal armorials. Japanese kamon. The story gets much bigger when we start reading the original languages.</p>
+        <p class="section-subtitle" style="margin-top:20px">An English grant, a German register, and a Flemish statute answer different questions because they belong to different institutions. The regional chapters follow those differences through the original sources. Japanese kamon provide a further test: we can compare visual devices without assuming that every tradition uses the same categories.</p>
         <div style="display:flex;gap:12px;flex-wrap:wrap;margin-top:28px">
           <a href="/traditions/" class="btn btn-gold">Explore the world ↗</a>
           <a href="/source-atlas/" class="btn btn-light-line">Read the source atlas ↗</a><a href="/translation-lab/" class="btn btn-light-line">Translate the sources ↗</a>
         </div>
       </div>
       <div style="background:#562739;padding:clamp(23px,4vw,45px);border:1px solid #976577">
-        <p class="eyebrow eyebrow-on-dark"><span class="star">✦</span> The scholarly promise</p>
-        <p style="font:italic clamp(1.8rem,3vw,3rem)/1.24 var(--serif);color:var(--gold-light);margin:0 0 27px">A thousand years of arms, without making England the centre of the world.</p>
+        <p class="eyebrow eyebrow-on-dark"><span class="star">✦</span> The scope of the research</p>
+        <p style="font:italic clamp(1.8rem,3vw,3rem)/1.24 var(--serif);color:var(--gold-light);margin:0 0 27px">English practice is one starting point. It cannot explain every place in which people use emblems.</p>
         <div style="display:grid;gap:13px;color:#eedbd0;font-size:.82rem">
           <span>{worldCount} original comparative research chapters</span>
           <span>{worldSources.length} original-language research dossiers</span>
@@ -116,19 +116,19 @@ const cards=[
       </div>
     </div>
   </section>
-<section class="statement-band"><div class="wrap"><p>A blazon is something rather extraordinary: a painting written as instructions.</p><span>The idea behind this project</span></div></section>
+<section class="statement-band"><div class="wrap"><p>A blazon gives another artist enough information to draw the same arms. The drawings can differ while the identifying design remains recognizable.</p><span>The idea behind this project</span></div></section>
   <section class="section">
     <div class="wrap split" style="align-items:center">
       <div>
         <p class="eyebrow"><span class="star">✦</span> Beyond the classroom</p>
-        <h2 class="section-title">Be curious.<br/>Be critical.</h2>
-        <p style="margin:1.5rem 0;color:var(--muted);max-width:500px">Is that really a crest? Who had the right to bear those arms? Why does Scottish matriculation matter? The most interesting part of heraldry is usually the evidence behind the drawing.</p>
+        <h2 class="section-title">Follow the drawing<br/>back to its evidence.</h2>
+        <p style="margin:1.5rem 0;color:var(--muted);max-width:500px">A crest sits above a helmet, while the arms appear on the shield. Once we can describe the parts, we can ask whose display this was and which records connect it to that person. The field guide introduces those questions and points you toward the relevant authorities.</p>
         <a href="/field-guide/" class="btn btn-line">Read the field guide ↗</a><a href="/tinctures/" class="btn btn-quiet" style="margin-left:8px;margin-top:8px">Explore the colour laboratory ↗</a>
       </div>
       <div class="field-panel" style="background:#e9e0d1">
-        <p class="eyebrow"><span class="star">✦</span> The cardinal distinction</p>
-        <h3 style="font:500 2.7rem/1.02 var(--serif);margin-bottom:1.1rem">A crest is not<br/>a coat of arms.</h3>
-        <p>Neither is a surname proof of entitlement. This school treats heraldry as a historical discipline, a living artistic practice and a set of jurisdiction-specific traditions.</p>
+        <p class="eyebrow"><span class="star">✦</span> Following an attribution</p>
+        <h3 style="font:500 2.7rem/1.02 var(--serif);margin-bottom:1.1rem">Connect the arms<br/>to their bearer.</h3>
+        <p>Finding your surname beside a shield gives you a search lead. Establishing a right to those arms takes a documented relationship and the rules of the relevant tradition. The difference matters whether you are researching an ancestor or designing something new.</p>
         <a class="text-link" href="/resources/">Meet the authorities ↗</a>
       </div>
     </div>

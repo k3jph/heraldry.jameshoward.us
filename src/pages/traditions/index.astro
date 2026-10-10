@@ -5,19 +5,19 @@ import {getCollection} from 'astro:content';
 import worldSources from '../../data/world-sources.json';
 const chapters=(await getCollection('traditions')).sort((a,b)=>a.data.region.localeCompare(b.data.region));
 const groups=[
-  {name:'Comparative traditions',label:'Across Europe, across jurisdictions',description:'The institutional and artistic histories rarely taught in the same classroom.'},
+  {name:'Comparative traditions',label:'Across Europe, across jurisdictions',description:'Compare how particular institutions grant, record, and preserve arms, using the sources that describe their work.'},
   {name:'Global and postcolonial heraldry',label:'Heraldry beyond Europe',description:'Where inherited artistic forms become emblems of modern states and changed sovereignties.'},
   {name:'Comparative emblem systems',label:'Related, not interchangeable',description:'Other sophisticated identity systems, understood in their own historical vocabularies.'}
 ];
 const languages=[...new Set(chapters.flatMap(item=>item.data.languages))];
 ---
-<Base title="Worldwide Heraldic Traditions" description="An expanding research-grade, original-source guide to European, global and comparative heraldic traditions, with original English chapters and multilingual references.">
-  <PageIntro eyebrow="A world larger than England" title="Heraldry has no single border." description="The English system is one tradition among many. Work through original research chapters from Europe and beyond, with native terminology, archival links and graduate-level documentary problems." />
+<Base title="Worldwide Heraldic Traditions" description="An expanding source-linked guide to European, global and comparative heraldic traditions, with original English chapters and multilingual references.">
+  <PageIntro eyebrow="Regional institutions and sources" title="Follow the regional traditions." description="The English system is one tradition among many. Work through original research chapters from Europe and beyond, with native terminology, archival links and graduate-level documentary problems." />
   <section class="section">
     <div class="wrap">
       <div class="international-intro">
         <div><p class="eyebrow"><span class="star">✦</span> The international sourcebook</p><h2>Research begins in the language of the record.</h2></div>
-        <div><p>Each chapter is an original English synthesis linked to the actual institutional sources. It is not a full translation of a copyrighted book, nor is it presented as peer-reviewed scholarship. The project continues to expand region by region.</p><div style="display:flex;gap:9px;flex-wrap:wrap"><a href="/source-atlas/" class="btn btn-dark">Consult the source atlas ↗</a><a href="/seminars/" class="btn btn-line">Graduate research methods ↗</a></div></div>
+        <div><p>Each chapter follows a defined source or institution and supplies an original English account of what it can establish. Keep the source’s terms and dates in view as you compare systems. The linked originals remain necessary for close reading, and these teaching syntheses still await independent specialist review.</p><div style="display:flex;gap:9px;flex-wrap:wrap"><a href="/source-atlas/" class="btn btn-dark">Consult the source atlas ↗</a><a href="/seminars/" class="btn btn-line">Graduate research methods ↗</a></div></div>
       </div>
       <div class="international-metrics">
         <span><strong>{chapters.length}</strong> original research chapters</span>
@@ -30,7 +30,7 @@ const languages=[...new Set(chapters.flatMap(item=>item.data.languages))];
           {chapters.filter(chapter=>chapter.data.track===group.name).map((chapter)=><a class="tradition-card" href={'/traditions/'+chapter.id+'/'}><div class="tradition-card-top"><span>{chapter.data.region}</span><span aria-hidden="true">↗</span></div><h3>{chapter.data.title}</h3><p>{chapter.data.description}</p><div class="tradition-card-meta"><span>{chapter.data.languages.map(s=>s.toUpperCase()).join(' · ')}</span><span>{chapter.data.sourceIds.length} cited source{chapter.data.sourceIds.length===1?'':'s'}</span></div></a>)}
         </div>
       </section>)}
-      <div class="notice-box"><strong>This is an expanding corpus, not a closed encyclopedia.</strong><p>The initial collection prioritizes subjects for which verifiable original-language records are accessible. Coverage remains uneven: chapters on Hungary, Latvia, Lithuania and Finland are starting points for further research. Major gaps include Denmark, Norway, Iceland, Switzerland, Austria, much of the Balkans, Africa beyond South Africa, and Latin America beyond Argentina. See the <a href="/editorial-policy/" style="text-decoration:underline">editorial policy</a>.</p></div>
+      <div class="notice-box"><strong>The scope of the collection.</strong><p>The initial collection prioritizes subjects for which verifiable original-language records are accessible. Coverage remains uneven: chapters on Hungary, Latvia, Lithuania and Finland are starting points for further research. Major gaps include Denmark, Norway, Iceland, Switzerland, Austria, much of the Balkans, Africa beyond South Africa, and Latin America beyond Argentina. See the <a href="/editorial-policy/" style="text-decoration:underline">editorial policy</a>.</p></div>
     </div>
   </section>
 </Base>

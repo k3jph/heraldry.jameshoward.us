@@ -11,7 +11,7 @@ const readings=[
 ];
 ---
 <Base title="Sources & Research" description="An annotated bibliography of the College of Arms, the Court of the Lord Lyon, the Canadian Heraldic Authority, teaching societies and archival resources.">
-  <PageIntro eyebrow="The reading room" title="Follow the evidence." description="Trust a good blazon. Verify a better source. Researching heraldry means knowing which institution is making which claim—and where to find the underlying record."/>
+  <PageIntro eyebrow="The reading room" title="Follow the evidence." description="A catalogue can help you locate an object; a grant can record an armorial act. Start by asking what you need to establish, then follow the source capable of supporting that claim."/>
   <section class="section">
     <div class="wrap">
       <div class="notice-box" style="margin-bottom:55px"><strong>An editorial principle.</strong><p>Official heraldic authorities are primary sources for their own jurisdictions. Educational societies, books and digital archives are invaluable, but their statements and holdings are not interchangeable with a grant or official register entry.</p></div>
@@ -20,7 +20,7 @@ const readings=[
   </section>
   <section class="section section-toned">
     <div class="wrap">
-      <div class="rule-heading"><div><p class="eyebrow"><span class="star">✦</span> Four places worth bookmarking</p><h2 class="section-title">Start with<br/>the originals.</h2></div><p>These documents are particularly useful for understanding how formal armorial work differs from the commercial mythology of heraldry.</p></div>
+      <div class="rule-heading"><div><p class="eyebrow"><span class="star">✦</span> Four places worth bookmarking</p><h2 class="section-title">Start with<br/>the originals.</h2></div><p>These sources explain how a design is described, inherited, or recorded in their respective systems. Follow the actual terms before applying the explanation to a particular bearer.</p></div>
       <div class="resource-list">
         {readings.map(item=><article class="field-panel"><span class="smallcaps" style="color:var(--red)">{item.location}</span><h3 style="margin-top:14px">{item.title}</h3><p>{item.note}</p><a class="text-link" href={item.url} target="_blank" rel="noopener noreferrer">Read the source ↗</a></article>)}
       </div>

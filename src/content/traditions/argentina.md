@@ -9,9 +9,9 @@ sourceIds: ["ar-escudo"]
 level: "Advanced undergraduate / graduate"
 ---
 
-## Not every national coat is a noble pedigree
+## Begin with the seal of a constituent assembly
 
-The modern Argentine *Escudo Nacional* provides an unusually direct entry to the history of heraldic identity after European imperial rule. Its visual language draws on the shield, tinctures and emblematic arrangements familiar to European heraldry, but its stated purpose is political and republican. It expresses national authority rather than the entitlement of a noble family.
+The Argentine *Escudo Nacional* places clasped forearms and a liberty cap inside an armorial composition. To read it, we need to identify both the figures and the political body using them. The public bearer is the state, and the design’s stated purpose concerns republican authority after European imperial rule. The shield and tinctures make comparison with European heraldry possible, while the seal’s governmental function determines which historical questions that comparison should answer.
 
 The [Argentine government's historical account](https://www.argentina.gob.ar/pais/simbolos/escudo) traces the emblem to the seal used on **12 March 1813** by the constituent assembly of the United Provinces of the Río de la Plata. This link between a state seal and a national coat matters: the emblem functioned in authenticating governmental acts, not simply decorating a public monument.
 

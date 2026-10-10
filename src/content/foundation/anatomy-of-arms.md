@@ -11,7 +11,7 @@ A full heraldic display can look like a crowded stage. There is a shield, a helm
 
 The **achievement** is the assembled display. The **escutcheon** is the shield. Its surface bears the field and charges. Above it may be a helm, wreath or torse, and crest. Mantling surrounds the helm. Supporters may stand beside the shield on a compartment. A motto may appear on a scroll. Other insignia can have particular institutional meanings. This vocabulary describes a familiar arrangement; it does not say that every armiger must display every component.[^parts]
 
-Anatomy comes before interpretation because an object has to be identified before its role can be explained. A bird on the shield is a charge. A bird above the helm may be the crest. A bird standing beside the shield may be a supporter. The zoology is identical. The heraldic job is different. If you record all three as “bird emblem,” your catalogue has thrown away information.
+Suppose the same bird appears on the shield, above the helmet, and beside the shield. Its position changes its heraldic job: the first is a charge, the second may be a crest, and the third may be a supporter. Identifying the animal gets us only part of the way to describing the achievement. If a catalogue records all three as “bird emblem,” it loses the relationships that explain how the display is assembled. That is why we identify the components before interpreting what they do.
 
 ## The shield and its contents
 

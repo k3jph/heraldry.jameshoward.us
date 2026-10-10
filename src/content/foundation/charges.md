@@ -9,7 +9,7 @@ status: 'Expanded teaching draft; specialist review pending'
 
 Heraldic charges include animals, plants, tools, buildings, celestial forms, geometric figures, and invented creatures. The range is large because an identifying image can draw on many kinds of visual material. The task is not to memorize every charge before reading a shield. It is to learn how a charge's type, number, tincture, orientation, and relationship to other elements are described.[^range]
 
-For each charge, ask five questions. What is it? How many are there? How is it depicted? Where is it? What does the source actually specify? A list saying “lion, star, tower” is only an inventory. It does not tell an artist how to construct the arms or tell a historian which features distinguish them from another design.
+Suppose a description gives us a lion, a star, and a tower. We can now make an inventory, but we cannot yet draw the shield. We need the number of each figure, the lion’s posture, the tinctures, and the positions of the figures relative to one another. Those relationships distinguish this composition from another containing the same three kinds of charge. For each figure, record its type, count, depiction, and location, then check which details the source actually specifies.
 
 The meaning is a sixth question, and it should come later. You can identify an animal without knowing why it was selected. You can transcribe a grant's stated symbolism without deciding that everyone who uses the same animal intended the same thing. Anatomy, grammar, and interpretation are related, but they are different jobs.
 
@@ -59,7 +59,7 @@ Avoid technological anachronism when interpreting an old object. A shape that re
 
 The Canadian Public Register's record for **Grant MacEwan University**, dated **20 May 2010**, is a confirmation at **volume V, page 516**. It describes a crest with a sparrow on a walking staff and separately explains the association of the bird with the university's namesake.[^macewan] This is the kind of evidence that supports an attributed symbolic explanation.
 
-Notice what the record does not imply. It does not make every sparrow in heraldry a reference to Grant MacEwan. It does not make a walking staff universally mean a university mace. The meaning belongs to the documented composition and commentary. Your description should therefore say “the register explains” rather than pretending the charge carries the same message wherever it appears.
+The explanatory connection belongs to this university’s record. We can follow it from the named bearer to the crest and then to the register’s commentary. Encountering a sparrow in another coat supplies only the shared figure; it supplies none of the other links. The same applies to the walking staff. Attribute the explanation to the register so that a reader can see why it applies here and what would be needed to make a comparable claim elsewhere.
 
 The register's text and image also have different reproduction considerations. This chapter links to the record rather than reproducing the contemporary artwork. Consult the register's rights guidance before copying an image. Access for study and permission for reuse are distinct questions.
 

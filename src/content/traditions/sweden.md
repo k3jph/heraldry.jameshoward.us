@@ -15,7 +15,7 @@ In Sweden, the [Riksarkivet](https://riksarkivet.se/arkivera-och-forvalta/herald
 
 This immediately forces a useful separation between **heraldry as an art and historical practice** and **heraldry as official administration**. A state archive's control over the rendering and use of governmental insignia is not necessarily the same as a universal authority to grant every private family's arms. The archive's own description must determine the scope of its jurisdiction, not an analogy with an English college.
 
-The key Swedish vocabulary is refreshingly direct: *vapen* is arms; *statsvapen* concerns state arms; *kommunvapen* is a municipality's coat; and *statsheraldiker* names the state heraldic officer. But a deceptively similar word can change sense in context. A language-learning system should show terms in complete source sentences and mark their institutional meanings, not merely offer a one-to-one word list.
+The Swedish terms help us keep those functions visible. *Statsvapen* concerns state arms, *kommunvapen* a municipality’s coat, and *statsheraldiker* the state heraldic officer. The broader word *vapen* needs its surrounding sentence before we assign a heraldic meaning. Retaining that sentence lets a reader see which body or symbol the term concerns and check the translation against the actual institutional setting.
 
 ## The register is a way of finding real objects
 

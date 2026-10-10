@@ -9,9 +9,9 @@ sourceIds: ["es-council", "es-boe-burgos", "es-academia"]
 level: "Advanced undergraduate / graduate"
 ---
 
-## Do not begin with a single national answer
+## Follow the region and the kind of act
 
-Spain is an especially good antidote to the habit of saying 'European heraldry' as though it were governed from one office. Regional traditions differ, and modern autonomous-community government adds administrative differentiation. Castilian, Catalan, Navarrese and other Iberian heraldic historiographies have their own canonical texts, languages and material histories.
+A Spanish municipal notice can tell us who approved an emblem and which description was adopted. To explain why that authority acted, we have to locate the notice within its region’s administrative process. Modern autonomous-community government adds that institutional question to older differences among Castilian, Catalan, Navarrese, and other Iberian traditions. Their texts, languages, and material histories give us separate trails to follow. A national label helps locate the subject, but the particular act and region determine the next source we need.
 
 The [Real Academia Matritense de Heráldica y Genealogía](https://ramhg.es/heradica-bibliografia/) maintains a Spanish-language bibliography that is itself an invitation to take regional scholarship seriously. Titles devoted to medieval Castile and León, Navarre and Catalonia are not interchangeable treatments of a single uniform practice. Much of this material is inaccessible to a reader working only in English. Our sourcebook should provide English *orientation to the work*, its bibliographic provenance and its subject, while leaving the full copyrighted text with its publisher.
 

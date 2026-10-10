@@ -12,7 +12,7 @@ const materials=[...new Set(objectStudies.map(object=>object.material))];
   <section class="section">
     <div class="wrap">
       <div class="notice-box"><strong>Begin with the object.</strong><p>These studies reproduce licensed museum and archival photographs, including dated views of modern displays. Dates, identifications, and attributions come from the linked source records; our visual observations and research questions are editorial teaching notes. Specialist review remains pending.</p></div>
-      <div class="lexicon-top" style="margin-top:35px"><div><p class="eyebrow"><span class="star">✦</span> Explore the collection</p><h2 class="small-title">A photograph is a beginning.</h2></div><span id="object-count" class="smallcaps" role="status">{objectStudies.length} studies shown</span></div>
+      <div class="lexicon-top" style="margin-top:35px"><div><p class="eyebrow"><span class="star">✦</span> Explore the collection</p><h2 class="small-title">Choose an object to investigate.</h2></div><span id="object-count" class="smallcaps" role="status">{objectStudies.length} studies shown</span></div>
       <form class="object-filters" id="object-filters" role="search" aria-label="Find object studies">
         <label>Search the collection<input type="search" id="object-query" placeholder="Try banners, Medici, or Zürich"/></label>
         <label>Material<select id="object-material"><option value="">All materials</option>{materials.map(material=><option>{material}</option>)}</select></label>
@@ -28,7 +28,7 @@ const materials=[...new Set(objectStudies.map(object=>object.material))];
         </article>)}
       </div>
       <div class="object-comparison">
-        <p class="eyebrow"><span class="star">✦</span> A comparative workshop</p><h2 class="small-title">One language. Different evidence.</h2><p>Compare how each material changes the questions you need to ask.</p>
+        <p class="eyebrow"><span class="star">✦</span> A comparative workshop</p><h2 class="small-title">What changes when the material changes?</h2><p>A painted shield can preserve colour that a wax impression cannot. Glass can make a construction line look like part of the design. Begin with what the material records, then decide which question you can reasonably ask of it.</p>
         <div class="table-scroll" tabindex="0" role="region" aria-label="Object comparison table"><table><thead><tr><th scope="col">Object</th><th scope="col">Start by observing</th><th scope="col">Then investigate</th></tr></thead><tbody>
           <tr><th scope="row"><a href="/objects/franconian-targe/">Painted targe</a></th><td>Physical outline and painted achievement</td><td>Alternative family attribution and the reverse decoration</td></tr>
           <tr><th scope="row"><a href="/objects/heraldic-glass/">Stained-glass shield</a></th><td>Colour areas and structural joins</td><td>Lighting, conservation, and original setting</td></tr>
@@ -39,7 +39,7 @@ const materials=[...new Set(objectStudies.map(object=>object.material))];
           <tr><th scope="row"><a href="/objects/ghent-style-matrix/">A later pictorial matrix</a></th><td>Opposite arrangements on matrix and accompanying impression</td><td>Manufacture date, medieval style, and the impression’s separate history</td></tr>
           <tr><th scope="row"><a href="/objects/simon-de-varie/">An illuminated French leaf</a></th><td>Lettered scrolls, a portrait, and several armorial forms</td><td>Transcription, normalization, and reported overpainting</td></tr>
         </tbody></table></div>
-        <p>Choose one claim about each object. Write down its source, what it establishes, and what additional evidence would change your confidence. A catalogue attribution and a visible feature should not receive the same kind of explanation.</p>
+        <p>Choose one claim about each object. Write down its source, what it establishes, and what additional evidence would change your confidence. If you observed a feature in the photograph, say where it is. If the catalogue identifies a family, attribute that identification. This gives the next reader a way to check the two claims independently.</p>
         <p><a href="/objects/seals/" class="btn btn-line">Try the seal evidence workshop ↗</a></p>
         <p><a href="/transcription-desk/" class="btn btn-line">Read a manuscript at the transcription desk ↗</a></p>
         <p><a href="/objects/compare/" class="btn btn-dark">Compare objects and keep research notes ↗</a></p>

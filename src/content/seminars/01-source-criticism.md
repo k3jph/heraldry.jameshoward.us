@@ -19,7 +19,7 @@ Four basic concepts give this seminar its structure. **Provenance** is the histo
 
 Imagine a silver shield with a red chevron surviving in four places: a thirteenth-century seal matrix, a sixteenth-century illuminated armorial, a late-seventeenth-century register and a modern web illustration. Are these four independent pieces of evidence for the same identity?
 
-Not necessarily. The illuminated armorial may have copied an earlier roll. The government register may have recorded a later claimant's statement rather than verified medieval descent. The modern illustration may have copied that register. A student who counts four matching depictions as four independent confirmations commits a form of **source dependence error**.
+We need to establish how the four depictions came into being before counting their agreement. The illuminated armorial may have copied an earlier roll, while the government register may have recorded a later claimant’s statement rather than verified medieval descent. If the modern illustration then copied that register, its agreement is exactly what we would expect from copying. Counting all four as independent confirmations would conceal the unresolved attribution behind a larger number of pictures. That is a **source dependence error**.
 
 Build a witness table. Record creation date, medium, location, original text, whether observed directly, possibility of copying, named bearer, means of attribution and known changes in later transmission. Only then ask whether the sources corroborate one another. A picture and its caption on the same folio are not always independent witnesses. Nor is a catalogue summary independent of the physical item it describes.
 

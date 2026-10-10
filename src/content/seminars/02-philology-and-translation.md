@@ -9,7 +9,7 @@ level: "Graduate methods"
 
 ## Literal equivalence is a research hypothesis
 
-The greatest danger in a multilingual heraldic website is not failing to translate enough documents. It is **translating them too confidently**. A German *Wappenrolle*, French *armorial*, Dutch *wapenregister*, Polish *herbarz* and English register may each concern collections of arms. Their documentary and institutional status can be quite different.
+A translator encounters *Wappenrolle*, *armorial*, *wapenregister*, and *herbarz* and puts “register of arms” into each English record. The resulting table is easy to read, but it may have made unlike documents appear equivalent. Each term can concern a collection of arms while carrying a different relationship to compilation, recording, and institutional authority. We have to establish those relationships before deciding how much the English label can safely compress. Fluency is useful only if the distinctions survive it.
 
 A translator's responsibility is to preserve the meaning of the source, including its institutional relationships, not to find the nearest familiar English word. When a medieval term has no exact equivalent, retain the original word at first occurrence, define its scope, and explain why the convenient English analogue falls short.
 
@@ -29,7 +29,7 @@ Legal terminology is historical. The same word can acquire different effects fol
 
 Spanish *partido* and *cortado* can describe vertical and horizontal partitions; *cuartel* may refer to a quarter or a compartment. Translate the geometry being described, not only the dictionary form of each noun. The [Sotillo de la Ribera notice](https://www.boe.es/diario_boe/txt.php?id=BOE-A-1998-23942) is useful precisely because it specifies six shield sections: the literal 'six quarters' requires the reader to understand that the Spanish term is used more flexibly in that context.
 
-It is worth developing a controlled parser for the grammar of blazons, but never imply that a successful computer rendering proves the translation correct. A program can successfully draw the **wrong** shield if it has been fed a misinterpreted input. Native-language expertise, comparable historic witnesses and scholarly conventions remain essential.
+A controlled parser can help test the geometry of a proposed translation. If the instructions specify six compartments, we can inspect whether the rendering has six. But the program operates on the instructions we supplied; it has no independent access to the meaning of the Spanish source. It can therefore draw a misinterpreted shield quite successfully. Checking the result against source-language usage and comparable historical witnesses remains part of the translation, even when the software reports no error.
 
 The distinction becomes even clearer with Japanese *家紋* (*kamon*). One may explain that it is a family emblem in a comparative course, but forcing the entire Japanese system into English medieval *blazon* grammar imports a set of social and legal assumptions the source never made. It is legitimate to compare distinct symbolic systems. It is not legitimate to call that comparison a literal translation.
 

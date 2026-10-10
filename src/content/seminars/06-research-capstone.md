@@ -9,7 +9,7 @@ level: "Graduate capstone"
 
 ## The purpose is a contribution to knowledge
 
-A credible graduate capstone should not end with a prettier shield or a certificate promising knowledge of tinctures. It should present a defensible original contribution: a revised interpretation, carefully edited source, documented case study, comparative legal account, historical catalogue or reproducible research tool.
+A research capstone should leave another scholar with something they can use. That might be a corrected reading of an inscription, a documented account of one armorial dispute, or a dataset whose source relationships can be retraced. The contribution becomes defensible when the project shows what was previously unresolved, what evidence it examined, and why the result changes our understanding. A carefully edited short source can do that work without an elaborate illustration or a large corpus.
 
 A good question is bounded, capable of a convincing answer with available evidence and open to revision. 'What is French heraldry?' is a broad topic. 'Did the 1696 registration procedure record urban institutions in a defined region differently from the way earlier armorials presented them?' is a researchable question, provided that the relevant sources survive and that the researcher can define a valid sample.
 
@@ -70,7 +70,7 @@ A graduate student might produce a genuine contribution by making an obscure six
 
 A capstone is not an end of inquiry. Identify a journal or scholarly society where a specialist could review the work, and maintain a list of outstanding documentary questions. When new evidence appears, incorporate it without concealing the earlier uncertainty.
 
-The same standard applies to the Heraldry Project itself: a growing research collection, versioned editorial notes and an explicit record of unfinished work. Our target is the quality of scholarship, not a ribbon that says 'finished'.
+The same standard applies to the Heraldry Project. Its collection can grow while individual readings and interpretations remain open to correction. Versioned notes should show which evidence supported a conclusion and why a later revision changed it. A reader can then use the work at its stated level of confidence and identify where a specialist review would contribute something further.
 
 ### Research gateways
 

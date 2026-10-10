@@ -44,7 +44,7 @@ const next=lessons[lesson.number]||null;
         </div>
         <aside class="lecture-chapters">
           <p class="eyebrow"><span class="star">✦</span> Your chapter map</p>
-          <h2 class="small-title">The journey.</h2>
+          <h2 class="small-title">The lecture chapters.</h2>
           <ol>{chapters.map((chapter,i)=><li><button class:list={['lecture-chapter',i===0&&'current']} type="button" data-lecture-chapter={i} aria-current={i===0?'step':undefined}><span>{String(i+1).padStart(2,'0')}</span>{chapter}<span class="lecture-chapter-marker" aria-hidden="true">→</span></button></li>)}</ol>
           <div class="lecture-sidebar-links">
             <p>Prefer to read without slides?</p><a href={'/academy/'+lesson.slug+'/'} class="text-link">Full written lesson ↗</a>
@@ -52,7 +52,7 @@ const next=lessons[lesson.number]||null;
           </div>
         </aside>
       </div>
-      <div class="notice-box" style="margin-top:23px"><strong>A guided introduction to the expanded chapter.</strong><p>This presentation retains the concise introductory script and original teaching illustrations. The full Academy chapter adds documentary encounters, worked problems, and source notes. The speech option uses on-device browser synthesis.</p><a href={'/academy/'+lesson.slug+'/'} class="text-link">Read the expanded chapter ↗</a></div>
+      <div class="notice-box" style="margin-top:23px"><strong>A guided introduction to the expanded chapter.</strong><p>The slides introduce one concept at a time using the teaching illustrations. The Academy reading then works through documentary examples and gives you the sources needed to check them. If you prefer to listen, the narration uses your browser’s speech-synthesis service.</p><a href={'/academy/'+lesson.slug+'/'} class="text-link">Read the expanded chapter ↗</a></div>
     </div>
   </section>
   <section class="section section-dark" style="padding:70px 0">

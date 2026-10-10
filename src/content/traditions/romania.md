@@ -11,7 +11,7 @@ level: "Advanced undergraduate / graduate"
 
 ## This is a blazon with the force of a statute
 
-An armorial website can teach that gold is Or and red is Gules, then demonstrate a digital hatching pattern and move on. Romania offers a more serious—and much more interesting—question: what happens when these conventions are *written into national law*?
+A black-and-white reproduction of Romania’s state arms has to communicate tinctures that the ink cannot show directly. The familiar heraldic solution is to substitute dots and lines for colours. Here, however, the choice of patterns also appears in national legislation. We can investigate how a visual convention becomes a prescribed method for reproducing one official emblem, and what that prescription leaves an artist or software system still to resolve.
 
 Romania's [Law 102 of 21 September 1992](https://legislatie.just.ro/Public/DetaliiDocument/2381) defines the state coat of arms and state seal. It does so using formal visual language. The central shield is borne by an eagle, and that eagle carries a smaller shield partitioned into historical territorial components. The law names the charges and tinctures in text, and an annex gives an official graphic model.
 

@@ -9,9 +9,9 @@ sourceIds: ["sl-ajdovscina-2012","sl-mezica-2025"]
 level: "Advanced undergraduate / graduate"
 ---
 
-## A civic emblem is not always a conventional medieval shield
+## Start with what the municipal statute describes
 
-Heraldry teaches students to identify fields, ordinaries, charges and their tinctures. That grammar is useful, but it does not permit us to declare every real civic emblem invalid simply because a modern municipality has chosen a more idiosyncratic representation. Two Slovenian municipal statutes provide a particularly helpful pair of source-language documents.
+A municipal statute may describe a landscape, lettering, or a particular graphic arrangement alongside a shield. Our introductory vocabulary can identify some of those elements without capturing the entire specification. The Slovenian statutes examined here let us test that limit against actual civic designs. Start with what each text defines, then identify which further ordinance or approved image would resolve the details. A limitation in the teaching model gives us a reason to consult the source more closely.
 
 In **Ajdovščina**, a [2012 municipal statute](https://pisrs.si/pregledPredpisa?sop=2012-01-1843) describes the municipality's arms, flag and seal in Article 7. It explicitly calls the coat a *grb*, and offers visual instructions involving a shield, triangular upper features, battlement-like shapes, repeated wavy lines and the placement of the municipality's name.
 
