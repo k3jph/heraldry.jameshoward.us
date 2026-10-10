@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 960" width="420" height="960" role="img" aria-labelledby="title desc">
+  <title id="title">An expanded palette needs a source</title>
+  <desc id="desc">Illustrative samples compare Buff and Copper, Rose and Gules, Bleu Céleste and Azure, and Tenné and red ochre. These samples are not institutional production standards.</desc>
+  <rect width="420" height="960" fill="#faf2e5" />
+  <g font-family="system-ui, sans-serif" fill="#321e27">
+    <text x="30" y="40" font-size="19" font-weight="650">Keep the source's distinctions</text>
+    <text x="30" y="67" font-size="13">Illustrative samples · not official shade standards</text>
+    <g font-size="19" font-weight="650">
+      <rect x="30" y="93" width="92" height="75" fill="#c1a875" stroke="#6a505b" /><text x="142" y="125">Buff</text><text x="142" y="151" font-size="14" font-weight="500">Ask which practice</text>
+      <rect x="30" y="193" width="92" height="75" fill="#b66f44" stroke="#6a505b" /><text x="142" y="225">Copper</text><text x="142" y="251" font-size="14" font-weight="500">Not simply “brown”</text>
+      <rect x="30" y="293" width="92" height="75" fill="#d883a2" stroke="#6a505b" /><text x="142" y="325">Rose</text><text x="142" y="351" font-size="14" font-weight="500">Retain the named term</text>
+      <rect x="30" y="393" width="92" height="75" fill="#a12635" stroke="#6a505b" /><text x="142" y="425">Gules</text><text x="142" y="451" font-size="14" font-weight="500">A separate specification</text>
+      <rect x="30" y="493" width="92" height="75" fill="#80bfd4" stroke="#6a505b" /><text x="142" y="525">Bleu Céleste</text><text x="142" y="551" font-size="14" font-weight="500">Do not merge the pair</text>
+      <rect x="30" y="593" width="92" height="75" fill="#245694" stroke="#6a505b" /><text x="142" y="625">Azure</text><text x="142" y="651" font-size="14" font-weight="500">Read the record</text>
+      <rect x="30" y="693" width="92" height="75" fill="#c76c32" stroke="#6a505b" /><text x="142" y="725">Tenné</text><text x="142" y="751" font-size="14" font-weight="500">Use needs its own context</text>
+      <rect x="30" y="793" width="92" height="75" fill="#99543d" stroke="#6a505b" /><text x="142" y="825">Red ochre</text><text x="142" y="851" font-size="14" font-weight="500">Name ≠ pigment analysis</text>
+    </g>
+    <text x="30" y="927" font-size="12">Original diagram · source wording governs the interpretation</text>
+  </g>
+</svg>

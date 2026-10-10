@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 360 1020" width="360" height="1020" role="img" aria-labelledby="title desc">
+  <title id="title">Read the immediate background</title>
+  <desc id="desc">Three constructed teaching shields distinguish a layered contrast, identical red figures on a red band, and a white edge between blue and red.</desc>
+  <defs>
+    <path id="shield" d="M-78 0H78V92Q78 155 0 195Q-78 155-78 92Z" />
+    <clipPath id="clip"><use href="#shield" xlink:href="#shield" /></clipPath>
+    <path id="mullet" d="M0-25 7-8 26-8 11 3 16 22 0 11-16 22-11 3-26-8-7-8Z" />
+  </defs>
+  <rect width="360" height="1020" fill="#faf2e5" />
+  <g font-family="system-ui, sans-serif" fill="#321e27" text-anchor="middle">
+    <text x="180" y="32" font-size="17" font-weight="650">Read each layer</text>
+    <text x="180" y="357" font-size="17" font-weight="650">Name both problems</text>
+    <text x="180" y="682" font-size="17" font-weight="650">A specified edge</text>
+  </g>
+  <g transform="translate(180 55)">
+    <g clip-path="url(#clip)"><use href="#shield" fill="#245694" xlink:href="#shield" /><path d="M-80 61H80V115H-80Z" fill="#e4b94f" /><use href="#mullet" transform="translate(0 87)" fill="#a12635" xlink:href="#mullet" /></g>
+    <use href="#shield" fill="none" stroke="#321e27" stroke-width="2" xlink:href="#shield" />
+  </g>
+  <g transform="translate(180 380)">
+    <g clip-path="url(#clip)"><use href="#shield" fill="#245694" xlink:href="#shield" /><path d="M-80 61H80V115H-80Z" fill="#a12635" /><use href="#mullet" transform="translate(0 87)" fill="#a12635" stroke="#321e27" stroke-width="1" xlink:href="#mullet" /></g>
+    <use href="#shield" fill="none" stroke="#321e27" stroke-width="2" xlink:href="#shield" />
+  </g>
+  <g transform="translate(180 705)">
+    <g clip-path="url(#clip)"><use href="#shield" fill="#a12635" xlink:href="#shield" /><path d="M-80 55H80V121H-80Z" fill="#fff" /><path d="M-80 64H80V112H-80Z" fill="#245694" /></g>
+    <use href="#shield" fill="none" stroke="#321e27" stroke-width="2" xlink:href="#shield" />
+  </g>
+  <g font-family="system-ui, sans-serif" fill="#321e27" text-anchor="middle" font-size="16">
+    <text x="180" y="280">Red → gold</text><text x="180" y="305">Gold → blue</text>
+    <text x="180" y="605">Red → red</text><text x="180" y="630">Red → blue</text>
+    <text x="180" y="930">Blue → white</text><text x="180" y="955">White → red</text>
+    <text x="180" y="1005" font-size="12">Original teaching studies · illustrative shades</text>
+  </g>
+</svg>

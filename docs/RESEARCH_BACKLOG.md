@@ -1,6 +1,6 @@
 # International heraldry research and translation backlog
 
-Last updated: 2026-10-09. This queue is ordered for **coverage gaps and primary evidence**, not prestige or proximity to English sources.
+Last updated: 2026-10-10. This queue is ordered for **coverage gaps and primary evidence**, not prestige or proximity to English sources.
 
 ## Stage A — primary-source foundation (under way)
 
@@ -17,7 +17,8 @@ Last updated: 2026-10-09. This queue is ordered for **coverage gaps and primary 
 - [x] Introduce catalogue-mediated encounters with the Dering Roll, Met objects 25.26.1 and 12.137.2, dated Canadian institutional records, and the Great Seal documentation. These are source-linked teaching encounters, **not newly authenticated museum entries or inspected full documentary editions**.
 - [x] Add documentary/design capstone routes, witness inventory, claim ledger, and a transparent self-assessment rubric.
 - [x] Calculate reading estimates from expanded prose; identify the existing lecture player as a shorter introduction. Existing three-question checks remain introductory browser checklists.
-- [ ] Extend every chapter toward the proposed 5,000–8,000-word depth, with broader bibliography, direct image and manuscript examination, extended assessment, and competent specialist review.
+- [ ] Develop all twelve existing chapters into substantial reference readings, with broader bibliography, direct image and manuscript examination, extended assessment, and competent specialist review. The earlier 5,000–8,000-word proposal is not a ceiling or a uniform quota; national and regional studies should have the length their evidence and argument require.
+- [x] Establish an expanded tinctures model chapter: comparative Buff/Copper cases, Rose/Bleu Céleste/Tenné, South African red ochre, material/specification distinctions, layered contrast, furs, monochrome evidence, five documentary exercises with answer discussions, and a corpus research project. Dated institutional sources extend the British manual; original comparison diagrams and the existing rights-cleared Met wax photograph support the argument. Specialist review, primary Army approval-file inspection, and full Gazette/early hatching-witness collation remain open.
 - [ ] Reduce reliance on one historical British manual through additional dated and original-language witnesses. The current technical vocabulary cites Fox-Davies (1909) explicitly as historical instructional evidence.
 - [ ] Build reviewed object studies with separately verified image rights; do not relabel catalogue descriptions as original artifact authentication.
 - [x] Publish an initial three-object, photograph-based collection from The Met (targe 25.26.1, stained glass 12.137.2, enamel 14.40.697d), with CC0 images, accession records, source-image URLs, claim ledgers, exercises, and collection-record BibTeX copying. These are editorial teaching studies; specialist review and broader repository coverage remain open.

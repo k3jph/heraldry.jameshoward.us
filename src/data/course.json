@@ -189,11 +189,14 @@
     "title": "Tinctures & contrast",
     "eyebrow": "Colour is structure",
     "minutes": 27,
-    "description": "Metals, colours, furs, and the famous rule of tincture—with its important limits.",
+    "description": "Read metals, colors, furs, and contrast through worked designs and dated records, including buff, copper, Rose, Bleu Céleste, and red ochre.",
     "objectives": [
-      "Name the two common metals and five principal colours.",
-      "Apply the introductory contrast convention to simple shields.",
-      "Explain why the convention has exceptions and cannot decide legal entitlement."
+      "Name the principal tinctures and distinguish a specified tincture from its material realization.",
+      "Trace immediate backgrounds, divisions, edging, and counterchanging before applying a contrast convention.",
+      "Compare documented uses of buff, copper, and other additional tinctures without imposing one universal classification.",
+      "Distinguish a named tincture, natural coloration, and an institutional production specification.",
+      "Read conventional hatching while explaining what a monochrome witness can establish.",
+      "Build a source-specific tincture study with an explicit corpus, claim trail, and developed interpretation."
     ],
     "example": {
       "field": "azure",
@@ -286,6 +289,21 @@
         "label": "The Heraldry Society — Heraldry for Beginners",
         "url": "https://www.heraldicdesign.com/docs/heraldry_for_beginners.pdf",
         "note": "A clear chart of historical heraldic hatching conventions."
+      },
+      {
+        "label": "Canadian Heraldic Authority — Correctional Service of Canada",
+        "url": "https://www.gg.ca/en/heraldry/public-register/project/1983",
+        "note": "Dated grant using Buff in a badge; inspect the superposed tinctures before proposing a category."
+      },
+      {
+        "label": "Canadian Heraldic Authority — City of Whitehorse",
+        "url": "https://www.gg.ca/en/heraldry/public-register/project/58",
+        "note": "Copper in a dated grant, with an attributed explanation of its local significance."
+      },
+      {
+        "label": "U.S. Army Quartermaster Museum — 259th Quartermaster Battalion",
+        "url": "https://qmmuseum.army.mil/research/history-heritage/petroleum/259th-Quartermaster-Battalion.html",
+        "note": "Institutional description documenting Argent charges on a Buff field."
       }
     ]
   },
