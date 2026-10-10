@@ -10,13 +10,13 @@ const {lesson}=Astro.props;
 const chapters=['Orientation',...lesson.sections.map(s=>s.heading),'Try it yourself'];
 const next=lessons[lesson.number]||null;
 ---
-<Base title={'Guided lecture: '+lesson.title} description={'An accessible guided heraldry presentation for '+lesson.title+', featuring an interactive chapter player, reading transcript and optional device-based spoken narration.'}>
+<Base title={'Guided lecture: '+lesson.title} description={'An accessible guided heraldry presentation for '+lesson.title+', featuring an interactive chapter player, reading transcript and optional browser-based spoken narration.'}>
   <section class="page-intro" style="padding:70px 0">
     <div class="wrap page-intro-inner">
       <nav class="breadcrumbs" aria-label="Breadcrumbs"><a href="/">Home</a><span>›</span><a href="/academy/">Academy</a><span>›</span><a href={'/academy/'+lesson.slug+'/'}>Unit {lesson.number}</a><span>›</span>Guided lecture</nav>
       <p class="eyebrow"><span class="star">✦</span> The lecture hall · Unit {String(lesson.number).padStart(2,'0')}</p>
       <h1 class="display-serif" style="font-size:clamp(3.4rem,6vw,6rem)">{lesson.title}.</h1>
-      <p class="page-intro-description">Work through the ideas one at a time. Read the transcript, choose the next chapter, or listen to your device read it aloud.</p>
+      <p class="page-intro-description">Work through the ideas one at a time. Read the transcript, choose the next chapter, or ask your browser to read it aloud.</p>
     </div>
   </section>
   <section class="section">
@@ -39,7 +39,7 @@ const next=lessons[lesson.number]||null;
               <button id="lecture-next" class="btn btn-dark" type="button">Continue →</button>
               <button id="lecture-speak" class="btn btn-line" type="button" aria-pressed="false">Listen to this chapter ▶</button>
             </div>
-            <p class="caption" id="lecture-audio-status" role="status" aria-live="polite">Spoken narration uses your browser's built-in voice, if available. No audio data is sent to us.</p>
+            <p class="caption" id="lecture-audio-status" role="status" aria-live="polite">Optional narration uses your browser’s speech service, if available. The voice may process text locally or online.</p>
           </div>
         </div>
         <aside class="lecture-chapters">
@@ -91,7 +91,7 @@ const next=lessons[lesson.number]||null;
       if(next)next.textContent=index===chapters.length-1?'Take the knowledge check ↗':'Continue →';
       menu.forEach(button=>{const current=Number(button.dataset.lectureChapter)===index;button.classList.toggle('current',current);if(current)button.setAttribute('aria-current','step');else button.removeAttribute('aria-current');});
       try{localStorage.setItem(KEY,String(index));}catch{}
-      if(audioStatus)audioStatus.textContent='Optional narration uses the voice available on this device. No recorded lecture or server connection is required.';
+      if(audioStatus)audioStatus.textContent='Optional narration uses your browser’s speech service. The voice may process text locally or online.';
     };
     const move=(direction:number)=>{if(index+direction<0)return;if(index+direction>=chapters.length){location.assign('/academy/'+slug+'/#knowledge-check');return;}index+=direction;render();};
     previous?.addEventListener('click',()=>move(-1));

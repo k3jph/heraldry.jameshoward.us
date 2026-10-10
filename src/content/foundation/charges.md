@@ -11,7 +11,7 @@ Heraldic charges include animals, plants, tools, buildings, celestial forms, geo
 
 Suppose a description gives us a lion, a star, and a tower. We can now make an inventory, but we cannot yet draw the shield. We need the number of each figure, the lion’s posture, the tinctures, and the positions of the figures relative to one another. Those relationships distinguish this composition from another containing the same three kinds of charge. For each figure, record its type, count, depiction, and location, then check which details the source actually specifies.
 
-The meaning is a sixth question, and it should come later. You can identify an animal without knowing why it was selected. You can transcribe a grant's stated symbolism without deciding that everyone who uses the same animal intended the same thing. Anatomy, grammar, and interpretation are related, but they are different jobs.
+Once we can describe the charge and its place in the design, we can investigate why it was selected. That requires another connection: evidence about the choice made for this bearer. A grant may supply a symbolism statement, which we can transcribe and attribute to the record. Identifying the same animal elsewhere supplies a visual comparison, but the second bearer’s intention remains a separate question. The description gives us something to investigate; the explanation needs its own source.
 
 ## Animals have attitudes
 

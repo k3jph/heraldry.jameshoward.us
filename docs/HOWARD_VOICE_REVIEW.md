@@ -23,7 +23,7 @@ every source or translation.
 | Research seminars | All 6 chapters | Revised selected argument paragraphs in four seminars; retained the comparative-institutional and material-culture seminars. |
 | Object studies | All 35 | Removed 24 duplicated catalogue introductions, developed the interpretation in the newer studies, and retained strong existing material. Kept observation, catalogue statement, and interpretation distinguishable. |
 | Reference material | 399 definitions; 35 source synopses; 14 parallel readings; 16 teaching designs; 14 resource entries; 10 timeline entries | Retained concise reference and technical prose; made selected synopsis and gallery-summary changes. Original excerpts, working translations, documentary links, and institutional titles remain unchanged. |
-| Research tools and privacy | Transcription, collation, comparison, study/practice, consent and policy copy | Preserved precise limits, status meanings, storage behavior, consent choices, and functional instructions. Corrected the lecture page's overly broad claim that speech synthesis is necessarily on-device. |
+| Research tools and privacy | Transcription, collation, comparison, study/practice, consent and policy copy | Preserved precise limits, status meanings, storage behavior, consent choices, and functional instructions. Corrected static and runtime lecture narration wording: speech synthesis may use a local or remote voice service. |
 
 ## Reasoning used in the revision
 
@@ -76,3 +76,5 @@ structure. Publication validation also includes Astro diagnostics, a complete
 static build, and live checks of representative revised pages. These checks
 establish implementation integrity; the specialist-review statuses on the site
 remain in place.
+
+The narration wording was checked against the [Web Speech API specification](https://wicg.github.io/speech-api/), which distinguishes local and remote speech-synthesis voices.
