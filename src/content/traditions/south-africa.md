@@ -2,7 +2,7 @@
 title: "South Africa: A deliberately new national achievement"
 description: "Post-apartheid state heraldry, indigenous imagery, contemporary design, and source authority."
 region: "South Africa"
-languages: ["en", "xh", "zu"]
+languages: ["en"]
 track: "Global and postcolonial heraldry"
 period: "1994–present, with older iconographic references"
 sourceIds: ["za-coat"]
