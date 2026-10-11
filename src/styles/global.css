@@ -573,6 +573,14 @@ button:focus-visible, a:focus-visible, input:focus-visible, textarea:focus-visib
 .world-article h2{font:500 clamp(2.1rem,4vw,3.3rem)/1.12 var(--serif);letter-spacing:-.035em;border-bottom:1px solid var(--line);padding-bottom:15px;margin:48px 0 22px;scroll-margin-top:110px;}
 .world-article h3{font:500 1.65rem/1.22 var(--serif);margin:32px 0 13px;}
 .world-article p{font-size:1.03rem;line-height:1.87;color:var(--ink);margin:0 0 20px;}
+.world-article .tradition-object{margin:32px 0;padding:clamp(14px,3vw,24px);border:1px solid var(--line);background:var(--paper);}
+.world-article .tradition-object img{display:block;width:100%;max-width:500px;height:auto;margin-inline:auto;}
+.world-article .tradition-object figcaption{margin-top:20px;font-size:.88rem;font-weight:500;line-height:1.7;color:var(--ink-2);}
+.world-article .research-answer{margin:24px 0;padding:20px 24px;border:1px solid var(--line);background:var(--paper);}
+.world-article .research-answer summary{cursor:pointer;font-weight:700;line-height:1.6;color:var(--ink);}
+.world-article .research-answer p{margin:18px 0 0;}
+.world-article .footnotes{margin-top:40px;padding-top:20px;border-top:1px solid var(--line);overflow-wrap:anywhere;}
+.world-article .footnotes p{font-size:.93rem;line-height:1.7;}
 .world-article a:not(.btn){color:#8d3e36;text-decoration:underline;text-decoration-color:#c9a673;text-underline-offset:4px;}
 .world-article a:not(.btn):hover{color:#b34c41;}
 .world-article strong{font-weight:750;color:#4c2634;}
