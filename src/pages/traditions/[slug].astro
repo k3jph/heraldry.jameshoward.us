@@ -3,12 +3,15 @@ import Base from '../../layouts/Base.astro';
 import {getCollection,render} from 'astro:content';
 import worldSources from '../../data/world-sources.json';
 import parallelReadings from '../../data/parallel-readings.json';
+import {chapterWordCount,chapterReadMinutes} from '../../lib/foundation.js';
 export async function getStaticPaths(){
   const entries=await getCollection('traditions');
   return entries.map(entry=>({params:{slug:entry.id},props:{entry}}));
 }
 const {entry}=Astro.props;
 const {Content}=await render(entry);
+const words=chapterWordCount(entry.body);
+const minutes=chapterReadMinutes(entry.body);
 const related=worldSources.filter(source=>entry.data.sourceIds.includes(source.id));
 const translations=parallelReadings.filter(reading=>entry.data.sourceIds.includes(reading.sourceId));
 const bibliography=related.map(source=>({name:source.titleOriginal,description:source.englishSynopsis,author:source.holding,url:source.url}));
@@ -22,6 +25,7 @@ const schema={'@context':'https://schema.org','@type':'LearningResource',name:en
       <p class="eyebrow"><span class="star">✦</span> {entry.data.track} · {entry.data.level}</p>
       <h1 class="display-serif" style="max-width:1170px">{entry.data.title}</h1>
       <p class="page-intro-description">{entry.data.description}</p>
+      <p class="caption" style="margin-top:18px">{words.toLocaleString('en-US')} words · About {minutes} minutes of reading. Allow additional time for workshops and source consultation.</p>
       <div class="international-metrics" style="margin:30px 0 0;max-width:970px"><span><strong>{entry.data.languages.join(', ')}</strong> source languages</span><span><strong>{related.length}</strong> catalogued sources</span><span><strong>{entry.data.period}</strong> historical focus</span></div>
     </div>
   </section>

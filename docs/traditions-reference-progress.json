@@ -1,0 +1,545 @@
+{
+  "scope": 70,
+  "completedDrafts": 20,
+  "status": "in progress; remaining chapters not yet expanded",
+  "chapters": [
+    {
+      "slug": "japan-kamon",
+      "before": 846,
+      "after": 3772,
+      "added": 2926,
+      "sections": 15,
+      "sourceIds": [
+        "jp-ndl-kamon",
+        "jp-met-nobori",
+        "jp-loc-sumiyoshi",
+        "jp-met-sashimono",
+        "jp-met-maidate",
+        "jp-met-okabe-armour",
+        "jp-met-yoshiro-tsuba",
+        "jp-tokyo-four-diamonds"
+      ],
+      "expansionHeads": [
+        "A mon has a form, a bearer, and a setting",
+        "The useful history is a history of practices",
+        "Nobori: a banner is a support before it is a symbol",
+        "Sashimono and the identification of people in motion",
+        "Helmet ornaments, sacred names, and the limits of crest",
+        "A sword guard with several mon changes the question",
+        "Describing a mon precisely enough to compare it",
+        "Workshop: build an argument from four different objects",
+        "Graduate inquiry: follow a device across media"
+      ]
+    },
+    {
+      "slug": "england",
+      "before": 1838,
+      "after": 4373,
+      "added": 2535,
+      "sections": 16,
+      "sourceIds": [
+        "eng-college-grants",
+        "eng-college-law",
+        "eng-college-descent",
+        "eng-dering-news",
+        "eng-college-faq",
+        "eng-college-history",
+        "eng-wellington-augmentation",
+        "eng-military-insignia"
+      ],
+      "expansionHeads": [
+        "Before the College: identifying people in a changing visual culture",
+        "Royal service becomes a continuing institution",
+        "English blazon as a specification readers can operate",
+        "The shield, crest, badge, and banner carry different statements",
+        "Quartering: a genealogy has to become a composition",
+        "An augmentation changes an existing armorial history",
+        "Corporate continuity needs an institutional pedigree",
+        "Workshop: reconstruct change without flattening the record"
+      ]
+    },
+    {
+      "slug": "scotland",
+      "before": 1687,
+      "after": 4592,
+      "added": 2905,
+      "sections": 17,
+      "sourceIds": [
+        "sco-lyon-petitions",
+        "sco-lyon-office",
+        "sco-register-guide",
+        "sco-arbroath",
+        "sco-nrs-register",
+        "sco-lyon-crests",
+        "sco-royal-banner"
+      ],
+      "expansionHeads": [
+        "Medieval seals and a collective political act",
+        "The register changes the scale of the inquiry",
+        "Cadency is a relationship, not an automatic border calculator",
+        "Worked family file: descent, identity, and the missing act",
+        "Clan affiliation has its own visual grammar",
+        "The royal lion and the question of what a flag represents",
+        "Corporate and civic arms within the Scottish system",
+        "Scottish identity across borders",
+        "Workshop: identify the relationship the object presents"
+      ]
+    },
+    {
+      "slug": "wales",
+      "before": 1703,
+      "after": 4151,
+      "added": 2448,
+      "sections": 16,
+      "sourceIds": [
+        "wal-glyndwr-seal",
+        "wal-harlech-mount",
+        "wal-royal-badge",
+        "ang-church-flags",
+        "eng-college-grants",
+        "wal-national-emblems",
+        "wal-hansard-flag",
+        "wal-dwnn-witness",
+        "wal-llywelyn-banner"
+      ],
+      "expansionHeads": [
+        "A princely composition can outlive the prince’s government",
+        "What Glyndŵr’s two-sided seal lets us investigate",
+        "The dragon’s history contains both evidence and explanatory stories",
+        "The 1959 flag direction gives the distinction a date",
+        "Welsh pedigrees and the work of named compilers",
+        "Modern reconstruction is part of the tradition too",
+        "Local identity within a recognizable national vocabulary",
+        "Workshop: compare an old reference with a new act"
+      ]
+    },
+    {
+      "slug": "ireland",
+      "before": 1754,
+      "after": 4562,
+      "added": 2808,
+      "sections": 17,
+      "sourceIds": [
+        "irl-chief-herald",
+        "irl-register-q",
+        "irl-state-emblems",
+        "eng-college-descent",
+        "irl-stanyhurst-grant",
+        "irl-stanyhurst-analysis",
+        "irl-act-1997",
+        "irl-trinity-harp"
+      ],
+      "expansionHeads": [
+        "An early grant makes the issuing authority visible",
+        "The decorated initial opens a production question",
+        "Language belongs to the instrument’s institutional setting",
+        "Independence changes authority without erasing custody",
+        "A confirmation makes a claim about an existing relationship",
+        "A harp can be an instrument, a historical attribution, and a State model",
+        "Civic arms record public bodies rather than permanent landscapes",
+        "Irish armory is not exhausted by the granting office",
+        "Workshop: explain the Stanyhurst instrument’s different kinds of evidence"
+      ]
+    },
+    {
+      "slug": "canada",
+      "before": 1807,
+      "after": 4781,
+      "added": 2974,
+      "sections": 18,
+      "sourceIds": [
+        "ca-authority",
+        "ca-authority-arms",
+        "ca-irniq",
+        "ca-whitehorse",
+        "ca-correctional-buff",
+        "ca-cadency-society",
+        "ca-register-portal",
+        "ca-authority-faq",
+        "ca-crabtree",
+        "ca-metlej",
+        "ca-pride-citation",
+        "ca-supreme-court-badges",
+        "ca-william-rose-registration"
+      ],
+      "expansionHeads": [
+        "Canadian heraldry develops by changing several parts of the system",
+        "Succession begins with the eldest child, subject to the stated arrangement",
+        "The Crabtree grant shows two different solutions in one family",
+        "Tincture reversal preserves a recognizable core",
+        "An expanded palette can preserve a distinction the design needs",
+        "The graphic realization can vary without rewriting the arms",
+        "An office emblem can contain institutional reasoning",
+        "Indigenous cultural forms need their particular authorities and contexts",
+        "Registration gives an older design a new Canadian witness",
+        "Workshop: preserve family identity through two different operations"
+      ]
+    },
+    {
+      "slug": "united-states",
+      "before": 1854,
+      "after": 4560,
+      "added": 2706,
+      "sections": 18,
+      "sourceIds": [
+        "us-tioh",
+        "us-quartermaster-arms",
+        "us-great-seal-original",
+        "us-state-seals",
+        "us-ahs-guidelines",
+        "us-cary-bookplate",
+        "us-qm-heraldic-history",
+        "us-110th-lineage",
+        "us-washington-arms",
+        "us-dc-flag",
+        "us-amedd-change"
+      ],
+      "expansionHeads": [
+        "A republic can reject inherited rank and retain armorial identification",
+        "An official design has to survive manufacture",
+        "Unit lineage supplies the pedigree for military arms",
+        "A crest, a patch, and a distinctive unit insignia are different objects",
+        "Medical insignia shows an old composition acquiring a new use",
+        "Washington’s arms can become a public allusion without becoming national arms",
+        "Private assumption creates a need for durable evidence",
+        "Foreign grants and inherited traditions enter a plural setting",
+        "Workshop: trace one design across a change of bearer or organization"
+      ]
+    },
+    {
+      "slug": "brazil",
+      "before": 1731,
+      "after": 4354,
+      "added": 2623,
+      "sections": 17,
+      "sourceIds": [
+        "br-imperial-archive",
+        "br-national-arms-law",
+        "br-imperial-flag",
+        "br-official-artwork",
+        "br-saopaulo-law",
+        "br-saopaulo-centenary",
+        "br-constitution-1891",
+        "br-recife-1968",
+        "br-army-quaderna"
+      ],
+      "expansionHeads": [
+        "The imperial archive contains acts, not merely attractive shields",
+        "Republican equality changes rank without making symbols disappear",
+        "The National Arms are an assembled public emblem",
+        "Coffee and tobacco require a history of labour as well as a symbol key",
+        "A municipal decree can revise both memory and drawing",
+        "Mural crowns need a defined counting convention",
+        "The quaderna carries information about qualification and organization",
+        "Ecclesiastical and private practices enlarge the field",
+        "Workshop: distinguish status, public identity, and material survival"
+      ]
+    },
+    {
+      "slug": "france",
+      "before": 1585,
+      "after": 3653,
+      "added": 2068,
+      "sections": 15,
+      "sourceIds": [
+        "fr-bnf-armorial",
+        "fr-bnf-catalogue",
+        "fr-imperial-registers",
+        "fr-dupuch",
+        "fr-simon-1812",
+        "fr-seal",
+        "fr-fasces"
+      ],
+      "expansionHeads": [
+        "Read a French shield from its grammar",
+        "A fleur-de-lis can occupy several different roles",
+        "Differences and combinations express relationships",
+        "An imperial armorial organizes a political system",
+        "Dupuch: the words constrain the drawing",
+        "Republican identification extends beyond the shield",
+        "Design laboratory: a French reading with a defensible result"
+      ]
+    },
+    {
+      "slug": "germany",
+      "before": 991,
+      "after": 3119,
+      "added": 2128,
+      "sections": 15,
+      "sourceIds": [
+        "de-dwr",
+        "de-berliner",
+        "de-siebmacher-burgher",
+        "de-siebmacher-index",
+        "de-hamburg",
+        "de-berlin-text",
+        "de-federal-description",
+        "de-eagle-history"
+      ],
+      "expansionHeads": [
+        "The complete achievement is a composition",
+        "Stylization gives a figure work to do",
+        "Counterchanging is a relationship between surfaces",
+        "Burgher arms are a major corpus, not an exception",
+        "Siebmacher is a publication history as well as a name",
+        "Hamburg: a city image becomes a public emblem",
+        "The federal eagle can remain an identity across realizations",
+        "Workshop: one family identity, four realizations"
+      ]
+    },
+    {
+      "slug": "netherlands",
+      "before": 857,
+      "after": 2787,
+      "added": 1930,
+      "sections": 13,
+      "sourceIds": [
+        "nl-hra-adellijk",
+        "nl-hra-gemeente",
+        "nl-public-history",
+        "nl-design-guidelines",
+        "nl-royal-arms",
+        "nl-delft-council",
+        "nl-waterboard-building"
+      ],
+      "expansionHeads": [
+        "The lion within the shield and the lions beside it",
+        "Public heraldry includes water authorities",
+        "A merger is a design problem with political consequences",
+        "Crowns, supporters, and mottos require their own reasons",
+        "Delft’s councillors: personal arms inside a civic ensemble",
+        "Family identity and public identity move differently",
+        "Workshop: advise a fictional merged authority"
+      ]
+    },
+    {
+      "slug": "flanders",
+      "before": 838,
+      "after": 2580,
+      "added": 1742,
+      "sections": 13,
+      "sourceIds": [
+        "be-vl-decree",
+        "be-vl-procedure",
+        "vl-symbols-history",
+        "vl-lievegem",
+        "vl-annual-2023"
+      ],
+      "expansionHeads": [
+        "The Flemish lion has a history of particular representations",
+        "Lievegem: arms and flag share a vocabulary",
+        "Recognition of older arms and creation of new arms",
+        "Inheritance belongs to a defined armorial identity",
+        "A new design needs more than meaningful ingredients",
+        "The diploma records a process with several participants",
+        "Workshop: compare a shield, a flag, and an application"
+      ]
+    },
+    {
+      "slug": "belgium",
+      "before": 1003,
+      "after": 2787,
+      "added": 1784,
+      "sections": 14,
+      "sourceIds": [
+        "be-french",
+        "be-publications",
+        "be-inventory",
+        "be-federal-lion",
+        "be-nobility-guide",
+        "be-liege-monument",
+        "be-liege-logo"
+      ],
+      "expansionHeads": [
+        "The Belgian lion and the Flemish lion differ as designs",
+        "National, royal, noble, and community settings intersect",
+        "An achievement’s external parts carry information",
+        "The Perron makes local authority visible",
+        "A provincial logo can adapt an armorial vocabulary",
+        "Family associations make the bearer a collective object",
+        "Workshop: three lions and one local monument"
+      ]
+    },
+    {
+      "slug": "austria",
+      "before": 983,
+      "after": 2462,
+      "added": 1479,
+      "sections": 12,
+      "sourceIds": [
+        "at-1919",
+        "at-implementation",
+        "at-state",
+        "at-targe",
+        "at-herald-tabard",
+        "at-falcon-hood",
+        "at-republic-eagle"
+      ],
+      "expansionHeads": [
+        "The republican eagle carries a social argument",
+        "Red, white, and red can organize several objects",
+        "An imperial herald wore an arrangement of identities",
+        "A falcon hood carries identity at another scale",
+        "Composite arms organize claims across territories",
+        "Workshop: compare the two eagles and two objects"
+      ]
+    },
+    {
+      "slug": "switzerland",
+      "before": 954,
+      "after": 2859,
+      "added": 1905,
+      "sections": 14,
+      "sourceIds": [
+        "ch-bern",
+        "ch-klingen",
+        "ch-1798",
+        "ch-fribourg-glass",
+        "ch-zurich-roll",
+        "ch-zurich-glass-1500",
+        "ch-zurich-glass-1567",
+        "ch-glass-patronage",
+        "ch-cross-proportions"
+      ],
+      "expansionHeads": [
+        "The Zurich roll joins shields with crests",
+        "Armorial glass makes patronage visible",
+        "Zurich’s 1500 panel presents public relationships",
+        "A family shield can appear inside a public ensemble",
+        "Fribourg’s divided shield tests the value of geometry",
+        "The Swiss cross is a proportioned figure",
+        "Family, canton, commune, and federation are different bearers",
+        "Workshop: keep the ensemble intact"
+      ]
+    },
+    {
+      "slug": "denmark",
+      "before": 994,
+      "after": 2640,
+      "added": 1646,
+      "sections": 13,
+      "sourceIds": [
+        "dk-public",
+        "dk-guide",
+        "dk-royal-2025",
+        "dk-royal-composition",
+        "dk-copenhagen-1661",
+        "dk-copenhagen-commercial"
+      ],
+      "expansionHeads": [
+        "Three lions and nine hearts are separate instructions",
+        "The royal cross organizes the quarters",
+        "A new quarter can change emphasis without inventing a new device",
+        "Order collars and supporters complete the royal display",
+        "Copenhagen’s arms participated in a political bargain",
+        "Three towers can identify a place or a producer",
+        "Workshop: describe the layer that changed"
+      ]
+    },
+    {
+      "slug": "sweden",
+      "before": 795,
+      "after": 2861,
+      "added": 2066,
+      "sections": 15,
+      "sourceIds": [
+        "se-riksarkivet",
+        "se-riksregister",
+        "se-great-arms",
+        "se-stockholm-brand",
+        "se-stockholm-county",
+        "se-royal-flag",
+        "se-small-arms",
+        "se-keyser-1650",
+        "se-private-register"
+      ],
+      "expansionHeads": [
+        "Three crowns are a count and an arrangement",
+        "Greater arms combine state and dynastic references",
+        "A royal flag joins an emblem with a ceremonial signal",
+        "Stockholm’s Saint Erik is a face within a public identity",
+        "Stockholm County combines predecessors selectively",
+        "Province and county are different historical objects",
+        "Noble armory has its own publication and material histories",
+        "Private registration performs another institutional job",
+        "Workshop: identify the specification and the bearer"
+      ]
+    },
+    {
+      "slug": "norway",
+      "before": 1076,
+      "after": 2829,
+      "added": 1753,
+      "sections": 15,
+      "sourceIds": [
+        "no-royal",
+        "no-state",
+        "no-military",
+        "no-oslo-brand",
+        "no-oslo-medal",
+        "no-trondheim",
+        "no-bergen"
+      ],
+      "expansionHeads": [
+        "A crowned lion holds a specified axe",
+        "The shield and the royal achievement identify different layers",
+        "Oslo keeps Saint Hallvard while changing everyday communication",
+        "Saint Hallvard also appears in a civic honour",
+        "Trondheim combines a seal-derived emblem with two municipal names",
+        "Bergen distinguishes seal, arms, and logo",
+        "Local design can retain history without painting a landscape",
+        "Workshop: classify four uses of civic identity"
+      ]
+    },
+    {
+      "slug": "finland",
+      "before": 973,
+      "after": 2854,
+      "added": 1881,
+      "sections": 15,
+      "sourceIds": [
+        "fi-kuntalaki",
+        "fi-national-law",
+        "fi-national-history",
+        "fi-heraldic-model",
+        "fi-helsinki-brand",
+        "fi-society",
+        "fi-lempiainen"
+      ],
+      "expansionHeads": [
+        "The national lion has a replacement limb",
+        "An early monument and a later national instrument",
+        "Municipal arms are a major modern design practice",
+        "Finnish description is a construction sequence",
+        "A database can generate a sentence without producing an official blazon",
+        "Helsinki assigns different contexts to logo and arms",
+        "A family association commissioned a modern coat",
+        "Workshop: make the description survive the redraw"
+      ]
+    },
+    {
+      "slug": "iceland",
+      "before": 946,
+      "after": 2570,
+      "added": 1624,
+      "sections": 13,
+      "sourceIds": [
+        "is-decree",
+        "is-history",
+        "is-flags",
+        "is-heimskringla",
+        "is-seal-1593",
+        "is-parliament-facade"
+      ],
+      "expansionHeads": [
+        "A fish can identify an island without becoming a landscape",
+        "Falcon, spirits, and crown belong to successive decisions",
+        "The land-spirit story is a reconnaissance narrative",
+        "Supporters turn a travelling sequence into an ensemble",
+        "The nested crosses define layers of colour",
+        "Reinstating old arms on a building is a heritage proposal",
+        "Workshop: translate a story into a composition without losing its history"
+      ]
+    }
+  ]
+}

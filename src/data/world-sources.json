@@ -5877,5 +5877,2280 @@
     "accessed": "2026-10-11",
     "reviewStatus": "editorially synthesized; independent specialist review pending",
     "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "eng-college-history",
+    "area": "England",
+    "language": "en",
+    "holding": "College of Arms",
+    "titleOriginal": "History of the College of Arms",
+    "titleEnglish": "History of the College of Arms",
+    "url": "https://www.college-of-arms.gov.uk/about-us/history",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "The College’s institutional history traces the development of royal heralds into a corporate body, including the 1484 incorporation, the 1555 charter and premises, and rebuilding after the Great Fire. These dates describe the office and its buildings, rather than an origin date for every form of English heraldry. Use the account to connect ceremonial work with record keeping.",
+    "glossary": [
+      {
+        "term": "herald",
+        "english": "officer concerned with arms and ceremonial"
+      },
+      {
+        "term": "incorporation",
+        "english": "creation or recognition of a corporate body"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "eng-wellington-augmentation",
+    "area": "England",
+    "language": "en",
+    "holding": "College of Arms",
+    "titleOriginal": "Waterloo and Wellington",
+    "titleEnglish": "Waterloo and Wellington",
+    "url": "https://www.college-of-arms.gov.uk/news-grants/news/item/113-waterloo-and-wellington",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "An institutional account presents dated military augmentations with references to the College’s grant books. Wellington’s Union Badge addition appears in successive recorded arrangements, giving a case in which the placement and later display of an honour can be compared. The records distinguish an inherited composition, an honourable addition, and a later adjustment.",
+    "glossary": [
+      {
+        "term": "augmentation",
+        "english": "honourable addition to arms"
+      },
+      {
+        "term": "chief point",
+        "english": "upper central position in the shield"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "eng-military-insignia",
+    "area": "England",
+    "language": "en",
+    "holding": "College of Arms",
+    "titleOriginal": "Naval, Military and R.A.F. Insignia",
+    "titleEnglish": "Naval, Military and R.A.F. Insignia",
+    "url": "https://www.college-of-arms.gov.uk/services/granting-arms/8-services",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "The College’s services account describes naval badges and the Inspectorate of Regimental Colours, identifying different approval and archival arrangements for different kinds of military insignia. This is useful evidence of specialized institutional practice within the wider heraldic system; the history of one badge or colour still needs its own dated record.",
+    "glossary": [
+      {
+        "term": "guidon",
+        "english": "particular form of military flag"
+      },
+      {
+        "term": "badge",
+        "english": "identifying device distinct from a complete achievement"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "sco-lyon-crests",
+    "area": "Scotland",
+    "language": "en",
+    "holding": "Court of the Lord Lyon",
+    "titleOriginal": "Crests",
+    "titleEnglish": "Crests",
+    "url": "https://www.courtofthelordlyon.scot/crests.htm",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "The Lyon Court distinguishes a crest as part of an armorial achievement from a crest badge used in affiliation. Its account explains differences between a chief’s or armiger’s display and a clansman’s strap-and-buckle badge. The distinction lets readers analyze what an emblem asserts about the wearer without turning clan association into possession of the chief’s personal arms.",
+    "glossary": [
+      {
+        "term": "crest",
+        "english": "device borne above a helmet in an achievement"
+      },
+      {
+        "term": "strap and buckle",
+        "english": "badge frame indicating affiliation in the described practice"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "sco-arbroath",
+    "area": "Scotland",
+    "language": "en",
+    "holding": "National Records of Scotland",
+    "titleOriginal": "The Declaration of Arbroath",
+    "titleEnglish": "The Declaration of Arbroath",
+    "url": "https://www.nrscotland.gov.uk/learning-and-events/the-declaration-of-arbroath/",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "The institutional guide describes the 1320 Latin letter, its political circumstances, and the surviving seals used to authenticate it. It supplies a concrete setting for studying collective action through individually associated seals. The guide’s explanation and the catalogue’s account of surviving material should be kept distinct from a modern reconstruction of every original sealant.",
+    "glossary": [
+      {
+        "term": "sealant",
+        "english": "person associated with an attached seal"
+      },
+      {
+        "term": "authentication",
+        "english": "means by which a document’s issuance or approval is evidenced"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "wal-national-emblems",
+    "area": "Wales",
+    "language": "en",
+    "holding": "Museum Wales",
+    "titleOriginal": "National emblems (FAQ)",
+    "titleEnglish": "National emblems (FAQ)",
+    "url": "https://museum.wales/blog/1182/National-emblems-FAQ/",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "The museum’s explanatory account places the dragon, leek, and daffodil in different historical and legendary contexts. It provides a route into national symbolism while distinguishing attributed traditions from documented modern uses. Readers should preserve those distinctions instead of assigning every motif the same antiquity or treating an origin legend as evidence of an actual early armorial display.",
+    "glossary": [
+      {
+        "term": "national emblem",
+        "english": "symbol associated with a national community"
+      },
+      {
+        "term": "legend",
+        "english": "traditional explanatory narrative requiring separate historical evaluation"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "wal-hansard-flag",
+    "area": "Wales",
+    "language": "en",
+    "holding": "UK Parliament, Hansard",
+    "titleOriginal": "Welsh Flag — 23 February 1959",
+    "titleEnglish": "Welsh Flag — 23 February 1959",
+    "url": "https://hansard.parliament.uk/Commons/1959-02-23/debates/506ca02e-41c8-4267-ba99-d5999fcdaab2/WelshFlag",
+    "kind": "parliamentary record",
+    "authority": "official institution",
+    "englishSynopsis": "A ministerial answer records the direction that government buildings use the Red Dragon on green and white rather than the flag carrying the augmented Royal Badge. The answer preserves a defined administrative distinction within Welsh symbolism. It is evidence for that 1959 direction, not a complete history of the dragon motif or a retrospective rule for every Welsh flag.",
+    "glossary": [
+      {
+        "term": "Royal Badge",
+        "english": "official royal device described in the answer"
+      },
+      {
+        "term": "augmentation",
+        "english": "addition distinguished from the simpler flag design"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "irl-act-1997",
+    "area": "Ireland",
+    "language": "en",
+    "holding": "Irish Statute Book",
+    "titleOriginal": "National Cultural Institutions Act, 1997, Section 13",
+    "titleEnglish": "National Cultural Institutions Act, 1997, Section 13",
+    "url": "https://www.irishstatutebook.ie/eli/1997/act/11/section/13/enacted/en/html",
+    "kind": "enacted legislation",
+    "authority": "official institution",
+    "englishSynopsis": "The enacted section identifies the Genealogical Office as a branch of the National Library and provides for a staff member to perform heraldic functions using the Chief Herald title. It also addresses copyright and the Committee on Genealogy and Heraldry. This is the enacted 1997 text, to be distinguished from consolidated current legislation and the office’s dated operational notices.",
+    "glossary": [
+      {
+        "term": "Chief Herald of Ireland",
+        "english": "title attached to the specified staff duty"
+      },
+      {
+        "term": "Príomh-Aralt na hÉireann",
+        "english": "Irish-language form of the office title"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "irl-trinity-harp",
+    "area": "Ireland",
+    "language": "en",
+    "holding": "Trinity College Dublin Library",
+    "titleOriginal": "Brian Boru: Legacy",
+    "titleEnglish": "Brian Boru: Legacy",
+    "url": "https://www.tcd.ie/library/exhibitions/boru/legacy.php",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "The library’s exhibition distinguishes the medieval harp associated in popular tradition with Brian Boru from the much earlier king. It explains the object’s role as a model for the Irish State emblem. This provides a material case for separating an artifact’s date, a later attribution, and the modern graphic identity derived from its shape.",
+    "glossary": [
+      {
+        "term": "harp",
+        "english": "stringed instrument and emblematic motif"
+      },
+      {
+        "term": "attribution",
+        "english": "association of an object with a named maker or owner"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "jp-met-nobori",
+    "area": "Japan",
+    "language": "en",
+    "holding": "The Metropolitan Museum of Art",
+    "titleOriginal": "Banner (Nobori)",
+    "titleEnglish": "Banner (Nobori)",
+    "url": "https://www.metmuseum.org/art/collection/search/53912",
+    "kind": "museum collection record",
+    "authority": "official institution",
+    "englishSynopsis": "The Met’s record identifies an 1827 nobori combining Sanbaso with a chigai myoga device. It describes paste-resist decoration and an inscription elsewhere on the long textile. The record lets readers distinguish the represented theatrical subject, a family-associated motif, and dedication evidence without assigning a unique donor from the motif alone.",
+    "glossary": [
+      {
+        "term": "nobori",
+        "english": "upright banner"
+      },
+      {
+        "term": "tsutsugaki",
+        "english": "paste-resist tube drawing"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "jp-met-sashimono",
+    "area": "Japan",
+    "language": "en",
+    "holding": "The Metropolitan Museum of Art",
+    "titleOriginal": "Banner (Sashimono)",
+    "titleEnglish": "Banner (Sashimono)",
+    "url": "https://www.metmuseum.org/art/collection/search/894756",
+    "kind": "museum collection record",
+    "authority": "official institution",
+    "englishSynopsis": "The catalogue describes an Edo-period banner with an interlocked-circle device and explains the use of back-mounted sashimono for battlefield identification. Its account associates the motif with several families, including the Wakisaka. This is evidence for a specific catalogued object and form of use, not a universal exclusive family assignment for every similar circle device.",
+    "glossary": [
+      {
+        "term": "sashimono",
+        "english": "identifying banner mounted on an individual’s armour"
+      },
+      {
+        "term": "wa-chigai",
+        "english": "interlocked-circle motif"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "jp-met-maidate",
+    "area": "Japan",
+    "language": "en",
+    "holding": "The Metropolitan Museum of Art",
+    "titleOriginal": "Helmet Crest (Maidate)",
+    "titleEnglish": "Helmet Crest (Maidate)",
+    "url": "https://www.metmuseum.org/art/collection/search/24118",
+    "kind": "museum collection record",
+    "authority": "official institution",
+    "englishSynopsis": "An eighteenth- to nineteenth-century helmet ornament bears sacred lettering associated with Hachiman. The museum’s description places family devices, plants, animals, and sacred imagery within the wider range of helmet decoration. The case prevents a translation of crest from silently converting every helmet ornament into an inherited family emblem.",
+    "glossary": [
+      {
+        "term": "maidate",
+        "english": "detachable front-mounted helmet ornament, in the catalogue’s usage"
+      },
+      {
+        "term": "Hachiman Daibosatsu",
+        "english": "honorific sacred name appearing in the ornament"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "jp-met-okabe-armour",
+    "area": "Japan",
+    "language": "en",
+    "holding": "The Metropolitan Museum of Art",
+    "titleOriginal": "Armor (Gusoku)",
+    "titleEnglish": "Armor (Gusoku)",
+    "url": "https://www.metmuseum.org/art/collection/search/24975",
+    "kind": "museum collection record",
+    "authority": "official institution",
+    "englishSynopsis": "The Met records eighteenth-century armour with a helmet signed by Bamen Tomotsugu and describes three-comma devices associated with the Okabe family. Its detailed account distinguishes armorial motifs from lacing, construction, materials, and workmanship. Those different categories support a richer interpretation than reducing the entire armour to the mon it carries.",
+    "glossary": [
+      {
+        "term": "gusoku",
+        "english": "armour assemblage"
+      },
+      {
+        "term": "shakudō",
+        "english": "copper-gold alloy described in the record"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "jp-met-yoshiro-tsuba",
+    "area": "Japan",
+    "language": "en",
+    "holding": "The Metropolitan Museum of Art",
+    "titleOriginal": "Sword guard (Tsuba) Depicting Crests and Arabesques (家紋散唐草文鐔)",
+    "titleEnglish": "Sword guard (Tsuba) Depicting Crests and Arabesques (家紋散唐草文鐔)",
+    "url": "https://www.metmuseum.org/art/collection/search/30091",
+    "kind": "museum collection record",
+    "authority": "official institution",
+    "englishSynopsis": "A late-sixteenth- to early-seventeenth-century sword guard carries several openwork crests within an ornamental composition. The catalogue associates the signed group with a workshop and discusses differences within its production. The coexistence of several mon on one fitting makes a useful counterexample to attributing every emblem-bearing object to one family solely from its decoration.",
+    "glossary": [
+      {
+        "term": "tsuba",
+        "english": "sword guard"
+      },
+      {
+        "term": "家紋散唐草文",
+        "english": "scattered family crests and arabesque pattern"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "jp-loc-sumiyoshi",
+    "area": "Japan",
+    "language": "en",
+    "holding": "Library of Congress",
+    "titleOriginal": "Tsukudajima sumiyoshi no matsuri",
+    "titleEnglish": "Sumiyoshi festival, Tsukudajima",
+    "url": "https://www.loc.gov/pictures/item/2009631888/",
+    "kind": "print collection record",
+    "authority": "official institution",
+    "englishSynopsis": "The catalogue records a colour woodcut by Hiroshige, dated [1857], showing a festival procession with banner and portable shrine. Its reproduction number identifies the digitized impression. The work offers a represented setting for large nobori, to be compared with surviving textiles and other impressions rather than treated as an unmediated event photograph.",
+    "glossary": [
+      {
+        "term": "nobori",
+        "english": "upright banner"
+      },
+      {
+        "term": "mikoshi",
+        "english": "portable shrine"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "jp-tokyo-four-diamonds",
+    "area": "Japan",
+    "language": "ja",
+    "holding": "Edo-Tokyo Museum / Tokyo Museum Collection",
+    "titleOriginal": "四つ割菱紋付幟",
+    "titleEnglish": "Nobori Banner with Yotsuwari-Bishi (Four-Diamond) Family Crest",
+    "url": "https://museumcollection.tokyo/en/works/7075732/",
+    "kind": "museum collection record",
+    "authority": "official institution",
+    "englishSynopsis": "The Japanese collection record identifies a nineteenth-century nobori bearing a four-diamond device, collection ID 20000282, within its Arms and Armor category. Its value here lies in preserving an indigenous title and object-level reference alongside comparative examples. The catalogue category does not itself establish a particular battlefield deployment or exclusive bearer.",
+    "glossary": [
+      {
+        "term": "幟",
+        "english": "nobori; upright banner"
+      },
+      {
+        "term": "四つ割菱",
+        "english": "four-part diamond device"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "sco-nrs-register",
+    "area": "Scotland",
+    "language": "en",
+    "holding": "National Records of Scotland",
+    "titleOriginal": "Coat of Arms",
+    "titleEnglish": "Coat of Arms",
+    "url": "https://www.nrscotland.gov.uk/learning-and-events/research-guides/coat-of-arms/",
+    "kind": "archival research guide",
+    "authority": "official institution",
+    "englishSynopsis": "The research guide distinguishes the register’s legal purpose from its variable genealogical content and notes the growth of painted illuminations after 1804. It makes the verbal specification central to registration even where a painting accompanies the text. This offers a concrete way to investigate changes in record form without assuming the legal function changed in the same way.",
+    "glossary": [
+      {
+        "term": "illumination",
+        "english": "painted depiction accompanying an entry"
+      },
+      {
+        "term": "blazon",
+        "english": "verbal specification of the arms"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "sco-royal-banner",
+    "area": "Scotland",
+    "language": "en",
+    "holding": "Royal Household",
+    "titleOriginal": "The Royal Banner of the Royal Arms of Scotland",
+    "titleEnglish": "The Royal Banner of the Royal Arms of Scotland",
+    "url": "https://www.royal.uk/royal-banner-royal-arms-scotland",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "The institutional explanation distinguishes the Royal Banner’s sovereign and office-associated use from a general national flag, and discusses its historical lion and tressure. The page retains wording from Elizabeth II’s reign; it is used here for the stated historical distinctions, not as a current account of the monarch, residence, or flag arrangement.",
+    "glossary": [
+      {
+        "term": "Lion Rampant",
+        "english": "name commonly given to the royal banner design"
+      },
+      {
+        "term": "tressure",
+        "english": "narrow enclosing armorial border in the royal composition"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "wal-dwnn-witness",
+    "area": "Wales",
+    "language": "en",
+    "holding": "National Library of Wales",
+    "titleOriginal": "Heraldic Visitations of Wales — NLW MS 1502E",
+    "titleEnglish": "Heraldic Visitations of Wales — NLW MS 1502E",
+    "url": "https://archives.library.wales/index.php/heraldic-visitations-of-wales?sf_culture=en",
+    "kind": "manuscript catalogue record",
+    "authority": "official institution",
+    "englishSynopsis": "The catalogue describes a later manuscript copy of Meyrick’s 1846 edition of Lewys Dwnn’s visitations, with corrections and additions by Hugh Robert Hughes. Its reference and creation period distinguish this witness from the sixteenth- and seventeenth-century inquiries in the title. The layered record allows a focused study of how Welsh armorial and genealogical information was transmitted and revised.",
+    "glossary": [
+      {
+        "term": "visitation",
+        "english": "heraldic inquiry whose records are transmitted in the described edition"
+      },
+      {
+        "term": "manuscript additions",
+        "english": "later interventions requiring their own attribution"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "wal-llywelyn-banner",
+    "area": "Wales",
+    "language": "en",
+    "holding": "Museum Wales",
+    "titleOriginal": "Banner — The Llywelyn Banner",
+    "titleEnglish": "Banner — The Llywelyn Banner",
+    "url": "https://museum.wales/collections/online/object/007d246f-402b-36aa-8976-b3f8287b6d27/Banner/",
+    "kind": "museum collection record",
+    "authority": "official institution",
+    "englishSynopsis": "The museum records a modern banner created for Llys Llywelyn under Cefyn Burgess’s guidance, with four lion panels and a vine-pattern border inspired by a carved coffin. The identified makers and design sources allow the recreated display to be studied as modern interpretive work. It should not be catalogued as a surviving medieval textile simply because its armorial subject refers to a medieval prince.",
+    "glossary": [
+      {
+        "term": "banner",
+        "english": "textile carrying the stated armorial arrangement"
+      },
+      {
+        "term": "interpretive reconstruction",
+        "english": "modern material realization informed by historical references"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "irl-stanyhurst-grant",
+    "area": "Ireland",
+    "language": "la",
+    "holding": "National Library of Ireland",
+    "titleOriginal": "Grant of arms by Bartholomew Butler, Ulster King of Arms, to Nicholas Stanyhurst of Dublin",
+    "titleEnglish": "Grant of arms by Bartholomew Butler to Nicholas Stanyhurst",
+    "url": "https://catalogue.nli.ie/Record/vtls000888831",
+    "kind": "manuscript catalogue record",
+    "authority": "official institution",
+    "englishSynopsis": "The manuscript catalogue identifies an original grant dated 1 August 1554, MS L 559, with Latin and French language metadata. It describes ink and colour on parchment and tags for two seals which are no longer present. These details support investigation of a specific heraldic instrument, while historical claims inherited from an auction description need to retain that stated provenance.",
+    "glossary": [
+      {
+        "term": "grant of arms",
+        "english": "instrument identifying a bearer and armorial act"
+      },
+      {
+        "term": "seal tag",
+        "english": "attachment surviving even where the seal itself is absent"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "irl-stanyhurst-analysis",
+    "area": "Ireland",
+    "language": "en",
+    "holding": "National Library of Ireland · Donal Burke",
+    "titleOriginal": "New Acquisition: Grant of Arms belonging to Nicholas Stanyhurst",
+    "titleEnglish": "New Acquisition: Grant of Arms belonging to Nicholas Stanyhurst",
+    "url": "https://www.nli.ie/news-stories/stories/new-acquisition-grant-arms-belonging-nicholas-stanyhurst",
+    "kind": "institutional object analysis",
+    "authority": "official institution",
+    "englishSynopsis": "The consultant herald’s institutional essay interprets the Stanyhurst instrument and compares its decorated initial with English grant forms. It proposes preparation of decorated vellum before the final text as an explanation for a mismatch between the Latin opening and the letter containing the herald. Preserve that proposal as an attributed inference rather than a directly observed production record.",
+    "glossary": [
+      {
+        "term": "initial",
+        "english": "decorated opening letter"
+      },
+      {
+        "term": "tabard",
+        "english": "herald’s garment bearing royal armorial identification"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ca-authority-faq",
+    "area": "Canada",
+    "language": "en",
+    "holding": "Governor General of Canada · Canadian Heraldic Authority",
+    "titleOriginal": "Frequently Asked Questions",
+    "titleEnglish": "Frequently Asked Questions",
+    "url": "https://www.gg.ca/en/heraldry/faq",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "The Authority’s guidance explains cadet shields, default succession to the eldest child unless specified otherwise, and flexibility in depicting named heraldic colours. The FAQ is useful for comparing stated contemporary Canadian practice with particular grant clauses. Actual instruments and current guidance remain necessary where an individual succession or production question has consequences.",
+    "glossary": [
+      {
+        "term": "heir",
+        "english": "person designated to succeed to the arms under the stated arrangement"
+      },
+      {
+        "term": "cadet shield",
+        "english": "differenced arms for a related bearer"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ca-crabtree",
+    "area": "Canada",
+    "language": "en",
+    "holding": "Governor General of Canada · Public Register",
+    "titleOriginal": "Peter John Crabtree",
+    "titleEnglish": "Peter John Crabtree",
+    "url": "https://www.gg.ca/en/heraldry/public-register/project/9",
+    "kind": "armorial register entry",
+    "authority": "official institution",
+    "englishSynopsis": "The 15 April 2002 grant records a canting crabapple tree, a bridge-like chief, and differences for Angela Mary Wagner and Howard John Crabtree. The daughter’s labelled arms are expressly associated with future inheritance, while the son’s design uses a changed field arrangement. This gives a documented comparison of two kinds of family distinction within one act.",
+    "glossary": [
+      {
+        "term": "canting",
+        "english": "allusion to a bearer’s name"
+      },
+      {
+        "term": "label",
+        "english": "distinguishing element used for the specified heir during the recipient’s lifetime"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ca-metlej",
+    "area": "Canada",
+    "language": "en",
+    "holding": "Governor General of Canada · Public Register",
+    "titleOriginal": "François Imad Metlej",
+    "titleEnglish": "François Imad Metlej",
+    "url": "https://www.gg.ca/en/heraldry/public-register/project/3538",
+    "kind": "armorial register entry",
+    "authority": "official institution",
+    "englishSynopsis": "The 15 September 2023 grant records a Cerberus and different arms for two children. One uses a label with an explicit future-inheritance statement; the other reverses the principal blue and gold tinctures. Its creator, painter, and calligrapher fields make collaborative production visible. The record also notes the cessation of Canada Gazette announcements for heraldic acts from 2023.",
+    "glossary": [
+      {
+        "term": "Cerberus",
+        "english": "three-headed mythological dog"
+      },
+      {
+        "term": "tincture reversal",
+        "english": "exchange of the stated field and principal-charge colours"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ca-pride-citation",
+    "area": "Canada",
+    "language": "en",
+    "holding": "Governor General of Canada · Public Register",
+    "titleOriginal": "Canada Pride Citation",
+    "titleEnglish": "Canada Pride Citation",
+    "url": "https://www.gg.ca/en/heraldry/public-register/project/3072",
+    "kind": "armorial register entry",
+    "authority": "official institution",
+    "englishSynopsis": "The 20 December 2018 registration distinguishes Rose from Gules and Bleu Céleste from Azure within an eight-colour composition. The institutional explanation connects the insignia with injustice experienced by LGBTQ2 people in public service and a commitment to a different future. The record demonstrates purposeful palette expansion without establishing universal digital colour values.",
+    "glossary": [
+      {
+        "term": "Rose",
+        "english": "pink tincture distinguished from Gules in this record"
+      },
+      {
+        "term": "Bleu Céleste",
+        "english": "named light-blue tincture distinguished from Azure"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ca-supreme-court-badges",
+    "area": "Canada",
+    "language": "en",
+    "holding": "Governor General of Canada · Public Register",
+    "titleOriginal": "Supreme Court of Canada",
+    "titleEnglish": "Supreme Court of Canada",
+    "url": "https://www.gg.ca/en/heraldry/public-register/project/3231",
+    "kind": "armorial register entry",
+    "authority": "official institution",
+    "englishSynopsis": "The 15 April 2020 grant records a flag and badges, with geometry and bilingual lettering associated with the Court’s institutional identity. Its explanation connects parallel forms with legal traditions and the lozenge pattern with the nine judges. This is an official symbolic account to be studied alongside, rather than substituted for, the history of the legal institution.",
+    "glossary": [
+      {
+        "term": "Canadian pale",
+        "english": "broad central vertical field on a flag"
+      },
+      {
+        "term": "lozengy",
+        "english": "pattern composed of repeated lozenges"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ca-william-rose-registration",
+    "area": "Canada",
+    "language": "en",
+    "holding": "Governor General of Canada · Public Register",
+    "titleOriginal": "William Rose",
+    "titleEnglish": "William Rose",
+    "url": "https://www.gg.ca/en/heraldry/public-register/project/2632",
+    "kind": "armorial register entry",
+    "authority": "official institution",
+    "englishSynopsis": "The 15 January 2015 Canadian registration identifies an earlier Scottish recording dated 14 September 1872. The entry is a useful chronological counterexample to treating every online Canadian record date as the invention of a design. It separates the earlier armorial history from the later Canadian act and explicitly leaves some symbolic explanations unavailable.",
+    "glossary": [
+      {
+        "term": "registration",
+        "english": "recording of existing arms within the Canadian system"
+      },
+      {
+        "term": "symbolism not available",
+        "english": "absence of a supplied account rather than an invitation to invent one"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "us-qm-heraldic-history",
+    "area": "United States",
+    "language": "en",
+    "holding": "U.S. Army Quartermaster Museum",
+    "titleOriginal": "The Quartermaster Heraldic Section & The U.S. Army Institute of Heraldry",
+    "titleEnglish": "The Quartermaster Heraldic Section & The U.S. Army Institute of Heraldry",
+    "url": "https://qmmuseum.army.mil/research/history-heritage/former-qm-corps/heraldry/The-Quartermaster-Heraldic-Section-and-The-US-Army-Institute-of-Heraldry.html",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "The museum traces the Army’s organized heraldic work through the adoption of coats of arms, unit insignia, Quartermaster responsibility, manufacturing drawings, and inspection of production samples. The account provides a historical example of design administration extending beyond the drawing itself. Its dated history should not be substituted for the current procurement or licensing rules applicable to a proposed product.",
+    "glossary": [
+      {
+        "term": "distinctive unit insignia",
+        "english": "wearable unit-associated emblem"
+      },
+      {
+        "term": "quality control",
+        "english": "inspection connecting an approved design with manufactured objects"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "us-110th-lineage",
+    "area": "United States",
+    "language": "en",
+    "holding": "The Institute of Heraldry",
+    "titleOriginal": "110th Information Operations Battalion — Coat of Arms",
+    "titleEnglish": "110th Information Operations Battalion — Coat of Arms",
+    "url": "https://tioh.army.mil/Catalog/PageFlow.aspx?CategoryId=7202&grp=3&menu=Uniformed+Services",
+    "kind": "official insignia record",
+    "authority": "official institution",
+    "englishSynopsis": "The official record preserves a coat’s approval and successive redesignations from the 110th Field Artillery in 1924 to the 110th Information Operations Battalion effective in 2009. It describes Maryland-related components alongside the organizational history. The sequence allows a focused investigation of continuity through changes in name and mission; the full lineage record remains a separate witness.",
+    "glossary": [
+      {
+        "term": "redesignation",
+        "english": "recorded change in the organization associated with the insignia"
+      },
+      {
+        "term": "state crest",
+        "english": "crest identified with the relevant National Guard state"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "us-washington-arms",
+    "area": "United States",
+    "language": "en",
+    "holding": "George Washington’s Mount Vernon",
+    "titleOriginal": "George Washington’s Coat of Arms",
+    "titleEnglish": "George Washington’s Coat of Arms",
+    "url": "https://www.mountvernon.org/library/digitalhistory/digital-encyclopedia/article/coat-of-arms",
+    "kind": "institutional historical essay",
+    "authority": "historic-site research institution",
+    "englishSynopsis": "The institutional essay follows Washington’s personal armorial uses and his correspondence with the College of Arms, and distinguishes documented later adaptations from the unsupported claim that his arms inspired the national flag or Great Seal. It is an interpretive account with references to historical correspondence, useful for separating family identity, public commemoration, and origin myths.",
+    "glossary": [
+      {
+        "term": "bookplate",
+        "english": "ownership print placed in a book"
+      },
+      {
+        "term": "armorial allusion",
+        "english": "documented reference to an earlier design in a later emblem"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "us-dc-flag",
+    "area": "United States",
+    "language": "en",
+    "holding": "District of Columbia, Office of the Secretary",
+    "titleOriginal": "Frequently Asked Questions — Office of the Secretary",
+    "titleEnglish": "Frequently Asked Questions — Office of the Secretary",
+    "url": "https://os.dc.gov/page/frequently-asked-questions-office-secretary",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "The office identifies its custody of the District seal and describes the flag’s 1938 adoption and derivation from Washington’s arms. Its flag and seal explanations concern distinct public symbols. The precise October date differs from another office webpage consulted in this pass; the chapter therefore retains the common year and uses the records for the clearly stated design relationship.",
+    "glossary": [
+      {
+        "term": "District flag",
+        "english": "public flag distinct from the District seal"
+      },
+      {
+        "term": "custody",
+        "english": "institutional responsibility for the identified seal"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "us-amedd-change",
+    "area": "United States",
+    "language": "en",
+    "holding": "U.S. Army · AMEDD Center of History & Heritage",
+    "titleOriginal": "The “New” Army Medical Department (AMEDD) Regimental Distinctive Insignia",
+    "titleEnglish": "The “New” Army Medical Department (AMEDD) Regimental Distinctive Insignia",
+    "url": "https://www.army.mil/article/138785/the_new_army_medical_department_amedd_regimental_distinctive_insignia",
+    "kind": "institutional historical account",
+    "authority": "official institution",
+    "englishSynopsis": "The 2014 institutional article describes an older Medical Corps composition, its use on inspected departmental objects, and subsequent incorporation or adoption in regimental insignia. It identifies the single-serpent staff and explains the rooster’s forward motion with backward-looking head. The case demonstrates deliberate historic reference through changed organizational and material uses.",
+    "glossary": [
+      {
+        "term": "Staff of Aesculapius",
+        "english": "single-serpent staff identified with medicine"
+      },
+      {
+        "term": "regimental affiliation",
+        "english": "relationship connecting personnel with the stated regimental body"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "br-constitution-1891",
+    "area": "Brazil",
+    "language": "pt",
+    "holding": "Câmara dos Deputados",
+    "titleOriginal": "Constituição de 24 de fevereiro de 1891 — publicação original",
+    "titleEnglish": "Constitution of 24 February 1891 — original publication",
+    "url": "https://www2.camara.leg.br/legin/fed/consti/1824-1899/constituicao-35081-24-fevereiro-1891-532699-publicacaooriginal-15017-pl.html",
+    "kind": "historical constitutional text",
+    "authority": "official institution",
+    "englishSynopsis": "Article 72, paragraph 2, rejects birth privilege and noble jurisdiction and abolishes the stated titles, orders, and prerogatives in the republican constitutional setting. This is the historical 1891 text, not Brazil’s current Constitution. It supplies a precise comparison between changes in status and the continued use of armorial composition in republican public symbols.",
+    "glossary": [
+      {
+        "term": "foros de nobreza",
+        "english": "noble privileges or jurisdiction in the historical wording"
+      },
+      {
+        "term": "títulos nobiliárquicos",
+        "english": "titles of nobility"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "br-recife-1968",
+    "area": "Brazil",
+    "language": "pt",
+    "holding": "Prefeitura do Recife · LegisCidade",
+    "titleOriginal": "Decreto nº 8745, de 24 de janeiro de 1968",
+    "titleEnglish": "Decree no. 8745 of 24 January 1968",
+    "url": "https://www.legiscidade.recife.pe.gov.br/decreto/08745/",
+    "kind": "municipal decree",
+    "authority": "official institution",
+    "englishSynopsis": "The municipal decree revises Recife’s arms, explaining the addition of the foundation date and simplification of the mural crown. Its operative description names a divided composition, reef, tower, lighthouse, crowned Dutch lions, motto, and dated inscriptions. Read it as a specific 1968 act with an attached drawing referenced by the text, rather than as a general rule for Brazilian civic heraldry.",
+    "glossary": [
+      {
+        "term": "tenentes",
+        "english": "figures supporting the shield in this text"
+      },
+      {
+        "term": "recife",
+        "english": "reef; also the city name and a canting reference"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "br-army-quaderna",
+    "area": "Brazil",
+    "language": "pt",
+    "holding": "Exército Brasileiro · Subtenente Julio Cezar Rodrigues Eloi",
+    "titleOriginal": "Quaderna: símbolo da capacitação das praças do Exército",
+    "titleEnglish": "Quaderna: symbol of training among Army enlisted personnel",
+    "url": "https://eblog.eb.mil.br/fi/w/quaderna?p_l_back_url=%2Ffi%2F%3Fdelta%3D60%26p%3D3592%26start%3D5&p_l_back_url_title=EBlog",
+    "kind": "institutional insignia analysis",
+    "authority": "official institution",
+    "englishSynopsis": "The Army’s 3 July 2024 article describes the quaderna as four crescents arranged in a form resembling a four-leaf clover, and relates it to training insignia and organizational emblems. This is an attributed institutional explanation drawing on uniform regulations and military bibliography. It permits comparison of one motif across individual qualification and corporate identification without making all such uses interchangeable.",
+    "glossary": [
+      {
+        "term": "quaderna",
+        "english": "four-crescent composition described in the article"
+      },
+      {
+        "term": "praças",
+        "english": "enlisted ranks in the military context"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "fr-imperial-registers",
+    "area": "France",
+    "language": "fr",
+    "holding": "Archives nationales, FranceArchives",
+    "titleOriginal": "Titres et armoiries (1808–1961). Première partie",
+    "titleEnglish": "Titles and arms: transcription registers",
+    "url": "https://francearchives.gouv.fr/findingaid/f8cd554d957b702164a947c733b519720ee7877a",
+    "kind": "archival finding aid",
+    "authority": "official institution",
+    "englishSynopsis": "The finding aid identifies registers transcribing letters patent concerning conferral, confirmation and transmission of titles and nobility. This series is different from the registers recording armorial descriptions. Its institutional grouping helps distinguish acts that may belong to the same person but perform different administrative functions.",
+    "glossary": [
+      {
+        "term": "lettres patentes",
+        "english": "letters patent"
+      },
+      {
+        "term": "transmission",
+        "english": "transmission or succession"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "fr-dupuch",
+    "area": "France",
+    "language": "fr",
+    "holding": "Archives nationales, BB/29/1072",
+    "titleOriginal": "M. le chevalier Dupuch",
+    "titleEnglish": "The knight Dupuch: armorial entry",
+    "url": "https://francearchives.gouv.fr/facomponent/df7876e9891d9e8f01bebd7511159a11411e725a",
+    "kind": "archival component record",
+    "authority": "official institution",
+    "englishSynopsis": "Located description in the imperial knights’ armorial register, with a sword placed diagonally, two stars and a red lower area carrying the knights’ sign. The catalogue preserves a French blazon and livery statement. The wording needs to be checked against the linked manuscript image before a critical edition is published.",
+    "glossary": [
+      {
+        "term": "en barre",
+        "english": "bendwise sinister"
+      },
+      {
+        "term": "livrées",
+        "english": "livery colours"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "fr-simon-1812",
+    "area": "France",
+    "language": "fr",
+    "holding": "Bibliothèque nationale de France",
+    "titleOriginal": "Armorial général de l’empire français",
+    "titleEnglish": "General Armorial of the French Empire, 1812",
+    "url": "https://catalogue.bnf.fr/ark:/12148/cb313700056",
+    "kind": "catalogue of historical armorial",
+    "authority": "official institution",
+    "englishSynopsis": "Catalogue of Henry Simon’s 1812 armorial, including rulers, dignitaries and cities, with material on external ornaments and internal signs. Its organization offers a contemporary published witness to imperial classifications. A printed armorial and an enrolled administrative instrument remain different witnesses.",
+    "glossary": [
+      {
+        "term": "ornements extérieurs",
+        "english": "external ornaments"
+      },
+      {
+        "term": "signes intérieurs",
+        "english": "internal signs"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "fr-seal",
+    "area": "France",
+    "language": "fr",
+    "holding": "Présidence de la République",
+    "titleOriginal": "Le Grand Sceau de France",
+    "titleEnglish": "The Great Seal of France",
+    "url": "https://www.elysee.fr/la-presidence/le-sceau",
+    "kind": "official historical explanation",
+    "authority": "official institution",
+    "englishSynopsis": "Official historical account follows the state seal through successive regimes and describes the Republican composition established in 1848. It notes a difference between the prescribed inscriptions and the engraver’s realization. A seal can organize national identification without being a hereditary armorial shield.",
+    "glossary": [
+      {
+        "term": "sceau",
+        "english": "seal"
+      },
+      {
+        "term": "Liberté",
+        "english": "Liberty, here a personification"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "fr-fasces",
+    "area": "France",
+    "language": "fr",
+    "holding": "Présidence de la République",
+    "titleOriginal": "Le faisceau de licteur",
+    "titleEnglish": "The lictor’s fasces",
+    "url": "https://www.elysee.fr/la-presidence/le-faisceau-de-licteur",
+    "kind": "official historical explanation",
+    "authority": "official institution",
+    "englishSynopsis": "Official account distinguishes a frequently used Republican emblem from formal official status, and identifies diplomatic and United Nations settings for related designs. Its chronology shows why a national symbol’s use, a particular commission and the status of the wider emblem cannot be collapsed into one timeless adoption.",
+    "glossary": [
+      {
+        "term": "faisceau de licteur",
+        "english": "lictorial fasces"
+      },
+      {
+        "term": "emblème",
+        "english": "emblem"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "de-siebmacher-burgher",
+    "area": "Germany",
+    "language": "de",
+    "holding": "Bayerische Staatsbibliothek, 4 Herald. 100 f,V-1",
+    "titleOriginal": "Zweitausend bürgerliche Wappen",
+    "titleEnglish": "Two thousand burgher arms",
+    "url": "https://www.digitale-sammlungen.de/de/details/bsb10362308",
+    "kind": "digitized historical armorial",
+    "authority": "official institution",
+    "englishSynopsis": "Digitized volume of the expanded Siebmacher armorial devoted expressly to non-noble family arms. The historical volume supplies a printed comparative corpus; inclusion and editorial arrangement should be investigated rather than treated as a state grant. Its publication belongs to the later series rather than to Johann Siebmacher’s original lifetime.",
+    "glossary": [
+      {
+        "term": "bürgerliche Wappen",
+        "english": "non-noble family arms"
+      },
+      {
+        "term": "Tafel",
+        "english": "plate"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "de-siebmacher-index",
+    "area": "Germany",
+    "language": "de",
+    "holding": "University of Regensburg, DBIS; CERL database",
+    "titleOriginal": "Siebmachers Wappenbücher",
+    "titleEnglish": "Siebmacher armorials: database description",
+    "url": "https://dbis.uni-regensburg.de/SBM/resources/101841",
+    "kind": "academic library database description",
+    "authority": "academic library",
+    "englishSynopsis": "University database description distinguishes the Old and New Siebmacher series and links indexed records with digitized volumes. Some later burgher volumes are not digitally available because of copyright. The search database therefore supports discovery without supplying a uniformly available image corpus for every indexed entry.",
+    "glossary": [
+      {
+        "term": "General-Index",
+        "english": "general index"
+      },
+      {
+        "term": "Digitalisat",
+        "english": "digitized reproduction"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "de-hamburg",
+    "area": "Germany",
+    "language": "de",
+    "holding": "Free and Hanseatic City of Hamburg",
+    "titleOriginal": "Hamburg Logo, Flaggen und Wappen",
+    "titleEnglish": "Hamburg: logo, flags and arms",
+    "url": "https://www.hamburg.de/politik-und-verwaltung/behoerden/senatskanzlei/hamburg-logo-239048",
+    "kind": "official public-symbol guidance",
+    "authority": "official institution",
+    "englishSynopsis": "Official guidance distinguishes state arms from branding and traces the castle image to earlier civic seals. It records variations in the gateway and an eighteenth-century colour decision. Institutional identity may persist through documented changes of representation; an old seal does not alone establish the tinctures of a later shield.",
+    "glossary": [
+      {
+        "term": "Landeswappen",
+        "english": "state arms"
+      },
+      {
+        "term": "Hoheitszeichen",
+        "english": "public-authority symbol"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "nl-public-history",
+    "area": "Netherlands",
+    "language": "nl",
+    "holding": "Hoge Raad van Adel",
+    "titleOriginal": "Regelgeving voor het verlenen van wapens aan publiekrechtelijke lichamen",
+    "titleEnglish": "Rules and history of public-body grants",
+    "url": "https://www.hogeraadvanadel.nl/heraldiek/overheidswapens/regelgeving",
+    "kind": "official procedural history",
+    "authority": "official institution",
+    "englishSynopsis": "Council’s historical explanation distinguishes the early inventory of existing arms, delegated confirmations and later royal grants. It discusses the changing scope of public-body grants and arrangements for institutional reorganization. Read each dated instrument for the period under investigation rather than retrospectively applying the latest procedure.",
+    "glossary": [
+      {
+        "term": "bevestigen",
+        "english": "confirm"
+      },
+      {
+        "term": "publiekrechtelijk lichaam",
+        "english": "public-law body"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "nl-design-guidelines",
+    "area": "Netherlands",
+    "language": "nl",
+    "holding": "Hoge Raad van Adel",
+    "titleOriginal": "Richtlijnen voor het verlenen van wapens aan publiekrechtelijke lichamen",
+    "titleEnglish": "Design guidelines for grants to public bodies",
+    "url": "https://www.hogeraadvanadel.nl/heraldiek/overheidswapens/richtlijnen",
+    "kind": "published ministerial guidelines",
+    "authority": "official institution",
+    "englishSynopsis": "Published 1977 ministerial design guidelines prefer simple compositions and historically justified figures. They distinguish ordinary crown provision from exceptional crowns, supporters and mottos, and address combining predecessor arms after administrative reorganization. These are guidelines for a specified public-body process, not universal rules for private Dutch arms.",
+    "glossary": [
+      {
+        "term": "schildhouders",
+        "english": "supporters"
+      },
+      {
+        "term": "herindeling",
+        "english": "administrative reorganization"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "de-berlin-text",
+    "area": "Germany",
+    "language": "de",
+    "holding": "HEROLD, statement dated 24 April 2009",
+    "titleOriginal": "Die Berliner Erklärung",
+    "titleEnglish": "The Berlin Declaration: design principles",
+    "url": "https://herold-verein.de/heraldik/die-berliner-erklaerung/",
+    "kind": "association design statement",
+    "authority": "heraldic association",
+    "englishSynopsis": "Full institutional statement explains simplified figures, shield-filling composition, contrast, and the relationship of helm and crest. It distinguishes flat shield design from the three-dimensional interpretation of external parts. The statement represents the association’s design position; historical examples and public-symbol rules need separate treatment.",
+    "glossary": [
+      {
+        "term": "Helmzier",
+        "english": "crest"
+      },
+      {
+        "term": "Bewehrung",
+        "english": "animal weapons, such as claws or teeth"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "de-federal-description",
+    "area": "Germany",
+    "language": "de",
+    "holding": "Federal legislation portal, notice of 20 January 1950",
+    "titleOriginal": "Bekanntmachung betreffend das Bundeswappen und den Bundesadler",
+    "titleEnglish": "Notice concerning the federal arms and eagle",
+    "url": "https://www.gesetze-im-internet.de/bwappenbek/BJNR000260950.html",
+    "kind": "official normative text",
+    "authority": "official institution",
+    "englishSynopsis": "Official published text specifies the federal shield and eagle, distinguishes the unframed representation, and reserves artistic treatment for particular purposes while referring to authoritative heraldic models. The distinction demonstrates how a specified identity can admit several realizations without becoming an unrestricted graphic invention.",
+    "glossary": [
+      {
+        "term": "Bundeswappen",
+        "english": "federal arms"
+      },
+      {
+        "term": "Ausgestaltung",
+        "english": "artistic realization"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "de-eagle-history",
+    "area": "Germany",
+    "language": "de",
+    "holding": "Deutscher Bundestag",
+    "titleOriginal": "Der Bundesadler",
+    "titleEnglish": "The federal eagle",
+    "url": "https://www.bundestag.de/parlament/symbole/adler/adler-198402",
+    "kind": "official historical explanation",
+    "authority": "official institution",
+    "englishSynopsis": "Parliament’s historical explanation compares imperial, republican and later federal uses of the eagle and distinguishes the artistic designs used by different institutions. Continuity of a charge can coexist with altered political meaning and different material realizations. The chronology needs specific comparison rather than a claim that every eagle expresses the same constitution.",
+    "glossary": [
+      {
+        "term": "einköpfig",
+        "english": "single-headed"
+      },
+      {
+        "term": "Doppeladler",
+        "english": "double-headed eagle"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "nl-royal-arms",
+    "area": "Netherlands",
+    "language": "nl",
+    "holding": "Hoge Raad van Adel",
+    "titleOriginal": "Rijkswapen en Koninklijk wapen",
+    "titleEnglish": "State and royal arms",
+    "url": "https://www.hogeraadvanadel.nl/heraldiek/rijkswapen-en-koninklijk-wapen",
+    "kind": "official armorial history",
+    "authority": "official institution",
+    "englishSynopsis": "Council’s account distinguishes the 1815 establishment, 1907 alterations and 1980 restatement of the state and royal arms. The account separates the lion within the shield from the supporting lions and shows why alterations to a description or ornament must be dated individually. A dynastic charge’s survival does not imply that every feature remained unchanged.",
+    "glossary": [
+      {
+        "term": "bezaaid",
+        "english": "strewn or semy"
+      },
+      {
+        "term": "schildhoudende leeuwen",
+        "english": "supporting lions"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "nl-delft-council",
+    "area": "Netherlands",
+    "language": "nl",
+    "holding": "Rijksmuseum, RP-P-1885-A-8772B",
+    "titleOriginal": "Wapenkaart met de wapens en namen van de Heren Veertigen van Delft, 1",
+    "titleEnglish": "Armorial print of the Forty Councillors of Delft",
+    "url": "https://id.rijksmuseum.nl/200219427",
+    "kind": "museum object catalogue",
+    "authority": "official institution",
+    "englishSynopsis": "Museum record identifies Hendrik de Leth’s 1738 etching as part of a series devoted to the Forty Councillors of Delft. Its combination of names and arms offers a located example of personal identification within a civic ensemble. Membership, object date and the histories of particular designs require separate documentary treatment.",
+    "glossary": [
+      {
+        "term": "wapenkaart",
+        "english": "armorial chart or print"
+      },
+      {
+        "term": "raaden",
+        "english": "councillors, historical spelling"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "nl-waterboard-building",
+    "area": "Netherlands",
+    "language": "nl",
+    "holding": "Hoogheemraadschap van Schieland en de Krimpenerwaard",
+    "titleOriginal": "Hoofdkantoor",
+    "titleEnglish": "Headquarters: art and inherited furnishings",
+    "url": "https://www.schielandendekrimpenerwaard.nl/over-ons/geschiedenis/hoofdkantoor/",
+    "kind": "institutional account of architecture",
+    "authority": "official institution",
+    "englishSynopsis": "Water authority identifies Adri Blok’s facade relief with the eagle and Schieland’s arms, and explains the reuse of furnishings from an earlier headquarters. The account supplies a material setting for institutional memory. An older device retained in a later building should be studied alongside the history of the displaying institution.",
+    "glossary": [
+      {
+        "term": "hoogheemraadschap",
+        "english": "water-management authority"
+      },
+      {
+        "term": "dijkgraaf",
+        "english": "chair of the water board"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "vl-symbols-history",
+    "area": "Flanders",
+    "language": "nl",
+    "holding": "Vlaams Parlement",
+    "titleOriginal": "Vlaamse Symbolen",
+    "titleEnglish": "Flemish symbols: parliamentary history",
+    "url": "https://www.vlaamsparlement.be/nl/parlementair-werk/dossiers/dossiers/vlaamse-symbolen",
+    "kind": "parliamentary historical dossier",
+    "authority": "official institution",
+    "englishSynopsis": "Parliamentary history follows the lion, crown and stars through the institution’s symbols and the 1988 and 1990 decisions. It distinguishes an earlier emblem from the later corrected arms. The sequence is a concrete example of a graphic identity and statutory specification influencing one another while remaining distinct records.",
+    "glossary": [
+      {
+        "term": "wapenschild",
+        "english": "armorial shield"
+      },
+      {
+        "term": "huisstijl",
+        "english": "institutional graphic identity"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "vl-lievegem",
+    "area": "Flanders",
+    "language": "nl",
+    "holding": "Vlaamse Codex, ministerial act of 12 February 2021",
+    "titleOriginal": "Wapen en vlag van de gemeente Lievegem",
+    "titleEnglish": "Arms and flag of Lievegem",
+    "url": "https://codex.vlaanderen.be/PrintDocument.ashx?id=1035361",
+    "kind": "official municipal-symbol instrument",
+    "authority": "official institution",
+    "englishSynopsis": "Published act confirms the municipal determination of Lievegem’s arms and flag after the named council decision and heraldic advice. It describes a green shield with a silver wavy horizontal ordinary and silver chief, and separately specifies the flag. The two compositions share a palette and visual vocabulary without becoming the same layout.",
+    "glossary": [
+      {
+        "term": "golvende dwarsbalk",
+        "english": "wavy fess"
+      },
+      {
+        "term": "schildhoofd",
+        "english": "chief"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "vl-annual-2023",
+    "area": "Flanders",
+    "language": "nl",
+    "holding": "Vlaamse Heraldische Raad",
+    "titleOriginal": "Jaarverslag 2023",
+    "titleEnglish": "Annual report 2023",
+    "url": "https://publicaties.vlaanderen.be/view-file/70412",
+    "kind": "official annual report",
+    "authority": "official institution",
+    "englishSynopsis": "Annual report gives a bounded record of the Council’s work, including armorial diplomas issued in 2023 and the distinction between older-arm recognitions and new grants. The counts concern that reporting year and process, rather than the full armigerous population. Its cases provide a route into actual contemporary practice.",
+    "glossary": [
+      {
+        "term": "jaarverslag",
+        "english": "annual report"
+      },
+      {
+        "term": "wapenbrieven",
+        "english": "armorial diplomas"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "be-federal-lion",
+    "area": "Belgium",
+    "language": "fr",
+    "holding": "Federal public information service",
+    "titleOriginal": "Emblème héraldique et devise",
+    "titleEnglish": "Heraldic emblem and motto",
+    "url": "https://www.belgium.be/fr/la_belgique/connaitre_le_pays/la_belgique_en_bref/symboles/blasons",
+    "kind": "official public-symbol explanation",
+    "authority": "official institution",
+    "englishSynopsis": "Federal explanation identifies the gold or yellow Belgian lion with red claws and tongue on black and connects it with the small state seal. The short account also gives the national motto. It concerns national identification, which must be distinguished from personal arms and community-level registration.",
+    "glossary": [
+      {
+        "term": "petit sceau d’État",
+        "english": "small state seal"
+      },
+      {
+        "term": "devise",
+        "english": "motto"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "be-nobility-guide",
+    "area": "Belgium",
+    "language": "fr",
+    "holding": "FPS Foreign Affairs, July 2025",
+    "titleOriginal": "Guide du Protocole : Noblesse",
+    "titleEnglish": "Protocol guide: nobility",
+    "url": "https://diplomatie.belgium.be/sites/default/files/2025-07/Guide_du_Protocol_Noblesse_FR_juillet2025.pdf",
+    "kind": "official protocol guide",
+    "authority": "official institution",
+    "englishSynopsis": "Protocol guide explains the noble context of complete arms and letters patent, including the participation of the Council and heraldic artists. Its discussion distinguishes documentary proof of noble status from the use of arms. This federal process should be studied separately from community registration of non-noble individual or association arms.",
+    "glossary": [
+      {
+        "term": "faveur nobiliaire",
+        "english": "nobiliary favour"
+      },
+      {
+        "term": "lettres patentes",
+        "english": "letters patent"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "be-liege-monument",
+    "area": "Belgium",
+    "language": "fr",
+    "holding": "Wallonie, Connaître la Wallonie",
+    "titleOriginal": "Perron de Liège",
+    "titleEnglish": "The Perron of Liège",
+    "url": "https://connaitrelawallonie.wallonie.be/culture-et-patrimoine/patrimoine/perron-de-liege",
+    "kind": "official heritage account",
+    "authority": "official institution",
+    "englishSynopsis": "Heritage account follows the monument’s removal, return and successive alterations, and identifies its appearance in civic arms and episcopal coinage. The relationship between the material monument and its identifying representation supplies a local case of heraldry, public memory and authority.",
+    "glossary": [
+      {
+        "term": "perron",
+        "english": "the local monument and its identifying form"
+      },
+      {
+        "term": "liberté civique",
+        "english": "civic liberty"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "be-liege-logo",
+    "area": "Belgium",
+    "language": "fr",
+    "holding": "Province de Liège",
+    "titleOriginal": "Logos — Province de Liège",
+    "titleEnglish": "Provincial logo: lion and Perron",
+    "url": "https://provincedeliege.be/fr/charte/logos",
+    "kind": "official graphic-identity explanation",
+    "authority": "official institution",
+    "englishSynopsis": "Province explains its 2008 logo as a combination of lion and Perron and attributes meanings to its form and colours. The institutional explanation is evidence of a dated branding decision. Its references to earlier arms do not by themselves demonstrate abolition of every historical armorial use.",
+    "glossary": [
+      {
+        "term": "logo",
+        "english": "graphic identity mark"
+      },
+      {
+        "term": "armoiries traditionnelles",
+        "english": "traditional armorial bearings"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "at-herald-tabard",
+    "area": "Austria",
+    "language": "de",
+    "holding": "Kunsthistorisches Museum, Vienna",
+    "titleOriginal": "Wappenrock für den Herold des Kaisertums Österreich",
+    "titleEnglish": "Tabard for the herald of the Austrian Empire",
+    "url": "https://www.khm.at/en/artworks/wappenrock-fuer-den-herold-des-kaisertums-oesterreich-100694-1",
+    "kind": "museum object catalogue",
+    "authority": "official institution",
+    "englishSynopsis": "Museum dates the ceremonial tabard to 1830 and describes its layered imperial eagle, dynastic shield, orders and surrounding crownland arms. It identifies an embroidery colour error in the Tyrolean arms. The object supplies a concrete comparison between prescribed heraldic identity and a prestigious but fallible material realization.",
+    "glossary": [
+      {
+        "term": "Wappenrock",
+        "english": "herald’s tabard"
+      },
+      {
+        "term": "Kronländer",
+        "english": "crownlands"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "at-falcon-hood",
+    "area": "Austria",
+    "language": "de",
+    "holding": "Kunsthistorisches Museum, Vienna",
+    "titleOriginal": "Falkenhaube",
+    "titleEnglish": "Falcon hood with royal and dynastic devices",
+    "url": "https://www.khm.at/kunstwerke/falkenhaube-373975",
+    "kind": "museum object catalogue",
+    "authority": "official institution",
+    "englishSynopsis": "Catalogue connects a group of small armorial falconry objects with Maximilian I and Bianca Maria Sforza and dates them through the heraldic decoration. It distinguishes the royal single-headed eagle from the later imperial double-headed form. The attribution is an interpretation grounded in the ensemble rather than a maker’s signature.",
+    "glossary": [
+      {
+        "term": "Falkenhaube",
+        "english": "falcon hood"
+      },
+      {
+        "term": "Königsadler",
+        "english": "royal eagle"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "at-republic-eagle",
+    "area": "Austria",
+    "language": "de",
+    "holding": "Theresian Military Academy",
+    "titleOriginal": "Das Bundeswappen",
+    "titleEnglish": "The federal arms: the eagle with broken chains",
+    "url": "https://www.milak.at/geschichte/bundeswappen",
+    "kind": "institutional historical account",
+    "authority": "official institution",
+    "englishSynopsis": "Institutional account reproduces the 1945 law’s explanation of the restored arms and broken chains. It identifies the hammer, sickle and mural crown through the stated social meanings and connects the added chain with regained independence. The particular Austrian instrument should govern interpretation rather than an assumed meaning borrowed from another state.",
+    "glossary": [
+      {
+        "term": "gesprengte Ketten",
+        "english": "broken chains"
+      },
+      {
+        "term": "Stadtmauerkrone",
+        "english": "mural crown"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ch-fribourg-glass",
+    "area": "Switzerland",
+    "language": "de",
+    "holding": "Vitrocentre Romont, Vitrosearch",
+    "titleOriginal": "Standesscheibe Freiburg 1550",
+    "titleEnglish": "Fribourg state armorial glass, 1550",
+    "url": "https://www.vitrosearch.ch/de/objects/2561647",
+    "kind": "research object catalogue",
+    "authority": "specialist museum research institution",
+    "englishSynopsis": "Object record identifies a 1550 glass panel, attributed to Lienhard Jerli, and separately describes the Fribourg and imperial arms. It gives materials and painting techniques as well as heraldic descriptions. The panel joins public identities in one material display while keeping the represented arms distinguishable.",
+    "glossary": [
+      {
+        "term": "Standesscheibe",
+        "english": "state or cantonal armorial glass panel"
+      },
+      {
+        "term": "Silbergelb",
+        "english": "silver-stain glass technique"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ch-zurich-roll",
+    "area": "Switzerland",
+    "language": "de",
+    "holding": "Swiss National Museum, AG 2760, e-codices",
+    "titleOriginal": "Zürcher Wappenrolle",
+    "titleEnglish": "Zurich armorial roll",
+    "url": "https://www.e-codices.unifr.ch/de/list/one/snm/AG002760",
+    "kind": "manuscript catalogue",
+    "authority": "official institution",
+    "englishSynopsis": "Manuscript description dates the roll to around 1330–1345 and locates its production in the Lake Constance region. It distinguishes the surviving assembled portions, later numbering and a lost section known through a later copy. Noble achievements and ecclesiastical banners appear in the same larger witness without becoming identical categories.",
+    "glossary": [
+      {
+        "term": "Wappenrolle",
+        "english": "armorial roll"
+      },
+      {
+        "term": "Helmzier",
+        "english": "crest"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ch-zurich-glass-1500",
+    "area": "Switzerland",
+    "language": "de",
+    "holding": "Vitrocentre Romont, Vitrosearch; Swiss National Museum LM 12804",
+    "titleOriginal": "Standesscheibe Zürich",
+    "titleEnglish": "Zurich state armorial glass, 1500/01",
+    "url": "https://vitrosearch.ch/de/objects/2710081",
+    "kind": "research object catalogue",
+    "authority": "specialist museum research institution",
+    "englishSynopsis": "Research catalogue identifies Lukas Zeiner’s Zurich panel within the glass cycle donated for the assembly chamber at Baden around 1500. The composition combines Zurich’s shield, the imperial shield, lions and banners. The record gives a material and provenance history distinct from the represented public identities.",
+    "glossary": [
+      {
+        "term": "Standeswappen",
+        "english": "cantonal or state arms"
+      },
+      {
+        "term": "Schildwächter",
+        "english": "shield guards"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ch-zurich-glass-1567",
+    "area": "Switzerland",
+    "language": "de",
+    "holding": "Vitrocentre Romont, Vitrosearch; Bernisches Historisches Museum BHM 4357",
+    "titleOriginal": "Standesscheibe Zürich",
+    "titleEnglish": "Zurich state armorial glass, 1567",
+    "url": "https://vitrosearch.ch/de/objects/2473522",
+    "kind": "research object catalogue",
+    "authority": "specialist museum research institution",
+    "englishSynopsis": "Object record describes a 1567 Zurich panel with an armorial pyramid, lions, banner and Holzhalb family shield. It discusses proposed identification of the family member and notes replacement glass. The record allows public, familial and material layers to be distinguished within one ensemble.",
+    "glossary": [
+      {
+        "term": "Wappenpyramide",
+        "english": "pyramid arrangement of shields"
+      },
+      {
+        "term": "Stiftungsjahr",
+        "english": "donation or foundation year"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ch-glass-patronage",
+    "area": "Switzerland",
+    "language": "en",
+    "holding": "Swiss National Museum",
+    "titleOriginal": "A display window in the 16th century",
+    "titleEnglish": "A display window in the sixteenth century",
+    "url": "https://blog.nationalmuseum.ch/en/2017/09/a-display-window-in-the-16th-century/",
+    "kind": "museum historical account",
+    "authority": "official institution",
+    "englishSynopsis": "Museum account explains armorial glass as a record of support for buildings and discusses a panel donated by Zug to Lachen’s town hall. A displayed donor’s arms identifies a patronage relationship and should not automatically be assigned to the person owning the building.",
+    "glossary": [
+      {
+        "term": "donor",
+        "english": "patron providing support"
+      },
+      {
+        "term": "cabinet panel",
+        "english": "small stained-glass panel"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ch-cross-proportions",
+    "area": "Switzerland",
+    "language": "en",
+    "holding": "Federal Department of Foreign Affairs",
+    "titleOriginal": "The Swiss flag – a plus for the country",
+    "titleEnglish": "Swiss cross: historical account and proportions",
+    "url": "https://www.aboutswitzerland.eda.admin.ch/en/the-swiss-flag-a-plus-for-the-country",
+    "kind": "official historical explanation",
+    "authority": "official institution",
+    "englishSynopsis": "Government account follows military and federal uses of the white cross on red and identifies the 1889 specification of its proportions. The stated arm ratio can be used in a controlled drawing exercise, while earlier uses and the modern flag require their own dates and documentary settings.",
+    "glossary": [
+      {
+        "term": "federal cross",
+        "english": "national identifying cross"
+      },
+      {
+        "term": "one sixth",
+        "english": "amount by which an arm’s length exceeds its width"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "dk-royal-composition",
+    "area": "Denmark",
+    "language": "en",
+    "holding": "Royal House of Denmark",
+    "titleOriginal": "The Royal Coat of Arms",
+    "titleEnglish": "Royal arms: composition and constituent identities",
+    "url": "https://www.kongehuset.dk/en/the-monarchy-in-denmark/the-royal-symbols/the-royal-coat-of-arms",
+    "kind": "official armorial explanation",
+    "authority": "official institution",
+    "englishSynopsis": "Institutional account describes the present royal composition, its cross, territorial quarters, dynastic inescutcheon and external components. It gives historical locators for the Faroese ram and Greenlandic bear. The account allows a reader to distinguish changes to marshalling from the history of an individual constituent device.",
+    "glossary": [
+      {
+        "term": "inescutcheon",
+        "english": "small shield placed within a larger shield"
+      },
+      {
+        "term": "pavilion",
+        "english": "ceremonial surround"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "dk-copenhagen-1661",
+    "area": "Denmark",
+    "language": "da",
+    "holding": "Copenhagen City Archives",
+    "titleOriginal": "Kongemagt og byvåben – også et symbolsk bånd",
+    "titleEnglish": "Royal power and civic arms: Copenhagen",
+    "url": "https://kbharkiv.dk/udforsk/koebenhavns-byvaaben-1275-2025/kongemagt-og-byvaaben-ogsaa-et-symbolsk-baand/",
+    "kind": "municipal archival history",
+    "authority": "official institution",
+    "englishSynopsis": "City archive follows Copenhagen’s armorial relationship with royal power and describes the additions in 1661 after the siege. The account places the visual change beside the privileges and political expectations of the citizens. It supplies a local case in which an armorial gift and political participation are related but distinct outcomes.",
+    "glossary": [
+      {
+        "term": "byvåben",
+        "english": "city arms"
+      },
+      {
+        "term": "privilegiebrev",
+        "english": "charter of privileges"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "dk-copenhagen-commercial",
+    "area": "Denmark",
+    "language": "da",
+    "holding": "Copenhagen City Archives",
+    "titleOriginal": "De tre tårne – kvalitetsstempel og firmalogo",
+    "titleEnglish": "The three towers as quality mark and company logo",
+    "url": "https://kbharkiv.dk/udforsk/koebenhavns-byvaaben-1275-2025/de-tre-taarne-kvalitetsstempel-og-firmalogo/",
+    "kind": "municipal archival history",
+    "authority": "official institution",
+    "englishSynopsis": "Archive traces commercial reuse of the three towers and the city’s 1938 effort to register and redraw its arms as a trademark. The sequence distinguishes identification with a place from identification as municipal government. Its history does not alone determine every present reuse permission.",
+    "glossary": [
+      {
+        "term": "varemærke",
+        "english": "trademark"
+      },
+      {
+        "term": "rentegning",
+        "english": "finished redrawing"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "se-great-arms",
+    "area": "Sweden",
+    "language": "sv",
+    "holding": "Riksarkivet",
+    "titleOriginal": "Stora riksvapnet",
+    "titleEnglish": "The greater state arms",
+    "url": "https://riksarkivet.se/arkivera-och-forvalta/heraldik-och-statssymboler/stora-riksvapnet",
+    "kind": "official armorial explanation",
+    "authority": "official institution",
+    "englishSynopsis": "Archive describes the quartered greater arms, dynastic inescutcheon and external components, and distinguishes the head of state’s use from other settings. A complete achievement can be shown with specified components omitted, while the essential armorial relationships remain. Read the associated instruments for precise scope.",
+    "glossary": [
+      {
+        "term": "hjärtsköld",
+        "english": "inescutcheon"
+      },
+      {
+        "term": "vapenmantel",
+        "english": "armorial mantle"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "se-stockholm-brand",
+    "area": "Sweden",
+    "language": "sv",
+    "holding": "City of Stockholm",
+    "titleOriginal": "Logotyp",
+    "titleEnglish": "Saint Erik: arms and fixed city logo",
+    "url": "https://varumarkesmanual.stockholm/grafisk-profil/logotyp/",
+    "kind": "official brand manual",
+    "authority": "official institution",
+    "englishSynopsis": "City manual identifies Saint Erik as the city’s shared visual mark, traces the seal and later formal adoption, and prescribes an intact logo with city lettering. The heraldic figure’s history and the modern logo’s fixed reproduction requirements concern related but different specifications.",
+    "glossary": [
+      {
+        "term": "S:t Erik",
+        "english": "Saint Erik"
+      },
+      {
+        "term": "logotyp",
+        "english": "logo"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "se-stockholm-county",
+    "area": "Sweden",
+    "language": "sv",
+    "holding": "Länsstyrelsen Stockholm",
+    "titleOriginal": "Om länet",
+    "titleEnglish": "Stockholm County and its arms",
+    "url": "https://www.lansstyrelsen.se/stockholm/om-oss/om-lanet.html",
+    "kind": "official regional history",
+    "authority": "official institution",
+    "englishSynopsis": "County account connects its revised arms with Stockholm’s incorporation in 1968 and describes the combination of Saint Erik, orb and griffin head. It explains heraldic variation through a written description. The case shows selective combination of predecessor identities rather than mechanical accumulation of every full coat.",
+    "glossary": [
+      {
+        "term": "län",
+        "english": "county"
+      },
+      {
+        "term": "griphuvud",
+        "english": "griffin head"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "se-royal-flag",
+    "area": "Sweden",
+    "language": "sv",
+    "holding": "Royal Palaces of Sweden",
+    "titleOriginal": "Den tretungade flaggan",
+    "titleEnglish": "The three-tailed royal flag",
+    "url": "https://www.kungligaslotten.se/artiklar-film-360/kungliga-slotten/2019-06-05-den-tretungade-flaggan.html",
+    "kind": "institutional historical explanation",
+    "authority": "official institution",
+    "englishSynopsis": "Historical institutional article describes royal flags carrying the greater or lesser arms in different circumstances, with different textile sizes. The account shows that a flag’s armorial content and ceremonial use must be identified together. Its dated explanation should not be silently treated as an exhaustive current protocol code.",
+    "glossary": [
+      {
+        "term": "tretungad",
+        "english": "three-tailed"
+      },
+      {
+        "term": "riksföreståndare",
+        "english": "regent"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "no-oslo-brand",
+    "area": "Norway",
+    "language": "nb",
+    "holding": "Oslo municipality",
+    "titleOriginal": "Visuell identitet i Oslo kommune",
+    "titleEnglish": "Oslo’s visual identity",
+    "url": "https://www.oslo.kommune.no/visuell-identitet/",
+    "kind": "official graphic-identity explanation",
+    "authority": "official institution",
+    "englishSynopsis": "Municipal explanation dates the shared visual identity to 2019 and distinguishes its logo, based on the city’s arms, from the retained ceremonial use of Saint Hallvard. A public body can reorganize routine communication while continuing a related historical emblem for particular occasions.",
+    "glossary": [
+      {
+        "term": "byvåpen",
+        "english": "city arms or emblem"
+      },
+      {
+        "term": "avsendermerke",
+        "english": "issuer-identifying mark"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "no-oslo-medal",
+    "area": "Norway",
+    "language": "nb",
+    "holding": "Oslo municipality",
+    "titleOriginal": "St. Hallvard-medaljen",
+    "titleEnglish": "The Saint Hallvard medal",
+    "url": "https://www.oslo.kommune.no/utmerkelser-og-priser/st-hallvard-medaljen/",
+    "kind": "official civic-honour explanation",
+    "authority": "official institution",
+    "englishSynopsis": "City description identifies Saint Hallvard, millstone and three arrows in the medal, with a surrounding inscription and civic-colour ribbon. The object adapts the city’s identifying vocabulary to an honour awarded through a specific civic process. Its composition and recipient relationship differ from a personal grant of arms.",
+    "glossary": [
+      {
+        "term": "møllestein",
+        "english": "millstone"
+      },
+      {
+        "term": "utmerkelse",
+        "english": "distinction or honour"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "no-trondheim",
+    "area": "Norway",
+    "language": "nb",
+    "holding": "Trondheim municipality",
+    "titleOriginal": "Logo — Trondheim kommune",
+    "titleEnglish": "Trondheim: seal-derived arms and bilingual logo",
+    "url": "https://www.trondheim.kommune.no/org/byradsleders-avdeling/kommunikasjonsenheten/grafisk-profil/logo/",
+    "kind": "official brand manual and historical account",
+    "authority": "official institution",
+    "englishSynopsis": "City manual connects the modern emblem with older seals and the 1897 adopted design. It specifies a logo incorporating Norwegian and Southern Sami names and distinguishes coloured and monochrome realizations. Historical identification and contemporary accessibility and reproduction are part of the same institutional system.",
+    "glossary": [
+      {
+        "term": "bysegl",
+        "english": "city seal"
+      },
+      {
+        "term": "Tråanten tjïelte",
+        "english": "Southern Sami municipal name"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "no-bergen",
+    "area": "Norway",
+    "language": "nb",
+    "holding": "Bergen municipality",
+    "titleOriginal": "Et byhistorisk øyeblikk – byseglet frem fra mørket og hem til Bergen",
+    "titleEnglish": "Bergen’s seal, arms and logo",
+    "url": "https://www.bergen.kommune.no/hvaskjer/kultur-og-idrett/et-byhistorisk-oyeblikk-byseglet-frem-fra-morket-og-hem-til-bergen",
+    "kind": "official civic-symbol explanation",
+    "authority": "official institution",
+    "englishSynopsis": "Municipal account distinguishes the city seal’s inscription, the shield without that surrounding text, and a logo combining related elements with the city’s name. The castle and seven mountains recur across different compositions. The categories remain distinguishable despite their shared identifying forms.",
+    "glossary": [
+      {
+        "term": "byseglet",
+        "english": "the city seal"
+      },
+      {
+        "term": "omskrift",
+        "english": "surrounding inscription"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "fi-national-law",
+    "area": "Finland",
+    "language": "fi",
+    "holding": "Finlex, Act 381/1978",
+    "titleOriginal": "Laki Suomen vaakunasta",
+    "titleEnglish": "Act on the arms of Finland",
+    "url": "https://finlex.fi/fi/lainsaadanto/1978/381",
+    "kind": "official normative text",
+    "authority": "official institution",
+    "englishSynopsis": "Normative text defines the crowned lion, armoured arm, raised sword, trampled sabre and nine silver roses, with component tinctures. It separately references uses in flags and official seals. The formal description allows a reader to distinguish specified features from artistic interpretation and from automatically generated database text.",
+    "glossary": [
+      {
+        "term": "haarniskoitu käsi",
+        "english": "armoured arm"
+      },
+      {
+        "term": "hopearuusu",
+        "english": "silver rose"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "fi-national-history",
+    "area": "Finland",
+    "language": "en",
+    "holding": "Presidency of Finland, archived institutional account",
+    "titleOriginal": "Symbols",
+    "titleEnglish": "National arms: historical account",
+    "url": "https://www.presidentti.fi/niinisto/en/presidency/symbols/index.html",
+    "kind": "archived official historical explanation",
+    "authority": "official institution",
+    "englishSynopsis": "Archived presidential account locates an early display on Gustav Vasa’s monument at Uppsala and follows uses through Swedish, Russian and independent Finnish settings. It qualifies uncertainty about origins. The account supplies a route into actual objects and changing political bearers without assigning the design’s every feature a certain original meaning.",
+    "glossary": [
+      {
+        "term": "monument",
+        "english": "material commemorative witness"
+      },
+      {
+        "term": "national arms",
+        "english": "identifying composition of the state"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "fi-heraldic-model",
+    "area": "Finland",
+    "language": "en",
+    "holding": "National Archives of Finland, Europeana Heraldica",
+    "titleOriginal": "Coat of arms",
+    "titleEnglish": "National arms record with generated descriptions",
+    "url": "https://heraldica.kansallisarkisto.fi/aineisto.html?id=725&lang=en",
+    "kind": "archival database record",
+    "authority": "official institution",
+    "englishSynopsis": "Archive database record explicitly warns that computer-generated blazons are not correct or official descriptions. Some displayed linguistic output contains unresolved source-language fragments. This is evidence of a modelling and translation limitation; consult the legal blazon separately rather than treating generated text as a new heraldic language.",
+    "glossary": [
+      {
+        "term": "computer-generated blazon",
+        "english": "description produced from model data"
+      },
+      {
+        "term": "official blazon",
+        "english": "description established by the appropriate instrument"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "fi-helsinki-brand",
+    "area": "Finland",
+    "language": "en",
+    "holding": "City of Helsinki",
+    "titleOriginal": "Use basic elements",
+    "titleEnglish": "Helsinki’s logo and ceremonial arms",
+    "url": "https://www.hel.fi/en/decision-making/information-on-helsinki/design-and-digitalisation/helsinki-brand-and-visual-identity/visual-identity-guidelines/use-basic-elements",
+    "kind": "official brand manual",
+    "authority": "official institution",
+    "englishSynopsis": "City manual distinguishes the framed everyday logo from ceremonial uses of its arms, including the seal and honours. It provides a concrete instance of heraldic and graphic identities operating together through specified contexts. A change in routine branding need not eliminate the armorial identity.",
+    "glossary": [
+      {
+        "term": "framed logo",
+        "english": "fixed graphic identity mark"
+      },
+      {
+        "term": "ceremonial context",
+        "english": "specified formal use"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "fi-society",
+    "area": "Finland",
+    "language": "fi",
+    "holding": "Suomen Heraldinen Seura – Heraldiska Sällskapet i Finland",
+    "titleOriginal": "Suomen Heraldisen Seuran tarkoitus ja toiminta",
+    "titleEnglish": "Finnish Heraldic Society: purpose and activity",
+    "url": "https://www.heraldica.fi/",
+    "kind": "association account",
+    "authority": "heraldic association",
+    "englishSynopsis": "Society’s account connects its 1957 foundation with the postwar municipal-design movement and identifies its publications, advice and non-noble family-arm register. The association’s activities are distinct from the National Archives’ role in public heraldry. Together they show several institutions contributing different functions.",
+    "glossary": [
+      {
+        "term": "porvarisvaakuna",
+        "english": "non-noble family arms"
+      },
+      {
+        "term": "vaakunarekisteri",
+        "english": "armorial register"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "is-heimskringla",
+    "area": "Iceland",
+    "language": "en",
+    "holding": "Snorri Sturluson, Heimskringla; Samuel Laing translation, Project Gutenberg",
+    "titleOriginal": "Olaf Trygvason’s Saga, section 37",
+    "titleEnglish": "Harald sends a warlock to Iceland",
+    "url": "https://www.gutenberg.org/files/598/598-h/598-h.htm",
+    "kind": "historical translation of literary primary source",
+    "authority": "digitized historical edition",
+    "englishSynopsis": "Published historical English translation of the saga’s narrative of a reconnaissance of Iceland opposed by protective beings. This is a literary witness used to study the land-spirit story, rather than a document recording a medieval heraldic grant. The translated names and forms should be compared with an Old Norse edition for philological research.",
+    "glossary": [
+      {
+        "term": "warlock",
+        "english": "the translation’s term for the magical scout"
+      },
+      {
+        "term": "land-spirit",
+        "english": "protective being associated with a place"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "se-small-arms",
+    "area": "Sweden",
+    "language": "sv",
+    "holding": "Riksarkivet",
+    "titleOriginal": "Lilla riksvapnet",
+    "titleEnglish": "The lesser state arms",
+    "url": "https://riksarkivet.se/arkivera-och-forvalta/heraldik-och-statssymboler/lilla-riksvapnet",
+    "kind": "official armorial explanation",
+    "authority": "official institution",
+    "englishSynopsis": "Archive defines the three gold open crowns, two above one, on a crowned blue shield and discusses unframed use of the crowns. Its historical account distinguishes a located medieval frieze and several earlier seal arrangements. The specified count and arrangement should be separated from conjectures about the motif’s original significance.",
+    "glossary": [
+      {
+        "term": "öppna kronor",
+        "english": "open crowns"
+      },
+      {
+        "term": "två över en",
+        "english": "two above one"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "se-keyser-1650",
+    "area": "Sweden",
+    "language": "sv",
+    "holding": "Riddarhuset",
+    "titleOriginal": "Keysers vapenbok nu i databasen Minerva",
+    "titleEnglish": "Keyser’s 1650 armorial in Minerva",
+    "url": "https://www.riddarhuset.se/nyhet/keysers-vapenbok-nu-i-databasen-minerva/",
+    "kind": "institutional account of digitized historical armorial",
+    "authority": "official institution",
+    "englishSynopsis": "Institutional announcement identifies the digitized copy of Henrich Keyser’s 1650 printed armorial and links its searchable entries and page sequence. The copy supplies a located historical witness to noble armorial publication. The publication’s date and the histories of individual represented arms remain different questions.",
+    "glossary": [
+      {
+        "term": "vapenbok",
+        "english": "armorial book"
+      },
+      {
+        "term": "ätt",
+        "english": "lineage or family"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "se-private-register",
+    "area": "Sweden",
+    "language": "sv",
+    "holding": "Svenska Heraldiska Föreningen",
+    "titleOriginal": "Svenskt vapenregister",
+    "titleEnglish": "Swedish register of private arms",
+    "url": "https://heraldik.se/verksamhet/svenska-vapenkollegiet/svenskt-vapenregister/",
+    "kind": "association registration procedure",
+    "authority": "heraldic association",
+    "englishSynopsis": "Association describes registration of private arms following review and public announcement, distinguishes preliminary from final approval, and expressly states that it records rather than grants arms. It excludes official public arms and claimed noble arms from this process. This provides a separate contemporary setting alongside state heraldry and noble collections.",
+    "glossary": [
+      {
+        "term": "kungörelse",
+        "english": "public announcement"
+      },
+      {
+        "term": "registerintyg",
+        "english": "registration certificate"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "fi-lempiainen",
+    "area": "Finland",
+    "language": "fi",
+    "holding": "Lempiäisten sukuseura ry",
+    "titleOriginal": "Sukuseuran vaakuna",
+    "titleEnglish": "The Lempiäinen family association’s arms",
+    "url": "https://www.lempiaistensukuseura.fi/tietoa-lempiaisten-sukuseurasta/sukuseuran-vaakuna/",
+    "kind": "bearer’s account of commissioning and use",
+    "authority": "named armorial bearer",
+    "englishSynopsis": "Association explains its commissioning of Jukka Suvisaari, the choice between two proposals in 1999, the red field strewn with gold hearts, and registration number 935. The account gives a named contemporary example of non-noble collective armorial design. Its bearer is the association identified in the record, not every person with a similar surname.",
+    "glossary": [
+      {
+        "term": "sukuseura",
+        "english": "family association"
+      },
+      {
+        "term": "kylvöisesti",
+        "english": "strewn or semy"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "is-seal-1593",
+    "area": "Iceland",
+    "language": "is",
+    "holding": "National Archives of Iceland, Nordic Archives Day 2005",
+    "titleOriginal": "Innsigli Íslands 1593",
+    "titleEnglish": "Iceland’s seal of 1593",
+    "url": "https://www.skjaladagur.is/2005/001_0101.html",
+    "kind": "archival account of a historical seal",
+    "authority": "official institution",
+    "englishSynopsis": "National Archives account identifies the 1593 seal with the crowned headless cod, divided date and surrounding Latin inscription, and discusses its official use. The object supplies a particular documentary witness to the fish emblem, distinct from a generalized claim about the motif’s earliest origin.",
+    "glossary": [
+      {
+        "term": "innsigli",
+        "english": "seal"
+      },
+      {
+        "term": "afhöfðaður þorskur",
+        "english": "headless cod"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "is-parliament-facade",
+    "area": "Iceland",
+    "language": "is",
+    "holding": "Alþingi, parliamentary proposal 136, session 155",
+    "titleOriginal": "Skjaldarmerki frá 1881 á framhlið Alþingishússins",
+    "titleEnglish": "Proposal concerning the 1881 arms on Parliament’s facade",
+    "url": "https://www.althingi.is/altext/155/s/0136.html",
+    "kind": "parliamentary proposal",
+    "authority": "official institution",
+    "englishSynopsis": "Parliamentary proposal seeks reinstatement of historical fish and Danish-lion devices on the facade in the interest of presenting the building’s earlier appearance. This is evidence of a proposed heritage intervention, not proof that it was adopted or executed. The distinction is essential when interpreting modern restoration debates.",
+    "glossary": [
+      {
+        "term": "þingsályktunartillaga",
+        "english": "proposal for a parliamentary resolution"
+      },
+      {
+        "term": "upprunalegt horf",
+        "english": "original appearance"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
   }
 ]
