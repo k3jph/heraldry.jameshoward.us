@@ -1,8 +1,8 @@
 {
   "status": "in progress; remaining chapters not yet expanded",
   "targetChapters": 70,
-  "expandedDrafts": 56,
-  "addedWords": 108204,
+  "expandedDrafts": 63,
+  "addedWords": 119141,
   "chapters": [
     {
       "slug": "japan-kamon",
@@ -1496,6 +1496,174 @@
         "The Linton Panel has a history before the national arms",
         "Wits links learning, industry and a particular landscape",
         "Advanced laboratory: register, palette and source image"
+      ]
+    },
+    {
+      "slug": "kenya",
+      "before": 1014,
+      "after": 2521,
+      "added": 1507,
+      "sections": 11,
+      "sourceIds": [
+        "ke-college",
+        "ke-rules",
+        "ke-portal",
+        "ke-national",
+        "ke-registrar-guidance",
+        "ke-nairobi-2020"
+      ],
+      "expansionHeads": [
+        "The design test has several moving parts",
+        "Nairobi’s animals preserve an institutional geography",
+        "Read the national achievement from the shield outward",
+        "Grant, graphic, register and public explanation"
+      ]
+    },
+    {
+      "slug": "ghana-namibia",
+      "before": 1018,
+      "after": 2696,
+      "added": 1678,
+      "sections": 13,
+      "sourceIds": [
+        "gh-mission",
+        "na-gazette",
+        "na-mission",
+        "gh-ankara-emblems",
+        "na-presidency-assets"
+      ],
+      "expansionHeads": [
+        "Ghana’s cross organizes a national account",
+        "One black star has several positions",
+        "Namibia’s flag-derived shield has a particular direction",
+        "A head-ring can occupy the torse position",
+        "A desert plant supplies more than a setting",
+        "Production files belong to a use system"
+      ]
+    },
+    {
+      "slug": "adinkra",
+      "before": 1619,
+      "after": 3184,
+      "added": 1565,
+      "sections": 13,
+      "sourceIds": [
+        "adinkra-prempeh-wrapper",
+        "adinkra-inscribing-meaning",
+        "adinkra-gourd-stamp",
+        "adinkra-bowdich-cloth",
+        "adinkra-museum-commission",
+        "adinkra-yellow-wrapper",
+        "adinkra-anagnost-2025"
+      ],
+      "expansionHeads": [
+        "The grid is a second level of design",
+        "A museum commission changes the purpose of a wrapper",
+        "A yellow cloth demonstrates another arrangement",
+        "The imperial history runs in more than one direction",
+        "Nsaa across a stamp, weight and bag"
+      ]
+    },
+    {
+      "slug": "rank-badges",
+      "before": 1430,
+      "after": 2738,
+      "added": 1308,
+      "sections": 13,
+      "sourceIds": [
+        "rank-china-tiger",
+        "rank-china-bear",
+        "rank-korea-crane",
+        "rank-williams-digital",
+        "rank-china-crane-kesi",
+        "rank-china-crane-embroidered"
+      ],
+      "expansionHeads": [
+        "Nine ranks form a dated code",
+        "Two cranes can share a rank and differ as textiles",
+        "A garment turns the code into public recognition",
+        "Chinese and Korean cranes require different tables",
+        "Identify a detached badge in stages"
+      ]
+    },
+    {
+      "slug": "chinese-seals",
+      "before": 1616,
+      "after": 3128,
+      "added": 1512,
+      "sections": 14,
+      "sourceIds": [
+        "seal-xie-exhibition",
+        "seal-bamboo-qing",
+        "seal-peach-textile",
+        "seal-fishes-inscriptions",
+        "seal-qianlong-oval",
+        "seal-qianlong-wufu",
+        "seal-han-tiannan",
+        "seal-han-guo-sa"
+      ],
+      "expansionHeads": [
+        "A Han seal can identify an office",
+        "A private seal can enter an imperial collection",
+        "Qianlong’s oval face and dated side inscription",
+        "An imperial seal can carry an auspicious declaration",
+        "Red and white describe a printing relationship",
+        "Build an inscription record that can be checked"
+      ]
+    },
+    {
+      "slug": "india",
+      "before": 1018,
+      "after": 2601,
+      "added": 1583,
+      "sections": 13,
+      "sourceIds": [
+        "in-dhar",
+        "in-bowring",
+        "in-emblem",
+        "in-law",
+        "in-jaipur-banner",
+        "in-travancore-registration",
+        "in-jubbal-registration",
+        "in-sarnath-capital",
+        "in-ncert-mauryan"
+      ],
+      "expansionHeads": [
+        "Jaipur supplies a specific armorial composition",
+        "Travancore and Cochin are different compositions",
+        "The administrative history continued after 1877",
+        "Sarnath is a sculpture before it is a national graphic",
+        "Antiquity and modern state use have different dates",
+        "Compare local making with imperial presentation"
+      ]
+    },
+    {
+      "slug": "philippines",
+      "before": 1023,
+      "after": 2807,
+      "added": 1784,
+      "sections": 14,
+      "sourceIds": [
+        "ph-code",
+        "ph-memory",
+        "ph-dilg",
+        "ph-eo313-1940",
+        "ph-eo341-1941",
+        "ph-ca731-1946",
+        "ph-motto-1978",
+        "ph-motto-revocation",
+        "ph-presidential-2004",
+        "ph-navy-registry",
+        "ph-afp-registry"
+      ],
+      "expansionHeads": [
+        "Follow the eagle through three dated arrangements",
+        "The 1998 text deserves a close comparison",
+        "A national motto can change through an identifiable act",
+        "Presidential devices identify an office",
+        "The sea lion is a transmitted figure with changing roles",
+        "Local script can enter a contemporary public device",
+        "A research sequence across regimes and offices"
       ]
     }
   ]

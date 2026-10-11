@@ -12624,5 +12624,680 @@
     "accessed": "2026-10-11",
     "reviewStatus": "editorially synthesized; independent specialist review pending",
     "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ke-registrar-guidance",
+    "area": "Kenya",
+    "language": "en",
+    "holding": "Office of the Attorney General and Department of Justice",
+    "titleOriginal": "Coats of Arms and Blazons",
+    "titleEnglish": "Registrar’s public explanation",
+    "url": "https://www.statelaw.go.ke/services-to-the-public/coat-of-arms-and-blazens/",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Official public guidance distinguishes a blazon from graphic emblazonment and identifies local grants and registration of foreign grants. The chapter relies on indexed official text where the live page did not load.",
+    "glossary": [
+      {
+        "term": "blazon",
+        "english": "formal defining description"
+      },
+      {
+        "term": "emblazon",
+        "english": "graphic rendering of arms"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ke-nairobi-2020",
+    "area": "Kenya",
+    "language": "en",
+    "holding": "University of Nairobi, 8 September 2020",
+    "titleOriginal": "UoN at 50: A look at the logo",
+    "titleEnglish": "University of Nairobi’s institutional interpretation",
+    "url": "https://www.uonbi.ac.ke/news/uon-50-look-logo",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "University anniversary account links its animals, torches and academic imagery with the East African institutional history and later independent university. This is an institutional interpretation, not a transcription of an armorial grant.",
+    "glossary": [
+      {
+        "term": "crested crane",
+        "english": "bird associated with Uganda in the account"
+      },
+      {
+        "term": "academic freedom",
+        "english": "institutional meaning assigned to the green shield"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "gh-ankara-emblems",
+    "area": "Ghana",
+    "language": "en",
+    "holding": "Embassy of Ghana in Ankara",
+    "titleOriginal": "Emblems — The Ghana Coat of Arms",
+    "titleEnglish": "Ghanaian official composition and designer",
+    "url": "https://ghanaembassy.com.tr/emblems/",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Embassy identifies Amon Kotei as designer of the arms and Theodosia Okoh as designer of the flag, and explains the shield, lion, star and supporters. Their distinct authorship should not be collapsed into one design attribution.",
+    "glossary": [
+      {
+        "term": "linguist’s staff",
+        "english": "object associated with local authority"
+      },
+      {
+        "term": "black star",
+        "english": "figure used in different structural positions"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "na-presidency-assets",
+    "area": "Namibia",
+    "language": "en",
+    "holding": "Office of the President of Namibia",
+    "titleOriginal": "Approved Use of National Symbols — Logos",
+    "titleEnglish": "Presidential asset collection",
+    "url": "https://op.gov.na/approved-use-of-national-symbols/-/document_library/xxdl/view/2051587",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Official asset directory lists separate national-seal, armorial and presidency-logo files. Their public availability identifies a production resource, not an independent act of adopting a new national device or an unrestricted image licence.",
+    "glossary": [
+      {
+        "term": "national seal",
+        "english": "authenticating national device"
+      },
+      {
+        "term": "presidency logo",
+        "english": "office identity graphic"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "adinkra-museum-commission",
+    "area": "Adinkra",
+    "language": "en",
+    "holding": "Smithsonian National Museum of African Art, 74-31-12",
+    "titleOriginal": "Wrapper — museum commission, 1974",
+    "titleEnglish": "Adinkra wrapper commissioned in Kumasi",
+    "url": "https://africa.si.edu/collection/object/nmafa_74-31-12",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Museum commissioned this wrapper from the Kumasi Cultural Center to show varied traditional designs. Six commercially manufactured cloth strips and embroidered seams provide a documented modern collecting purpose alongside the stamping process.",
+    "glossary": [
+      {
+        "term": "museum commission",
+        "english": "object made for the collection’s stated purpose"
+      },
+      {
+        "term": "wrapper",
+        "english": "large cloth worn around the body"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "adinkra-yellow-wrapper",
+    "area": "Adinkra",
+    "language": "en",
+    "holding": "Smithsonian National Museum of African Art, EJ10604",
+    "titleOriginal": "Wrapper — Bonwire, Ghana",
+    "titleEnglish": "Yellow adinkra wrapper",
+    "url": "https://www.si.edu/object/wrapper%3Anmafa_EJ10604",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Catalogue describes a yellow cotton wrapper with synthetic dye and six rectangular fields, each repeating one stamped motif. A material comparison with maroon mourning-associated cloths; the record does not supply a named wearer or complete manufacture date.",
+    "glossary": [
+      {
+        "term": "synthetic dye",
+        "english": "modern coloring material"
+      },
+      {
+        "term": "design field",
+        "english": "division organizing repeated marks"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "adinkra-anagnost-2025",
+    "area": "Adinkra",
+    "language": "en",
+    "holding": "Adrian Anagnost, British Art Studies 28, November 2025",
+    "titleOriginal": "Woven, Inscribed, Enfolded, Encased: Adinkra from Kumase to the British Museum",
+    "titleEnglish": "Research on adinkra, collecting and imperial framing",
+    "url": "https://britishartstudies.ac.uk/issues/28/adinkra-from-kumase-to-the-british-museum/",
+    "kind": "research article",
+    "authority": "original scholarly research",
+    "englishSynopsis": "Original scholarly analysis places textiles and recurring signs within Asante and British collecting histories. Its illustrated stamp, brass weight and leather bag permit comparison across media while its historical argument remains attributed to the author.",
+    "glossary": [
+      {
+        "term": "nsaa",
+        "english": "named recurring sign in the illustrated comparisons"
+      },
+      {
+        "term": "collecting",
+        "english": "historical selection and reframing of objects"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "rank-williams-digital",
+    "area": "China and Korea: rank badges",
+    "language": "en",
+    "holding": "Williams College Museum of Art",
+    "titleOriginal": "Rank Badges at WCMA: An Exploration Through Digital Tools",
+    "titleEnglish": "Museum study of rank classifications and clothing",
+    "url": "https://storymaps.arcgis.com/stories/54df9b6ad9b9440b946c54eb5c229191",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Museum research presents a late-Qing classification table, garment relationships, family wear and changes in badge composition. The dated mapping is useful for comparison; detached badges and uncertain species still need object-specific examination.",
+    "glossary": [
+      {
+        "term": "civil rank",
+        "english": "office category represented through birds"
+      },
+      {
+        "term": "military rank",
+        "english": "office category represented through animals"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "rank-china-crane-kesi",
+    "area": "China and Korea: rank badges",
+    "language": "en",
+    "holding": "The Metropolitan Museum of Art, 30.75.830",
+    "titleOriginal": "Rank Badge",
+    "titleEnglish": "Kangxi-period crane badge in silk tapestry",
+    "url": "https://www.metmuseum.org/art/collection/search/60511",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Catalogue identifies a crane for the highest civil rank and describes silk tapestry with metallic outlines. Its account dates the sun as a Qing addition, permitting comparison of the classification figure and the surrounding composition.",
+    "glossary": [
+      {
+        "term": "kesi",
+        "english": "silk tapestry technique"
+      },
+      {
+        "term": "crane",
+        "english": "highest civil rank in this Qing record"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "rank-china-crane-embroidered",
+    "area": "China and Korea: rank badges",
+    "language": "en",
+    "holding": "The Metropolitan Museum of Art, 36.65.10",
+    "titleOriginal": "Rank Badge with Crane",
+    "titleEnglish": "Embroidered Qing crane badge",
+    "url": "https://www.metmuseum.org/art/collection/search/62893",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Late-seventeenth- or early-eighteenth-century crane badge uses silk and metallic embroidery on satin. Compared with the Kangxi tapestry, it shows how the same rank figure can be realized through a different textile technique.",
+    "glossary": [
+      {
+        "term": "embroidery",
+        "english": "work added to an existing textile support"
+      },
+      {
+        "term": "satin",
+        "english": "woven support named in the record"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "seal-qianlong-oval",
+    "area": "China",
+    "language": "zh",
+    "holding": "National Palace Museum, Taipei, 故玉005673N000000000",
+    "titleOriginal": "「乾隆」玉璽",
+    "titleEnglish": "Jade seal with inscription Qianlong",
+    "url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/56847?dep=U&mode=full",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Museum describes an oval incised printing face and a separate imperial poem dated 1753 on the seal body. Face, body and inscription date supply different evidence; a side inscription should not be mistaken for the text printed by the seal.",
+    "glossary": [
+      {
+        "term": "陰刻",
+        "english": "incised carving"
+      },
+      {
+        "term": "邊款",
+        "english": "inscription on the seal body or side"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "seal-qianlong-wufu",
+    "area": "China",
+    "language": "zh",
+    "holding": "National Palace Museum, Taipei, 故雜001377N000000000",
+    "titleOriginal": "玉「五福五代堂古稀天子寶」璽",
+    "titleEnglish": "Jade seal of Qianlong with an auspicious inscription",
+    "url": "https://digitalarchive.npm.gov.tw/opendata/Pub/DetailEng/2666?dep=U&mode=full",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Catalogue connects a relief-lettered seal with impressions on collected works and interprets its inscription through the emperor’s advanced age and five generations. The English-titled interface retains a Chinese descriptive record.",
+    "glossary": [
+      {
+        "term": "朱文",
+        "english": "red-letter impression from relief carving"
+      },
+      {
+        "term": "五代",
+        "english": "five generations named in the inscription"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "seal-han-tiannan",
+    "area": "China",
+    "language": "en",
+    "holding": "The Metropolitan Museum of Art, 1994.605.14",
+    "titleOriginal": "Seal with Knob in the Shape of a Turtle",
+    "titleEnglish": "Eastern Han silver seal naming a general",
+    "url": "https://www.metmuseum.org/art/collection/search/44316",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Eastern Han silver seal bears an inscription read by the museum as Seal of Tiannan General. The object connects a dated script and printing format with an office designation while leaving the individual holder unresolved.",
+    "glossary": [
+      {
+        "term": "seal script",
+        "english": "archaic writing style identified in the record"
+      },
+      {
+        "term": "Tiannan General",
+        "english": "office wording in the museum reading"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "seal-han-guo-sa",
+    "area": "China",
+    "language": "zh",
+    "holding": "National Palace Museum, Taipei, 故銅001257N000000000",
+    "titleOriginal": "「郭颯印信」銅印",
+    "titleEnglish": "Han bronze private seal of Guo Sa",
+    "url": "https://digitalarchive.npm.gov.tw/Collection/Detail/4652?dep=U",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Han private seal has an incised square face and survives as the larger member of a nesting pair whose smaller seal is missing. The museum also records its later place in Qianlong’s organized collection of earlier seals.",
+    "glossary": [
+      {
+        "term": "私印",
+        "english": "private seal"
+      },
+      {
+        "term": "子母印",
+        "english": "nested pair of seals"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "in-jaipur-banner",
+    "area": "India",
+    "language": "en",
+    "holding": "British Library, Mss Eur G38/1/I, 19e",
+    "titleOriginal": "Banner of the Maharajas of Jaipur",
+    "titleEnglish": "Jaipur banner record from the 1877 Imperial Assemblage",
+    "url": "https://searcharchives.bl.uk/catalog/042-003283787",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Indexed catalogue identifies a sun on five bars with tiger and horse supporters, and relates the banner to Lord Lytton’s grant at Delhi in 1877. Its description supports component comparison without claiming inspection of every color or inscription.",
+    "glossary": [
+      {
+        "term": "Imperial Assemblage",
+        "english": "1877 ceremonial setting"
+      },
+      {
+        "term": "supporters",
+        "english": "figures flanking the shield in the description"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "in-travancore-registration",
+    "area": "India",
+    "language": "en",
+    "holding": "British Library, IOR/R/1/4/368",
+    "titleOriginal": "File 26(3)-G/1938 Registration of the Armorial Bearings of the Travancore State",
+    "titleEnglish": "Travancore registration and application-form file",
+    "url": "https://searcharchives.bl.uk/catalog/040-000215021",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Catalogue identifies a 1938–1939 administrative file covering Travancore’s armorial registration and the form for ruling princes’ applications. It is evidence that the file exists and a guide for consultation, not a transcription of its decisions.",
+    "glossary": [
+      {
+        "term": "registration",
+        "english": "administrative subject of the file"
+      },
+      {
+        "term": "application form",
+        "english": "documentary process to investigate"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "in-jubbal-registration",
+    "area": "India",
+    "language": "en",
+    "holding": "British Library, IOR/R/1/4/369",
+    "titleOriginal": "File 26(5)-G/1939 Registration of the Coat of Arms of the Raja of Jubbal",
+    "titleEnglish": "Jubbal registration and Travancore enquiry file",
+    "url": "https://searcharchives.bl.uk/catalog/040-000215022",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Catalogue describes a 1939–1940 file addressing Jubbal registration and an enquiry concerning Travancore. This offers a later administrative comparison with the 1877 ceremony while the underlying correspondence still requires examination.",
+    "glossary": [
+      {
+        "term": "enquiry",
+        "english": "request concerning registration"
+      },
+      {
+        "term": "Raja of Jubbal",
+        "english": "bearer named in the file title"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "in-sarnath-capital",
+    "area": "India",
+    "language": "en",
+    "holding": "Archaeological Survey of India, Sarnath Museum, accession 355",
+    "titleOriginal": "Capital of Ashokan pillar",
+    "titleEnglish": "Mauryan Lion Capital at Sarnath",
+    "url": "https://www.sarnathmuseumasi.org/gallery/Gallery3-Acc-No-355.html",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Museum dates the stone capital to the third century BCE and describes four lions, the circular abacus, animals, wheels and inverted lotus. The sculptural source should be distinguished from the later selective graphic adaptation as a state emblem.",
+    "glossary": [
+      {
+        "term": "abacus",
+        "english": "circular supporting element beneath the lions"
+      },
+      {
+        "term": "Mauryan",
+        "english": "period attribution for the sculpture"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "in-ncert-mauryan",
+    "area": "India",
+    "language": "en",
+    "holding": "NCERT, An Introduction to Indian Art, chapter 3; SATHEE, IIT Kanpur",
+    "titleOriginal": "Arts of the Mauryan Period",
+    "titleEnglish": "Teaching account of the Sarnath capital and modern adaptation",
+    "url": "https://sathee.iitk.ac.in/as/sathee-ssc/student-corner/ncert-books/class-11/an-introduction-to-indian-art/chapter-03-arts-of-the-mauryan-period/",
+    "kind": "institutional teaching text",
+    "authority": "official educational publication",
+    "englishSynopsis": "Official educational text distinguishes the shaft, lotus base, animal drum, four lions and crowning wheel. It explains that the modern emblem omits the crowning wheel and lotus base, making selection from the source sculpture concrete.",
+    "glossary": [
+      {
+        "term": "Dharmachakra",
+        "english": "wheel associated with the original monument"
+      },
+      {
+        "term": "adaptation",
+        "english": "selection of components for the national device"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ph-eo313-1940",
+    "area": "Philippines",
+    "language": "en",
+    "holding": "Supreme Court E-Library, Executive Order 313, 23 December 1940",
+    "titleOriginal": "Executive Order No. 313 — Rules governing arms and seals",
+    "titleEnglish": "1940 national arms and public-seal rules",
+    "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/5/78670",
+    "kind": "official record",
+    "authority": "official institution or statutory witness",
+    "englishSynopsis": "Historical order separates shield, American eagle crest and scroll, and distinguishes several governmental seals. The described eagle belongs outside the shield in this witness, an important comparison with later compositions.",
+    "glossary": [
+      {
+        "term": "crest",
+        "english": "eagle position in the 1940 specification"
+      },
+      {
+        "term": "administrative seal",
+        "english": "category distinguished from official or corporate seals"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ph-eo341-1941",
+    "area": "Philippines",
+    "language": "en",
+    "holding": "Supreme Court E-Library, Executive Order 341, 1941",
+    "titleOriginal": "Executive Order No. 341 — Revising rules for arms and seals",
+    "titleEnglish": "1941 composition incorporating Manila’s arms",
+    "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/5/84435",
+    "kind": "official record",
+    "authority": "official institution or statutory witness",
+    "englishSynopsis": "Indexed official text specifies Manila’s arms over the national field, including castle and sea lion. It supplies a dated intermediate composition rather than an interchangeable version of the 1946 republic’s bearings.",
+    "glossary": [
+      {
+        "term": "over all",
+        "english": "superimposed armorial composition"
+      },
+      {
+        "term": "sea lion",
+        "english": "composite figure in the Manila device"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ph-ca731-1946",
+    "area": "Philippines",
+    "language": "en",
+    "holding": "Supreme Court E-Library, Commonwealth Act 731, 3 July 1946",
+    "titleOriginal": "Commonwealth Act No. 731",
+    "titleEnglish": "Republican arms and Great Seal in the 1946 statute",
+    "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/29/35647",
+    "kind": "official record",
+    "authority": "official institution or statutory witness",
+    "englishSynopsis": "Statutory text approved on 3 July and effective on 4 July 1946 places the Spanish lion and American eagle within the shield’s base. Distinguishes that composition from earlier crest and Manila-shield arrangements.",
+    "glossary": [
+      {
+        "term": "sinister base",
+        "english": "position assigned to the Spanish lion"
+      },
+      {
+        "term": "dexter base",
+        "english": "position assigned to the American eagle"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ph-motto-1978",
+    "area": "Philippines",
+    "language": "en",
+    "holding": "Lawphil statutory witness, Presidential Decree 1413",
+    "titleOriginal": "Presidential Decree No. 1413",
+    "titleEnglish": "1978 motto and national-seal decree",
+    "url": "https://lawphil.net/statutes/presdecs/pd1978/pd_1413_1978.html",
+    "kind": "official record",
+    "authority": "official institution or statutory witness",
+    "englishSynopsis": "Decree adopts Isang Bansa, Isang Diwa as the national motto and requires incorporation in the seal. Its dated political language and operative instruction should be distinguished from a change to every shield component.",
+    "glossary": [
+      {
+        "term": "national motto",
+        "english": "text adopted by the decree"
+      },
+      {
+        "term": "national seal",
+        "english": "device named for incorporation"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ph-motto-revocation",
+    "area": "Philippines",
+    "language": "en",
+    "holding": "Senate Legislative Reference Bureau, Memorandum Order 34, 1986",
+    "titleOriginal": "Memorandum Order No. 34, s. 1986",
+    "titleEnglish": "Revocation of the 1978 national-motto decree",
+    "url": "https://issuances-library.senate.gov.ph/executive-issuance/memorandum-order-no-34-s-1986",
+    "kind": "official record",
+    "authority": "official institution or statutory witness",
+    "englishSynopsis": "Official reference entry identifies the September 1986 revocation of Presidential Decree 1413. It establishes a later institutional act concerning the motto, while physical replacement of individual seals requires material evidence.",
+    "glossary": [
+      {
+        "term": "revocation",
+        "english": "later act concerning the earlier decree"
+      },
+      {
+        "term": "Memorandum Order",
+        "english": "issuance type in the official entry"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ph-presidential-2004",
+    "area": "Philippines",
+    "language": "en",
+    "holding": "Supreme Court E-Library, Executive Order 310, 20 April 2004",
+    "titleOriginal": "Executive Order No. 310 — Presidential and vice-presidential symbols",
+    "titleEnglish": "Prescribed office devices in 2004",
+    "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/5/138",
+    "kind": "official record",
+    "authority": "official institution or statutory witness",
+    "englishSynopsis": "Order distinguishes presidential and vice-presidential arms, seals and flags and prescribes graphic and use rules. The presidential surrounding-star count tracks the number of provinces, making a variable specification explicit.",
+    "glossary": [
+      {
+        "term": "province stars",
+        "english": "variable count in the presidential device"
+      },
+      {
+        "term": "office symbol",
+        "english": "identity of Presidency or Vice Presidency"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ph-navy-registry",
+    "area": "Philippines",
+    "language": "en",
+    "holding": "NHCP National Memory Project, Philippine Navy entry",
+    "titleOriginal": "Philippine Navy",
+    "titleEnglish": "Naval device and institutional interpretation",
+    "url": "https://memory.nhcp.gov.ph/ph-heraldry-registry/philippine-navy/",
+    "kind": "official record",
+    "authority": "official institution or statutory witness",
+    "englishSynopsis": "Registry entry labeled approved in 2025 explains sea lion, anchor, sword, two stars, leaves and ropes through the Navy’s contemporary institutional account. That label should not be backdated into the origin of every recurring figure.",
+    "glossary": [
+      {
+        "term": "two stars",
+        "english": "Fleet–Marine relationship in the account"
+      },
+      {
+        "term": "sea lion",
+        "english": "naval power in the institution’s interpretation"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ph-afp-registry",
+    "area": "Philippines",
+    "language": "en",
+    "holding": "NHCP National Memory Project, Armed Forces entry",
+    "titleOriginal": "Armed Forces of the Philippines Coat of Arms",
+    "titleEnglish": "Military device incorporating Baybayin ka",
+    "url": "https://memory.nhcp.gov.ph/ph-heraldry-registry/armed-forces-of-the-philippines-coat-of-arms/",
+    "kind": "official record",
+    "authority": "official institution or statutory witness",
+    "englishSynopsis": "Entry labeled approved in 2019 assigns meanings to its sun, stars, sampaguita garland and Baybayin ka. The original institutional explanation provides a specific language reference, rather than a universal dictionary for every occurrence of the character.",
+    "glossary": [
+      {
+        "term": "Baybayin ka",
+        "english": "character related to kalayaan in the account"
+      },
+      {
+        "term": "sampaguita",
+        "english": "plant named in the device’s interpretation"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
   }
 ]
