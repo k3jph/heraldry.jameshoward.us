@@ -16,9 +16,7 @@ level: "Advanced undergraduate / graduate"
     <li><a href="#the-shield-and-the-rest-of-the-page">The shield and the rest of the page</a></li>
     <li><a href="#vasco-da-gama-the-value-of-a-precise-locator">Vasco da Gama: the value of a precise locator</a></li>
     <li><a href="#translating-an-original-folio">Translating an original folio</a></li>
-    <li><a href="#archival-workshop">Archival workshop</a></li>
     <li><a href="#caption-control-at-folio-87">Caption control at folio 87</a></li>
-    <li><a href="#verified-source-gateways">Verified source gateways</a></li>
     <li><a href="#quinas-are-nested-designs-not-five-blue-spots">Quinas are nested designs, not five blue spots</a></li>
     <li><a href="#évora-preserves-another-historical-royal-composition">Évora preserves another historical royal composition</a></li>
     <li><a href="#the-armillary-sphere-survives-a-change-of-regime">The armillary sphere survives a change of regime</a></li>
@@ -26,7 +24,9 @@ level: "Advanced undergraduate / graduate"
     <li><a href="#mural-crowns-classify-the-bearer-within-a-local-framework">Mural crowns classify the bearer within a local framework</a></li>
     <li><a href="#military-heraldry-uses-a-fuller-achievement-and-specific-offices">Military heraldry uses a fuller achievement and specific offices</a></li>
     <li><a href="#lagos-turns-historical-references-into-a-new-service-design">Lagos turns historical references into a new service design</a></li>
+    <li><a href="#archival-workshop">Archival workshop</a></li>
     <li><a href="#graduate-workshop-reconstruct-a-portuguese-design-in-layers">Graduate workshop: reconstruct a Portuguese design in layers</a></li>
+    <li><a href="#verified-source-gateways">Verified source gateways</a></li>
   </ol>
 </nav>
 
@@ -69,12 +69,6 @@ A label appearing beneath a shield may be medieval or early modern orthography. 
 | *Cartório da Nobreza* | nobility papers/registry |
 | *almirante da Índia* | admiral of India (historical office/title in context) |
 
-## Archival workshop
-
-Use the [national archive's manuscript descriptions](https://antt.dglab.gov.pt/wp-content/uploads/sites/17/2025/02/vasco-da-gama-doc.pdf) and its [folio-specific Vasco da Gama publication](https://antt.dglab.gov.pt/wp-content/uploads/sites/17/2025/02/vasco-da-gama-conde-almirante.pdf). Create a catalogue record separating the artist/compiler, patron, probable creation date, archive, collection, book, folio, later commentary, and image-rights status.
-
-**Graduate assignment:** Locate a second dated Portuguese armorial witness. Formulate a method for comparing two artistic witnesses of the same arms without treating artistic differences as automatic legal differences. Discuss how court sponsorship shapes what is collected and which bearers are omitted.
-
 ## Caption control at folio 87
 
 The [transcription desk](/transcription-desk/?witness=armeiro-mor-87) now makes this locator usable as a short edition exercise. The archive’s presentation places the illustration on **PDF page 23** and cites **book 19, folio 87**. These are two different addressing systems. Preserve the archival location in the witness inventory and use the PDF number as a navigation aid for that particular file.
@@ -86,13 +80,6 @@ Keep the personal designation, office term, and geographical phrase visible in y
 The desk separates diplomatic transcription, normalized reading, and working English translation. If you supply ordinary word spaces, modern accents, or an expansion, record the intervention in an apparatus entry. If the available image does not support a reading, mark that limit. If the PDF cannot be opened, a study of the modern caption remains possible, but should say explicitly that the manuscript itself was not inspected.
 
 For a comparative assignment, use the French motto leaf from Getty alongside this Portuguese dossier in the [manuscript workshop](/transcription-desk/reading/). Compare the roles of manuscript writing, modern description, material change, and digital navigation. The French facsimile’s verified CC0 status does not supply permission for the Portuguese image; reuse rights belong to the specific reproduction and its source. This is a source-linked exercise, with Portuguese paleographic review and image clearance still outstanding. Caption source consulted 9 October 2026.
-
-## Verified source gateways
-
-1. [Torre do Tombo, historical catalogue of the *Livro do Armeiro-Mor*](https://antt.dglab.gov.pt/wp-content/uploads/sites/17/2025/02/vasco-da-gama-doc.pdf).
-2. [Torre do Tombo, arms of Vasco da Gama from folio 87](https://antt.dglab.gov.pt/wp-content/uploads/sites/17/2025/02/vasco-da-gama-conde-almirante.pdf).
-
-The next phase is a critical inventory of the book's folios, with their complete original captions and verified image rights. The folio-level foundation is more valuable than a thousand illustrations without provenance.
 
 ## Quinas are nested designs, not five blue spots
 
@@ -164,6 +151,12 @@ The stars and anchors form another nested relation. A star charged with an ancho
 
 The published explanation gives this particular label a historical reference.[^pt-lagos-police] Compare that with the label used for cadency in other traditions. The shape is recognizable across the examples; its institutional meaning depends on the design. A student who has learned that a label can difference an heir’s arms has learned one important use, not an exclusive definition of every label in heraldry.
 
+## Archival workshop
+
+Use the [national archive's manuscript descriptions](https://antt.dglab.gov.pt/wp-content/uploads/sites/17/2025/02/vasco-da-gama-doc.pdf) and its [folio-specific Vasco da Gama publication](https://antt.dglab.gov.pt/wp-content/uploads/sites/17/2025/02/vasco-da-gama-conde-almirante.pdf). Create a catalogue record separating the artist/compiler, patron, probable creation date, archive, collection, book, folio, later commentary, and image-rights status.
+
+**Graduate assignment:** Locate a second dated Portuguese armorial witness. Formulate a method for comparing two artistic witnesses of the same arms without treating artistic differences as automatic legal differences. Discuss how court sponsorship shapes what is collected and which bearers are omitted.
+
 ## Graduate workshop: reconstruct a Portuguese design in layers
 
 Choose Sintra, the Évora stone, or the Lagos command as your case. Make a diagram with one layer for the principal field, one for major charges or divisions, one for charges carried by other charges, and one for external ornaments. Add a source beside every decision that cannot be established from the object or official description.
@@ -171,6 +164,13 @@ Choose Sintra, the Évora stone, or the Lagos command as your case. Make a diagr
 Then write a short comparison explaining one historical difference. Sintra’s eleven roundels on each old-style shieldlet, Évora’s twelve castles, and a military label’s particular local reference all provide defensible topics. The purpose is to explain a documented variation, not to force every Portuguese design into a single national template.
 
 <details class="research-answer"><summary>What should survive the reconstruction?</summary><p>The layered diagram preserves relationships: shieldlets carry roundels, the label carries fleurs-de-lis, and a mural crown sits outside the shield. A historical witness retains its own counts and orientations. The comparison names the record and date supplying each claim, while symbolic explanations remain attached to the institution that gives them. Artistic style may vary; these structural relationships must remain intelligible.</p></details>
+
+## Verified source gateways
+
+1. [Torre do Tombo, historical catalogue of the *Livro do Armeiro-Mor*](https://antt.dglab.gov.pt/wp-content/uploads/sites/17/2025/02/vasco-da-gama-doc.pdf).
+2. [Torre do Tombo, arms of Vasco da Gama from folio 87](https://antt.dglab.gov.pt/wp-content/uploads/sites/17/2025/02/vasco-da-gama-conde-almirante.pdf).
+
+The next phase is a critical inventory of the book's folios, with their complete original captions and verified image rights. The folio-level foundation is more valuable than a thousand illustrations without provenance.
 
 <aside class="editorial-notice" aria-label="Editorial note">
 <p><strong>Editorial status:</strong> Original English research synthesis, grounded in the linked institutional sources. Not a full translation of those sources, not legal advice, and awaiting specialist review.</p>

@@ -22,10 +22,10 @@ level: "Advanced undergraduate / graduate"
     <li><a href="#an-imperial-armorial-organizes-a-political-system">An imperial armorial organizes a political system</a></li>
     <li><a href="#dupuch-the-words-constrain-the-drawing">Dupuch: the words constrain the drawing</a></li>
     <li><a href="#republican-identification-extends-beyond-the-shield">Republican identification extends beyond the shield</a></li>
+    <li><a href="#a-fifteenth-century-leaf-with-a-later-history">A fifteenth-century leaf with a later history</a></li>
     <li><a href="#design-laboratory-a-french-reading-with-a-defensible-result">Design laboratory: a French reading with a defensible result</a></li>
     <li><a href="#language-laboratory">Language laboratory</a></li>
     <li><a href="#primary-source-workshop">Primary-source workshop</a></li>
-    <li><a href="#a-fifteenth-century-leaf-with-a-later-history">A fifteenth-century leaf with a later history</a></li>
     <li><a href="#essential-original-language-sources">Essential original-language sources</a></li>
   </ol>
 </nav>
@@ -122,6 +122,28 @@ A separate presidential account describes the lictorial fasces and related diplo
 
 The wider lesson is that a republic can retain heraldic devices, create new public emblems, and use seals or other forms alongside them. The surviving French armorial tradition and the state’s contemporary identification practices overlap without becoming identical. A useful reference therefore studies family, civic, dynastic, and Republican displays through their actual mechanisms, rather than forcing all of them into one national shield.
 
+## A fifteenth-century leaf with a later history
+
+The *Armorial général* is a large administrative corpus. A manuscript miniature supplies a different scale and kind of witness. Getty’s [*Simon de Varie Kneeling in Prayer*](https://www.getty.edu/art/collection/object/103S0J), *Hours of Simon de Varie*, Ms. 7 (85.ML.27), folio 2, offers a located French leaf dated 1455 and assigned to Jean Fouquet in the collection record. Its leaf accession is 85.ML.27.2. The [object study](/objects/simon-de-varie/) reproduces the full photograph under the CC0 declaration in Getty’s IIIF manifest.
+
+Look at how the leaf organizes identity. A kneeling figure occupies the miniature; a woman supports a shield behind him; smaller armorial forms occupy the corners; lettered scrolls frame the scene above and below. Extracting one shield would discard much of that arrangement. A useful description identifies the relations among person, display, lettering, and devotional scene before translating the image into isolated heraldic components.
+
+The museum identifies the kneeling figure and reports partial overpainting of the border arms. Those statements come from the modern catalogue. The photograph allows inspection of the present surface, but does not independently date every painted intervention. Keep the manuscript’s catalogue date and the history of a particular armorial form separate. A reconstruction of an earlier display needs its own documentary or technical basis.
+
+The motto scrolls are a practical philological exercise. Use the [transcription desk](/transcription-desk/?witness=simon-de-varie-2) to record a short span of visible lettering, a normalized reading, and a working English translation. Explain supplied spaces and joined letter forms in the apparatus. Then compare the institutional reference reading without treating it as your own inspection of the hand.
+
+This small edition also changes the questions you can ask of larger French registers. A normalized lookup name and a diplomatic name string are useful for different operations. An image’s present armorial form and an earlier recorded display need not be identical. A database must represent those relationships if its counts are to carry historical meaning. The general register’s scale makes disciplined witness control more necessary, not less.
+
+**Comparative exercise:** Read the [manuscript workshop](/transcription-desk/reading/) and compare the French motto dossier with the Portuguese archival caption. Identify which claims arise from inspected lettering, modern identification, institutional dating, and reported material change. End with one proposed source that could settle a doubtful reading. Sources consulted 9 October 2026; specialist transcription and conservation review remain outstanding.
+
+### A second opening, a different evidentiary relationship
+
+Getty’s [*Coat of Arms Held by a Woman and a Greyhound*](https://www.getty.edu/art/collection/object/103S0G), Ms. 7, folio 2v, accession 85.ML.27.2v, supplies a second photographed opening. Inspect it beside folio 2 on the [manuscript comparison bench](/transcription-desk/compare/). Record each occurrence by its actual position. A collar inscription and a scroll inscription remain different loci even if your normalized readings agree.
+
+Because the openings belong to one book, this comparison investigates recurrence and arrangement within that manuscript. It cannot independently establish transmission through another copy. Nor does agreement in wording date the paint or prove that two occurrences were executed together. Keep those possible claims separate from what the present photographs show.
+
+The [collation workshop](/transcription-desk/collation/) asks you to compare diplomatic readings, normalized readings, and translations in turn. Explain a difference that disappears through editorial intervention, then record an uncertainty whose proposed resolution depends on the parallel occurrence. The second image’s Public Domain Mark / PD-Art source record is retained separately from the first image’s Getty CC0 declaration.
+
 ## Design laboratory: a French reading with a defensible result
 
 Begin with the fictional chevron-and-stars shield. Write its French description, then ask another student to draw it without seeing your picture. Compare field, ordinary, count, arrangement, and immediate backgrounds before discussing style. If the second artist draws a rounder shield or sharper stars, determine whether the difference changes identity. If a star moves onto the chevron, identify the missing or misunderstood relationship in the words.
@@ -147,28 +169,6 @@ These equivalents are editorial guides, not a substitute for reading the French 
 Follow the BnF's [genealogical portal](https://gallica.bnf.fr/selections/fr/html/histoire/ressources-genealogiques-noblesse) into the armorial catalogue. Record the distinction among the **description**, the **painted witness**, and the **index**. Identify a locality for which the manuscripts can be traced and write a reproducible research note: what is the original item, where does it appear, how was the transcription verified, and what do the records *not* tell you about entitlement?
 
 **Graduate assignment:** Design a sampling protocol comparing civic and familial entries in one provincial volume. Identify errors introduced by family-name normalization, delayed illustration, missing digital scans, and registration motivated by taxation. Propose a versioned relational schema rather than merely counting attractive painted shields.
-
-## A fifteenth-century leaf with a later history
-
-The *Armorial général* is a large administrative corpus. A manuscript miniature supplies a different scale and kind of witness. Getty’s [*Simon de Varie Kneeling in Prayer*](https://www.getty.edu/art/collection/object/103S0J), *Hours of Simon de Varie*, Ms. 7 (85.ML.27), folio 2, offers a located French leaf dated 1455 and assigned to Jean Fouquet in the collection record. Its leaf accession is 85.ML.27.2. The [object study](/objects/simon-de-varie/) reproduces the full photograph under the CC0 declaration in Getty’s IIIF manifest.
-
-Look at how the leaf organizes identity. A kneeling figure occupies the miniature; a woman supports a shield behind him; smaller armorial forms occupy the corners; lettered scrolls frame the scene above and below. Extracting one shield would discard much of that arrangement. A useful description identifies the relations among person, display, lettering, and devotional scene before translating the image into isolated heraldic components.
-
-The museum identifies the kneeling figure and reports partial overpainting of the border arms. Those statements come from the modern catalogue. The photograph allows inspection of the present surface, but does not independently date every painted intervention. Keep the manuscript’s catalogue date and the history of a particular armorial form separate. A reconstruction of an earlier display needs its own documentary or technical basis.
-
-The motto scrolls are a practical philological exercise. Use the [transcription desk](/transcription-desk/?witness=simon-de-varie-2) to record a short span of visible lettering, a normalized reading, and a working English translation. Explain supplied spaces and joined letter forms in the apparatus. Then compare the institutional reference reading without treating it as your own inspection of the hand.
-
-This small edition also changes the questions you can ask of larger French registers. A normalized lookup name and a diplomatic name string are useful for different operations. An image’s present armorial form and an earlier recorded display need not be identical. A database must represent those relationships if its counts are to carry historical meaning. The general register’s scale makes disciplined witness control more necessary, not less.
-
-**Comparative exercise:** Read the [manuscript workshop](/transcription-desk/reading/) and compare the French motto dossier with the Portuguese archival caption. Identify which claims arise from inspected lettering, modern identification, institutional dating, and reported material change. End with one proposed source that could settle a doubtful reading. Sources consulted 9 October 2026; specialist transcription and conservation review remain outstanding.
-
-### A second opening, a different evidentiary relationship
-
-Getty’s [*Coat of Arms Held by a Woman and a Greyhound*](https://www.getty.edu/art/collection/object/103S0G), Ms. 7, folio 2v, accession 85.ML.27.2v, supplies a second photographed opening. Inspect it beside folio 2 on the [manuscript comparison bench](/transcription-desk/compare/). Record each occurrence by its actual position. A collar inscription and a scroll inscription remain different loci even if your normalized readings agree.
-
-Because the openings belong to one book, this comparison investigates recurrence and arrangement within that manuscript. It cannot independently establish transmission through another copy. Nor does agreement in wording date the paint or prove that two occurrences were executed together. Keep those possible claims separate from what the present photographs show.
-
-The [collation workshop](/transcription-desk/collation/) asks you to compare diplomatic readings, normalized readings, and translations in turn. Explain a difference that disappears through editorial intervention, then record an uncertainty whose proposed resolution depends on the parallel occurrence. The second image’s Public Domain Mark / PD-Art source record is retained separately from the first image’s Getty CC0 declaration.
 
 ## Essential original-language sources
 

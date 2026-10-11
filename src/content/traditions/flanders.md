@@ -16,13 +16,13 @@ level: "Advanced undergraduate / graduate"
     <li><a href="#old-arms-and-new-arms-have-different-evidentiary-questions">Old arms and new arms have different evidentiary questions</a></li>
     <li><a href="#the-machinery-of-approval">The machinery of approval</a></li>
     <li><a href="#reading-the-statute-in-its-own-language">Reading the statute in its own language</a></li>
-    <li><a href="#a-graduate-documentary-problem">A graduate documentary problem</a></li>
     <li><a href="#the-flemish-lion-has-a-history-of-particular-representations">The Flemish lion has a history of particular representations</a></li>
     <li><a href="#lievegem-arms-and-flag-share-a-vocabulary">Lievegem: arms and flag share a vocabulary</a></li>
     <li><a href="#recognition-of-older-arms-and-creation-of-new-arms">Recognition of older arms and creation of new arms</a></li>
     <li><a href="#inheritance-belongs-to-a-defined-armorial-identity">Inheritance belongs to a defined armorial identity</a></li>
     <li><a href="#a-new-design-needs-more-than-meaningful-ingredients">A new design needs more than meaningful ingredients</a></li>
     <li><a href="#the-diploma-records-a-process-with-several-participants">The diploma records a process with several participants</a></li>
+    <li><a href="#a-graduate-documentary-problem">A graduate documentary problem</a></li>
     <li><a href="#workshop-compare-a-shield-a-flag-and-an-application">Workshop: compare a shield, a flag, and an application</a></li>
     <li><a href="#principal-original-texts">Principal original texts</a></li>
   </ol>
@@ -64,12 +64,6 @@ Because the official online text is consolidated, a legal historian must record 
 | *wapenbrief* | armorial diploma | Retain context instead of importing 'letters patent' uncritically |
 
 These translation choices are editorial interpretations of terminology; they are not substituted for the controlling Dutch legal text.
-
-## A graduate documentary problem
-
-Suppose an applicant claims that a nineteenth-century Flemish ancestor used a particular shield, and a contemporary relative seeks official recognition. Identify the documents that would demonstrate prior public use, those establishing the claimant's direct descent, and the records that could show whether the arms were associated with someone else. Distinguish a failure to locate evidence from a finding that an asserted right never existed.
-
-Now suppose an unrelated applicant seeks a newly designed shield with similar charges. Compare the legal path and evidentiary burden. Could a design be rejected for similarity? Which outside ornaments are addressed? Which statutory version governs each imagined filing? Cite actual paragraphs of the Flemish law in Dutch before drawing conclusions.
 
 ## The Flemish lion has a history of particular representations
 
@@ -130,6 +124,12 @@ This gives the historian a natural chronology. A preliminary drawing can precede
 The 2023 annual report provides a bounded view of actual activity: 16 armorial diplomas, divided into two older-arm recognitions and 14 new grants; four concerned institutions and 12 private persons.[^vl-annual-2023] These categories let the reader see that contemporary practice includes both newly designed and historically grounded identities. The numbers describe that year’s reported acts. They are useful without being inflated into a census of Flemish armigers.
 
 A substantial project could follow one completed case through its available records and compare the published image with the wording of the act. The result would explain how the composition became a recorded identity, including any changes between proposal and completion. That is a fuller account of practice than either a shield gallery or an abstract summary of the statute.
+
+## A graduate documentary problem
+
+Suppose an applicant claims that a nineteenth-century Flemish ancestor used a particular shield, and a contemporary relative seeks official recognition. Identify the documents that would demonstrate prior public use, those establishing the claimant's direct descent, and the records that could show whether the arms were associated with someone else. Distinguish a failure to locate evidence from a finding that an asserted right never existed.
+
+Now suppose an unrelated applicant seeks a newly designed shield with similar charges. Compare the legal path and evidentiary burden. Could a design be rejected for similarity? Which outside ornaments are addressed? Which statutory version governs each imagined filing? Cite actual paragraphs of the Flemish law in Dutch before drawing conclusions.
 
 ## Workshop: compare a shield, a flag, and an application
 

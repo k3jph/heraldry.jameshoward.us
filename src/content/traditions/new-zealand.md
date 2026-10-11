@@ -74,7 +74,7 @@ For a digital archive, link related crown models but retain the device-specific 
 
 The consulted protection provision concerns uses likely to imply governmental authority or patronage and specifies exceptions.[^nz-protection] Read that alongside the ministry’s operational guidance. A legal rule about misleading public authority and an office’s permissions process provide related but distinct information.
 
-This chapter introduces the national corpus. Private and institutional grants require their own named instruments and research. Neither the public-symbol statute nor the 1911 national warrant establishes a universal hereditary entitlement for everyone living in New Zealand. The identity of the bearer remains an essential field.
+The national corpus provides a starting point for the institutional and personal examples discussed below. Neither the public-symbol statute nor the 1911 national warrant establishes hereditary entitlement for every resident. Each additional bearer needs its own instrument.
 
 ## The Government House entrance is a material armorial sequence
 

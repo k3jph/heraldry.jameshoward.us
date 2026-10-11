@@ -15,8 +15,6 @@ level: "Advanced undergraduate / graduate"
     <li><a href="#begin-with-the-seal-of-a-constituent-assembly">Begin with the seal of a constituent assembly</a></li>
     <li><a href="#what-the-emblem-is-designed-to-say">What the emblem is designed to say</a></li>
     <li><a href="#translation-choices-that-matter">Translation choices that matter</a></li>
-    <li><a href="#a-political-art-history-exercise">A political-art history exercise</a></li>
-    <li><a href="#official-primary-source">Official primary source</a></li>
     <li><a href="#the-1944-decree-distinguishes-arms-from-the-great-seal">The 1944 decree distinguishes arms from the Great Seal</a></li>
     <li><a href="#buenos-aires-province-is-a-close-relative-not-a-duplicate">Buenos Aires province is a close relative, not a duplicate</a></li>
     <li><a href="#córdoba-carries-a-colonial-tower-through-political-change">Córdoba carries a colonial tower through political change</a></li>
@@ -24,7 +22,9 @@ level: "Advanced undergraduate / graduate"
     <li><a href="#a-2013-coin-reproduces-an-1813-monetary-image">A 2013 coin reproduces an 1813 monetary image</a></li>
     <li><a href="#the-sun-should-be-compared-by-object-not-counted-once-for-every-use">The sun should be compared by object, not counted once for every use</a></li>
     <li><a href="#a-federal-comparison-needs-several-levels-of-identity">A federal comparison needs several levels of identity</a></li>
+    <li><a href="#a-political-art-history-exercise">A political-art history exercise</a></li>
     <li><a href="#workshop-national-seal-province-award-and-coin">Workshop: national seal, province, award and coin</a></li>
+    <li><a href="#official-primary-source">Official primary source</a></li>
   </ol>
 </nav>
 
@@ -49,19 +49,6 @@ There is no reason to translate the emblem into the English rules of noble succe
 Spanish *escudo* can mean shield or coat of arms. The word *sello* is a seal, a different material or administrative category even where it depicts the same devices. *Gorro frigio* is Phrygian cap; translating it as merely a 'hat' obliterates its political iconography. The government describes a *sol naciente*, a rising sun, and *laureles*, laurels. These are visual components that can be catalogued without asserting that their political meaning is always universally fixed.
 
 A precise bilingual record retains the Spanish terms and notes the official version of the design. A historical drawing, a rubber-stamp impression, a coin image and a contemporary graphic should be catalogued as different manifestations, not interchangeable copies without provenance.
-
-## A political-art history exercise
-
-Read the original Spanish account of the [*Escudo Nacional*](https://www.argentina.gob.ar/pais/simbolos/escudo). Make a table of each visual element, its Spanish name, an English description, the government's stated symbolism, and the historical evidence for its use by a particular date.
-
-**Graduate assignment:** Compare Argentine official accounts of the 1813 seal and the 1944 standardized emblem. Identify when a historical state symbol becomes a fixed graphic and what this means for the difference between heraldic identity and reproduction. Contrast this problem with the concept of alternative artistic renderings of personal arms.
-
-## Official primary source
-
-1. [Argentina, *Escudo Nacional*](https://www.argentina.gob.ar/pais/simbolos/escudo) — official history, design and symbolism.
-2. [Argentina, *Símbolos Patrios*](https://www.argentina.gob.ar/pais/simbolos) — national-symbol context and related regulation.
-
-**Research frontier:** heraldic histories of the former Spanish colonies, regional and provincial coats, colonial inheritance and independent national iconographies throughout South America, Central America and the Caribbean.
 
 ## The 1944 decree distinguishes arms from the Great Seal
 
@@ -131,6 +118,12 @@ The comparison with [Australia](/traditions/australia/) is helpful because the C
 
 The comparison with [Mexico](/traditions/mexico/) adds a different issue: a national eagle and colonial civic grants can coexist in a single country's armorial corpus. Argentina's Córdoba example similarly shows why independence cannot be treated as a date when every existing civic device was discarded. National change and local continuity operate at different scales.
 
+## A political-art history exercise
+
+Read the original Spanish account of the [*Escudo Nacional*](https://www.argentina.gob.ar/pais/simbolos/escudo). Make a table of each visual element, its Spanish name, an English description, the government's stated symbolism, and the historical evidence for its use by a particular date.
+
+**Graduate assignment:** Compare Argentine official accounts of the 1813 seal and the 1944 standardized emblem. Identify when a historical state symbol becomes a fixed graphic and what this means for the difference between heraldic identity and reproduction. Contrast this problem with the concept of alternative artistic renderings of personal arms.
+
 ## Workshop: national seal, province, award and coin
 
 Prepare four records: the Great Seal specified in Article 5, Buenos Aires provincial arms, one Salta award shield and the 2013 bicentenary coin. For each, identify bearer, function, material or graphic model, relevant dates and the relation to the Assembly's emblem. Explain why no single translation of *escudo* works equally well for every record.
@@ -138,6 +131,13 @@ Prepare four records: the Great Seal specified in Article 5, Buenos Aires provin
 <details class="research-answer"><summary>Discuss the four functions</summary><p>The Great Seal preserves an authenticating form and outer region; the provincial arms identify a different public body through a closely related composition; the Salta shield is a military award whose material belongs to its distribution; the one-peso coin is a later monetary issue quoting an earlier image and denomination. The recurring cap, sun or oval does not establish identical use. Translation should name the function demonstrated by each object.</p></details>
 
 For graduate work, build a small history of the Córdoba tower across two dated official representations. Identify which components changed and which endured. Place the 1925 restoration beside the source's account of earlier variations. The result should describe a particular provincial choice about continuity, with the document's qualified attribution of early authorship retained.
+
+## Official primary source
+
+1. [Argentina, *Escudo Nacional*](https://www.argentina.gob.ar/pais/simbolos/escudo) — official history, design and symbolism.
+2. [Argentina, *Símbolos Patrios*](https://www.argentina.gob.ar/pais/simbolos) — national-symbol context and related regulation.
+
+**Further research:** connect the national, provincial and civic examples with local design files and surviving objects. Comparative work can then test how inherited compositions changed through independence and subsequent political revisions.
 
 <aside class="editorial-notice" aria-label="Editorial note">
 <p><strong>Editorial status:</strong> Original English synthesis supported by linked sources. Scope and interpretive assumptions are explicit. Specialist and, where relevant, community review remain to be completed.</p>

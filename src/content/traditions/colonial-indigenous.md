@@ -2,14 +2,14 @@
 title: "Colonial and Indigenous encounters: Who gets to choose the picture?"
 description: "Compare Texcoco, Peter Irniq, national supporters and princely banners through representation, participation and authority."
 region: "Cross-border colonial and Indigenous encounters"
-languages: ["en", "es"]
+languages: ["es", "en"]
 track: "Global and postcolonial heraldry"
 period: "Colonial period–present"
-sourceIds: ["mx-archive", "ca-irniq", "nz-arms", "jm-arms", "in-bowring", "na-gazette"]
+sourceIds: ["mx-archive", "ca-irniq", "nz-arms", "jm-arms", "in-bowring", "na-gazette", "ci-bartleman", "ci-steven-point", "ci-heiltsuk-logo", "ci-ihos-history", "ci-ihos-ownership", "ci-surrey-police"]
 level: "Advanced undergraduate / graduate"
 ---
 
-<nav class="chapter-toc" aria-label="Cross-border colonial and Indigenous encounters chapter contents">
+<nav class="chapter-toc" aria-label="In this chapter">
   <strong>In this chapter</strong>
   <ol>
     <li><a href="#representation-and-participation-are-different-evidence">Representation and participation are different evidence</a></li>
@@ -19,6 +19,12 @@ level: "Advanced undergraduate / graduate"
     <li><a href="#princely-banners-express-more-than-one-authority">Princely banners express more than one authority</a></li>
     <li><a href="#a-national-instrument-can-authorize-structural-adaptation">A national instrument can authorize structural adaptation</a></li>
     <li><a href="#rights-extend-beyond-downloading-a-photograph">Rights extend beyond downloading a photograph</a></li>
+    <li><a href="#bartlemans-canoes-make-counterchanging-carry-several-meanings">Bartleman’s canoes make counterchanging carry several meanings</a></li>
+    <li><a href="#points-serpent-has-a-relationship-before-it-enters-the-shield">Point’s serpent has a relationship before it enters the shield</a></li>
+    <li><a href="#a-community-institution-can-explain-its-own-device">A community institution can explain its own device</a></li>
+    <li><a href="#i-hos-carries-a-connected-design-across-a-canoe-and-a-building">I-Hos carries a connected design across a canoe and a building</a></li>
+    <li><a href="#a-gifted-element-can-enter-a-civic-achievement">A gifted element can enter a civic achievement</a></li>
+    <li><a href="#worked-comparison-four-different-kinds-of-authority">Worked comparison: four different kinds of authority</a></li>
     <li><a href="#workshop-identify-who-chose-what">Workshop: identify who chose what</a></li>
   </ol>
 </nav>
@@ -77,6 +83,62 @@ Photograph licensing, public-emblem permissions and culturally appropriate use a
 
 For this project, the practical method is to record image provenance and permission separately from design identity. Then investigate claims of cultural authority through relevant people and institutions rather than inventing a universal restriction or assuming unrestricted appropriation. Specific evidence makes both access and respect more actionable.
 
+## Bartleman’s canoes make counterchanging carry several meanings
+
+James Karl Bartleman’s grant of 16 September 2002 divides the shield into blue and gold and places three Ojibway canoes vertically, exchanging those colors across the division. The register associates the canoes with children, First Nations heritage and diplomatic travel. It identifies the headdress above as modelled on one worn by Chief John Bigwin and records a Mnjikaning Elder’s suggestion concerning three of its feathers.[^ci-bartleman] These are particular contributions to a particular achievement.
+
+Counterchanging makes the division active. Each canoe crosses the boundary, taking the contrasting color in each half. The charges therefore remain distinguishable while the same two colors organize both field and figures. This gives us something technical to explain before discussing the symbolism: the construction lets a divided field and repeated charge work together without requiring a third color.
+
+The meanings then attach to that construction through the register’s account. The number of canoes can identify a family relationship while their kind refers to heritage and travel. There is no requirement that one charge have only one explanation. The analytical task is to identify which interpretations the record actually attributes to this bearer, rather than replacing them with a general dictionary entry for “canoe.”
+
+The headdress contributes a different kind of specificity. A design modelled on an object associated with a named chief has a more located reference than an artist’s generic idea of Indigenous headwear. The documented Elder contribution also establishes participation in one interpretive choice. It supports that claim without standing in for a complete account of every community member’s opinion or every stage of the commission.
+
+## Point’s serpent has a relationship before it enters the shield
+
+Steven Lewis Point’s register explains the double-headed serpent as an emblem given to him by his father, who was from the Musqueam Indian Band. It connects the five stars with a canoe club and explains their chevron arrangement as an allusion to his name. The supporters honor his mother’s Wolf Clan affiliation in the Sumas First Nation.[^ci-steven-point] The achievement gathers several personal relationships into one formally organized design.
+
+This case changes the direction of the story. A cultural reference does not first become meaningful when the heraldic office describes it. Here the register reports a prior act of personal transmission. The grant gives the emblem a specified place within an achievement while the account preserves a relationship that preceded that arrangement.
+
+The arms remain personal arms. A reference to the bearer’s father or mother does not make the shield the corporate device of either community. This is an especially easy mistake when a catalogue heading names a community within its symbolism section. Read the recipient field alongside the explanation. It identifies whose achievement is being registered and prevents an ancestral relationship from being enlarged into a collective authorization.
+
+The five stars show how an established heraldic arrangement can carry a new personal connection. A chevron can be formed by separate charges rather than drawn as a solid ordinary. Their converging position provides a visual point, while their number and kind refer to another part of the bearer’s life. Technical description and biographical explanation meet in the arrangement itself.
+
+## A community institution can explain its own device
+
+The Heiltsuk Cultural Education Centre describes its logo as a human versed in history and culture, with four upper symbols referring to the Nation’s main crest groups. It credits Robert Hall for the logo and Shirl Hall for the crest images.[^ci-heiltsuk-logo] This is a statement from the institution using the design, rather than an outside heraldic office’s classification of it.
+
+The word *crest* needs care here. In a Western achievement, a crest commonly occupies a position above the helmet or another supporting form. The Centre’s reference to crest groups concerns its own cultural organization. Sharing an English word does not establish that the four upper symbols are four heraldic crests stacked above a helm. Preserve the institution’s vocabulary and explain its particular usage.
+
+The separate creative credits also improve the history. A completed organizational design can combine work by more than one person. Recording only the logo designer would lose the stated contribution to its constituent images. This resembles the distinction among concept, painting and calligraphy in a grant record, while the roles themselves are defined by the commission being examined.
+
+A comprehensive resource should include such self-description alongside state and museum records. Otherwise its source selection can make external institutions appear to be the only places where identifying designs acquire authority. The Centre’s explanation is evidence of how it presents its own device. It does not need a European grant to become relevant to a comparative study of identity.
+
+## I-Hos carries a connected design across a canoe and a building
+
+I-Hos Gallery identifies itself as owned by the K’ómoks Band and describes the whale Queneesh and double-headed sea serpent I-Hos on its house front as important local crests.[^ci-ihos-ownership] Its account of Calvin Hunt and the other makers connects the design with a 1994 canoe commission and explains the building entrance as the whale’s blowhole.[^ci-ihos-history] The relationship can be traced through named makers, narrative and physical construction.
+
+The doorway changes what a viewer does with the image. People pass through the animal’s represented body as they enter the building. A flat emblem reproduced above a door would identify the premises differently from a composition whose opening forms part of the creature. Architecture turns a depicted feature into an inhabited threshold.
+
+The canoe presents another setting. Its shape and movement organize how the design is seen; a building front is encountered in place. The Gallery’s account connects the commissions, so the comparison does not depend merely on two photographs looking alike. It gives the researcher an explicit relationship to investigate and a reason to examine what was adapted for each support.
+
+The connection is a useful answer to the assumption that modern identity work necessarily drains older forms of their meaning. A contemporary gallery, a canoe commission and a narrative reference can be joined deliberately. Establishing that relationship does not require every earlier use to have been identical or every later viewer to understand it fully. The named design history explains an act of adaptation on its own terms.
+
+## A gifted element can enter a civic achievement
+
+The Surrey Police Service’s 2021 register identifies a Coast Salish-style eye designed by Semiahmoo First Nation artist Leslie Wells as a gift to the service. It places the eye above a blue-and-white chequered band, with six gold stars below. The explanation connects the gift with relationships involving the local First Nations.[^ci-surrey-police] This record supplies a named contribution and recipient.
+
+Here the bearer differs from the maker’s community. The gift enters a civic organization’s arms. That is a documented route into the design, and it deserves to be stated directly. Calling the eye merely “local decoration” would omit the act of giving; calling the whole shield First Nations arms would misidentify the recipient.
+
+The arrangement also lets us study incorporation without turning it into a vague metaphor. A contributed device occupies the chief area of a shield whose other elements have separate institutional explanations. The artist’s element remains identifiable within a larger composition. A design history can ask how its form was retained, how it was placed and how the recipient described the gift, while leaving broader claims about community consent to evidence capable of supporting them.
+
+## Worked comparison: four different kinds of authority
+
+Compare Bartleman’s personal grant, Point’s transmitted serpent, the Centre’s organizational logo and the Gallery’s building front. Their records establish different relationships: formal grant, reported personal transmission, institutional self-description and a named commission tied to local narrative. More than one relationship can exist in the same case. They should be traced individually before drawing a general conclusion about Indigenous participation in heraldry.
+
+<details class="research-answer"><summary>Build the argument from the decisions</summary><p>Begin with the identified bearer and the source’s stated contributions. Bartleman’s record supports a particular Elder contribution; Point’s supports the reported gift from his father. The Centre and Gallery explain devices used by their own institutions and name the cultural references or creative roles. These cases show several routes for choosing, transmitting and adapting images. None is a universal procedure for all Indigenous peoples or a substitute for the history of the particular commission.</p></details>
+
+Return to the national supporters discussed earlier with these cases in mind. A public image representing a people and a design chosen or explained by named participants can look equally elaborate. Their difference becomes visible in the source history. That history is where we can begin to evaluate agency, institutional mediation and the continuing life of a device.
+
 ## Workshop: identify who chose what
 
 Create a decision-chain table for Texcoco, Irniq’s grant, one national supporter case and one Indian banner. Mark whether each source identifies bearer, designer, authorizing body, selected component and consultation. Leave genuinely unresolved cells blank with a research question.
@@ -96,3 +158,15 @@ For graduate work, select one commission and trace proposal, approval, manufactu
 [^in-bowring]: British Library, Bowring Collection, Mss Eur G38, [Bowring Collection: armorial and banner records](https://searcharchives.bl.uk/?f%5Bcollection_area_ssi%5D%5B%5D=India+Office+Records+and+Private+Papers&f%5Broot_ancestor_reference_ssi%5D%5B%5D=Mss+Eur+G38&per_page=20&sort=title_for_sort_si+asc%2C+scope_and_content_for_sort_si+asc%2C+reference_for_sort_si+asc). Consulted 11 October 2026. Original English editorial synthesis; consult the linked witness for close reading.
 
 [^na-gazette]: Government Gazette 6807, 28 December 2018; hosted by Legal Assistance Centre, [National Symbols of the Republic of Namibia Act, 2018](https://www.lac.org.na/laws/2018/6807.pdf). Consulted 11 October 2026. Original English editorial synthesis; consult the linked witness for close reading.
+
+[^ci-bartleman]: Canadian Heraldic Authority, Public Register, vol. IV, p. 236, [James Karl Bartleman](https://www.gg.ca/en/heraldry/public-register/project/41). Consulted 11 October 2026. Original English editorial synthesis; consult the linked record for close reading.
+
+[^ci-heiltsuk-logo]: Heiltsuk Cultural Education Centre, [The Heiltsuk Cultural Education Centre Logo](https://hcec.ca/index.php/our-logo/). Consulted 11 October 2026. Original English editorial synthesis; consult the linked record for close reading.
+
+[^ci-ihos-history]: I-Hos Gallery, 29 September 2014; account of Calvin Hunt’s design, [History of the I-Hos Logo](https://ihosgallery.com/blogs/news/15511124-history-of-the-i-hos-logo). Consulted 11 October 2026. Original English editorial synthesis; consult the linked record for close reading.
+
+[^ci-ihos-ownership]: I-Hos Gallery, [About Us](https://ihosgallery.com/pages/about-us). Consulted 11 October 2026. Original English editorial synthesis; consult the linked record for close reading.
+
+[^ci-steven-point]: Canadian Heraldic Authority, Public Register, vol. V, p. 428, [Steven Lewis Point](https://www.gg.ca/en/heraldry/public-register/project/1921). Consulted 11 October 2026. Original English editorial synthesis; consult the linked record for close reading.
+
+[^ci-surrey-police]: Canadian Heraldic Authority, Public Register, vol. VIII, p. 23, [Surrey Police Service](https://www.gg.ca/en/heraldry/public-register/project/3366). Consulted 11 October 2026. Original English editorial synthesis; consult the linked record for close reading.

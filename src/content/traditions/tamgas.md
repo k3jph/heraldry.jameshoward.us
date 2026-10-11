@@ -5,21 +5,31 @@ region: "Eurasia: tamgas"
 languages: ["en", "ru", "tr"]
 track: "Comparative emblem systems"
 period: "Third century–present"
-sourceIds: ["tamga-bm-alchon", "tamga-bm-kushan", "tamga-bm-vase", "tamga-carlos-seal", "tamga-altai-semirechye", "tamga-humphrey-brands", "tamga-syeitkhan-brands", "tamga-lnmm-skybin", "tamga-cng-alchon"]
+sourceIds: ["tamga-bm-alchon", "tamga-bm-kushan", "tamga-bm-vase", "tamga-carlos-seal", "tamga-altai-semirechye", "tamga-humphrey-brands", "tamga-syeitkhan-brands", "tamga-lnmm-skybin", "tamga-cng-alchon", "tamga-divan-nomination", "tamga-halacoglu", "tamga-paiza"]
 level: "Advanced undergraduate / graduate"
 ---
 
-<nav class="chapter-toc" aria-label="Tamgas chapter contents">
+<nav class="chapter-toc" aria-label="In this chapter">
   <strong>In this chapter</strong>
   <ol>
-    <li><a href="#begin-with-something-small">The object and the identification problem</a></li>
-    <li><a href="#coins-a-mark-inside-a-political-composition">Coins and a photographed example</a></li>
-    <li><a href="#seals-and-vessels-the-medium-changes-the-question">Seals and vessels</a></li>
-    <li><a href="#rock-marks-and-the-scale-of-affiliation">Rock marks and political affiliation</a></li>
-    <li><a href="#mongolian-horse-brands-ownership-has-a-social-structure">Mongolian horse brands and vocabulary</a></li>
-    <li><a href="#a-modern-artwork-and-a-changed-audience">Contemporary Crimean Tatar art</a></li>
-    <li><a href="#three-documentary-workshops">Documentary workshops</a></li>
-    <li><a href="#graduate-project-build-an-argument-someone-can-check">Graduate research project</a></li>
+    <li><a href="#begin-with-something-small">Begin with something small</a></li>
+    <li><a href="#four-parts-of-an-identification-system">Four parts of an identification system</a></li>
+    <li><a href="#coins-a-mark-inside-a-political-composition">Coins: a mark inside a political composition</a></li>
+    <li><a href="#look-at-a-photographed-example">Look at a photographed example</a></li>
+    <li><a href="#seals-and-vessels-the-medium-changes-the-question">Seals and vessels: the medium changes the question</a></li>
+    <li><a href="#rock-marks-and-the-scale-of-affiliation">Rock marks and the scale of affiliation</a></li>
+    <li><a href="#mongolian-horse-brands-ownership-has-a-social-structure">Mongolian horse brands: ownership has a social structure</a></li>
+    <li><a href="#vocabulary-that-keeps-the-inquiry-clear">Vocabulary that keeps the inquiry clear</a></li>
+    <li><a href="#a-modern-artwork-and-a-changed-audience">A modern artwork and a changed audience</a></li>
+    <li><a href="#reading-a-mark-without-repairing-away-its-history">Reading a mark without repairing away its history</a></li>
+    <li><a href="#oghuz-marks-come-with-a-manuscript-history">Oghuz marks come with a manuscript history</a></li>
+    <li><a href="#a-short-word-can-name-a-fiscal-relationship">A short word can name a fiscal relationship</a></li>
+    <li><a href="#a-seal-can-depend-on-controlled-custody">A seal can depend on controlled custody</a></li>
+    <li><a href="#a-mongol-pass-adds-words-material-and-portability">A Mongol pass adds words, material and portability</a></li>
+    <li><a href="#worked-reading-the-same-strokes-do-not-guarantee-the-same-act">Worked reading: the same strokes do not guarantee the same act</a></li>
+    <li><a href="#three-documentary-workshops">Three documentary workshops</a></li>
+    <li><a href="#graduate-project-build-an-argument-someone-can-check">Graduate project: build an argument someone can check</a></li>
+    <li><a href="#what-the-comparison-teaches">What the comparison teaches</a></li>
   </ol>
 </nav>
 
@@ -146,6 +156,54 @@ Rotation and reflection deserve separate fields in the record. A mark photograph
 
 The same discipline applies to interpretation. Record a proposed function, the evidence supporting it, and a plausible alternative. A mark on a vessel and a mark on a coin might resemble each other closely. Their resemblance establishes a visual relationship for investigation. Evidence of manufacture, issue, ownership, or use is what allows us to explain the relationship historically.
 
+## Oghuz marks come with a manuscript history
+
+The *Dīwān Lughat al-Turk* gives this subject a textual route alongside the coins and rocks. The custodians’ UNESCO nomination identifies the surviving manuscript as Millet Manuscript Library, Arabi Kit. 4189. It describes the eleventh-century work as preserved in a copy made in 1266 from the lost original.[^tamga-divan-nomination] The date of the work and the date of the surviving pages therefore answer different questions.
+
+Yusuf Halaçoğlu’s signed account illustrates the Oghuz marks on folios 20b–21a of that manuscript and compares the traditions associated with Kâşgarlı Mahmud and Reşîdüddin.[^tamga-halacoglu] This supplies a located witness. A modern chart can now be checked against particular pages, rather than accepted because its caption says “ancient tribal symbols.”
+
+The comparison needs both the drawing and the accompanying text. A sign placed beside a group name has a documented association within that manuscript. Its occurrence does not establish how every member of the group used it, how long the convention remained stable, or whether outsiders read it in the same way. Those are historical questions about practice. The textual association makes them more precise without answering them all.
+
+Copying introduces another layer. The surviving scribe reproduced an earlier work; a modern editor may then regularize its drawings; a digital chart may rotate, simplify or redistribute them. If two charts disagree, return to the identified witness and compare what each editor did. A changed branch in the diagram could be a historical variant, a copying difference or a modern redrawing. Deciding among those possibilities requires the chain of witnesses.
+
+The custodial dossier describes access through visual documentation and a published facsimile.[^tamga-divan-nomination] That makes a serious classroom exercise possible without pretending to have handled the manuscript. Record the reproduction examined and its page or folio reference. Physical features absent from that reproduction should remain unresolved, rather than supplied from expectations about what a medieval book ought to look like.
+
+## A short word can name a fiscal relationship
+
+Halaçoğlu also follows *damga* into fiscal usage: marks applied to goods and the associated levy enter the history of customs and taxation. His account discusses marked measuring equipment as well as property signs.[^tamga-halacoglu] This changes the question from “whose emblem is it?” to “which transaction, measure or administrative act does the mark record?”
+
+A commercial object can carry several identifying relationships at once. A producer’s sign may concern manufacture, a household mark possession, and an official stamp inspection or payment. Similar-looking marks do not have to compete for one exclusive interpretation. Their location, sequence of application and documentary context may explain how they worked together.
+
+This is a useful point of contact with the [merchant-mark chapter](/traditions/house-and-merchant-marks/). A regulated cloth seal and a livestock brand both identify something, but the surrounding institutions determine what recognition accomplishes. Sorting animals belonging to different households and validating a saleable textile are different operations. The comparative gain comes from explaining each operation, rather than attaching the same label to every economical arrangement of strokes.
+
+For a fiscal passage, preserve the grammatical context of the term. A reference to collecting a levy is not automatically a description of the geometry of a sign. A reference to an official responsible for stamping does not independently identify the stamp’s owner as a hereditary clan. Translate the action before constructing an emblem catalogue from the vocabulary.
+
+## A seal can depend on controlled custody
+
+The same historical account describes Ghazan’s different seals for different kinds of business, including a military one, and a large seal kept in a locked container.[^tamga-halacoglu] This is a reported administrative practice, not a claim that the particular tools survive in the museums linked above. Its significance is that authorization depends on control of the instrument as well as recognition of its design.
+
+An unmistakable image is easy to recognize. That alone does not explain why a recipient should trust it. In a controlled stamping system, the connection among issuer, instrument, custodian and document makes the image effective. A copied drawing can resemble the authorized mark perfectly while lacking that connection. The history of the emblem therefore includes procedures around its production.
+
+The distinction also sharpens the comparison with heraldic seals. Arms can identify the person whose seal is impressed, while custody and documentary procedure help establish the authority of the act. A historian who records only the pictured device may miss why one impression carried weight and another did not. The mark is visible evidence of a relationship maintained by people and institutions.
+
+## A Mongol pass adds words, material and portability
+
+The Metropolitan Museum’s **1993.256** is a late-thirteenth-century safe-conduct pass, or *paiza*, made of iron with silver inlay. Its inscription uses Phakpa script for Mongol language and invokes imperial authority. The museum describes silver filling openwork characters so that the lettering projects on both faces; on the reverse it is inverted.[^tamga-paiza] It is a complementary authority object, rather than a museum identification of a clan tamga.
+
+The distinction matters because a broad history of marks can accidentally absorb everything bearing a sign. Here words communicate the authority claim. The script, metal and portable form are part of the object’s operation. An animal mask also appears in the design, but its presence does not turn the pass into a pictorial family achievement. We should explain the whole object before choosing the comparative category.
+
+Its reverse offers an instructive companion to the stamp seal discussed earlier. An apparent reversal can arise from manufacture as well as from an impression made by a matrix. In the pass, the construction helps explain the relationship between the two faces. In the seal, the stamping action explains the expected relationship between engraved face and impression. Geometry alone cannot tell us which mechanism produced a reversed image.
+
+Portability changes the audience too. A rock mark stays at a location; a credential can travel with a person. The latter’s use asks whether recipients recognize the asserted authority and what they are expected to do in response. We would need further documentary evidence to reconstruct particular encounters. The surviving pass gives the inquiry a material starting point, with a text that makes its authority claim explicit.
+
+## Worked reading: the same strokes do not guarantee the same act
+
+Build a comparison with three located witnesses: the Oghuz manuscript illustration, the Carlos Museum stamp seal and the Metropolitan Museum pass. Record what each source actually identifies. Then distinguish a textual association between mark and group, a tool capable of making impressions, and a portable inscription invoking authority.
+
+<details class="research-answer"><summary>Explain what each witness contributes</summary><p>The manuscript connects a depicted mark with a named group in a copied textual tradition. The seal establishes a manufactured matrix with a particular engraved design; a named act of authentication would require additional evidence. The pass preserves an authority-bearing inscription and a construction that explains its reversed face. All three belong in a comparison of identification and authorization, while their documentary functions remain distinct.</p></details>
+
+Next ask what would change the argument. A dated impression attached to a document would extend the seal’s record. Another manuscript could reveal differences in the textual tradition. An administrative instruction about handling passes could connect the surviving credential with procedure. These additions would supply different kinds of missing evidence. The most useful next source is the one that answers the particular unresolved question.
+
 ## Three documentary workshops
 
 ### Workshop 1: how far can a coin take us?
@@ -191,7 +249,7 @@ Tamgas make a central problem of heraldry visible in unusually compact form. A f
 
 The comparisons in this chapter give us several ways to proceed. Coins invite investigation of issue and political representation. Seals invite investigation of tools, impressions, and acts of authentication. Rock marks invite classification and chronological mapping. Branding research invites investigation of ownership and social relationships. Contemporary art invites investigation of reference, adaptation, and audience. The shared question is how an emblem acquires meaning through use, and how we can reconstruct that use from what survives.
 
-Further work should develop the Sarmatian and northern Black Sea material, original Oghuz textual witnesses, medieval Mongol chancery documents, and community-specific contemporary branding evidence. Those are distinct research tasks. The current chapter establishes an object-based route into the subject; full article and manuscript collation, inscription readings, and independent specialist review remain open.
+Further work should develop the Sarmatian and northern Black Sea material, collate the located Oghuz manuscript with other textual traditions, and connect Mongol authorization objects with chancery documents. Community-specific contemporary branding evidence offers another distinct research task. Full article and manuscript collation, inscription readings, and independent specialist review remain open.
 
 [^alchon]: British Museum, [coin 1894,0506.215](https://www.britishmuseum.org/collection/object/C_1894-0506-215), description, production date, findspot, and curator's comments. Catalogue-mediated study.
 [^kushan]: British Museum, [coin 1987,0921.15](https://www.britishmuseum.org/collection/object/C_1987-0921-15), description, authority, production date, and overstrike note.
@@ -202,3 +260,9 @@ Further work should develop the Sarmatian and northern Black Sea material, origi
 [^turkish]: Shynarbyek Syeitkhan, [Moğollarda at damgalama gelenekleri ve damga (tamga) türleri](https://dergipark.org.tr/en/pub/teke/article/1426386), *Uluslararası Türkçe Edebiyat Kültür Eğitim Dergisi* 13(1), 2024, 1–21, DOI 10.7884/teke.1426386. [PDF](https://dergipark.org.tr/en/download/article-file/3687026), opening discussion, p. 2. Original English editorial synthesis; terminology awaits specialist review.
 [^skybin]: Latvian National Museum of Art, [Tamga](https://lnmm.gov.lv/en/latvian-national-museum-of-art/learn/current-exhibition-programmes/tamga), Rustem Skybin, 2023. Museum interpretation; artwork image linked rather than reproduced.
 [^cng]: Classical Numismatic Group, [CNG 69, lot 896](https://www.cngcoins.com/Coin.aspx?CoinID=65481), auction closed 8 June 2005. Attribution and date are those of the auction record. Photograph licence is documented separately in the figure caption.
+
+[^tamga-divan-nomination]: Turkish Institution for Manuscripts, Millet Manuscript Library and Turkish National Commission for UNESCO; nomination 2016-128, [Turkey — Diwan Lughat al-Turk: nomination form](https://media.unesco.org/sites/default/files/webform/mow001/turkey_compendium_eng.pdf). Consulted 11 October 2026. Original English editorial synthesis; consult the linked record for close reading.
+
+[^tamga-halacoglu]: Yusuf Halaçoğlu, TDV İslâm Ansiklopedisi, vol. 8, 1993, pp. 454–455, [DAMGA (TDV İslâm Ansiklopedisi)](https://islamansiklopedisi.org.tr/damga). Consulted 11 October 2026. Original English editorial synthesis; consult the linked record for close reading.
+
+[^tamga-paiza]: Metropolitan Museum of Art, 1993.256, [Safe Conduct Pass (Paiza) with Inscription in Phakpa Script](https://www.metmuseum.org/art/collection/search/39624). Consulted 11 October 2026. Original English editorial synthesis; consult the linked record for close reading.

@@ -23,9 +23,9 @@ level: "Advanced undergraduate / graduate"
     <li><a href="#brașov-a-crown-can-be-a-pun-inside-another-crown">Brașov: a crown can be a pun inside another crown</a></li>
     <li><a href="#aurochs-eagles-and-territorial-continuities">Aurochs, eagles and territorial continuities</a></li>
     <li><a href="#romanian-descriptions-connect-drawing-with-legal-classification">Romanian descriptions connect drawing with legal classification</a></li>
+    <li><a href="#source-hierarchy">Source hierarchy</a></li>
     <li><a href="#graduate-investigation-follow-public-identity-through-objects">Graduate investigation: follow public identity through objects</a></li>
     <li><a href="#workshop-historical-versions-and-reproducibility">Workshop: historical versions and reproducibility</a></li>
-    <li><a href="#source-hierarchy">Source hierarchy</a></li>
   </ol>
 </nav>
 
@@ -148,6 +148,11 @@ Keep interpretive sections separate from the formal description when a decree su
 
 For monochrome work, apply the law's tincture conventions only after identifying which areas they encode. A hatch pattern fills an already identified red or blue region. It cannot decide whether an uncertain patch belongs to the field, a bird's wing or a separate charge. Geometry and identification come before colour substitution.
 
+## Source hierarchy
+
+1. [Romanian Parliament, *Legea nr. 102/1992 privind stema ţării şi sigiliul statului*](https://legislatie.just.ro/Public/DetaliiDocument/2381) — original legislation and consolidated forms.
+2. [Romanian Parliament, *Legea nr. 146/2016*](https://legislatie.just.ro/Public/DetaliiDocumentAfis/180207) — modifying act and transitional provisions.
+
 ## Graduate investigation: follow public identity through objects
 
 Prepare a sequence comprising a Cuza-era armorial object, an early national coin, the Steel Crown and a post-2016 official eagle model. For each, record the object date, represented bearer, inscription if present and source of the identification. Explain the relationship between physical regalia and their graphic representation without treating them as one object.
@@ -163,11 +168,6 @@ Open the [1992 law's consolidated text](https://legislatie.just.ro/Public/Detali
 Now read the [2016 amendment](https://legislatie.just.ro/Public/DetaliiDocumentAfis/180207). Create a timeline with 1992 adoption, 2016 statutory amendment, the 2018 transition deadline, and the separate treatment of previously issued coins and notes.
 
 **Graduate assignment:** Write a 2,000-word account of Romania's statutory armorial identity. Analyze the changes in the eagle's representation, the distinct evidentiary functions of the blazon and official annex, the historic territorial symbolism on the smaller shield, and the law's unusual attention to monochrome reproduction. Include exact original Romanian legal citations, not generic English wikipedia descriptions.
-
-## Source hierarchy
-
-1. [Romanian Parliament, *Legea nr. 102/1992 privind stema ţării şi sigiliul statului*](https://legislatie.just.ro/Public/DetaliiDocument/2381) — original legislation and consolidated forms.
-2. [Romanian Parliament, *Legea nr. 146/2016*](https://legislatie.just.ro/Public/DetaliiDocumentAfis/180207) — modifying act and transitional provisions.
 
 <aside class="editorial-notice" aria-label="Editorial note">
 <p><strong>Research status:</strong> Original English statutory synthesis with source links, not a legal opinion or complete history of Romanian armorial art. Specialist review and dated historic regional witnesses remain to be added.</p>

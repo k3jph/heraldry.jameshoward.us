@@ -17,15 +17,15 @@ level: "Advanced undergraduate / graduate"
     <li><a href="#mežica-geography-mining-and-folklore-in-a-coat">Mežica: geography, mining and folklore in a coat</a></li>
     <li><a href="#the-legal-and-historical-research-gap">The legal and historical research gap</a></li>
     <li><a href="#slovenian-english-terminology">Slovenian-English terminology</a></li>
-    <li><a href="#graduate-comparison-lab">Graduate comparison lab</a></li>
-    <li><a href="#source-dossier">Source dossier</a></li>
     <li><a href="#triglav-is-a-prescribed-figure-in-a-modern-state-coat">Triglav is a prescribed figure in a modern state coat</a></li>
     <li><a href="#a-three-dimensional-rendering-has-its-own-instructions">A three-dimensional rendering has its own instructions</a></li>
     <li><a href="#ljubljanas-dragon-rests-on-a-very-specific-tower">Ljubljana&#x27;s dragon rests on a very specific tower</a></li>
     <li><a href="#the-dragons-history-is-not-the-date-of-a-founding-legend">The dragon&#x27;s history is not the date of a founding legend</a></li>
     <li><a href="#kranjs-eagle-is-connected-to-a-dated-seal-model">Kranj&#x27;s eagle is connected to a dated seal model</a></li>
     <li><a href="#the-archive-records-the-prescribing-public-bodies">The archive records the prescribing public bodies</a></li>
+    <li><a href="#graduate-comparison-lab">Graduate comparison lab</a></li>
     <li><a href="#graduate-investigation-test-three-descriptions-against-drawings">Graduate investigation: test three descriptions against drawings</a></li>
+    <li><a href="#source-dossier">Source dossier</a></li>
   </ol>
 </nav>
 
@@ -81,17 +81,6 @@ The official Slovenian legal portal is valuable because it provides precise date
 | *rudarska kladiva* | mining hammers | Local economic/historical reference |
 | *Kralj Matjaž* | King Matjaž | Specific folklore reference, not an assumed real heraldic grant |
 | *občinski svet* | municipal council | Adopts local laws in context |
-
-## Graduate comparison lab
-
-Read Ajdovščina's [Article 7](https://pisrs.si/pregledPredpisa?sop=2012-01-1843) and Mežica's [Article 6](https://pisrs.si/pregledPredpisa?sop=2025-01-2085) in Slovenian. Prepare parallel English summaries that preserve the original terminology for coats, flags, seals and ordinances. Create two visual specification tables. Avoid using the introductory Atelier to silently omit elements it cannot model.
-
-**Graduate assignment:** Compare the two statutes in 1,500 words. Ask whether their designs function primarily as traditional heraldic compositions or as modern local graphic emblems. Describe what each statute **actually authorizes**, what further normative ordinances must be located and what historic artifacts would be necessary to assess claims of continuity. Include a method for asking local residents and archives about the cultural meanings of Mount Peca, King Matjaž and the Ajdovščina motifs.
-
-## Source dossier
-
-1. [PISRS, *Statut Občine Ajdovščina* (2012), Article 7](https://pisrs.si/pregledPredpisa?sop=2012-01-1843).
-2. [PISRS, *Statut Občine Mežica* (2025), Article 6](https://pisrs.si/pregledPredpisa?sop=2025-01-2085).
 
 ## Triglav is a prescribed figure in a modern state coat
 
@@ -159,6 +148,12 @@ For a municipal case, connect the statute or ordinance to the archival record th
 
 The archive also makes seals part of the inquiry. A round stamp with the arms and an institutional legend is a particular administrative format, rather than just a cropped version of a flag. Compare the legend, issuing body and official purpose. The document to which the seal is attached can establish who acted and in what capacity, which the emblem alone may not identify sufficiently.
 
+## Graduate comparison lab
+
+Read Ajdovščina's [Article 7](https://pisrs.si/pregledPredpisa?sop=2012-01-1843) and Mežica's [Article 6](https://pisrs.si/pregledPredpisa?sop=2025-01-2085) in Slovenian. Prepare parallel English summaries that preserve the original terminology for coats, flags, seals and ordinances. Create two visual specification tables. Avoid using the introductory Atelier to silently omit elements it cannot model.
+
+**Graduate assignment:** Compare the two statutes in 1,500 words. Ask whether their designs function primarily as traditional heraldic compositions or as modern local graphic emblems. Describe what each statute **actually authorizes**, what further normative ordinances must be located and what historic artifacts would be necessary to assess claims of continuity. Include a method for asking local residents and archives about the cultural meanings of Mount Peca, King Matjaž and the Ajdovščina motifs.
+
 ## Graduate investigation: test three descriptions against drawings
 
 Prepare annotated working drawings of Slovenia's national arms, Ljubljana's municipal coat and Kranj's eagle from the cited descriptions. Mark every feature determined by the text and every feature that required consultation of an approved image. For Ljubljana, distinguish the decorative gold edge from essential shield content. For the national arms, identify the specified star arrangement and partial edging rather than substituting a generic bordure.
@@ -166,6 +161,11 @@ Prepare annotated working drawings of Slovenia's national arms, Ljubljana's muni
 Then compare one historical witness for Ljubljana or Kranj with the modern model. Keep the witness date, image date and prescribing instrument date in separate fields. Explain what changed, what remained recognizable and which historical meanings the available evidence actually supports. A later civic explanation may be important to reception even where it cannot prove medieval intention.
 
 Finish by locating the relevant public-body record or identifying what must be requested from the archive. Your dossier should join formal analysis to administrative evidence. The strongest result will explain how a coat can preserve historical associations while being defined through contemporary law and graphic standards. That combination is a central part of the Slovenian tradition represented by these cases.
+
+## Source dossier
+
+1. [PISRS, *Statut Občine Ajdovščina* (2012), Article 7](https://pisrs.si/pregledPredpisa?sop=2012-01-1843).
+2. [PISRS, *Statut Občine Mežica* (2025), Article 6](https://pisrs.si/pregledPredpisa?sop=2025-01-2085).
 
 <aside class="editorial-notice" aria-label="Editorial note">
 <p><strong>Editorial review status:</strong> An original English comparative study of two modern local acts, not a full Slovenian heraldic history. Slovenian-language specialist input, local ordinances and authentic older civic seals still need research. No reproduction rights are implied for municipality artwork.</p>

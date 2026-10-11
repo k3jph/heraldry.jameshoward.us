@@ -23,8 +23,8 @@ level: "Advanced undergraduate / graduate"
     <li><a href="#siebmacher-is-a-publication-history-as-well-as-a-name">Siebmacher is a publication history as well as a name</a></li>
     <li><a href="#hamburg-a-city-image-becomes-a-public-emblem">Hamburg: a city image becomes a public emblem</a></li>
     <li><a href="#the-federal-eagle-can-remain-an-identity-across-realizations">The federal eagle can remain an identity across realizations</a></li>
-    <li><a href="#workshop-one-family-identity-four-realizations">Workshop: one family identity, four realizations</a></li>
     <li><a href="#a-small-german-english-concordance">A small German-English concordance</a></li>
+    <li><a href="#workshop-one-family-identity-four-realizations">Workshop: one family identity, four realizations</a></li>
     <li><a href="#source-interrogation-exercise">Source interrogation exercise</a></li>
     <li><a href="#selected-german-language-source-portals">Selected German-language source portals</a></li>
   </ol>
@@ -130,12 +130,6 @@ The Bundestag’s historical account also compares successive political uses of 
 
 A useful comparison separates three layers: the specified heraldic identity, the graphic form chosen for a particular institution, and the physical realization in a chamber, document, or other object. A large architectural eagle can solve problems of viewing distance and material that a seal does not share. Comparing those solutions helps explain the artwork without confusing different media with different states.
 
-## Workshop: one family identity, four realizations
-
-Take the fictional wheel achievement and prepare four versions: a complete painted achievement, a shield-only seal design, a bookplate, and a small digital illustration. Preserve the same field division and counterchanging throughout. Decide how much of the upper display each medium can carry legibly, and explain any omission. The exercise asks whether a changing presentation retains the identity; it should not quietly redesign the shield every time the page gets smaller.
-
-Then replace the exercise with a located historical family entry. Compare the published description with two actual realizations if available. Establish which variations are specified, which belong to the artist, and which remain unresolved. The complete result is a study of heraldic practice: how a bearer’s identity was composed, recorded, transmitted, and made legible in use.
-
 ## A small German-English concordance
 
 | Original term | Useful English rendering | Context to preserve |
@@ -147,6 +141,12 @@ Then replace the exercise with a located historical family entry. Compare the pu
 | *Stadtwappen* | civic arms of a town | Usually a public-body emblem |
 | *Wappenannahme* | assumption/adoption of arms | Not equivalent to a sovereign grant |
 | *Stammreihe* | genealogical lineage | A documentary claim requiring verification |
+
+## Workshop: one family identity, four realizations
+
+Take the fictional wheel achievement and prepare four versions: a complete painted achievement, a shield-only seal design, a bookplate, and a small digital illustration. Preserve the same field division and counterchanging throughout. Decide how much of the upper display each medium can carry legibly, and explain any omission. The exercise asks whether a changing presentation retains the identity; it should not quietly redesign the shield every time the page gets smaller.
+
+Then replace the exercise with a located historical family entry. Compare the published description with two actual realizations if available. Establish which variations are specified, which belong to the artist, and which remain unresolved. The complete result is a study of heraldic practice: how a bearer’s identity was composed, recorded, transmitted, and made legible in use.
 
 ## Source interrogation exercise
 

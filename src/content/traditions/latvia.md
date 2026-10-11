@@ -17,8 +17,6 @@ level: "Advanced undergraduate / graduate"
     <li><a href="#a-register-with-a-sensitive-data-problem">A register with a sensitive-data problem</a></li>
     <li><a href="#legal-protection-and-educational-reproduction">Legal protection and educational reproduction</a></li>
     <li><a href="#latvian-english-legal-vocabulary">Latvian-English legal vocabulary</a></li>
-    <li><a href="#source-reading-laboratory">Source-reading laboratory</a></li>
-    <li><a href="#primary-legal-sources">Primary legal sources</a></li>
     <li><a href="#the-national-arms-combine-a-new-state-with-regional-devices">The national arms combine a new state with regional devices</a></li>
     <li><a href="#a-griffin-is-an-organized-composite-creature">A griffin is an organized composite creature</a></li>
     <li><a href="#parallel-official-pages-can-expose-a-translation-discrepancy">Parallel official pages can expose a translation discrepancy</a></li>
@@ -26,7 +24,9 @@ level: "Advanced undergraduate / graduate"
     <li><a href="#rigas-gate-and-keys-preserve-a-different-civic-composition">Riga’s gate and keys preserve a different civic composition</a></li>
     <li><a href="#the-commissions-work-is-more-than-approving-pictures">The commission’s work is more than approving pictures</a></li>
     <li><a href="#private-arms-need-an-identified-bearer-and-a-transmission-argument">Private arms need an identified bearer and a transmission argument</a></li>
+    <li><a href="#source-reading-laboratory">Source-reading laboratory</a></li>
     <li><a href="#graduate-workshop-audit-a-latvian-armorial-explanation">Graduate workshop: audit a Latvian armorial explanation</a></li>
+    <li><a href="#primary-legal-sources">Primary legal sources</a></li>
   </ol>
 </nav>
 
@@ -77,19 +77,6 @@ For example, a graduate project might compare a newly registered municipal shiel
 | *fiziskā persona* | natural person | Distinguish from legal persons |
 
 The declension and syntax of Latvian matter. A dictionary that indexes only a nominative noun cannot automatically interpret every inflected occurrence in a legal text.
-
-## Source-reading laboratory
-
-Open the Latvian [Coats of Arms Law](https://likumi.lv/ta/id/123815-gerbonu-likums). In Article 1, identify the defined categories of bearer. Make a process map from Articles 3–6 showing which public actor performs each decision, what document it creates and where that document is registered.
-
-Now compare the statutory framework with the [Flemish private-arms decree](https://codex.vlaanderen.be/Portals/Codex/documenten/1006070.html). Both concern private persons, but they use different structures and legal categories. Do not label one 'more official' without a defined comparison criterion.
-
-**Graduate assignment:** Produce a 1,500-word paper on how Latvia defines the legal identity of a coat of arms and the relationship among registration, distinctiveness and protection. Include a short original-language clause, a carefully attributed English translation, a statement of the version of the law you used, and an explicit privacy policy for any proposed data extraction.
-
-## Primary legal sources
-
-1. [Latvian Saeima, *Ģerboņu likums*, published in the official Likumi.lv database](https://likumi.lv/ta/id/123815-gerbonu-likums) — consolidated law and amendments.
-2. [Latvian law, *Par Latvijas valsts ģerboni*](https://likumi.lv/ta/id/47133-par-latvijas-valsts-gerboni) — distinct regime governing the state coat of arms.
 
 ## The national arms combine a new state with regional devices
 
@@ -161,6 +148,14 @@ For a personal or family case, distinguish the registered design from the geneal
 
 The public-facing project should therefore emphasize designs, named institutional records and the evidence needed for a claim, while leaving sensitive personal identifiers out of teaching examples. That approach improves the scholarship as well as the presentation: a list of private numbers would contribute nothing to understanding the blazon or the transmission argument.
 
+## Source-reading laboratory
+
+Open the Latvian [Coats of Arms Law](https://likumi.lv/ta/id/123815-gerbonu-likums). In Article 1, identify the defined categories of bearer. Make a process map from Articles 3–6 showing which public actor performs each decision, what document it creates and where that document is registered.
+
+Now compare the statutory framework with the [Flemish private-arms decree](https://codex.vlaanderen.be/Portals/Codex/documenten/1006070.html). Both concern private persons, but they use different structures and legal categories. Do not label one 'more official' without a defined comparison criterion.
+
+**Graduate assignment:** Produce a 1,500-word paper on how Latvia defines the legal identity of a coat of arms and the relationship among registration, distinctiveness and protection. Include a short original-language clause, a carefully attributed English translation, a statement of the version of the law you used, and an explicit privacy policy for any proposed data extraction.
+
 ## Graduate workshop: audit a Latvian armorial explanation
 
 Write a short audit using the national shield, Riga’s civic composition and one law-defined registration category. Identify the bearer and form before describing each design. Then select one translation or proportion discrepancy and explain which evidence would settle it.
@@ -168,6 +163,11 @@ Write a short audit using the national shield, Riga’s civic composition and on
 Add an invented private-association example, explicitly labelled as hypothetical, and state what membership would establish. The exercise should distinguish a right to display an affiliation badge from a claim to bear hereditary arms. It should also distinguish a drawing, commission assessment and registration act.
 
 <details class="research-answer"><summary>What makes the audit useful?</summary><p>It resolves specific claims with appropriate witnesses. It does not treat every official English sentence as a controlling blazon, every armorial picture as a registration, or every shared motif as a shared bearer. The final account preserves the national, civic and private categories while explaining the common visual grammar through concrete designs.</p></details>
+
+## Primary legal sources
+
+1. [Latvian Saeima, *Ģerboņu likums*, published in the official Likumi.lv database](https://likumi.lv/ta/id/123815-gerbonu-likums) — consolidated law and amendments.
+2. [Latvian law, *Par Latvijas valsts ģerboni*](https://likumi.lv/ta/id/47133-par-latvijas-valsts-gerboni) — distinct regime governing the state coat of arms.
 
 <aside class="editorial-notice" aria-label="Editorial note">
 <p><strong>Scholarly status:</strong> An initial comparative chapter based on original Latvian legislation, not a definitive account of all private and civic heraldry across Latvian history. Specialist translation and legal review remain open.</p>

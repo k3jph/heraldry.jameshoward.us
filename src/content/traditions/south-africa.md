@@ -146,7 +146,7 @@ Open the [official national arms page](https://www.gov.za/about-sa/national-coat
 1. [South African Government, *National Coat of Arms*](https://www.gov.za/about-sa/national-coat-arms).
 2. [National Archives and Records Service, *National Symbols*](https://www.nationalarchives.gov.za/national-symbols).
 
-**Research frontier:** South African heraldry before and after apartheid, civic and institutional armory, the heritage and rights of original artworks, and a properly comparative history of heraldic systems across the African continent.
+**Further research:** follow particular civic and institutional designs through the transition beyond apartheid, using production files, community accounts and dated objects alongside the register. Comparative work across Africa should preserve the different authorities and cultural contexts of each case.
 
 <aside class="editorial-notice" aria-label="Editorial note">
 <p><strong>Editorial status:</strong> Original English synthesis supported by linked sources. Scope and interpretive assumptions are explicit. Specialist and, where relevant, community review remain to be completed.</p>

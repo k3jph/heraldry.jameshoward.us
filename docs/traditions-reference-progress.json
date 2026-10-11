@@ -1,8 +1,8 @@
 {
-  "status": "in progress; remaining chapters not yet expanded",
+  "status": "all 70 expanded; editorial pass and local release validation complete; independent specialist review pending",
   "targetChapters": 70,
-  "expandedDrafts": 63,
-  "addedWords": 119141,
+  "expandedDrafts": 70,
+  "addedWords": 129460,
   "chapters": [
     {
       "slug": "japan-kamon",
@@ -440,8 +440,8 @@
     {
       "slug": "sweden",
       "before": 795,
-      "after": 2861,
-      "added": 2066,
+      "after": 2866,
+      "added": 2071,
       "sections": 15,
       "sourceIds": [
         "se-riksarkivet",
@@ -1146,8 +1146,8 @@
     {
       "slug": "catholic-heraldry",
       "before": 1593,
-      "after": 3425,
-      "added": 1832,
+      "after": 3430,
+      "added": 1837,
       "sections": 16,
       "sourceIds": [
         "cath-leo-xiv",
@@ -1339,8 +1339,8 @@
     {
       "slug": "argentina",
       "before": 619,
-      "after": 2402,
-      "added": 1783,
+      "after": 2406,
+      "added": 1787,
       "sections": 13,
       "sourceIds": [
         "ar-escudo",
@@ -1417,8 +1417,8 @@
     {
       "slug": "australia",
       "before": 932,
-      "after": 2402,
-      "added": 1470,
+      "after": 2383,
+      "added": 1451,
       "sections": 13,
       "sourceIds": [
         "au-commonwealth",
@@ -1444,8 +1444,8 @@
     {
       "slug": "new-zealand",
       "before": 990,
-      "after": 2496,
-      "added": 1506,
+      "after": 2487,
+      "added": 1497,
       "sections": 15,
       "sourceIds": [
         "nz-arms",
@@ -1474,8 +1474,8 @@
     {
       "slug": "south-africa",
       "before": 838,
-      "after": 2578,
-      "added": 1740,
+      "after": 2585,
+      "added": 1747,
       "sections": 14,
       "sourceIds": [
         "za-coat",
@@ -1664,6 +1664,198 @@
         "The sea lion is a transmitted figure with changing roles",
         "Local script can enter a contemporary public device",
         "A research sequence across regimes and offices"
+      ]
+    },
+    {
+      "slug": "mamluk-blazons",
+      "before": 1432,
+      "after": 2926,
+      "added": 1494,
+      "sections": 14,
+      "sourceIds": [
+        "mamluk-met-context",
+        "mamluk-cup-stand",
+        "mamluk-textile",
+        "mamluk-plate",
+        "mamluk-qawsun-lamp",
+        "mamluk-bowkeeper-lamp",
+        "mamluk-composite-dish",
+        "mamluk-polo-pottery",
+        "mamluk-glass-technique"
+      ],
+      "expansionHeads": [
+        "The bow-keeper gives the comparison another office",
+        "The polo master appears on pottery",
+        "Qawsun’s patronage extends across supports",
+        "A composite blazon has an internal grammar",
+        "Glass introduces a technical history of visibility",
+        "Epigraphic identity belongs beside figured devices"
+      ]
+    },
+    {
+      "slug": "ottoman-tughras",
+      "before": 1462,
+      "after": 3078,
+      "added": 1616,
+      "sections": 15,
+      "sourceIds": [
+        "ott-suleiman",
+        "ott-selim-panel",
+        "ott-selim-pendant",
+        "ott-derman-tugra",
+        "ott-proteus-firman",
+        "ott-jewish-firman",
+        "ott-met-firman-fragment",
+        "ott-akyavas-ferman",
+        "ott-modern-dialogues"
+      ],
+      "expansionHeads": [
+        "The configuration has named parts",
+        "The early history precedes Süleiman",
+        "The Proteus decree makes an administrative act visible",
+        "A decree can address protection rather than commerce",
+        "A surviving tughra may be only part of a document",
+        "A modern Ferman makes the historical form a subject",
+        "Read authority, writing and support together"
+      ]
+    },
+    {
+      "slug": "house-and-merchant-marks",
+      "before": 1682,
+      "after": 3201,
+      "added": 1519,
+      "sections": 15,
+      "sourceIds": [
+        "marks-vasa-inventory",
+        "marks-smale-ring",
+        "marks-bronze-ring",
+        "marks-barwell-token",
+        "marks-danish-signet",
+        "marks-vasa-direct",
+        "marks-cloth-study",
+        "marks-gdansk-cloth",
+        "marks-norwich-wardens",
+        "marks-bodilsker-stone"
+      ],
+      "expansionHeads": [
+        "The Vasa figures reward a careful denominator",
+        "Rotation and added strokes need a local convention",
+        "A cloth seal can certify a commodity",
+        "Gdańsk’s arms travel with a separate mark",
+        "Norwich’s initials identify officeholders together",
+        "A reused stone preserves several material histories"
+      ]
+    },
+    {
+      "slug": "jewish-armory",
+      "before": 1056,
+      "after": 2644,
+      "added": 1588,
+      "sections": 14,
+      "sourceIds": [
+        "jew-rothschild",
+        "jew-shield",
+        "jew-textiles",
+        "jew-prague-flag",
+        "jew-putik",
+        "jew-montefiore-testimonials",
+        "jew-montefiore-halberstadt",
+        "jew-montefiore-drawn-stamps",
+        "jew-bevis-seal",
+        "jew-benveniste-cast",
+        "jew-geniza-stamp"
+      ],
+      "expansionHeads": [
+        "Montefiore adds another jurisdiction and another mechanism",
+        "A testimonial is another use of arms",
+        "A drawn stamp is not a stamped impression",
+        "Bevis Marks supplies a congregational bearer",
+        "A medieval impression can survive through a modern cast",
+        "A name-bearing stamp can work without a shield",
+        "Compare bearers before grouping motifs"
+      ]
+    },
+    {
+      "slug": "socialist-emblems",
+      "before": 985,
+      "after": 2452,
+      "added": 1467,
+      "sections": 13,
+      "sourceIds": [
+        "socialist-ddr",
+        "socialist-medal",
+        "mk-research",
+        "ee-seal",
+        "ru-1993",
+        "socialist-ddr-law",
+        "socialist-ddr-flag",
+        "socialist-ussr-constitution",
+        "socialist-china-law"
+      ],
+      "expansionHeads": [
+        "The 1955 GDR law specifies more than a collection of symbols",
+        "A flag can change after the emblem exists",
+        "The Soviet Constitution puts the globe inside the political argument",
+        "China supplies an architectural center and a manufacturing plan",
+        "Similar agricultural frames can hold different kinds of center",
+        "Worked comparison: identify the device before naming its politics"
+      ]
+    },
+    {
+      "slug": "tamgas",
+      "before": 4032,
+      "after": 5241,
+      "added": 1209,
+      "sections": 18,
+      "sourceIds": [
+        "tamga-bm-alchon",
+        "tamga-bm-kushan",
+        "tamga-bm-vase",
+        "tamga-carlos-seal",
+        "tamga-altai-semirechye",
+        "tamga-humphrey-brands",
+        "tamga-syeitkhan-brands",
+        "tamga-lnmm-skybin",
+        "tamga-cng-alchon",
+        "tamga-divan-nomination",
+        "tamga-halacoglu",
+        "tamga-paiza"
+      ],
+      "expansionHeads": [
+        "Oghuz marks come with a manuscript history",
+        "A short word can name a fiscal relationship",
+        "A seal can depend on controlled custody",
+        "A Mongol pass adds words, material and portability",
+        "Worked reading: the same strokes do not guarantee the same act"
+      ]
+    },
+    {
+      "slug": "colonial-indigenous",
+      "before": 1131,
+      "after": 2564,
+      "added": 1433,
+      "sections": 14,
+      "sourceIds": [
+        "mx-archive",
+        "ca-irniq",
+        "nz-arms",
+        "jm-arms",
+        "in-bowring",
+        "na-gazette",
+        "ci-bartleman",
+        "ci-steven-point",
+        "ci-heiltsuk-logo",
+        "ci-ihos-history",
+        "ci-ihos-ownership",
+        "ci-surrey-police"
+      ],
+      "expansionHeads": [
+        "Bartleman’s canoes make counterchanging carry several meanings",
+        "Point’s serpent has a relationship before it enters the shield",
+        "A community institution can explain its own device",
+        "I-Hos carries a connected design across a canoe and a building",
+        "A gifted element can enter a civic achievement",
+        "Worked comparison: four different kinds of authority"
       ]
     }
   ]

@@ -22,8 +22,8 @@ level: "Advanced undergraduate / graduate"
     <li><a href="#crowns-supporters-and-mottos-require-their-own-reasons">Crowns, supporters, and mottos require their own reasons</a></li>
     <li><a href="#delfts-councillors-personal-arms-inside-a-civic-ensemble">Delft’s councillors: personal arms inside a civic ensemble</a></li>
     <li><a href="#family-identity-and-public-identity-move-differently">Family identity and public identity move differently</a></li>
-    <li><a href="#workshop-advise-a-fictional-merged-authority">Workshop: advise a fictional merged authority</a></li>
     <li><a href="#dutch-english-terminology">Dutch-English terminology</a></li>
+    <li><a href="#workshop-advise-a-fictional-merged-authority">Workshop: advise a fictional merged authority</a></li>
     <li><a href="#required-dutch-language-reading">Required Dutch-language reading</a></li>
   </ol>
 </nav>
@@ -122,12 +122,6 @@ Now compare an old municipal seal with a successor authority’s diploma. The re
 
 The two studies can inform one another because both investigate continuity across changing realizations. They remain different studies because the bearers, decision mechanisms, and succession relationships differ. This is the reason to keep Dutch family, noble, royal, civic, and other public heraldry together in a comparative chapter while giving each its own actual workings.
 
-## Workshop: advise a fictional merged authority
-
-Prepare two teaching designs for the three-municipality merger: a combined composition and a simplified composition drawing selectively on predecessor forms. Write the blazon and a rationale for each. Test both at small scale, then explain which historical connections the drawing retains and which it leaves to the institution’s narrative. A design should earn its simplicity through choices the reader can inspect.
-
-Add a documentary chronology containing the formation of the authority, its request for advice, the design decision, and the completed instrument. State which dates are fictional. Then compare the exercise with a located public-body grant and identify which parts of the actual process differ. The final discussion should connect the authority’s history with the composition’s decisions, producing an explanation of heraldic practice rather than an application form with decorative illustrations.
-
 ## Dutch-English terminology
 
 | Dutch term | Editorial equivalent |
@@ -142,6 +136,12 @@ Add a documentary chronology containing the formation of the authority, its requ
 | *blazoenering* | formal heraldic description |
 
 **Graduate exercise:** Reconstruct the documentation path for a fictional Dutch municipal grant, identifying which document records the committee's view and which creates the official adoption. Then compare the evidentiary purposes of the *wapenregister* and *filiatieregister* without treating them as interchangeable.
+
+## Workshop: advise a fictional merged authority
+
+Prepare two teaching designs for the three-municipality merger: a combined composition and a simplified composition drawing selectively on predecessor forms. Write the blazon and a rationale for each. Test both at small scale, then explain which historical connections the drawing retains and which it leaves to the institution’s narrative. A design should earn its simplicity through choices the reader can inspect.
+
+Add a documentary chronology containing the formation of the authority, its request for advice, the design decision, and the completed instrument. State which dates are fictional. Then compare the exercise with a located public-body grant and identify which parts of the actual process differ. The final discussion should connect the authority’s history with the composition’s decisions, producing an explanation of heraldic practice rather than an application form with decorative illustrations.
 
 ## Required Dutch-language reading
 

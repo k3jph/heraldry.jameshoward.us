@@ -16,14 +16,14 @@ level: "Advanced undergraduate / graduate"
     <li><a href="#distinguish-a-historical-symbol-from-a-fresh-grant">Distinguish a historical symbol from a fresh grant</a></li>
     <li><a href="#the-politics-of-public-symbol-design">The politics of public-symbol design</a></li>
     <li><a href="#czech-english-terminology">Czech-English terminology</a></li>
-    <li><a href="#research-laboratory">Research laboratory</a></li>
-    <li><a href="#primary-institutional-record">Primary institutional record</a></li>
     <li><a href="#bohemia-moravia-and-silesia-occupy-different-fields">Bohemia, Moravia and Silesia occupy different fields</a></li>
     <li><a href="#the-moravian-eagle-has-a-contested-colour-history">The Moravian eagle has a contested colour history</a></li>
     <li><a href="#brno-a-painted-privilege-can-get-the-colours-wrong">Brno: a painted privilege can get the colours wrong</a></li>
     <li><a href="#a-regional-shield-is-a-negotiated-summary">A regional shield is a negotiated summary</a></li>
     <li><a href="#czech-terminology-preserves-operations">Czech terminology preserves operations</a></li>
+    <li><a href="#research-laboratory">Research laboratory</a></li>
     <li><a href="#graduate-investigation-resolve-the-brno-disagreement">Graduate investigation: resolve the Brno disagreement</a></li>
+    <li><a href="#primary-institutional-record">Primary institutional record</a></li>
   </ol>
 </nav>
 
@@ -64,19 +64,6 @@ Comparative scholarship can study how the Czech process differs from Dutch civic
 | *udělení znaku* | grant/award of a coat of arms |
 
 A caution: *znak* has applications outside heraldry. A translator should read surrounding words before deciding whether 'coat of arms' is justified.
-
-## Research laboratory
-
-Use the [REKOS searchable registry](https://rekos.psp.cz/vyhledani-symbolu) to locate three municipalities whose symbols were entered or granted at different dates. Capture both the Czech description and its English translation. Distinguish the date of the original historic depiction, any formal decision, and the date the record appears online.
-
-**Graduate assignment:** Build a reproducible comparison of ten municipal symbols, testing whether an apparent preference for castles or agricultural devices is associated with historical urban status. Specify source completeness and what could falsify the proposed pattern. Do not assume the database's current membership is a complete enumeration of all historical Czech coats.
-
-## Primary institutional record
-
-1. [Poslanecká sněmovna, REKOS](https://www.rekos.psp.cz/) — parliamentary overview and administrative procedure.
-2. [REKOS, *Vyhledání symbolu*](https://rekos.psp.cz/vyhledani-symbolu) — searchable database.
-
-**Research frontier:** the Bohemian Crown lands, Moravian and Silesian armorial traditions, noble and urban heraldry before 1918, the interwar Czechoslovak state and differences within contemporary Slovakia.
 
 ## Bohemia, Moravia and Silesia occupy different fields
 
@@ -130,6 +117,12 @@ Brno's *šrafování* is hatching: a monochrome convention that encodes tincture
 
 For records in older German or Latin, retain the historical place name alongside the modern Czech name and the repository identifier. The multilingual record of these lands reflects changes in administration and readership. Translating a place name helps locate the object today. It does not determine which historical jurisdiction issued its charter.
 
+## Research laboratory
+
+Use the [REKOS searchable registry](https://rekos.psp.cz/vyhledani-symbolu) to locate three municipalities whose symbols were entered or granted at different dates. Capture both the Czech description and its English translation. Distinguish the date of the original historic depiction, any formal decision, and the date the record appears online.
+
+**Graduate assignment:** Build a reproducible comparison of ten municipal symbols, testing whether an apparent preference for castles or agricultural devices is associated with historical urban status. Specify source completeness and what could falsify the proposed pattern. Do not assume the database's current membership is a complete enumeration of all historical Czech coats.
+
 ## Graduate investigation: resolve the Brno disagreement
 
 Prepare a critical comparison of the 1646 augmentation as described by the city, the older divided coat and the modern statute. Begin with a three-column transcription table: verbal prescription, painted arrangement, and later documented use. Identify which cells can be filled from the municipal summary and which require the original charter, a seal or a dated municipal decision. Leave the unavailable cells open and list the document needed to fill each one.
@@ -137,6 +130,13 @@ Prepare a critical comparison of the 1646 augmentation as described by the city,
 Then make two annotated diagrams of the bands: one for the modern 1:2:2:2 construction and one for the reversed historical arrangement as reported by the municipal account. Label each diagram with its evidential status. An illustration reconstructed from a summary is a reconstruction, even if the summary comes from the city. It should not acquire the appearance of a facsimile through a persuasive old-fashioned font.
 
 Finally, write a short account explaining how an error could become established official usage. The strongest answer considers the authority of the charter, the circulation of its picture and later municipal decisions. It also explains why the present statute can prescribe a clear model without making every earlier object conform to it. Finish by comparing that process with the Moravian colour controversy: in one case a reported painter's reversal; in the other, competing claims about an augmentation and the body entitled to use it. Different mechanisms can produce superficially similar colour variation.
+
+## Primary institutional record
+
+1. [Poslanecká sněmovna, REKOS](https://www.rekos.psp.cz/) — parliamentary overview and administrative procedure.
+2. [REKOS, *Vyhledání symbolu*](https://rekos.psp.cz/vyhledani-symbolu) — searchable database.
+
+**Research frontier:** the Bohemian Crown lands, Moravian and Silesian armorial traditions, noble and urban heraldry before 1918, the interwar Czechoslovak state and differences within contemporary Slovakia.
 
 <aside class="editorial-notice" aria-label="Editorial note">
 <p><strong>Editorial status:</strong> Original English synthesis supported by linked sources. Scope and interpretive assumptions are explicit. Specialist and, where relevant, community review remain to be completed.</p>

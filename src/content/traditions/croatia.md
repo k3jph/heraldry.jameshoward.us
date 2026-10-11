@@ -17,15 +17,15 @@ level: "Advanced undergraduate / graduate"
     <li><a href="#the-law-changed-compare-2001-with-2013">The law changed: compare 2001 with 2013</a></li>
     <li><a href="#heraldry-and-flags-together">Heraldry and flags together</a></li>
     <li><a href="#croatian-to-english-research-vocabulary">Croatian-to-English research vocabulary</a></li>
-    <li><a href="#source-and-translation-workshops">Source and translation workshops</a></li>
-    <li><a href="#official-croatian-sources">Official Croatian sources</a></li>
     <li><a href="#twenty-five-squares-need-a-date-and-an-order">Twenty-five squares need a date and an order</a></li>
     <li><a href="#five-small-shields-form-an-unusual-crown">Five small shields form an unusual crown</a></li>
     <li><a href="#design-authorship-and-digital-processing-are-separate-credits">Design authorship and digital processing are separate credits</a></li>
     <li><a href="#state-and-municipal-arms-use-different-legal-categories">State and municipal arms use different legal categories</a></li>
     <li><a href="#zagreb-keeps-its-arms-while-adding-a-new-graphic-mark">Zagreb keeps its arms while adding a new graphic mark</a></li>
     <li><a href="#a-croatian-blazon-needs-more-than-a-colour-lookup">A Croatian blazon needs more than a colour lookup</a></li>
+    <li><a href="#source-and-translation-workshops">Source and translation workshops</a></li>
     <li><a href="#graduate-investigation-compare-a-coat-with-an-identity-system">Graduate investigation: compare a coat with an identity system</a></li>
+    <li><a href="#official-croatian-sources">Official Croatian sources</a></li>
   </ol>
 </nav>
 
@@ -83,20 +83,6 @@ The administrative decision also contemplates controlling use by private or corp
 | *odobrenje* | approval | Legal competence must be dated |
 | *grbovnica* | armorial diploma | A formal record following approval |
 | *upravni spor* | administrative lawsuit | Review of an official decision |
-
-## Source and translation workshops
-
-**Undergraduate exercise:** Read Article 10 of the [2001 law](https://narodne-novine.nn.hr/clanci/sluzbeni/2001_04_33_569.html) in Croatian. Distinguish between the *contents of a shield*, a *flag*, and an external ornament of an achievement. Show why a coat containing supporters is not necessarily an approved public-body coat under the text.
-
-**Document laboratory:** Read Articles 4–12 of the [1998 regulation](https://narodne-novine.nn.hr/clanci/sluzbeni/full/1998_07_94_1289.html) and map every actor: applicant municipality, archive, committee, ministerial decision-maker, and the resulting register/diploma. Annotate the sequence with the exact article numbers, distinguishing evidence gathering, advisory opinion and the administrative act.
-
-**Graduate assignment:** Translate the relevant clauses of Article 10 from both the 2001 law and the [2013 consolidated text](https://narodne-novine.nn.hr/clanci/sluzbeni/full/2013_02_19_323.html). Cite the 2012 amending act where it changed the wording. Write 1,500–2,000 words evaluating whether a town's historic seal, a proposed modern coat and a ministry-approved graphic are legally and historically the same kind of object.
-
-## Official Croatian sources
-
-1. [*Zakon o lokalnoj i područnoj (regionalnoj) samoupravi*, 2001](https://narodne-novine.nn.hr/clanci/sluzbeni/2001_04_33_569.html), particularly Article 10.
-2. [2013 consolidated act with the 2012 amendment notes](https://narodne-novine.nn.hr/clanci/sluzbeni/full/2013_02_19_323.html).
-3. [*Pravilnik o postupku davanja odobrenja grba i zastave*, 1998](https://narodne-novine.nn.hr/clanci/sluzbeni/full/1998_07_94_1289.html), especially Articles 2, 5, 6, 8, 11 and 12.
 
 ## Twenty-five squares need a date and an order
 
@@ -162,6 +148,14 @@ Descriptions also differ in purpose. A blazon identifies the armorial structure;
 
 For unfamiliar animals or historical names, retain the Croatian term beside the English explanation on first use. This makes subsequent consultation possible and exposes uncertainty honestly. A reader can check *kuna* against the original description much more effectively than reverse-engineering an English “beast” after the precise local term has been discarded.
 
+## Source and translation workshops
+
+**Undergraduate exercise:** Read Article 10 of the [2001 law](https://narodne-novine.nn.hr/clanci/sluzbeni/2001_04_33_569.html) in Croatian. Distinguish between the *contents of a shield*, a *flag*, and an external ornament of an achievement. Show why a coat containing supporters is not necessarily an approved public-body coat under the text.
+
+**Document laboratory:** Read Articles 4–12 of the [1998 regulation](https://narodne-novine.nn.hr/clanci/sluzbeni/full/1998_07_94_1289.html) and map every actor: applicant municipality, archive, committee, ministerial decision-maker, and the resulting register/diploma. Annotate the sequence with the exact article numbers, distinguishing evidence gathering, advisory opinion and the administrative act.
+
+**Graduate assignment:** Translate the relevant clauses of Article 10 from both the 2001 law and the [2013 consolidated text](https://narodne-novine.nn.hr/clanci/sluzbeni/full/2013_02_19_323.html). Cite the 2012 amending act where it changed the wording. Write 1,500–2,000 words evaluating whether a town's historic seal, a proposed modern coat and a ministry-approved graphic are legally and historically the same kind of object.
+
 ## Graduate investigation: compare a coat with an identity system
 
 Build a dated comparison of the Croatian state arms, one approved municipal coat and Zagreb's 2026 communications mark. Identify the bearer, governing instrument, essential image, external elements and reproduction rules for each. Include the artist or designer where the institutional record supplies a credit. Do not use a national model as evidence of a municipal authorization.
@@ -169,6 +163,12 @@ Build a dated comparison of the Croatian state arms, one approved municipal coat
 For Zagreb, diagram the relationship between the historical coat and the new open-outline mark. Identify which visible features are retained, which are simplified and which are introduced with wording. Then distinguish the city's explanation of the new design from any medieval interpretation. The comparison should explain continuity through adaptation with dates attached to both.
 
 Finish with an application note for a hypothetical educational exhibition. State which objects can be described from the verified records, which images require a permissions check and which statutory versions need updating before a legal-use claim is made. A complete answer combines formal visual analysis with the administrative history of the symbols. It does not need to pretend that one universal rule governs every shield in Croatia.
+
+## Official Croatian sources
+
+1. [*Zakon o lokalnoj i područnoj (regionalnoj) samoupravi*, 2001](https://narodne-novine.nn.hr/clanci/sluzbeni/2001_04_33_569.html), particularly Article 10.
+2. [2013 consolidated act with the 2012 amendment notes](https://narodne-novine.nn.hr/clanci/sluzbeni/full/2013_02_19_323.html).
+3. [*Pravilnik o postupku davanja odobrenja grba i zastave*, 1998](https://narodne-novine.nn.hr/clanci/sluzbeni/full/1998_07_94_1289.html), especially Articles 2, 5, 6, 8, 11 and 12.
 
 <aside class="editorial-notice" aria-label="Editorial note">
 <p><strong>Review note:</strong> These are source-led observations about Croatian civic arms in modern local-government law. They do not claim comprehensive treatment of medieval Dalmatian, Croatian–Hungarian, Venetian, Habsburg or Yugoslav heraldry. Later statutory amendments and Croatian-language specialist review remain to be researched.</p>

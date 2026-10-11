@@ -18,13 +18,13 @@ level: "Advanced undergraduate / graduate"
     <li><a href="#prempehs-wrapper-makes-the-stakes-visible">Prempeh’s wrapper makes the stakes visible</a></li>
     <li><a href="#a-proverb-is-not-a-serial-number">A proverb is not a serial number</a></li>
     <li><a href="#the-material-and-occasion-can-change">The material and occasion can change</a></li>
-    <li><a href="#a-workshop-in-attribution">A workshop in attribution</a></li>
     <li><a href="#compare-the-relationship-then-the-shape">Compare the relationship, then the shape</a></li>
     <li><a href="#the-grid-is-a-second-level-of-design">The grid is a second level of design</a></li>
     <li><a href="#a-museum-commission-changes-the-purpose-of-a-wrapper">A museum commission changes the purpose of a wrapper</a></li>
     <li><a href="#a-yellow-cloth-demonstrates-another-arrangement">A yellow cloth demonstrates another arrangement</a></li>
     <li><a href="#the-imperial-history-runs-in-more-than-one-direction">The imperial history runs in more than one direction</a></li>
     <li><a href="#nsaa-across-a-stamp-weight-and-bag">Nsaa across a stamp, weight and bag</a></li>
+    <li><a href="#a-workshop-in-attribution">A workshop in attribution</a></li>
   </ol>
 </nav>
 
@@ -90,17 +90,6 @@ The occasion matters as much as the support. The same broad value may acquire a 
 
 For a modern design exercise, these distinctions are useful before a symbol is selected. A maker who wants to communicate a specific idea needs more than an appealing outline and a one-line internet definition. The research should establish the source of the proposed reading and how the design relates to the practice being referenced. That is basic explanatory work, not an optional decoration added to it.
 
-## A workshop in attribution
-
-You receive three invented records. The first is a museum photograph of a cloth with an accession number. The second is a modern icon sheet that assigns a one-word meaning to each sign. The third is a catalogue paragraph associating the cloth with a named ruler and event. Draft a caption and a research question.
-
-Your caption should identify which witness supplies the object’s institutional identity, which supplies the proposed historical association, and which supplies the modern gloss. Your research question should describe evidence that could connect a particular sign’s use with the documented occasion.
-
-<details class="research-answer"><summary>Discuss the evidence</summary>
-
-<p>The photograph supports observations about the visible arrangement. The catalogue supplies an attributed historical association. The icon sheet records a modern interpretation and needs its own source history. The caption should not present that sheet as testimony from the wearer. A useful research question might ask whether an account of the occasion, a contemporary explanation, or a contextual study connects the selected sign with the action attributed to the ruler.</p>
-</details>
-
 ## Compare the relationship, then the shape
 
 Set one documented adinkra cloth beside an armorial banner. Describe how each organizes signs on its surface, how each is displayed, and what evidence associates it with its user. Then explain the relationship between the design and the identity or idea it expresses.
@@ -162,6 +151,17 @@ The material also constrains what the form can do. A stamp needs a working face 
 For an advanced exercise, catalogue the three objects in parallel. Describe the recurring form, the medium, the object's primary operation and the evidence linking it to a maker or community. Then decide which comparison can be defended. “The form recurs across these documented media” is a narrower and stronger claim than “this is one family’s coat of arms.” The latter introduces an identity relationship that visual recurrence cannot supply.
 
 <details class="research-answer"><summary>What does the cross-media comparison establish?</summary><p>It establishes a documented recurrence and opens questions about circulation, recognition and material adaptation. The stamp, weight and bag do different practical work. A claim of exclusive hereditary identity would require evidence connecting the sign to that specific relationship. Neither shared shape nor shared museum location supplies it. Keep the demonstrated visual connection while investigating the social one.</p></details>
+
+## A workshop in attribution
+
+You receive three invented records. The first is a museum photograph of a cloth with an accession number. The second is a modern icon sheet that assigns a one-word meaning to each sign. The third is a catalogue paragraph associating the cloth with a named ruler and event. Draft a caption and a research question.
+
+Your caption should identify which witness supplies the object’s institutional identity, which supplies the proposed historical association, and which supplies the modern gloss. Your research question should describe evidence that could connect a particular sign’s use with the documented occasion.
+
+<details class="research-answer"><summary>Discuss the evidence</summary>
+
+<p>The photograph supports observations about the visible arrangement. The catalogue supplies an attributed historical association. The icon sheet records a modern interpretation and needs its own source history. The caption should not present that sheet as testimony from the wearer. A useful research question might ask whether an account of the occasion, a contemporary explanation, or a contextual study connects the selected sign with the action attributed to the ruler.</p>
+</details>
 
 [^meaning]: Smithsonian National Museum of African Art, [*Inscribing Meaning: Writing and Graphic Systems in African Art*](https://africa.si.edu/exhibitions/inscribing-meaning-writing-and-graphic-systems-africa-art).
 [^stamp]: Smithsonian, [adinkra stamp, 2010-10-388](https://africa.si.edu/collection/object/nmafa_2010-10-388).

@@ -16,9 +16,6 @@ level: "Advanced undergraduate / graduate"
     <li><a href="#a-distinctive-approval-route">A distinctive approval route</a></li>
     <li><a href="#why-the-law-talks-about-originals-and-copies">Why the law talks about originals and copies</a></li>
     <li><a href="#a-question-about-cultural-continuity">A question about cultural continuity</a></li>
-    <li><a href="#translation-workshop">Translation workshop</a></li>
-    <li><a href="#a-document-focused-exercise">A document-focused exercise</a></li>
-    <li><a href="#source-and-further-inquiry">Source and further inquiry</a></li>
     <li><a href="#vytis-is-a-mounted-knight-not-a-portrait-label">Vytis is a mounted knight, not a portrait label</a></li>
     <li><a href="#the-double-cross-has-a-history-inside-and-outside-the-shield">The double cross has a history inside and outside the shield</a></li>
     <li><a href="#the-columns-of-the-gediminids-belong-in-the-comparison">The Columns of the Gediminids belong in the comparison</a></li>
@@ -26,7 +23,10 @@ level: "Advanced undergraduate / graduate"
     <li><a href="#kaunas-an-aurochs-survives-several-jurisdictions">Kaunas: an aurochs survives several jurisdictions</a></li>
     <li><a href="#kaunass-great-achievement-uses-a-ship-as-a-supporter">Kaunas’s great achievement uses a ship as a supporter</a></li>
     <li><a href="#vilnius-carries-a-sacred-narrative-into-civic-arms">Vilnius carries a sacred narrative into civic arms</a></li>
+    <li><a href="#a-document-focused-exercise">A document-focused exercise</a></li>
+    <li><a href="#translation-workshop">Translation workshop</a></li>
     <li><a href="#graduate-workshop-separate-historical-identity-from-a-graphic-standard">Graduate workshop: separate historical identity from a graphic standard</a></li>
+    <li><a href="#source-and-further-inquiry">Source and further inquiry</a></li>
   </ol>
 </nav>
 
@@ -61,33 +61,6 @@ Lithuanian heraldic history extends well beyond contemporary legislation. A comp
 The modern legal text is a strong primary source for institutional structure; it is not a substitute for medieval seals, manuscripts or scholarship concerning the Grand Duchy. Historians should avoid the inverse mistake of treating every modern municipal coat as a simple survival from a fifteenth-century emblem. Continuities must be demonstrated through dated witnesses.
 
 In the [Poland–Lithuania chapter](/traditions/poland-lithuania/) we examine the 1413 Union of Horodło and the adoption of Lithuanian noble families into shared heraldic groupings. Here the emphasis is on a contemporary Lithuanian state mechanism. The two topics belong in dialogue but should not be collapsed into a single story of one unified, unchanging legal system.
-
-## Translation workshop
-
-| Lithuanian | Working English | Critical distinction |
-|---|---|---|
-| *herbas* | coat of arms | May concern official state or local arms |
-| *Lietuvos heraldikos komisija* | Lithuanian Heraldry Commission | Specialist state institution |
-| *etalonas* | standard / official model | More than an informal drawing |
-| *savivaldybė* | municipality | Legal public body |
-| *tvirtinti* | approve / confirm | Identify which authority has this power |
-| *Respublikos Prezidentas* | President of the Republic | Not a hereditary armorial sovereign |
-| *herbinis ženklas* | heraldic sign | Not always a coat of arms itself |
-
-A student translating *etalonas* simply as 'picture' may erase the legal significance of an approved standard. Translating every approval as a grant of hereditary arms would create a much larger error.
-
-## A document-focused exercise
-
-Read the [official Lithuanian legal text](https://e-tar.lt/rs/actualedition/TAR.55B9E4E382B3/KccWpcqpst/), focusing on Articles 9 and 10. Write a diagram of the Lithuanian Heraldry Commission's role, the President's decision and the custody of official graphical standards. Keep the Lithuanian terminology visible alongside your English account.
-
-Next, identify one real municipal coat of arms with a presidential approval record and a dated iconographic source. Explain what each document proves and which questions about the medieval history of the emblem still remain unanswered. Do not invent a specific municipality's approval if the register cannot be verified.
-
-**Graduate assignment:** Write an institutional comparison of Lithuania, Latvia and Finland. Your method should separate **registration**, **approval of an official standard**, **expert advice** and **the local legislative authority** that uses a symbol. Include the version dates of all three laws and explain why the distinction is important to archives and digital reproductions.
-
-## Source and further inquiry
-
-1. [Lietuvos Respublika, consolidated legislation via e-TAR](https://e-tar.lt/rs/actualedition/TAR.55B9E4E382B3/KccWpcqpst/) — original Lithuanian text, especially Articles 9–10.
-2. [Lithuanian parliamentary legislative database](https://e-seimas.lrs.lt/) — further statutory context and original amendments.
 
 ## Vytis is a mounted knight, not a portrait label
 
@@ -159,6 +132,28 @@ The city’s use should be distinguished from a church’s depiction of the same
 
 This provides an effective comparison with Kaunas’s cross-bearing aurochs and Galicia’s chalice. Each civic or territorial emblem uses religiously associated content in a particular composition. There is no need to turn that comparison into a claim that all three bearers have the same ecclesiastical status. Identify the institution first, then explain the adopted motif in its local history.
 
+## A document-focused exercise
+
+Read the [official Lithuanian legal text](https://e-tar.lt/rs/actualedition/TAR.55B9E4E382B3/KccWpcqpst/), focusing on Articles 9 and 10. Write a diagram of the Lithuanian Heraldry Commission's role, the President's decision and the custody of official graphical standards. Keep the Lithuanian terminology visible alongside your English account.
+
+Next, identify one real municipal coat of arms with a presidential approval record and a dated iconographic source. Explain what each document proves and which questions about the medieval history of the emblem still remain unanswered. Do not invent a specific municipality's approval if the register cannot be verified.
+
+**Graduate assignment:** Write an institutional comparison of Lithuania, Latvia and Finland. Your method should separate **registration**, **approval of an official standard**, **expert advice** and **the local legislative authority** that uses a symbol. Include the version dates of all three laws and explain why the distinction is important to archives and digital reproductions.
+
+## Translation workshop
+
+| Lithuanian | Working English | Critical distinction |
+|---|---|---|
+| *herbas* | coat of arms | May concern official state or local arms |
+| *Lietuvos heraldikos komisija* | Lithuanian Heraldry Commission | Specialist state institution |
+| *etalonas* | standard / official model | More than an informal drawing |
+| *savivaldybė* | municipality | Legal public body |
+| *tvirtinti* | approve / confirm | Identify which authority has this power |
+| *Respublikos Prezidentas* | President of the Republic | Not a hereditary armorial sovereign |
+| *herbinis ženklas* | heraldic sign | Not always a coat of arms itself |
+
+A student translating *etalonas* simply as 'picture' may erase the legal significance of an approved standard. Translating every approval as a grant of hereditary arms would create a much larger error.
+
 ## Graduate workshop: separate historical identity from a graphic standard
 
 Compare the 1990 and 1991 Vytis standards with one Kaunas civic model and the current Vilnius composition. Create a table recording bearer, adoption date, principal charge, internal attributes, external elements and the particular graphic witness used. Include a note where an English translation conflicts with the native text.
@@ -166,6 +161,11 @@ Compare the 1990 and 1991 Vytis standards with one Kaunas civic model and the cu
 Then write an argument about continuity. Which features support identification of the emblem across changing models? Which alterations belong to a dated official presentation? Which changes would make the design something else? A strong answer will need both structural analysis and an institutional history.
 
 <details class="research-answer"><summary>What should the argument preserve?</summary><p>Vytis remains a historically identified mounted-knight emblem while particular standards have dates, colours and forms. Kaunas city arms must be distinguished from a guberniya achievement used in the city. Vilnius’s sacred figure represents a civic bearer. The corrected English synthesis uses the original descriptions and models to preserve those relationships, rather than allowing mistranslated nouns to invent new charges.</p></details>
+
+## Source and further inquiry
+
+1. [Lietuvos Respublika, consolidated legislation via e-TAR](https://e-tar.lt/rs/actualedition/TAR.55B9E4E382B3/KccWpcqpst/) — original Lithuanian text, especially Articles 9–10.
+2. [Lithuanian parliamentary legislative database](https://e-seimas.lrs.lt/) — further statutory context and original amendments.
 
 <aside class="editorial-notice" aria-label="Editorial note">
 <p><strong>Status:</strong> Original research introduction based on official legislative material. It does not claim to be a specialist critical history of Lithuanian medieval armory. Primary artifact cataloguing and Lithuanian-language scholarly review remain future tasks.</p>

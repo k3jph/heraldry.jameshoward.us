@@ -66,7 +66,7 @@ PM&C’s use guidance identifies the arms with Commonwealth authority and owners
 
 Image access, copyright and emblem-use restrictions also need separate treatment. A downloadable file can be technically accessible while its use as an identifying mark remains governed by public-symbol rules. A scholar citing or analyzing a device and a business presenting it as its own official identity raise different questions.
 
-Private and corporate Australian armory deserves further research through particular grants, assumptions and institutional records. This chapter does not infer an exclusive national grant system or one universal rule for every private bearer from the Commonwealth public-symbol guidance. Public arms provide a defined starting corpus with unusually clear primary records.
+The personal and corporate records discussed below extend the inquiry beyond public arms. Their particular instruments establish different acts and bearers; the Commonwealth’s public-symbol guidance cannot determine every private armorial relationship.
 
 ## New South Wales has arms beyond its federal compartment
 

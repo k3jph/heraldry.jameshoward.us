@@ -17,15 +17,15 @@ level: "Advanced undergraduate / graduate"
     <li><a href="#1634-the-arany-charter-and-its-later-illustration">1634: The Arany charter and its later illustration</a></li>
     <li><a href="#the-arany-familys-thirty-seven-year-legal-dispute">The Arany family&#x27;s thirty-seven-year legal dispute</a></li>
     <li><a href="#source-language-and-historical-jurisdiction">Source language and historical jurisdiction</a></li>
-    <li><a href="#undergraduate-and-graduate-laboratories">Undergraduate and graduate laboratories</a></li>
-    <li><a href="#original-language-institutional-and-archival-sources">Original-language institutional and archival sources</a></li>
     <li><a href="#the-national-shield-combines-signs-with-separate-histories">The national shield combines signs with separate histories</a></li>
     <li><a href="#the-illuminated-chronicle-is-a-medieval-interpretation">The Illuminated Chronicle is a medieval interpretation</a></li>
     <li><a href="#the-1031-mantle-belongs-to-a-different-visual-system">The 1031 mantle belongs to a different visual system</a></li>
     <li><a href="#a-crown-can-represent-statehood-in-a-republic">A crown can represent statehood in a republic</a></li>
     <li><a href="#an-armorial-letter-combines-a-grant-with-a-material-object">An armorial letter combines a grant with a material object</a></li>
     <li><a href="#augmentation-explains-one-act-rather-than-every-raven">Augmentation explains one act rather than every raven</a></li>
+    <li><a href="#undergraduate-and-graduate-laboratories">Undergraduate and graduate laboratories</a></li>
     <li><a href="#graduate-investigation-construct-a-four-witness-dossier">Graduate investigation: construct a four-witness dossier</a></li>
+    <li><a href="#original-language-institutional-and-archival-sources">Original-language institutional and archival sources</a></li>
   </ol>
 </nav>
 
@@ -84,21 +84,6 @@ The Arany materials are particularly poignant because of their association with 
 | *DL / DF / R 64* | archival series identifiers | Keep unmodified when citing records |
 
 Hungarian charter descriptions often have an underlying Latin witness, and a modern archive's Hungarian prose may itself summarize or translate that Latin. A translator must identify which language and document is being translated, especially when the web article embeds a quotation from a modern Hungarian translation of an original Latin grant.
-
-## Undergraduate and graduate laboratories
-
-**Visual exercise:** Draw the two halves of the Hunyadi story as separate shields, first the raven-and-ring device and then the 1453 quartered augmentation. Describe exactly what can be attributed to the 1453 charter. Do not substitute a generic stock raven or lion as though it were the documented manuscript artwork.
-
-**Source criticism:** Create parallel columns for the Arany original Latin text, the later painted rendering, and the National Archives' modern interpretation. Record whether the crest, helm type and charged arm are described or depicted in each layer. Note any missing information rather than filling gaps with a pleasing conjecture.
-
-**Graduate assignment:** Write a 2,500-word study comparing an armorial *grant event* with a disputed *entitlement claim* in Hungary and Transylvania. Use the 1453 Hunyadi and 1634 Arany cases. Include their exact archival identifiers, discuss the material condition of the witnesses, and compare what is proved by a royal/princely instrument with what is required to prove descent. Assess how modern archival essays mediate the original Latin and Hungarian evidence.
-
-## Original-language institutional and archival sources
-
-1. [Magyar Nemzeti Levéltár, *Az MNL címereslevelei*](https://aol.mnl.gov.hu/adatbazis/cimereslevel-adatbazis/informacio) — national database and collection history.
-2. [National Archives, *Hunyadi János címerbővítése*](https://mnl.gov.hu/mnl/ol/hirek/hunyadi_janos_cimerbovitese) — original charter **DL 24762** and its modern commentary.
-3. [National Archives, Arany armorial charter and proceedings](https://mnl.gov.hu/mnl/ol/hirek/zart_sisakon_s_pajzson_kezbe_kivont_kardu/nagyfalusi_arany_szalontai_hajdu) — original **R 64, item 1, no. 325** and historical lawsuit.
-4. [National Archives, the 1453 Hunyadi grant's royal legal context](https://mnl.gov.hu/bal_menusor/hasznalat/nap_tippje_/_dokumentuma/v_laszlo_kiraly_hunyadi_janost_orokos_besztercei_groffa_teszi_es_cimeret_kiboviti.html).
 
 ## The national shield combines signs with separate histories
 
@@ -170,6 +155,14 @@ The augmentation also requires attention to continuity. The raven and ring remai
 
 For a later object bearing the augmented arms, the date of the object and the date of the grant remain separate. A nineteenth-century print can faithfully represent a fifteenth-century augmentation. It is a later witness to that form, however, and its artistry or annotations may reflect its own period. Citation should make clear whether the reader is viewing the original charter, an archival photograph or a subsequent rendering.
 
+## Undergraduate and graduate laboratories
+
+**Visual exercise:** Draw the two halves of the Hunyadi story as separate shields, first the raven-and-ring device and then the 1453 quartered augmentation. Describe exactly what can be attributed to the 1453 charter. Do not substitute a generic stock raven or lion as though it were the documented manuscript artwork.
+
+**Source criticism:** Create parallel columns for the Arany original Latin text, the later painted rendering, and the National Archives' modern interpretation. Record whether the crest, helm type and charged arm are described or depicted in each layer. Note any missing information rather than filling gaps with a pleasing conjecture.
+
+**Graduate assignment:** Write a 2,500-word study comparing an armorial *grant event* with a disputed *entitlement claim* in Hungary and Transylvania. Use the 1453 Hunyadi and 1634 Arany cases. Include their exact archival identifiers, discuss the material condition of the witnesses, and compare what is proved by a royal/princely instrument with what is required to prove descent. Assess how modern archival essays mediate the original Latin and Hungarian evidence.
+
 ## Graduate investigation: construct a four-witness dossier
 
 Use four witnesses: Hunyadi's grant, the Arany charter and litigation account, a selected image from the Illuminated Chronicle, and the dated parliamentary state-symbol description. For each, identify bearer, date of act, date of surviving object, type of authority and the armorial features actually described or shown. A cell for “not established by this source” is part of the work, because these witnesses answer different questions.
@@ -177,6 +170,13 @@ Use four witnesses: Hunyadi's grant, the Arany charter and litigation account, a
 Write two connected arguments. The first should explain how heraldry communicates public continuity through the national shield and the chronicle's retrospective images. The second should explain how a particular person or family establishes an armorial claim through a charter and descent evidence. Use the crown and the Arany litigation as cases where a familiar image is insufficient to settle the wider historical issue.
 
 Finish with a caption for the 1031 mantle that identifies its patronage and later function without calling it an eleventh-century version of the present arms. This final step tests whether the comparative vocabulary has become too broad. A strong researcher can recognize an important identity-bearing object and still explain why it belongs to a different visual system.
+
+## Original-language institutional and archival sources
+
+1. [Magyar Nemzeti Levéltár, *Az MNL címereslevelei*](https://aol.mnl.gov.hu/adatbazis/cimereslevel-adatbazis/informacio) — national database and collection history.
+2. [National Archives, *Hunyadi János címerbővítése*](https://mnl.gov.hu/mnl/ol/hirek/hunyadi_janos_cimerbovitese) — original charter **DL 24762** and its modern commentary.
+3. [National Archives, Arany armorial charter and proceedings](https://mnl.gov.hu/mnl/ol/hirek/zart_sisakon_s_pajzson_kezbe_kivont_kardu/nagyfalusi_arany_szalontai_hajdu) — original **R 64, item 1, no. 325** and historical lawsuit.
+4. [National Archives, the 1453 Hunyadi grant's royal legal context](https://mnl.gov.hu/bal_menusor/hasznalat/nap_tippje_/_dokumentuma/v_laszlo_kiraly_hunyadi_janost_orokos_besztercei_groffa_teszi_es_cimeret_kiboviti.html).
 
 <aside class="editorial-notice" aria-label="Editorial note">
 <p><strong>Editorial status:</strong> Original English source-led synthesis of two genuine charter records, neither a complete critical edition nor a specialist-reviewed translation. The modern archival essays are interpretations about original objects; the original Latin charter texts remain distinct witnesses. Image reproduction rights have not been cleared for the site.</p>

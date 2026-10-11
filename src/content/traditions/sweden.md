@@ -17,7 +17,6 @@ level: "Advanced undergraduate / graduate"
     <li><a href="#official-design-as-a-public-language">Official design as a public language</a></li>
     <li><a href="#a-swedish-to-english-working-list">A Swedish-to-English working list</a></li>
     <li><a href="#from-search-result-to-analysis">From search result to analysis</a></li>
-    <li><a href="#institutional-sources">Institutional sources</a></li>
     <li><a href="#three-crowns-are-a-count-and-an-arrangement">Three crowns are a count and an arrangement</a></li>
     <li><a href="#greater-arms-combine-state-and-dynastic-references">Greater arms combine state and dynastic references</a></li>
     <li><a href="#a-royal-flag-joins-an-emblem-with-a-ceremonial-signal">A royal flag joins an emblem with a ceremonial signal</a></li>
@@ -27,6 +26,7 @@ level: "Advanced undergraduate / graduate"
     <li><a href="#noble-armory-has-its-own-publication-and-material-histories">Noble armory has its own publication and material histories</a></li>
     <li><a href="#private-registration-performs-another-institutional-job">Private registration performs another institutional job</a></li>
     <li><a href="#workshop-identify-the-specification-and-the-bearer">Workshop: identify the specification and the bearer</a></li>
+    <li><a href="#institutional-sources">Institutional sources</a></li>
   </ol>
 </nav>
 
@@ -75,13 +75,6 @@ Pick two municipalities from different Swedish provinces in the [official regist
 Translate the blazons into idiomatic English while retaining their original Swedish forms in parallel. Write a commentary identifying words that cannot be translated mechanically. Distinguish changes in the artistic depiction from changes in the specified armorial device.
 
 **Graduate assignment:** Propose a comparison of changes in Swedish municipal heraldry following municipal reorganizations. Before counting motifs, specify a dating criterion, how you will handle mergers and successor authorities, the distinction between a regional and municipal register, and limitations of digitized imagery.
-
-## Institutional sources
-
-1. [Riksarkivet, *Heraldik och statssymboler*](https://riksarkivet.se/arkivera-och-forvalta/heraldik-och-statssymboler).
-2. [Riksarkivet, *Heraldiskt register*](https://sok.riksarkivet.se/heraldisktregister/).
-
-**Research frontier:** family and noble arms, historical manuscript witnesses, Nordic comparisons, and contested historical reuse demand separate units. A state-symbol portal is the beginning of Swedish heraldry, not its entirety.
 
 ## Three crowns are a count and an arrangement
 
@@ -168,6 +161,13 @@ The register’s defined scope also makes comparison clearer. Public authority, 
 Compare the lesser arms, Stockholm’s logo, the county composition, and one located private-arm entry. For each, identify the bearer, the specified components, and the source controlling the particular drawing or description. Explain one permitted artistic variation and one change that would affect the identity. The exercise makes “arms versus logo” a question about actual specifications and uses.
 
 For graduate work, choose a bounded public or familial corpus and follow one identifying form across at least two material witnesses. Explain its historical transmission, the institutional relationship, and any substantive alteration. A developed account should show the form doing work in Swedish society, with the register providing the route into that evidence.
+
+## Institutional sources
+
+1. [Riksarkivet, *Heraldik och statssymboler*](https://riksarkivet.se/arkivera-och-forvalta/heraldik-och-statssymboler).
+2. [Riksarkivet, *Heraldiskt register*](https://sok.riksarkivet.se/heraldisktregister/).
+
+**Further research:** collate the Riddarhuset records with particular family objects and manuscript witnesses, and investigate disputed historical reuse through dated evidence. The public, noble and private records discussed here supply starting corpora for those inquiries.
 
 <aside class="editorial-notice" aria-label="Editorial note">
 <p><strong>Editorial status:</strong> Original English research synthesis, grounded in the linked institutional sources. Not a full translation of those sources, not legal advice, and awaiting specialist review.</p>

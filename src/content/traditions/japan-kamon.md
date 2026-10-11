@@ -16,8 +16,6 @@ level: "Advanced undergraduate / graduate"
     <li><a href="#the-historian-needs-both-iconography-and-social-context">The historian needs both iconography and social context</a></li>
     <li><a href="#reading-visual-categories-without-importing-english-grammar">Reading visual categories without importing English grammar</a></li>
     <li><a href="#source-criticism-in-japanese">Source criticism in Japanese</a></li>
-    <li><a href="#a-responsible-comparative-laboratory">A responsible comparative laboratory</a></li>
-    <li><a href="#japanese-primary-language-research-gateways">Japanese primary-language research gateways</a></li>
     <li><a href="#a-mon-has-a-form-a-bearer-and-a-setting">A mon has a form, a bearer, and a setting</a></li>
     <li><a href="#the-useful-history-is-a-history-of-practices">The useful history is a history of practices</a></li>
     <li><a href="#nobori-a-banner-is-a-support-before-it-is-a-symbol">Nobori: a banner is a support before it is a symbol</a></li>
@@ -25,8 +23,10 @@ level: "Advanced undergraduate / graduate"
     <li><a href="#helmet-ornaments-sacred-names-and-the-limits-of-crest">Helmet ornaments, sacred names, and the limits of crest</a></li>
     <li><a href="#a-sword-guard-with-several-mon-changes-the-question">A sword guard with several mon changes the question</a></li>
     <li><a href="#describing-a-mon-precisely-enough-to-compare-it">Describing a mon precisely enough to compare it</a></li>
+    <li><a href="#a-responsible-comparative-laboratory">A responsible comparative laboratory</a></li>
     <li><a href="#workshop-build-an-argument-from-four-different-objects">Workshop: build an argument from four different objects</a></li>
     <li><a href="#graduate-inquiry-follow-a-device-across-media">Graduate inquiry: follow a device across media</a></li>
+    <li><a href="#japanese-primary-language-research-gateways">Japanese primary-language research gateways</a></li>
   </ol>
 </nav>
 
@@ -67,19 +67,6 @@ The same applies to European legal claims. Japanese family emblems do not derive
 | 武家 | *buke* | warrior houses/classes (context dependent) |
 
 Longer translations should retain original characters and explain variant readings. A transliteration is not evidence of a particular historical interpretation.
-
-## A responsible comparative laboratory
-
-Begin with the [National Diet Library research guide](https://ndlsearch.ndl.go.jp/rnavi/humanities/post_1127). Identify a reference work on the history of kamon and another organized by motif. Note author, edition, year, publisher, National Diet Library call number and available access. Then describe one motif *without* borrowing French or English blazon grammar. What can you learn from the shape alone? What claims about family, period or ownership require a dated artifact or document?
-
-**Graduate assignment:** Select two documented kamon from distinct material contexts. Compare their use of reduction, symmetry and abstraction with two European armorial charges **without declaring the systems equivalent**. Include a paragraph on what evidence would be needed to test diffusion or independent development, and another on the ethical limits of reproducing religious, lineage or institutional emblems.
-
-## Japanese primary-language research gateways
-
-1. [National Diet Library, *家紋・紋章を調べる（日本）*](https://ndlsearch.ndl.go.jp/rnavi/humanities/post_1127) — scholarly finding aid with bibliographies and search strategies.
-2. [National Diet Library catalogue, *家紋の由来*](https://ndlsearch.ndl.go.jp/books/R100000039-I780553) — catalogued early Japanese-language work from 1910, with digital access details.
-
-**Research frontier:** access and transcribe actual Japanese historical witnesses, evaluate literature written in Japanese, and consult specialists rather than projecting European concepts onto local art and customs.
 
 ## A mon has a form, a bearer, and a setting
 
@@ -151,6 +138,12 @@ Formal comparison can then operate on a stated set of features. Take two invente
 
 The same discipline prevents an attractive monochrome drawing from becoming an imaginary national rule. A particular mon may be represented in contrasting tones while a particular textile carries other colours around it. Record the device and its realization separately. If a source specifies a historically meaningful colour, retain it; if it identifies only a motif, do not manufacture a fixed palette from the photograph. The unit being compared has to remain consistent from one witness to another.
 
+## A responsible comparative laboratory
+
+Begin with the [National Diet Library research guide](https://ndlsearch.ndl.go.jp/rnavi/humanities/post_1127). Identify a reference work on the history of kamon and another organized by motif. Note author, edition, year, publisher, National Diet Library call number and available access. Then describe one motif *without* borrowing French or English blazon grammar. What can you learn from the shape alone? What claims about family, period or ownership require a dated artifact or document?
+
+**Graduate assignment:** Select two documented kamon from distinct material contexts. Compare their use of reduction, symmetry and abstraction with two European armorial charges **without declaring the systems equivalent**. Include a paragraph on what evidence would be needed to test diffusion or independent development, and another on the ethical limits of reproducing religious, lineage or institutional emblems.
+
 ## Workshop: build an argument from four different objects
 
 Use the 1827 nobori, Hiroshige’s festival print, the sashimono record, and the multiple-crest sword guard. For each, identify the visible or catalogued form, the physical support, the proposed bearer or association, and the kind of use actually evidenced. Then write a connected explanation of why the four cannot be reduced to one column headed “family arms.” The task is to explain their relationships rather than to dismiss the comparison.
@@ -166,6 +159,13 @@ For a second exercise, imagine that a museum caption has translated every Japane
 Select one motif identified in a Japanese-language reference work and locate three dated witnesses in different media. Build a chronology that separates manufacture, first documented use, later ownership, and modern cataloguing. Analyze which formal features remain stable and which change with the support. Where a family association is claimed, identify the witness that supplies it; where several associations appear, explain the difference rather than choosing the most famous name.
 
 The resulting essay should make one bounded historical argument. It might explain a household’s documented use across several objects, a workshop’s handling of a motif class, or the role of a banner within a particular public occasion. Include the Japanese titles and terms needed to check the account, and discuss at least one competing explanation for the pattern you observe. A corpus this small cannot establish the whole history of kamon, but it can demonstrate how a serious history becomes possible.
+
+## Japanese primary-language research gateways
+
+1. [National Diet Library, *家紋・紋章を調べる（日本）*](https://ndlsearch.ndl.go.jp/rnavi/humanities/post_1127) — scholarly finding aid with bibliographies and search strategies.
+2. [National Diet Library catalogue, *家紋の由来*](https://ndlsearch.ndl.go.jp/books/R100000039-I780553) — catalogued early Japanese-language work from 1910, with digital access details.
+
+**Research frontier:** access and transcribe actual Japanese historical witnesses, evaluate literature written in Japanese, and consult specialists rather than projecting European concepts onto local art and customs.
 
 <aside class="editorial-notice" aria-label="Editorial note">
 <p><strong>Editorial status:</strong> Original English synthesis supported by linked sources. Scope and interpretive assumptions are explicit. Specialist and, where relevant, community review remain to be completed.</p>

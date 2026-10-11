@@ -16,8 +16,6 @@ level: "Advanced undergraduate / graduate"
     <li><a href="#a-particularly-instructive-political-episode-horodło-1413">A particularly instructive political episode: Horodło, 1413</a></li>
     <li><a href="#herbarze-are-indispensable-but-not-magical">Herbarze are indispensable, but not magical</a></li>
     <li><a href="#language-as-evidence">Language as evidence</a></li>
-    <li><a href="#graduate-workshop">Graduate workshop</a></li>
-    <li><a href="#principal-source-pathways">Principal source pathways</a></li>
     <li><a href="#begin-with-the-herb-then-identify-the-bearer">Begin with the herb, then identify the bearer</a></li>
     <li><a href="#leliwa-offers-a-compact-visual-case">Leliwa offers a compact visual case</a></li>
     <li><a href="#tarnóws-seal-connects-a-person-with-a-corporate-identity">Tarnów’s seal connects a person with a corporate identity</a></li>
@@ -26,7 +24,9 @@ level: "Advanced undergraduate / graduate"
     <li><a href="#medieval-naming-patterns-complicate-the-family-search">Medieval naming patterns complicate the family search</a></li>
     <li><a href="#długoszs-text-and-its-printed-edition-have-separate-dates">Długosz’s text and its printed edition have separate dates</a></li>
     <li><a href="#niesieckis-nineteenth-century-edition-is-a-layered-compilation">Niesiecki’s nineteenth-century edition is a layered compilation</a></li>
+    <li><a href="#graduate-workshop">Graduate workshop</a></li>
     <li><a href="#graduate-laboratory-build-an-armorial-affiliation-graph">Graduate laboratory: build an armorial affiliation graph</a></li>
+    <li><a href="#principal-source-pathways">Principal source pathways</a></li>
   </ol>
 </nav>
 
@@ -65,22 +65,6 @@ A controlled database must separate the *herb* as an armorial class from individ
 | *klejnot* | crest | Literally may mean ornament or jewel elsewhere |
 | *szlachta* | Polish nobility | Has its own social and political history |
 | *unia horodelska* | Union of Horodło | Multiple surviving acts, not a single shield |
-
-## Graduate workshop
-
-Choose one named *herb* listed in a historical *herbarz*, preferably with more than one family attributed to it. Build a relational diagram rather than a linear family tree. For each alleged bearer record the name string, location, document date, nature of evidence, coat designation, visual variant and bibliographic origin. How many nodes could genuinely be connected by documented descent, and how many are linked only by a shared armorial name?
-
-Now compare a discussion of the 1413 adoption in [Jerzy Grygiel's study](https://ruj.uj.edu.pl/entities/publication/297a94ba-7633-40bd-ba0a-38f28b493f17) with a document-focused study such as [Lilia Citko's analysis of the Horodło acts](https://crossroads.uwb.edu.pl/index.php/sw/article/view/1312). Identify where the historical claim rests on contemporary documents and where it depends on editorial reconstructions.
-
-**Graduate assignment:** Produce a prosopographic dataset of at least ten fifteenth-century names with original orthography, later standardized versions, coat-of-arms associations, and specific source citations. Discuss how a database created from family-name indexing can erase political acts of heraldic adoption.
-
-## Principal source pathways
-
-1. [Związek Szlachty Polskiej, *Herbarze*](https://szlachta.org/baza-wiedzy-o-szlachcie/zrodla/herbarze/) — Polish-language bibliography pointing to important historical compilations.
-2. [Grygiel, *Unia horodelska — 1413*, Jagiellonian University repository](https://ruj.uj.edu.pl/entities/publication/297a94ba-7633-40bd-ba0a-38f28b493f17).
-3. [Citko, *Akty Horodelskie z 1413 r.*, University of Białystok journal](https://crossroads.uwb.edu.pl/index.php/sw/article/view/1312).
-
-Lithuanian-language documentary scholarship, Ruthenian and Grand Ducal variants, and the full archival record are next priorities—not side-notes beneath a Polish genealogy.
 
 ## Begin with the herb, then identify the bearer
 
@@ -162,6 +146,14 @@ The illustrations require the same scrutiny. A coloured plate can be a nineteent
 
 Modern surname indexing adds a further layer. It can make the compilation searchable, but it can also detach a name from its qualifications or from a shared *herb* heading. Return to the full entry before turning an index hit into a claim. The search result supplies a location in the evidence, rather than the conclusion of the research.
 
+## Graduate workshop
+
+Choose one named *herb* listed in a historical *herbarz*, preferably with more than one family attributed to it. Build a relational diagram rather than a linear family tree. For each alleged bearer record the name string, location, document date, nature of evidence, coat designation, visual variant and bibliographic origin. How many nodes could genuinely be connected by documented descent, and how many are linked only by a shared armorial name?
+
+Now compare a discussion of the 1413 adoption in [Jerzy Grygiel's study](https://ruj.uj.edu.pl/entities/publication/297a94ba-7633-40bd-ba0a-38f28b493f17) with a document-focused study such as [Lilia Citko's analysis of the Horodło acts](https://crossroads.uwb.edu.pl/index.php/sw/article/view/1312). Identify where the historical claim rests on contemporary documents and where it depends on editorial reconstructions.
+
+**Graduate assignment:** Produce a prosopographic dataset of at least ten fifteenth-century names with original orthography, later standardized versions, coat-of-arms associations, and specific source citations. Discuss how a database created from family-name indexing can erase political acts of heraldic adoption.
+
 ## Graduate laboratory: build an armorial affiliation graph
 
 Choose one named coat and identify at least three documented people or family lines associated with it in a historical reference. Create separate records for the design, each bearer, each document and each proposed genealogical relationship. Label an adoption relationship differently from descent. The exercise’s purpose is to preserve the structure the sources actually support.
@@ -169,6 +161,14 @@ Choose one named coat and identify at least three documented people or family li
 Add one material witness, such as a seal or documented object. Record whether it identifies a person, corporate issuer, donor, or represented affiliation. Then add one origin legend as a narrative record with its own source and date. The legend should connect to the coat’s cultural history without becoming an invented birth certificate for its first bearer.
 
 <details class="research-answer"><summary>What should the graph make visible?</summary><p>A shared armorial identity can connect several lines through documented affiliation while their pedigrees remain separate. A seal can depict a founder’s arms yet function as a city’s authenticating object. A later edition can report older material while adding its own interpretation. Each relationship has a source and a type, so the database does not turn visual similarity or name matching into undocumented descent.</p></details>
+
+## Principal source pathways
+
+1. [Związek Szlachty Polskiej, *Herbarze*](https://szlachta.org/baza-wiedzy-o-szlachcie/zrodla/herbarze/) — Polish-language bibliography pointing to important historical compilations.
+2. [Grygiel, *Unia horodelska — 1413*, Jagiellonian University repository](https://ruj.uj.edu.pl/entities/publication/297a94ba-7633-40bd-ba0a-38f28b493f17).
+3. [Citko, *Akty Horodelskie z 1413 r.*, University of Białystok journal](https://crossroads.uwb.edu.pl/index.php/sw/article/view/1312).
+
+Lithuanian-language documentary scholarship, Ruthenian and Grand Ducal variants, and the full archival record are next priorities—not side-notes beneath a Polish genealogy.
 
 <aside class="editorial-notice" aria-label="Editorial note">
 <p><strong>Editorial status:</strong> Original English synthesis supported by linked sources. Scope and interpretive assumptions are explicit. Specialist and, where relevant, community review remain to be completed.</p>

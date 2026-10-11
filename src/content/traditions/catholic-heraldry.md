@@ -141,7 +141,7 @@ This case is also a useful guide to flags carrying more than one coat. A flag ca
 
 ## A vacancy uses different insignia from a pontificate
 
-The Vatican State's 2026 publication discusses vacancy coin imagery using the Camerlengo's arms with crossed keys and an umbraculum. It also identifies accompanying sacred imagery.[^cath-vacant-see-coin-2026] This is a dated representation of an interregnum context, not the personal coat of a reigning pope.
+The Vatican State's article of 4 February 2026 describes its 2025 vacancy coin issues, including the Camerlengo's arms with crossed keys and an umbraculum. It also identifies accompanying sacred imagery.[^cath-vacant-see-coin-2026] This is a dated representation of an interregnum context, not the personal coat of a reigning pope.
 
 The umbrella-like insignia should not be labelled a tiara or a mitre merely because it occupies a position above a shield. Its form and institutional use identify a different arrangement. The combination with keys can communicate an office operating in a particular circumstance. A reader must establish that circumstance before interpreting the achievement as papal.
 
@@ -202,6 +202,6 @@ A second route examines one corporate or State emblem across a legal revision. R
 
 [^cath-ut-sive]: Holy See — Acta Apostolicae Sedis, [Instructio circa vestes, titulos et insignia generis Cardinalium, Episcoporum et Praelatorum ordine minorum](https://www.vatican.va/archive/aas/documents/AAS-61-1969-ocr.pdf). Consulted 11 October 2026. Original English editorial synthesis; consult the linked record for close reading.
 
-[^cath-vacant-see-coin-2026]: Vatican City State, From the Heart of the State, issue 2/2026, [From the Heart of the State — Sede Vacante numismatic issue](https://www.vaticanstate.va/images/trimestrale/2026/2-2026-eng.pdf). Consulted 11 October 2026. Original English editorial synthesis; consult the linked record for close reading.
+[^cath-vacant-see-coin-2026]: Governorate of Vatican City State, 4 February 2026, [New numismatic issues, year 2025, of the Governorate of the Vatican City State](https://www.vaticanstate.va/en/component/content/article/new-numismatic-issues-year-2025-of-the-governorate-of-the-vatican-city-state.html?Itemid=216&catid=50). Consulted 11 October 2026. Original English editorial synthesis; consult the linked record for close reading.
 
 [^cath-vatican-law-2023]: Holy See, [Legge Fondamentale dello Stato della Città del Vaticano, 13 maggio 2023](https://www.vatican.va/content/francesco/it/motu_proprio/documents/20230513-legge-fond-scv.html). Consulted 11 October 2026. Original English editorial synthesis; consult the linked record for close reading.

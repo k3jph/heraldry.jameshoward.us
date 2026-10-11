@@ -11017,10 +11017,10 @@
     "id": "cath-vacant-see-coin-2026",
     "area": "Catholic heraldry",
     "language": "en",
-    "holding": "Vatican City State, From the Heart of the State, issue 2/2026",
-    "titleOriginal": "From the Heart of the State — Sede Vacante numismatic issue",
-    "titleEnglish": "Vatican State account of vacancy coin imagery",
-    "url": "https://www.vaticanstate.va/images/trimestrale/2026/2-2026-eng.pdf",
+    "holding": "Governorate of Vatican City State, 4 February 2026",
+    "titleOriginal": "New numismatic issues, year 2025, of the Governorate of the Vatican City State",
+    "titleEnglish": "2026 publication about the 2025 vacancy coin issues",
+    "url": "https://www.vaticanstate.va/en/component/content/article/new-numismatic-issues-year-2025-of-the-governorate-of-the-vatican-city-state.html?Itemid=216&catid=50",
     "kind": "official numismatic publication",
     "authority": "official institution",
     "englishSynopsis": "State publication discusses the Camerlengo’s arms with crossed keys and umbraculum in the interregnum numismatic context and accompanying sacred imagery. The dated issue records a particular vacancy representation; it should not be described as the personal arms of a reigning pope or as a universal episcopal form.",
@@ -13294,6 +13294,885 @@
       {
         "term": "sampaguita",
         "english": "plant named in the device’s interpretation"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "mamluk-qawsun-lamp",
+    "area": "Mamluk Egypt and Syria",
+    "language": "en",
+    "holding": "The Metropolitan Museum of Art, 17.190.991",
+    "titleOriginal": "Mosque Lamp of Amir Qawsun",
+    "titleEnglish": "Qawsun’s lamp and architectural patronage",
+    "url": "https://www.metmuseum.org/art/collection/search/447006",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Lamp dated around 1329–1335 bears Qawsun’s name and was probably intended for one of his Cairo foundations. The museum preserves a qualified maker attribution and distinguishes the possible architectural destinations.",
+    "glossary": [
+      {
+        "term": "patron",
+        "english": "Qawsun in the inscription"
+      },
+      {
+        "term": "foundation",
+        "english": "mosque or tomb-hospice setting proposed by the museum"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "mamluk-bowkeeper-lamp",
+    "area": "Mamluk Egypt and Syria",
+    "language": "en",
+    "holding": "The Metropolitan Museum of Art, 17.190.985",
+    "titleOriginal": "Mosque Lamp for the Mausoleum of Amir Aydakin al-‘Ala’i al-Bunduqdar",
+    "titleEnglish": "Bow-keeper’s emblem on a named mausoleum lamp",
+    "url": "https://www.metmuseum.org/art/collection/search/447000",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Lamp shortly after 1285 combines an inscription naming its mausoleum destination with two gold crossbows on a red shield. The account relates the motif to the patron’s court office as keeper of the bow.",
+    "glossary": [
+      {
+        "term": "bunduqdar",
+        "english": "keeper of the bow"
+      },
+      {
+        "term": "turba",
+        "english": "mausoleum identified through the inscription"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "mamluk-composite-dish",
+    "area": "Mamluk Egypt and Syria",
+    "language": "en",
+    "holding": "Ulrike Al-Khamis, National Museums of Scotland, A.1923.700; MWNF",
+    "titleOriginal": "Dish (National Museums Scotland, A.1923.700)",
+    "titleEnglish": "Late-Mamluk composite blazon on a copper dish",
+    "url": "https://islamicart.museumwnf.org/database_item.php?id=object%3BISL%3Buk%3BMus03%3B22%3Ben",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Curatorial record describes a napkin, cups, pen-case and horn-like elements arranged in fields. The type is associated with Qaytbay, officials and successors, supporting a qualified date range rather than identification of one exclusive bearer.",
+    "glossary": [
+      {
+        "term": "composite blazon",
+        "english": "device combining several figures"
+      },
+      {
+        "term": "pen-case",
+        "english": "figure placed on the central cup"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "mamluk-polo-pottery",
+    "area": "Mamluk Egypt and Syria",
+    "language": "en",
+    "holding": "Museum of Islamic Art, Cairo; Museum With No Frontiers ceramics catalogue",
+    "titleOriginal": "Bottom of a pottery vessel with polo-stick blazon",
+    "titleEnglish": "Polo-office motif on a surviving ceramic fragment",
+    "url": "https://ceramics.museumwnf.org/database-item/mwnf3/objects/ISL/eg/Mus01/19/en/",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Museum catalogue identifies two polo sticks on the bottom of a glazed vessel and connects the device with a court office. The surviving fragment preserves a motif without identifying an individual wearer or providing the complete original vessel.",
+    "glossary": [
+      {
+        "term": "al-Jokandar",
+        "english": "polo office in the catalogue terminology"
+      },
+      {
+        "term": "fragment",
+        "english": "surviving part of a larger pottery vessel"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "mamluk-glass-technique",
+    "area": "Mamluk Egypt and Syria",
+    "language": "en",
+    "holding": "Stefano Carboni and Qamar Adamjee, Metropolitan Museum of Art, October 2002",
+    "titleOriginal": "Enameled and Gilded Glass from Islamic Lands",
+    "titleEnglish": "Technical account of enameled and gilded glass",
+    "url": "https://www.metmuseum.org/it/essays/enameled-and-gilded-glass-from-islamic-lands",
+    "kind": "curatorial research essay",
+    "authority": "museum research",
+    "englishSynopsis": "Museum technical essay describes application and firing of gold and enamels and presents the combined-firing procedure as a historical hypothesis. Material technique explains the medium while preserving uncertainty about the original production sequence.",
+    "glossary": [
+      {
+        "term": "enamel",
+        "english": "powdered glass used in surface decoration"
+      },
+      {
+        "term": "firing",
+        "english": "heat process fixing the applied decoration"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ott-derman-tugra",
+    "area": "Ottoman world",
+    "language": "tr",
+    "holding": "M. Uğur Derman, TDV İslâm Ansiklopedisi, volume 41, 2012",
+    "titleOriginal": "TUĞRA (TDV İslâm Ansiklopedisi)",
+    "titleEnglish": "Turkish study of the tughra’s parts and development",
+    "url": "https://islamansiklopedisi.org.tr/tugra",
+    "kind": "scholarly reference article",
+    "authority": "institutional scholarship",
+    "englishSynopsis": "Scholarly entry names the calligraphic components, follows early Ottoman examples and later reform, and identifies the administrative practice of drawing the insignia. Original terms allow a more precise analysis than a generic monogram label.",
+    "glossary": [
+      {
+        "term": "sere",
+        "english": "lower name-bearing arrangement"
+      },
+      {
+        "term": "beyza",
+        "english": "paired loop"
+      },
+      {
+        "term": "tuğ",
+        "english": "vertical shaft"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ott-proteus-firman",
+    "area": "Ottoman world",
+    "language": "en",
+    "holding": "British Library, Or 11320",
+    "titleOriginal": "Ferman — Proteus passage to the Black Sea",
+    "titleEnglish": "Mahmud II decree concerning a British vessel",
+    "url": "https://searcharchives.bl.uk/catalog/032-003707875",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Catalogue identifies a decree to Istanbul customs and harbor authorities allowing the Proteus and its cargo to proceed to the Black Sea. Its black-ink tughra and AH 1234 date place the insignia within a named administrative transaction.",
+    "glossary": [
+      {
+        "term": "ferman",
+        "english": "decree named in the catalogue"
+      },
+      {
+        "term": "Proteus",
+        "english": "vessel identified in the document description"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ott-jewish-firman",
+    "area": "Ottoman world",
+    "language": "en",
+    "holding": "British Library, Or 11688",
+    "titleOriginal": "Firman for the Jewish community of Istanbul",
+    "titleEnglish": "Abdülmecit’s decree concerning religious protection",
+    "url": "https://searcharchives.bl.uk/?q=Or+11688&search_field=reference&sort=hierarchy",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Catalogue identifies a decree to Istanbul’s kadı concerning protection of the Jewish community and religious observance, bearing Abdülmecit’s tughra. It offers a different administrative subject without implying a transcription of the complete Ottoman text.",
+    "glossary": [
+      {
+        "term": "kadı",
+        "english": "official addressed in the catalogue account"
+      },
+      {
+        "term": "religious observance",
+        "english": "subject of the described decree"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ott-met-firman-fragment",
+    "area": "Ottoman world",
+    "language": "en",
+    "holding": "Metropolitan Museum of Art, educator resource, 38.149.1",
+    "titleOriginal": "Image 23 — Tughra of Sultan Süleyman",
+    "titleEnglish": "Tughra surviving from the head of a firman",
+    "url": "https://www.metmuseum.org/pt/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-five/chapter-two/featured-works-of-art/image-23",
+    "kind": "museum teaching record",
+    "authority": "official institution",
+    "englishSynopsis": "Teaching record states that this tughra formerly occupied the top of a long official document. Accession 38.149.1 is distinct from the chapter’s reproduced 38.149.2; the former’s object history must not silently be transferred to the latter.",
+    "glossary": [
+      {
+        "term": "firman",
+        "english": "long official decree"
+      },
+      {
+        "term": "fragment",
+        "english": "remaining portion of a larger document"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ott-akyavas-ferman",
+    "area": "Ottoman world",
+    "language": "en",
+    "holding": "The Metropolitan Museum of Art, 2017.236",
+    "titleOriginal": "Ferman — Erol Akyavas",
+    "titleEnglish": "Modern painting referring to a decree",
+    "url": "https://www.metmuseum.org/art/collection/search/749431",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Catalogue records the 1992 acrylic painting and artist, with reproduction rights retained by the estate. It supplies the object identity for a modern artistic reference to a historical document rather than another imperial issuance.",
+    "glossary": [
+      {
+        "term": "acrylic",
+        "english": "paint medium of the modern work"
+      },
+      {
+        "term": "Ferman",
+        "english": "title of the painting"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ott-modern-dialogues",
+    "area": "Ottoman world",
+    "language": "en",
+    "holding": "The Metropolitan Museum of Art, curatorial essay",
+    "titleOriginal": "Dialogues: Modern Artists and the Ottoman Past",
+    "titleEnglish": "Interpretation of modern artistic engagements with Ottoman documents",
+    "url": "https://www.metmuseum.org/pt/essays/modern-artists-ottoman-past",
+    "kind": "curatorial research essay",
+    "authority": "museum research",
+    "englishSynopsis": "Curatorial discussion places Akyavaş’s Ferman beside Ottoman document forms and identifies pseudo-calligraphic rather than continuously readable inscriptions. It supports comparison of historical authority and later artistic reference without supplying the painting an administrative function.",
+    "glossary": [
+      {
+        "term": "pseudo-calligraphy",
+        "english": "forms resembling writing without a continuous readable text"
+      },
+      {
+        "term": "homage",
+        "english": "later artistic relationship proposed in the essay"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "marks-vasa-direct",
+    "area": "European house and merchant marks",
+    "language": "sv",
+    "holding": "Vasamuseet",
+    "titleOriginal": "Bomärke",
+    "titleEnglish": "Museum explanation of house-mark use and variation",
+    "url": "https://www.vasamuseet.se/utforska/samlingar/foremal-i-fokus/bomarke",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Museum discusses marking possessions, signature use, inheritance through altered strokes and repeated marks in linked find contexts. Its account of reading orientation is a convention to examine in this material, not a universal rule for every linear emblem.",
+    "glossary": [
+      {
+        "term": "bomärke",
+        "english": "house mark in the museum’s terminology"
+      },
+      {
+        "term": "slutet fynd",
+        "english": "closed find context"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "marks-cloth-study",
+    "area": "European house and merchant marks",
+    "language": "en",
+    "holding": "Geoff Egan, with contributions recorded for Hero Granger Taylor and Mike Cowell, British Museum, 1994",
+    "titleOriginal": "Lead Cloth Seals and Related Items in the British Museum",
+    "titleEnglish": "Research catalogue of textile regulation marks",
+    "url": "https://britishmuseum.iro.bl.uk/entities/publication/529466d3-17aa-4e62-b6f9-41770ca4bb40",
+    "kind": "research catalogue abstract",
+    "authority": "museum research",
+    "englishSynopsis": "Publication abstract identifies lead seals as part of textile regulation and quality control, attached to individual cloths. It provides a functional comparison with ownership signs while the complete catalogue entries need their own consultation.",
+    "glossary": [
+      {
+        "term": "cloth seal",
+        "english": "lead attachment to a textile"
+      },
+      {
+        "term": "quality control",
+        "english": "regulatory function described by the abstract"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "marks-gdansk-cloth",
+    "area": "European house and merchant marks",
+    "language": "en",
+    "holding": "British Museum, 1992,0204.53",
+    "titleOriginal": "Cloth-seal — Gdańsk sailcloth",
+    "titleEnglish": "Sailcloth seal combining mark and civic arms",
+    "url": "https://www.britishmuseum.org/collection/object/H_1992-0204-53",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Catalogue describes a lead seal with a privy mark and crowned double-cross shield, identifies Gdańsk’s arms and proposes imported sailcloth. Its Thames findspot and production attribution concern different stages of the object’s history.",
+    "glossary": [
+      {
+        "term": "privy mark",
+        "english": "figure described separately from the arms"
+      },
+      {
+        "term": "sailcloth",
+        "english": "textile use proposed by the catalogue"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "marks-norwich-wardens",
+    "area": "European house and merchant marks",
+    "language": "en",
+    "holding": "British Museum, 1992,0204.14",
+    "titleOriginal": "Cloth-seal — Norwich Weavers’ Company",
+    "titleEnglish": "Dated seal with wardens’ initials",
+    "url": "https://www.britishmuseum.org/collection/object/H_1992-0204-14_1",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Lead cloth seal dated 1670 carries initials attributed through a Mayor’s Court Book entry to the Norwich company’s wardens. It demonstrates that grouped initials can identify a collective administrative relationship rather than one owner.",
+    "glossary": [
+      {
+        "term": "warden",
+        "english": "company office linked with the initials"
+      },
+      {
+        "term": "1670",
+        "english": "catalogue issue date supported by a civic record"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "marks-bodilsker-stone",
+    "area": "European house and merchant marks",
+    "language": "da",
+    "holding": "Nationalmuseet, Kai Uldall photograph, 1932",
+    "titleOriginal": "Bomærke på sten, Bodilsker",
+    "titleEnglish": "Photograph of a reused marked stone",
+    "url": "https://samlinger.natmus.dk/dnt/asset/22977",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Photograph records a marked stone from a church porch wall and preserves a qualified suggestion that it may formerly have been a gravestone. Its 1932 date belongs to the photographic witness, not necessarily to carving or reuse.",
+    "glossary": [
+      {
+        "term": "bomærke",
+        "english": "mark category in the record"
+      },
+      {
+        "term": "ligsten",
+        "english": "gravestone, a qualified proposed earlier use"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "jew-montefiore-testimonials",
+    "area": "Jewish personal and communal armory",
+    "language": "en",
+    "holding": "Montefiore Endowment",
+    "titleOriginal": "About the Montefiore Testimonials",
+    "titleEnglish": "Montefiore’s armorial distinction and testimonial collection",
+    "url": "https://www.montefioreendowment.org.uk/collections/testimonials/",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Custodian’s account connects Moses Montefiore’s supporters with his return from the 1840 mission and places his arms within a large testimonial collection. It is an institutional historical narrative, not a newly inspected original grant.",
+    "glossary": [
+      {
+        "term": "supporters",
+        "english": "armorial privilege described in the account"
+      },
+      {
+        "term": "testimonial",
+        "english": "tribute addressed to Montefiore"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "jew-montefiore-halberstadt",
+    "area": "Jewish personal and communal armory",
+    "language": "de",
+    "holding": "Montefiore Endowment, testimonial catalogue 02561",
+    "titleOriginal": "Halberstadt testimonial, 1884 — catalogue transcription",
+    "titleEnglish": "German and Hebrew tribute incorporating Montefiore arms",
+    "url": "https://www.montefioreendowment.org.uk/lcode/pdf/Testimonials/02561.pdf",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Catalogue describes a bound tribute from the Halberstadt Jewish community with Montefiore arms, motto and Hebrew Jerusalem references. The recorded dedication and lettering concern a commemorative object rather than another armorial grant.",
+    "glossary": [
+      {
+        "term": "Widmung",
+        "english": "dedication"
+      },
+      {
+        "term": "Geburtstags-Jubiläum",
+        "english": "birthday anniversary in the cover wording"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "jew-montefiore-drawn-stamps",
+    "area": "Jewish personal and communal armory",
+    "language": "en",
+    "holding": "Montefiore Endowment, testimonial catalogue 02499",
+    "titleOriginal": "Testimonial 02499 — descriptive record",
+    "titleEnglish": "Decorated tribute with drawn seal-like forms",
+    "url": "https://www.montefioreendowment.org.uk/lcode/pdf/Testimonials/02499.pdf",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Object description identifies a decorated paper tribute with Montefiore arms and two forms drawn rather than stamped. The distinction prevents visual imitation of a seal from being mistaken for a mechanical sealing act.",
+    "glossary": [
+      {
+        "term": "drawn stamp",
+        "english": "depicted form rather than a printed impression"
+      },
+      {
+        "term": "artist signature",
+        "english": "maker information identified separately"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "jew-bevis-seal",
+    "area": "Jewish personal and communal armory",
+    "language": "en",
+    "holding": "Jewish Museum London, Bevis Marks collection",
+    "titleOriginal": "Bevis Marks and the City: Integration and acceptance",
+    "titleEnglish": "Congregational seal with Hebrew inscription",
+    "url": "https://jewishmuseum.org.uk/collections/bevis-marks-synagogue/bevis-marks-and-the-city-integration-and-acceptance/",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Museum identifies a congregational seal dated 1800 with arms and a Hebrew inscription. It supplies a corporate religious example alongside family patents and guild textiles, without establishing a universal religious heraldic authority.",
+    "glossary": [
+      {
+        "term": "congregation",
+        "english": "corporate bearer named by the museum"
+      },
+      {
+        "term": "Hebrew inscription",
+        "english": "text associated with the seal"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "jew-benveniste-cast",
+    "area": "Jewish personal and communal armory",
+    "language": "en",
+    "holding": "The Jewish Museum, New York, 1996-78",
+    "titleOriginal": "Cast of Seal Impression of Benveniste ben Moshe Al-Gabirol",
+    "titleEnglish": "Painted plaster replica of a medieval seal impression",
+    "url": "https://collections.thejewishmuseum.org/collection/5008-seal-impression-replica-cast-of-seal-impression-of-benveniste-ben-moshe-al-gabirol",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Catalogue explicitly identifies a painted plaster cast from an original dated to the late fourteenth or fifteenth century in Spain. The modern replica and historical source have separate dates, materials and evidential roles.",
+    "glossary": [
+      {
+        "term": "replica",
+        "english": "surviving museum object’s category"
+      },
+      {
+        "term": "seal impression",
+        "english": "historical source of the cast"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "jew-geniza-stamp",
+    "area": "Jewish personal and communal armory",
+    "language": "en",
+    "holding": "Princeton Geniza Project, document 12425, ENA NS I.48",
+    "titleOriginal": "Letter — ENA NS I.48",
+    "titleEnglish": "Letter with a Hebrew signature stamp",
+    "url": "https://geniza.princeton.edu/en/documents/12425/",
+    "kind": "scholarly document record",
+    "authority": "manuscript research project",
+    "englishSynopsis": "Scholarly document record describes a letter by Yom Tov Qashtiel and a Hebrew ink stamp bearing the sender’s name. Its proposed family relationship is qualified, allowing identification and interpretation to be kept separate.",
+    "glossary": [
+      {
+        "term": "signature stamp",
+        "english": "name-bearing impression on the letter"
+      },
+      {
+        "term": "verso",
+        "english": "addressed reverse surface in the record"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "socialist-ddr-law",
+    "area": "Socialist state emblems",
+    "language": "de",
+    "holding": "Gesetzblatt der DDR, Teil I, 1955, p. 705; digitized transcription",
+    "titleOriginal": "Gesetz über das Staatswappen und die Staatsflagge der Deutschen Demokratischen Republik",
+    "titleEnglish": "Law on the state arms and flag of the GDR",
+    "url": "https://www.gvoon.de/gesetzblatt-gbl-ddr-teil-1-1955/seite-705-299936.html",
+    "kind": "historical legislation",
+    "authority": "historical state instrument",
+    "englishSynopsis": "The published 1955 enactment describes the central instruments, agricultural surround and national-color ribbon. It also specifies a presidential standard and makes attached models binding, providing a textual and graphic instrument for comparison with manufactured objects.",
+    "glossary": [
+      {
+        "term": "Staatswappen",
+        "english": "state arms"
+      },
+      {
+        "term": "Ährenkranz",
+        "english": "wreath of grain ears"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "socialist-ddr-flag",
+    "area": "Socialist state emblems",
+    "language": "de",
+    "holding": "Haus der Geschichte, LeMO",
+    "titleOriginal": "Entstehung der DDR: Gesamtdeutscher Anspruch",
+    "titleEnglish": "The GDR and its all-German claim",
+    "url": "https://www.hdg.de/lemo/kapitel/nachkriegsjahre/doppelte-staatsgruendung/entstehung-der-ddr-gesamtdeutscher-anspruch",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "The museum explains the early shared black-red-gold flag of the two German states and the later addition of the GDR emblem in 1959. Its account places emblem deployment within competing political claims rather than treating every adoption as a simultaneous change in every medium.",
+    "glossary": [
+      {
+        "term": "Nationalflagge",
+        "english": "national flag"
+      },
+      {
+        "term": "gesamtdeutsch",
+        "english": "all-German"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "socialist-ussr-constitution",
+    "area": "Socialist state emblems",
+    "language": "en",
+    "holding": "Novosti Press Agency, Moscow, 1982 edition of the 1977 Constitution; Marxists Internet Archive",
+    "titleOriginal": "Constitution (Fundamental Law) of the Union of Soviet Socialist Republics",
+    "titleEnglish": "1977 Soviet Constitution, English edition",
+    "url": "https://www.marxists.org/history/ussr/government/constitution/1977/constitution-ussr-1977.pdf",
+    "kind": "historical constitutional text",
+    "authority": "historical state instrument",
+    "englishSynopsis": "Articles 169 and 170 distinguish the Soviet state emblem from its flag. The emblem incorporates a globe, solar rays, agricultural frame and multilingual inscription; the flag has a separately specified arrangement. This is the published English edition of a historical constitutional text.",
+    "glossary": [
+      {
+        "term": "Union Republics",
+        "english": "constituent republics in the constitutional description"
+      },
+      {
+        "term": "State Emblem",
+        "english": "the constitutional English term"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "socialist-china-law",
+    "area": "Socialist state emblems",
+    "language": "en",
+    "holding": "Supreme People’s Court of China, English text published 2016",
+    "titleOriginal": "Law of the People’s Republic of China on the National Emblem",
+    "titleEnglish": "Law on the national emblem, historical English text",
+    "url": "https://english.court.gov.cn/2016-04/14/c_1170200.htm",
+    "kind": "historical legislation and design instructions",
+    "authority": "official state publication",
+    "englishSynopsis": "This English publication of the 1991 enactment reproduces the 1950 design and making instructions in appendices. It specifies the national architectural reference, wheat and rice, mechanical component, colors, symmetry and scaled manufacture. It is used as a historical design witness, not a statement of all current rules.",
+    "glossary": [
+      {
+        "term": "Tian’anmen",
+        "english": "the named architectural component"
+      },
+      {
+        "term": "Directions",
+        "english": "instructions for making the design"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "tamga-divan-nomination",
+    "area": "Eurasia: tamgas",
+    "language": "en",
+    "holding": "Turkish Institution for Manuscripts, Millet Manuscript Library and Turkish National Commission for UNESCO; nomination 2016-128",
+    "titleOriginal": "Turkey — Diwan Lughat al-Turk: nomination form",
+    "titleEnglish": "Compendium of the Turkic Dialects: manuscript nomination",
+    "url": "https://media.unesco.org/sites/default/files/webform/mow001/turkey_compendium_eng.pdf",
+    "kind": "custodial manuscript dossier",
+    "authority": "official institution",
+    "englishSynopsis": "The custodial nomination identifies the surviving manuscript, its shelfmark and copying history. It distinguishes the eleventh-century text from the thirteenth-century material witness and describes access through visual documentation and a facsimile. These fields support a properly dated route into the Oghuz material.",
+    "glossary": [
+      {
+        "term": "Arabi Kit. 4189",
+        "english": "the manuscript number supplied in the nomination"
+      },
+      {
+        "term": "facsimile",
+        "english": "a reproduction used to examine the witness"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "tamga-halacoglu",
+    "area": "Eurasia: tamgas",
+    "language": "tr",
+    "holding": "Yusuf Halaçoğlu, TDV İslâm Ansiklopedisi, vol. 8, 1993, pp. 454–455",
+    "titleOriginal": "DAMGA (TDV İslâm Ansiklopedisi)",
+    "titleEnglish": "Damga: historical uses and manuscript illustrations",
+    "url": "https://islamansiklopedisi.org.tr/damga",
+    "kind": "signed historical research account",
+    "authority": "named scholarly author",
+    "englishSynopsis": "The signed historical account links marks with livestock, dynastic usage, authentication and fiscal terminology. It illustrates Oghuz signs in the Millet manuscript and compares textual traditions. Its account of controlled seal custody supplies a documentary comparison with marks identifying property.",
+    "glossary": [
+      {
+        "term": "damgacı",
+        "english": "an official or worker concerned with marking"
+      },
+      {
+        "term": "damga resmi",
+        "english": "a fiscal use of the term"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "tamga-paiza",
+    "area": "Eurasia: tamgas",
+    "language": "en",
+    "holding": "Metropolitan Museum of Art, 1993.256",
+    "titleOriginal": "Safe Conduct Pass (Paiza) with Inscription in Phakpa Script",
+    "titleEnglish": "Mongol safe-conduct pass",
+    "url": "https://www.metmuseum.org/art/collection/search/39624",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "The late-thirteenth-century iron and silver pass carries a Mongol-language inscription in Phakpa script. The museum describes its openwork construction and the reversed lettering on its other face. It is a comparative authorization object, not catalogued as a clan tamga.",
+    "glossary": [
+      {
+        "term": "paiza",
+        "english": "the safe-conduct pass in this record"
+      },
+      {
+        "term": "Phakpa",
+        "english": "the script named in the museum description"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ci-bartleman",
+    "area": "Colonial and Indigenous encounters",
+    "language": "en",
+    "holding": "Canadian Heraldic Authority, Public Register, vol. IV, p. 236",
+    "titleOriginal": "James Karl Bartleman",
+    "titleEnglish": "James Karl Bartleman: grant of 16 September 2002",
+    "url": "https://www.gg.ca/en/heraldry/public-register/project/41",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "The register connects counterchanged canoes and a particular headdress with personal and family meanings. It records a contribution from a Mnjikaning Elder and identifies the design and artistic roles, allowing participation to be discussed through specific evidence rather than inferred from appearance.",
+    "glossary": [
+      {
+        "term": "counterchanged",
+        "english": "the charges exchange the two field colors"
+      },
+      {
+        "term": "ensigned",
+        "english": "surmounted by the specified device"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ci-steven-point",
+    "area": "Colonial and Indigenous encounters",
+    "language": "en",
+    "holding": "Canadian Heraldic Authority, Public Register, vol. V, p. 428",
+    "titleOriginal": "Steven Lewis Point",
+    "titleEnglish": "Steven Lewis Point: personal heraldic emblems",
+    "url": "https://www.gg.ca/en/heraldry/public-register/project/1921",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "The register explains a double-headed serpent as an emblem given to the bearer by his father. It connects other parts with canoe activity, family affiliation and provincial service. The source makes several personal relationships visible without turning the entire achievement into the arms of the referenced communities.",
+    "glossary": [
+      {
+        "term": "double-headed serpent",
+        "english": "the personally transmitted emblem described here"
+      },
+      {
+        "term": "compartment",
+        "english": "the supporting ground below the achievement"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ci-heiltsuk-logo",
+    "area": "Colonial and Indigenous encounters",
+    "language": "en",
+    "holding": "Heiltsuk Cultural Education Centre",
+    "titleOriginal": "The Heiltsuk Cultural Education Centre Logo",
+    "titleEnglish": "The Centre’s explanation of its own logo",
+    "url": "https://hcec.ca/index.php/our-logo/",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "The Centre describes the human figure and the four symbols associated with the Heiltsuk Nation’s main crest groups. It separately credits the logo designer and crest-image maker. This is an organization’s explanation of its own identifying design, with no implication of permission to reuse it.",
+    "glossary": [
+      {
+        "term": "crest groups",
+        "english": "the community-specific grouping named by the Centre"
+      },
+      {
+        "term": "logo",
+        "english": "the Centre’s own term for its device"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ci-ihos-history",
+    "area": "Colonial and Indigenous encounters",
+    "language": "en",
+    "holding": "I-Hos Gallery, 29 September 2014; account of Calvin Hunt’s design",
+    "titleOriginal": "History of the I-Hos Logo",
+    "titleEnglish": "The I-Hos design across canoe and building",
+    "url": "https://ihosgallery.com/blogs/news/15511124-history-of-the-i-hos-logo",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "The Gallery follows the local narrative and named makers behind its identifying design. It relates the whale and double-headed serpent to a canoe commission and the building front, including the entrance within the whale. The record supports a comparison of connected designs across different physical settings.",
+    "glossary": [
+      {
+        "term": "Queneesh",
+        "english": "the Great Whale identified in the account"
+      },
+      {
+        "term": "I-Hos",
+        "english": "the double-headed serpent reference"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ci-ihos-ownership",
+    "area": "Colonial and Indigenous encounters",
+    "language": "en",
+    "holding": "I-Hos Gallery",
+    "titleOriginal": "About Us",
+    "titleEnglish": "Ownership and the I-Hos house-front design",
+    "url": "https://ihosgallery.com/pages/about-us",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "The Gallery identifies itself as owned by the K’ómoks Band and describes the house-front creatures as important crests of the K’ómoks people. Its account of working directly with artists supplies a community-linked institutional context distinct from a state heraldic grant.",
+    "glossary": [
+      {
+        "term": "K’ómoks",
+        "english": "the community named by the Gallery"
+      },
+      {
+        "term": "house front",
+        "english": "the architectural setting of the design"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ci-surrey-police",
+    "area": "Colonial and Indigenous encounters",
+    "language": "en",
+    "holding": "Canadian Heraldic Authority, Public Register, vol. VIII, p. 23",
+    "titleOriginal": "Surrey Police Service",
+    "titleEnglish": "Surrey Police Service: grant of 15 October 2021",
+    "url": "https://www.gg.ca/en/heraldry/public-register/project/3366",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "The register identifies a Coast Salish-style eye designed by Semiahmoo First Nation artist Leslie Wells as a gift to the police service. The source connects named artistic contribution with a civic recipient while specifying the heraldic arrangement into which the device was incorporated.",
+    "glossary": [
+      {
+        "term": "fess chequy",
+        "english": "a horizontal band arranged in squares"
+      },
+      {
+        "term": "in chief",
+        "english": "in the upper part of the shield"
       }
     ],
     "accessed": "2026-10-11",

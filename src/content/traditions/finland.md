@@ -17,8 +17,6 @@ level: "Advanced undergraduate / graduate"
     <li><a href="#earlier-law-and-the-continuity-problem">Earlier law and the continuity problem</a></li>
     <li><a href="#national-archives-advice-is-a-research-opportunity">National Archives advice is a research opportunity</a></li>
     <li><a href="#vocabulary-for-the-municipal-statute">Vocabulary for the municipal statute</a></li>
-    <li><a href="#primary-source-reading-and-assessment">Primary-source reading and assessment</a></li>
-    <li><a href="#original-language-statutory-sources">Original-language statutory sources</a></li>
     <li><a href="#the-national-lion-has-a-replacement-limb">The national lion has a replacement limb</a></li>
     <li><a href="#an-early-monument-and-a-later-national-instrument">An early monument and a later national instrument</a></li>
     <li><a href="#municipal-arms-are-a-major-modern-design-practice">Municipal arms are a major modern design practice</a></li>
@@ -26,7 +24,9 @@ level: "Advanced undergraduate / graduate"
     <li><a href="#a-database-can-generate-a-sentence-without-producing-an-official-blazon">A database can generate a sentence without producing an official blazon</a></li>
     <li><a href="#helsinki-assigns-different-contexts-to-logo-and-arms">Helsinki assigns different contexts to logo and arms</a></li>
     <li><a href="#a-family-association-commissioned-a-modern-coat">A family association commissioned a modern coat</a></li>
+    <li><a href="#primary-source-reading-and-assessment">Primary-source reading and assessment</a></li>
     <li><a href="#workshop-make-the-description-survive-the-redraw">Workshop: make the description survive the redraw</a></li>
+    <li><a href="#original-language-statutory-sources">Original-language statutory sources</a></li>
   </ol>
 </nav>
 
@@ -79,19 +79,6 @@ This distinction becomes even more important when comparing Finnish local arms w
 | *kunnanhallitus* | municipal executive board |
 
 Because Finnish is highly inflected, the exact surface form of a word may differ from its dictionary form. A serious comparative lexicon should index lemma and quoted form separately and show the clause from which its meaning was inferred.
-
-## Primary-source reading and assessment
-
-Read [*Kuntalaki* 410/2015 § 5](https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2015/410) in the original Finnish. Identify the two administrative verbs, the council and the archival institution. Translate the provision while distinguishing approval, advice and supervision.
-
-Next, locate the [1995 act's section 6](https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/1995/365). Create a short table recording the two statute identifiers, relevant section, legal date and differences in wording. Explain why an academic citation must specify the historical version.
-
-**Graduate assignment:** Design a study of three municipal shields, each with a different chronological relationship between the first known historical emblem and its modern administrative approval. For each, identify the government document needed, the archival witness required and the limitations of visual similarity. Compare the role of Finland's National Archives with that of the Swedish Riksarkivet and Lithuania's Heraldry Commission without implying these institutions have identical powers.
-
-## Original-language statutory sources
-
-1. [Finlex, *Kuntalaki* 410/2015, § 5](https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2015/410).
-2. [Finlex, earlier *Kuntalaki* 365/1995, § 6](https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/1995/365).
 
 ## The national lion has a replacement limb
 
@@ -163,11 +150,24 @@ The choice between proposals gives the finished design a development history. A 
 
 The society’s register introduced above performs another job in that history. It records a private armorial identity through an association process, while the municipal statute concerns public bodies and archival advice. Finland’s heraldic practice includes both settings. The national account becomes fuller when it explains the actual functions rather than forcing every recorded design into one grant mechanism.
 
+## Primary-source reading and assessment
+
+Read [*Kuntalaki* 410/2015 § 5](https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2015/410) in the original Finnish. Identify the two administrative verbs, the council and the archival institution. Translate the provision while distinguishing approval, advice and supervision.
+
+Next, locate the [1995 act's section 6](https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/1995/365). Create a short table recording the two statute identifiers, relevant section, legal date and differences in wording. Explain why an academic citation must specify the historical version.
+
+**Graduate assignment:** Design a study of three municipal shields, each with a different chronological relationship between the first known historical emblem and its modern administrative approval. For each, identify the government document needed, the archival witness required and the limitations of visual similarity. Compare the role of Finland's National Archives with that of the Swedish Riksarkivet and Lithuania's Heraldry Commission without implying these institutions have identical powers.
+
 ## Workshop: make the description survive the redraw
 
 Reconstruct the national lion through its component relationships, then compare your work with the statutory text and institutional illustration. Identify one drawing choice that can vary and one that the description fixes. Test the design at small scale and explain how to preserve the replacement arm, the two weapons, and the rose count without turning the image into a cluttered miniature.
 
 Next compare the national-arm record, Helsinki’s manual, and the family association’s account. Distinguish legal specification, generated description, fixed graphic guidance, and the bearer’s commissioning history. A developed study should show how those sources contribute different information to the practical use of Finnish heraldry.
+
+## Original-language statutory sources
+
+1. [Finlex, *Kuntalaki* 410/2015, § 5](https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2015/410).
+2. [Finlex, earlier *Kuntalaki* 365/1995, § 6](https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/1995/365).
 
 <aside class="editorial-notice" aria-label="Editorial note">
 <p><strong>Status:</strong> This is a legal and source-critical introduction, not yet a complete history of Finnish heraldry. A developed course must also cover personal and noble heraldry, material witnesses and comparative Nordic scholarship from original Finnish and Swedish sources.</p>

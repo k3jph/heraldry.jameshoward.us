@@ -18,7 +18,6 @@ level: "Advanced undergraduate / graduate"
     <li><a href="#the-artists-mark-has-a-place-in-the-picture">The artist’s mark has a place in the picture</a></li>
     <li><a href="#a-later-owner-can-become-visible">A later owner can become visible</a></li>
     <li><a href="#several-seals-make-a-history-not-a-pedigree-chart">Several seals make a history, not a pedigree chart</a></li>
-    <li><a href="#a-documentary-workshop">A documentary workshop</a></li>
     <li><a href="#carry-the-comparison-back-to-heraldry">Carry the comparison back to heraldry</a></li>
     <li><a href="#a-han-seal-can-identify-an-office">A Han seal can identify an office</a></li>
     <li><a href="#a-private-seal-can-enter-an-imperial-collection">A private seal can enter an imperial collection</a></li>
@@ -26,6 +25,7 @@ level: "Advanced undergraduate / graduate"
     <li><a href="#an-imperial-seal-can-carry-an-auspicious-declaration">An imperial seal can carry an auspicious declaration</a></li>
     <li><a href="#red-and-white-describe-a-printing-relationship">Red and white describe a printing relationship</a></li>
     <li><a href="#build-an-inscription-record-that-can-be-checked">Build an inscription record that can be checked</a></li>
+    <li><a href="#a-documentary-workshop">A documentary workshop</a></li>
   </ol>
 </nav>
 
@@ -91,17 +91,6 @@ A succession of identified people does not establish every transfer between them
 The unidentified category is especially useful. It preserves a visible witness without forcing it into a story. A research notebook should be able to say “mark present; owner unresolved” and then keep working. Deleting the mark from the account would conceal evidence. Assigning it to the nearest plausible collector would conceal uncertainty.
 
 The difference from a heraldic pedigree is substantial. A collecting sequence concerns an object moving among people. A hereditary armorial sequence concerns the transmission of an entitlement or design within a defined practice. Both involve names and time; the relationship that binds those names is different.
-
-## A documentary workshop
-
-Suppose a catalogue dates a painting to the seventeenth century, identifies an eighteenth-century collector’s impression, and records an unidentified red mark beside it. A dealer’s caption calls the whole work “the collector’s painting” and gives the unidentified mark the artist’s name. These are invented teaching records.
-
-Prepare a four-column inventory: visible feature, proposed identification, supporting witness, and unresolved question. Keep the painting’s date separate from the impression’s proposed date. Then write a caption that a reader could check without access to your private assumptions.
-
-<details class="research-answer"><summary>Discuss the evidence</summary>
-
-<p>The collector’s association can be reported with attribution to the catalogue. The unidentified mark should remain unidentified unless a new witness supports a reading. The painting’s production date does not date every impression upon it. A responsible caption distinguishes the older work from its later collecting evidence and identifies the photographed surfaces. The dealer’s claim is another witness to evaluate, not a substitute for the catalogue or object.</p>
-</details>
 
 ## Carry the comparison back to heraldry
 
@@ -174,6 +163,17 @@ A useful record separates original characters, reading, translation, surface and
 For a research exercise, compare the Han office seal, the private Guo Sa matrix and Qianlong’s oval seal. Ask which names or titles are printed, which other texts remain on the body, and what later collecting information survives. The resulting comparison will explain several mechanisms of identity rather than treating every carved object as a generic signature.
 
 <details class="research-answer"><summary>What survives when the context is lost?</summary><p>The matrix can preserve a printing face, material and other inscriptions. Its wording may identify a person or office, but a particular act of use needs an impression or document. A later collection record can explain custody without changing the original inscription’s referent. Keeping these distinctions allows an incomplete object history to remain useful while preventing the missing context from being filled with a famous name.</p></details>
+
+## A documentary workshop
+
+Suppose a catalogue dates a painting to the seventeenth century, identifies an eighteenth-century collector’s impression, and records an unidentified red mark beside it. A dealer’s caption calls the whole work “the collector’s painting” and gives the unidentified mark the artist’s name. These are invented teaching records.
+
+Prepare a four-column inventory: visible feature, proposed identification, supporting witness, and unresolved question. Keep the painting’s date separate from the impression’s proposed date. Then write a caption that a reader could check without access to your private assumptions.
+
+<details class="research-answer"><summary>Discuss the evidence</summary>
+
+<p>The collector’s association can be reported with attribution to the catalogue. The unidentified mark should remain unidentified unless a new witness supports a reading. The painting’s production date does not date every impression upon it. A responsible caption distinguishes the older work from its later collecting evidence and identifies the photographed surfaces. The dealer’s claim is another witness to evaluate, not a substitute for the catalogue or object.</p>
+</details>
 
 [^xie]: The Metropolitan Museum of Art, [*Mastering the Art of Chinese Painting: Xie Zhiliu*](https://www.metmuseum.org/exhibitions/listings/2010/xie-zhiliu), 2010 exhibition, section “The Art of Seal Carving.”
 [^bamboo]: The Met, [*Seal*, 58.64.16](https://www.metmuseum.org/art/collection/search/41059).
