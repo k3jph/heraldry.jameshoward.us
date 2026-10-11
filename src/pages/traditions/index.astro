@@ -7,8 +7,8 @@ const chapters=(await getCollection('traditions')).sort((a,b)=>a.data.region.loc
 const groups=[
   {name:'Comparative traditions',label:'Across Europe, across jurisdictions',description:'Compare how particular institutions grant, record, and preserve arms, using the sources that describe their work.'},
   {name:'Global and postcolonial heraldry',label:'Heraldry beyond Europe',description:'Where inherited artistic forms become emblems of modern states and changed sovereignties.'},
-  {name:'Ecclesiastical heraldry',label:'Arms, office, and the Church',description:'Follow Catholic and Anglican uses of personal arms, office insignia, and institutional identity through dated records.'},
-  {name:'Other Traditions',label:'Orders, experiments, and claimed sovereignty',description:'Distinguish the Order of Malta’s institutional heraldry from micronational practices and their different claims to authority.'},
+  {name:'Ecclesiastical heraldry',label:'Arms, office, and the Church',description:'Compare Catholic, Anglican, Orthodox and Lutheran uses of personal arms, office insignia, and institutional identity through dated records.'},
+  {name:'Other Traditions',label:'Orders, communities, and claimed sovereignty',description:'Follow the Orders of Malta and the Teutonic Order, Jewish personal and communal armory, and micronational experiments through their particular records and institutions.'},
   {name:'Comparative emblem systems',label:'Related, not interchangeable',description:'Other sophisticated identity systems, understood in their own historical vocabularies.'}
 ];
 const languages=[...new Set(chapters.flatMap(item=>item.data.languages))];
@@ -32,7 +32,7 @@ const languages=[...new Set(chapters.flatMap(item=>item.data.languages))];
           {chapters.filter(chapter=>chapter.data.track===group.name).map((chapter)=><a class="tradition-card" href={'/traditions/'+chapter.id+'/'}><div class="tradition-card-top"><span>{chapter.data.region}</span><span aria-hidden="true">↗</span></div><h3>{chapter.data.title}</h3><p>{chapter.data.description}</p><div class="tradition-card-meta"><span>{chapter.data.languages.map(s=>s.toUpperCase()).join(' · ')}</span><span>{chapter.data.sourceIds.length} cited source{chapter.data.sourceIds.length===1?'':'s'}</span></div></a>)}
         </div>
       </section>)}
-      <div class="notice-box"><strong>The scope of the collection.</strong><p>The initial collection prioritizes subjects for which verifiable original-language records are accessible. Coverage remains uneven: chapters on Hungary, Latvia, Lithuania and Finland are starting points for further research. Major gaps include Denmark, Norway, Iceland, Switzerland, Austria, much of the Balkans, Africa beyond South Africa, and Latin America beyond Argentina and Brazil. See the <a href="/editorial-policy/" style="text-decoration:underline">editorial policy</a>.</p></div>
+      <div class="notice-box"><strong>The scope of the collection.</strong><p>Follow national chapters alongside regional and cross-border studies. Byzantine and modern Greek material, Ukrainian and Russian histories, African grant systems, colonial encounters and religious communities require different kinds of evidence. Coverage remains uneven: regional comparisons do not replace full national histories, and many family, civic and archival traditions still need deeper investigation. These are source-linked teaching drafts awaiting specialist review. See the <a href="/editorial-policy/" style="text-decoration:underline">editorial policy</a>.</p></div>
     </div>
   </section>
 </Base>

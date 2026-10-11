@@ -3352,5 +3352,2530 @@
         "english": "The component above a helm, rather than the whole achievement"
       }
     ]
+  },
+  {
+    "id": "byz-podea",
+    "area": "Byzantium",
+    "language": "en",
+    "holding": "Metropolitan Museum of Art, 12.104.1",
+    "titleOriginal": "Altar Cloth or Podea",
+    "titleEnglish": "Altar Cloth or Podea",
+    "url": "https://www.metmuseum.org/art/collection/search/473644",
+    "kind": "museum object catalogue",
+    "authority": "official institution",
+    "englishSynopsis": "Late-fourteenth-century embroidery, probably made in Greece or Constantinople. The object record interprets its large eagle and inscription in an ecclesiastical setting; a modern catalogue label is not a medieval decree establishing a uniform state flag.",
+    "glossary": [
+      {
+        "term": "podea",
+        "english": "cloth hung below an icon"
+      },
+      {
+        "term": "inscription",
+        "english": "text on the object"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "byz-conservation",
+    "area": "Byzantium",
+    "language": "en",
+    "holding": "Kathrin Colburn, Metropolitan Museum Journal 41 (2006), pp. 65–73",
+    "titleOriginal": "A Double-Headed Eagle Embroidery: Analysis and Conservation",
+    "titleEnglish": "A Double-Headed Eagle Embroidery: Analysis and Conservation",
+    "url": "https://resources.metmuseum.org/resources/metpublications/pdf/The_Metropolitan_Museum_Journal_v_41_2006.pdf",
+    "kind": "original conservation research",
+    "authority": "museum conservator’s published research",
+    "englishSynopsis": "Conservation study of the eagle embroidery. Linen, paper support, underdrawing and stitching supply material evidence distinct from the military-banner interpretation used at acquisition. The volume also contains Jennifer L. Ball’s accompanying historical study on pp. 59–64.",
+    "glossary": [
+      {
+        "term": "ground",
+        "english": "support beneath embroidery"
+      },
+      {
+        "term": "underdrawing",
+        "english": "design laid out before stitching"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "byz-nerezi",
+    "area": "Byzantium",
+    "language": "en",
+    "holding": "Carlo Berardi, Gesta 63.1 (2024), pp. 1–23",
+    "titleOriginal": "Brave as a Lion, Fierce like a Griffin: Heraldic Devices and Aristocratic Identity in the Frescoes of St. Panteleimon, Nerezi",
+    "titleEnglish": "Brave as a Lion, Fierce like a Griffin: Heraldic Devices and Aristocratic Identity in the Frescoes of St. Panteleimon, Nerezi",
+    "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/728464",
+    "kind": "original research abstract",
+    "authority": "peer-reviewed article; abstract consulted",
+    "englishSynopsis": "The consulted abstract argues that the lion and griffin on warrior saints’ shields in the 1164 Nerezi frescoes challenge a simple post-1204 introduction narrative. This dossier reports the author’s argument; it does not claim consultation of the complete article or universal scholarly agreement.",
+    "glossary": [
+      {
+        "term": "device",
+        "english": "identifying figure"
+      },
+      {
+        "term": "patronage",
+        "english": "commissioning and support of an artwork"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "byz-agency",
+    "area": "Byzantium",
+    "language": "en",
+    "holding": "Byzantine and Modern Greek Studies (2024)",
+    "titleOriginal": "Art and female agency in late Byzantium: three methodological case studies",
+    "titleEnglish": "Art and female agency in late Byzantium: three methodological case studies",
+    "url": "https://www.cambridge.org/core/journals/byzantine-and-modern-greek-studies/article/art-and-female-agency-in-late-byzantium-three-methodological-case-studies/4997799D713DA62FE1D2DE99B50A3443",
+    "kind": "original historical research",
+    "authority": "peer-reviewed research",
+    "englishSynopsis": "Original study examining evidence of female agency, including Isabelle de Lusignan’s patronage at Mystras. Names, inscriptions and armorial signs can be considered together rather than treating heraldic imagery as anonymous decoration.",
+    "glossary": [
+      {
+        "term": "agency",
+        "english": "capacity to act and shape a commission"
+      },
+      {
+        "term": "architrave",
+        "english": "horizontal architectural member"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "gr-emblem",
+    "area": "Greece",
+    "language": "el",
+    "holding": "Presidency of the Hellenic Republic",
+    "titleOriginal": "Εθνόσημο",
+    "titleEnglish": "National emblem",
+    "url": "https://www.presidency.gr/proedria/ethnosimo-emvlhma/",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Official Greek account of the republic’s emblem and its changes across successive regimes. The present cross-bearing shield and laurel are distinguished from earlier Athena, phoenix and monarchical compositions.",
+    "glossary": [
+      {
+        "term": "εθνόσημο",
+        "english": "national emblem"
+      },
+      {
+        "term": "θυρεός",
+        "english": "shield or escutcheon"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "gr-emblem-en",
+    "area": "Greece",
+    "language": "en",
+    "holding": "Presidency of the Hellenic Republic",
+    "titleOriginal": "The National Emblem",
+    "titleEnglish": "The National Emblem",
+    "url": "https://www.presidency.gr/en/presidency/the-national-emblem/",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Official English counterpart to the Greek account. Its use of “crest” for the laurel surround supplies a concrete translation problem: the English heraldic technical term and a general official label need not have identical scope.",
+    "glossary": [
+      {
+        "term": "escutcheon",
+        "english": "shield"
+      },
+      {
+        "term": "crest",
+        "english": "technical upper device; also used loosely in official English"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "orth-pectoral",
+    "area": "Orthodox ecclesiastical heraldry",
+    "language": "en",
+    "holding": "Benaki Museum, Museum of Greek Culture, 7660",
+    "titleOriginal": "Hieratic gold pectoral in the form of a double-headed eagle",
+    "titleEnglish": "Hieratic gold pectoral in the form of a double-headed eagle",
+    "url": "https://www.benaki.org/index.php?Itemid=&id=142307&lang=en&option=com_collectionitems&view=collectionitem",
+    "kind": "museum object catalogue",
+    "authority": "official institution",
+    "englishSynopsis": "Late-seventeenth-century gold pectoral with stones and religious enamel imagery. The museum links its eagle to imperial lineage and ecclesiastical power. The object’s function is evidence of use; its appearance alone does not identify a universal Orthodox rank.",
+    "glossary": [
+      {
+        "term": "pectoral",
+        "english": "worn upon the breast"
+      },
+      {
+        "term": "hieratic",
+        "english": "connected with sacred or priestly use"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "rs-symbols",
+    "area": "Serbia",
+    "language": "en",
+    "holding": "Government of the Republic of Serbia",
+    "titleOriginal": "National symbols",
+    "titleEnglish": "National symbols",
+    "url": "https://www.srbija.gov.rs/tekst/en/130128/national-symbols.php",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Current government overview identifies the 2010 standards decree and distinguishes state, national and office flags. Its account of the eagle’s Byzantine inheritance is official modern interpretation, not a primary medieval origin witness.",
+    "glossary": [
+      {
+        "term": "state flag",
+        "english": "flag carrying the state’s specified insignia"
+      },
+      {
+        "term": "standard",
+        "english": "flag assigned to a particular office"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "rs-2004",
+    "area": "Serbia",
+    "language": "en",
+    "holding": "Government of the Republic of Serbia, 17 August 2004",
+    "titleOriginal": "Parliament adopts national symbols of Serbia",
+    "titleEnglish": "Parliament adopts national symbols of Serbia",
+    "url": "https://www.srbija.gov.rs/vest/en/4440/parliament-adopts-national-symbols-of-serbia.php",
+    "kind": "dated government notice",
+    "authority": "official institution",
+    "englishSynopsis": "Dated notice of a parliamentary recommendation describing a white double-headed eagle, cross, four firesteels and crown. The notice must be separated from later legislation and standardized artwork.",
+    "glossary": [
+      {
+        "term": "firesteel",
+        "english": "steel for striking fire"
+      },
+      {
+        "term": "recommendation",
+        "english": "the institutional act reported in this notice"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "rs-illyrian",
+    "area": "Serbia and the Balkans",
+    "language": "en",
+    "holding": "Srđan Rudić, Balcanica 47 (2016), pp. 135–156",
+    "titleOriginal": "The ideology of the Illyrian armorial",
+    "titleEnglish": "The ideology of the Illyrian armorial",
+    "url": "https://doiserbia.nb.rs/Article.aspx?id=0350-76531647135R",
+    "kind": "original research abstract",
+    "authority": "peer-reviewed research; abstract consulted",
+    "englishSynopsis": "Original research abstract situates the late-sixteenth-century Illyrian Armorial in Petar Ohmućević-Grgurić’s effort to demonstrate noble descent and in the political, cultural and religious setting of its production. It is evidence for early modern claims, not automatically for medieval grants.",
+    "glossary": [
+      {
+        "term": "armorial",
+        "english": "organized collection of armorial designs"
+      },
+      {
+        "term": "noble descent",
+        "english": "genealogical status asserted by a claimant"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "rs-medieval",
+    "area": "Serbia",
+    "language": "en",
+    "holding": "National Museum of Serbia",
+    "titleOriginal": "Serbian Medieval and Byzantine Art Collection",
+    "titleEnglish": "Serbian Medieval and Byzantine Art Collection",
+    "url": "https://www.narodnimuzej.rs/middle-ages/serbian-medieval-and-byzantine-art-collection/?lang=en",
+    "kind": "museum collection guide",
+    "authority": "official institution",
+    "englishSynopsis": "Collection guide identifies dated material including King Radoslav’s ring and Queen Teodora’s ring, alongside manuscripts and frescoes. It supports an object-based research route; no uninspected seal inscription is transcribed here.",
+    "glossary": [
+      {
+        "term": "seal ring",
+        "english": "ring used to impress an identifying device"
+      },
+      {
+        "term": "fresco",
+        "english": "painting made on plaster"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ua-arms",
+    "area": "Ukraine",
+    "language": "en",
+    "holding": "Internet Encyclopedia of Ukraine, Canadian Institute of Ukrainian Studies",
+    "titleOriginal": "Coat of arms",
+    "titleEnglish": "Coat of arms",
+    "url": "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CC%5CO%5CCoatofarms.htm",
+    "kind": "scholarly reference article",
+    "authority": "university research institute",
+    "englishSynopsis": "Scholarly reference account follows Kyivan signs, Galician lion, Cossack emblems and the 1918 republics. Its broad use of “coat of arms” for early dynastic signs requires chronological care rather than projecting mature Western armory onto tenth-century evidence.",
+    "glossary": [
+      {
+        "term": "herb",
+        "english": "coat of arms"
+      },
+      {
+        "term": "starshyna",
+        "english": "Cossack officer elite"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ua-constitution",
+    "area": "Ukraine",
+    "language": "uk",
+    "holding": "President of Ukraine, Constitution, Article 20",
+    "titleOriginal": "Конституція України — Розділ I",
+    "titleEnglish": "Constitution of Ukraine — Chapter I",
+    "url": "https://www.president.gov.ua/ua/documents/constitution/konstituciya-ukrayini-rozdil-i",
+    "kind": "constitutional text",
+    "authority": "official institution",
+    "englishSynopsis": "Article 20 identifies the small emblem with Volodymyr’s princely sign and specifies the constitutional procedure for a great emblem incorporating it and the arms of the Zaporozhian Host. A constitutional requirement is not evidence that a particular proposed great emblem has been enacted.",
+    "glossary": [
+      {
+        "term": "Державний Герб",
+        "english": "State Coat of Arms"
+      },
+      {
+        "term": "Військо Запорізьке",
+        "english": "Zaporozhian Host"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ua-volhynia",
+    "area": "Ukraine",
+    "language": "en",
+    "holding": "Andriy Grechylo, Ukrainian Heraldry Society, international congress lecture summaries",
+    "titleOriginal": "Coat of arms of Volhynia — genesis and modern use in the symbols of the Ukrainian regions",
+    "titleEnglish": "Coat of arms of Volhynia — genesis and modern use in the symbols of the Ukrainian regions",
+    "url": "https://www.ghvi.lt/uploads/images/naujienos/ICGHV2_lecture_summaries.pdf",
+    "kind": "original research conference abstract",
+    "authority": "heraldic researcher; summary consulted",
+    "englishSynopsis": "Research summary follows Volhynia through Lithuanian, Polish and Russian administration and identifies its cross on early-fifteenth-century evidence. Changing historical boundaries and modern oblasts prevent a one-to-one mapping from old territorial arms to present regions.",
+    "glossary": [
+      {
+        "term": "voivodeship",
+        "english": "historical administrative territory"
+      },
+      {
+        "term": "oblast",
+        "english": "modern regional administrative unit"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ua-seals",
+    "area": "Ukraine",
+    "language": "en",
+    "holding": "Internet Encyclopedia of Ukraine, Canadian Institute of Ukrainian Studies",
+    "titleOriginal": "Sphragistics",
+    "titleEnglish": "Sphragistics",
+    "url": "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CS%5CP%5CSphragistics.htm",
+    "kind": "scholarly reference article",
+    "authority": "university research institute",
+    "englishSynopsis": "Scholarly guide to Ukrainian seals, including the distinct state-seal arrangements of the 1918 republic and Hetmanate. Seal legends, impressed designs and documentary attachments require separate description.",
+    "glossary": [
+      {
+        "term": "sphragistics",
+        "english": "study of seals"
+      },
+      {
+        "term": "matrix",
+        "english": "tool used to make a seal impression"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ru-general",
+    "area": "Russia",
+    "language": "ru",
+    "holding": "Presidential Library; original held by Russian State Library; part I, 1798",
+    "titleOriginal": "Общий гербовник дворянских родов Всероссийския империи, начатый в 1797 году. Часть перьвая",
+    "titleEnglish": "General Armorial of the Noble Families of the All-Russian Empire, begun in 1797. Part One",
+    "url": "https://www.prlib.ru/item/433575",
+    "kind": "digitized historical armorial catalogue",
+    "authority": "official institution",
+    "englishSynopsis": "Catalogue of the 1798 first part of the imperial noble-family armorial. It records a specific published witness, not the entire later series. Catalogue metadata and full-page transcription remain different research layers.",
+    "glossary": [
+      {
+        "term": "гербовник",
+        "english": "armorial"
+      },
+      {
+        "term": "дворянский род",
+        "english": "noble family or lineage"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ru-hermitage",
+    "area": "Russia",
+    "language": "en",
+    "holding": "State Hermitage Museum, heraldic research volume 119 (2022), English summaries",
+    "titleOriginal": "Heraldic research: English summaries",
+    "titleEnglish": "Heraldic research: English summaries",
+    "url": "https://www.hermitagemuseum.org/uploads/files/pubcls_1102edit/works_119_Heraldics_2022.pdf",
+    "kind": "original research summaries",
+    "authority": "museum research publication; summaries consulted",
+    "englishSynopsis": "Published original research summaries include Viktor Lomantsov’s argument that Vladimir’s purported iron crown resulted from a nineteenth-century printing error. This is an attributed archival argument, not our independently established reading of the original act.",
+    "glossary": [
+      {
+        "term": "printed witness",
+        "english": "a particular printed version of a record"
+      },
+      {
+        "term": "archival witness",
+        "english": "a surviving documentary record"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ru-1993",
+    "area": "Russia",
+    "language": "en",
+    "holding": "State Duma, 30 November 2018",
+    "titleOriginal": "25 years ago the coat of arms of the Russian Federation was approved",
+    "titleEnglish": "25 years ago the coat of arms of the Russian Federation was approved",
+    "url": "https://duma.gov.ru/en/news/28991/",
+    "kind": "dated parliamentary historical account",
+    "authority": "official institution",
+    "englishSynopsis": "Dated parliamentary account of the 1993 approval of the Russian Federation’s eagle. Its historical narrative should be distinguished from original medieval seal evidence and from the later statutory text.",
+    "glossary": [
+      {
+        "term": "state emblem",
+        "english": "identifying design of a state"
+      },
+      {
+        "term": "approval",
+        "english": "the institutional act establishing a design"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "orth-certificate",
+    "area": "Orthodox ecclesiastical heraldry",
+    "language": "en",
+    "holding": "Orthodox Church in America",
+    "titleOriginal": "Certificate of Recognition",
+    "titleEnglish": "Certificate of Recognition",
+    "url": "https://www.oca.org/cdn/PDFs/certificates/certificate-recognition.pdf",
+    "kind": "official document template",
+    "authority": "issuing church body",
+    "englishSynopsis": "Official certificate template includes a place for a parish seal and rector’s signature. It demonstrates a local documentary function for seals; it does not establish a universal system of episcopal arms.",
+    "glossary": [
+      {
+        "term": "parish seal",
+        "english": "seal identifying the local church body"
+      },
+      {
+        "term": "rector",
+        "english": "parish priest with responsibility for the community"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "dk-public",
+    "area": "Denmark",
+    "language": "da",
+    "holding": "Rigsarkivet, State Heraldic Consultant",
+    "titleOriginal": "Kongekronen, rigsvåbenet og offentlig heraldik",
+    "titleEnglish": "The royal crown, state arms and public heraldry",
+    "url": "https://www.rigsarkivet.dk/heraldik/",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Official guidance distinguishes access to state identifying symbols from approval of their graphic rendering. Rigsarkivet has served as State Heraldic Consultant since 1985 and advises on public arms, seals and emblems.",
+    "glossary": [
+      {
+        "term": "rigsvåben",
+        "english": "state coat of arms"
+      },
+      {
+        "term": "statskendetegn",
+        "english": "state identifying symbol"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "dk-guide",
+    "area": "Denmark",
+    "language": "da",
+    "holding": "Rigsarkivet, 2025 guidance",
+    "titleOriginal": "Brug af kongekronen og rigsvåbenet",
+    "titleEnglish": "Use of the royal crown and state arms",
+    "url": "https://www.rigsarkivet.dk/wp-content/uploads/2025/10/Heraldik-vejledning_2025.pdf",
+    "kind": "official graphic guidance",
+    "authority": "official institution",
+    "englishSynopsis": "Graphic guidance specifies the three crowned blue lions and nine red hearts on gold and permits redrawing within heraldic principles. It is a design document for public symbols, not a grant of private armorial entitlement.",
+    "glossary": [
+      {
+        "term": "blasonering",
+        "english": "written heraldic description"
+      },
+      {
+        "term": "nytegnes",
+        "english": "be drawn anew"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "dk-royal-2025",
+    "area": "Denmark, Faroe Islands and Greenland",
+    "language": "en",
+    "holding": "Danish Royal House, 1 January 2025",
+    "titleOriginal": "Establishment of new royal coat of arms",
+    "titleEnglish": "Establishment of new royal coat of arms",
+    "url": "https://www.kongehuset.dk/en/news/establishment-of-new-royal-coat-of-arms",
+    "kind": "dated royal adoption notice",
+    "authority": "official institution",
+    "englishSynopsis": "Notice of the royal resolution of 20 December 2024. Separate fields for the Faroe Islands and Greenland, retention of Schleswig and removal of the three crowns mark a deliberate revision of the royal achievement; this is not a replacement of the simple Danish state shield.",
+    "glossary": [
+      {
+        "term": "Realm",
+        "english": "the political relationship invoked by the notice"
+      },
+      {
+        "term": "field",
+        "english": "division of the shield"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "no-royal",
+    "area": "Norway",
+    "language": "nb",
+    "holding": "Royal House of Norway",
+    "titleOriginal": "Kongevåpenet",
+    "titleEnglish": "The royal coat of arms",
+    "url": "https://www.kongehuset.no/monarkiet/kongelige-symboler/kongevapenet",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "The King’s identifying achievement was established on 30 December 1905 after decisions on the state arms and seal on 14 December. Its surrounding mantle, crown and St Olav order chain distinguish it from the shield alone.",
+    "glossary": [
+      {
+        "term": "kongevåpen",
+        "english": "royal coat of arms"
+      },
+      {
+        "term": "riksvåpen",
+        "english": "state coat of arms"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "no-state",
+    "area": "Norway",
+    "language": "nb",
+    "holding": "Ministry of Foreign Affairs, 8 December 2014",
+    "titleOriginal": "Riksvåpenet",
+    "titleEnglish": "The state coat of arms",
+    "url": "https://www.regjeringen.no/no/dokumenter/riksvapenet/id2342599/",
+    "kind": "official guidance portal",
+    "authority": "official institution",
+    "englishSynopsis": "Official entry point to the state-arms brochure and its historical account. A dated guidance document should be distinguished from the medieval evidence it summarizes.",
+    "glossary": [
+      {
+        "term": "riksvåpen",
+        "english": "state coat of arms"
+      },
+      {
+        "term": "veiledning",
+        "english": "guidance"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "no-military",
+    "area": "Norway",
+    "language": "nb",
+    "holding": "Norwegian Armed Forces, 10 June 2022",
+    "titleOriginal": "Fredag 10. juni er heraldikkens dag",
+    "titleEnglish": "Friday 10 June is heraldry day",
+    "url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/heraldikkens-dag",
+    "kind": "institutional historical explanation",
+    "authority": "official institution",
+    "englishSynopsis": "Institutional explanation dates the crowned lion and martyr’s axe to Eirik Magnusson and identifies the 1937 royal resolution. It provides an accessible military heraldry comparison, not a full edition of medieval sources.",
+    "glossary": [
+      {
+        "term": "martyrøks",
+        "english": "martyr’s axe"
+      },
+      {
+        "term": "forlabbene",
+        "english": "forepaws"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "is-decree",
+    "area": "Iceland",
+    "language": "is",
+    "holding": "Alþingi, decree no. 35 of 17 June 1944",
+    "titleOriginal": "Forsetaúrskurður um skjaldarmerki Íslands",
+    "titleEnglish": "Presidential decree on the coat of arms of Iceland",
+    "url": "https://www.althingi.is/lagas/154c/1944035.html",
+    "kind": "legal text",
+    "authority": "official institution",
+    "englishSynopsis": "Legal description specifies the nested crosses, dimensional relationships, four landvættir supporters and basalt compartment. The decree’s date and its stated entry into force are separate dates.",
+    "glossary": [
+      {
+        "term": "skjaldarmerki",
+        "english": "coat of arms"
+      },
+      {
+        "term": "skjaldberar",
+        "english": "shield bearers or supporters"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "is-history",
+    "area": "Iceland",
+    "language": "is",
+    "holding": "Icelandic Government, Prime Minister’s Office",
+    "titleOriginal": "Saga skjaldarmerkisins",
+    "titleEnglish": "History of the coat of arms",
+    "url": "https://www.stjornarradid.is/default.aspx?PageID=57f0c92c-ab36-11e6-940f-005056bc530c",
+    "kind": "official historical account",
+    "authority": "official institution",
+    "englishSynopsis": "Historical account follows the falcon and 1919 land-spirit achievement into the 1944 republican revision. It attributes the supporters’ narrative source to Heimskringla; modern adoption remains distinct from medieval literary narration.",
+    "glossary": [
+      {
+        "term": "landvættir",
+        "english": "guardian spirits of the land"
+      },
+      {
+        "term": "lýðveldi",
+        "english": "republic"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "is-flags",
+    "area": "Iceland",
+    "language": "is",
+    "holding": "Icelandic Government, Prime Minister’s Office",
+    "titleOriginal": "Fáni Íslands",
+    "titleEnglish": "Flag of Iceland",
+    "url": "https://www.stjornarradid.is/verkefni/stjornskipan-og-thjodartakn/thjodartakn/fani-islands/",
+    "kind": "official graphic guidance",
+    "authority": "official institution",
+    "englishSynopsis": "Official guidance distinguishes national, state and presidential flags and specifies their proportions. A shield carrying the same cross colors is not geometrically identical to the rectangular flag.",
+    "glossary": [
+      {
+        "term": "þjóðfáni",
+        "english": "national flag"
+      },
+      {
+        "term": "ríkisfáni",
+        "english": "state flag"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ch-bern",
+    "area": "Switzerland",
+    "language": "en",
+    "holding": "State Archives of the Canton of Bern",
+    "titleOriginal": "Family coats of arms",
+    "titleEnglish": "Family coats of arms",
+    "url": "https://www.staatsarchiv.sta.be.ch/en/start/fuer-private/familienwappen.html",
+    "kind": "cantonal archive collection guidance",
+    "authority": "official institution",
+    "englishSynopsis": "Cantonal family-armorial collection is organized by place of origin and surname. The archive disclaims liability and states that coats of arms cannot be officially registered or legally protected in the setting described. This is not a comprehensive statement about every Swiss public-symbol law.",
+    "glossary": [
+      {
+        "term": "place of origin",
+        "english": "local civic-family affiliation used by the collection"
+      },
+      {
+        "term": "family coat of arms",
+        "english": "device associated with a documented family"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ch-klingen",
+    "area": "Switzerland",
+    "language": "en",
+    "holding": "Swiss National Museum, 23 December 2020; updated 17 December 2025",
+    "titleOriginal": "In the retinue of the Three Wise Men",
+    "titleEnglish": "In the retinue of the Three Wise Men",
+    "url": "https://blog.nationalmuseum.ch/en/2020/12/in-the-retinue-of-the-three-wise-men/",
+    "kind": "museum historical research account",
+    "authority": "museum-hosted historical research",
+    "englishSynopsis": "Museum research account examines Hohenklingen patronage, a memorial painting and the early-fourteenth-century Zurich armorial. It connects heraldic display with commemorative and familial claims while identifying uncertainty in individual identifications.",
+    "glossary": [
+      {
+        "term": "crest",
+        "english": "device above the helmet"
+      },
+      {
+        "term": "armorial roll",
+        "english": "collection of arms on a roll"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ch-1798",
+    "area": "Switzerland",
+    "language": "en",
+    "holding": "Benno Schubiger, Swiss National Museum, 22 December 2023",
+    "titleOriginal": "Vandalism as a political tool in the Helvetic period",
+    "titleEnglish": "Vandalism as a political tool in the Helvetic period",
+    "url": "https://blog.nationalmuseum.ch/en/2023/12/vandalism-as-a-political-tool-in-the-helvetic-period/",
+    "kind": "museum research synopsis",
+    "authority": "museum-hosted account of published historical research",
+    "englishSynopsis": "Research synopsis follows the removal and concealment of arms in 1798 and later restoration at Solothurn’s Jesuit Church. Restoring an older design creates a later material layer and can obscure the intervening political alteration.",
+    "glossary": [
+      {
+        "term": "reconstruction",
+        "english": "later recreation of lost material"
+      },
+      {
+        "term": "overpainting",
+        "english": "paint applied over an earlier design"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "at-1919",
+    "area": "Austria",
+    "language": "de",
+    "holding": "Republic of Austria, RIS, Act of 3 April 1919",
+    "titleOriginal": "Adelsaufhebungsgesetz",
+    "titleEnglish": "Abolition of Nobility Act",
+    "url": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000036",
+    "kind": "consolidated legal text",
+    "authority": "official institution",
+    "englishSynopsis": "Consolidated legal text abolishing nobility and specified privileges and titles for Austrian citizens. Its implementing provision must be consulted separately for the express reference to family arms.",
+    "glossary": [
+      {
+        "term": "Adel",
+        "english": "nobility"
+      },
+      {
+        "term": "Ehrenvorzüge",
+        "english": "honorary privileges"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "at-implementation",
+    "area": "Austria",
+    "language": "de",
+    "holding": "Republic of Austria, RIS, implementing provision § 2",
+    "titleOriginal": "Durchführung des Adelsaufhebungsgesetzes § 2",
+    "titleEnglish": "Implementation of the Abolition of Nobility Act, section 2",
+    "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Bundesnormen&Dokumentnummer=NOR12000672",
+    "kind": "consolidated legal provision",
+    "authority": "official institution",
+    "englishSynopsis": "The provision expressly includes the right to bear family arms, including arms it characterizes as incorrectly called bourgeois. This prevents replacing the Austrian rule with a simple German-style assertion that private arms are unrestricted. Application and case law require further research.",
+    "glossary": [
+      {
+        "term": "Familienwappen",
+        "english": "family arms"
+      },
+      {
+        "term": "Führung",
+        "english": "bearing or use in the legal context"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "at-state",
+    "area": "Austria",
+    "language": "de",
+    "holding": "Republic of Austria, RIS, Wappengesetz of 28 March 1984",
+    "titleOriginal": "Wappengesetz",
+    "titleEnglish": "Coat of Arms Act",
+    "url": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000782",
+    "kind": "consolidated legal text",
+    "authority": "official institution",
+    "englishSynopsis": "Federal public-symbol statute distinguishes official bearing of the arms from use of reproductions and describes the state seal and service flag. Sections 4 and 7 require separate reading rather than treating every image as an exercise of state authority.",
+    "glossary": [
+      {
+        "term": "Bundeswappen",
+        "english": "federal coat of arms"
+      },
+      {
+        "term": "Hoheitszeichen",
+        "english": "sovereign or public-authority symbol"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "at-targe",
+    "area": "Austria",
+    "language": "en",
+    "holding": "Metropolitan Museum of Art",
+    "titleOriginal": "Tournament or Cavalry Shield (Targe)",
+    "titleEnglish": "Tournament or Cavalry Shield (Targe)",
+    "url": "https://www.metmuseum.org/art/collection/search/23353",
+    "kind": "museum object catalogue",
+    "authority": "official institution",
+    "englishSynopsis": "Museum catalogue tentatively connects the arms on a shield from Reifenstein with either the von Meissau or Eglauer family. The castle’s Teutonic Order ownership does not prove that every shield from it bore the Order’s arms.",
+    "glossary": [
+      {
+        "term": "targe",
+        "english": "shield type"
+      },
+      {
+        "term": "banderole",
+        "english": "ribbon bearing text"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ee-state",
+    "area": "Estonia",
+    "language": "et",
+    "holding": "Government Office of Estonia",
+    "titleOriginal": "Riigivapp",
+    "titleEnglish": "State coat of arms",
+    "url": "https://riigikantselei.ee/riiklikud-sumbolid-preemiad-ja-tahtpaevad/riigisumbolid/riigivapp",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Official Estonian guidance distinguishes the large and small state arms and their functions. It also points to standard images and registration of official seal and document-form specimens.",
+    "glossary": [
+      {
+        "term": "riigivapp",
+        "english": "state coat of arms"
+      },
+      {
+        "term": "suur riigivapp",
+        "english": "large state coat of arms"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ee-seal",
+    "area": "Estonia",
+    "language": "en",
+    "holding": "Government Office of Estonia, Stenbock House",
+    "titleOriginal": "State Seal Hall",
+    "titleEnglish": "State Seal Hall",
+    "url": "https://www.riigikantselei.ee/en/stenbock-house/stenbock-house/state-seal-hall",
+    "kind": "institutional material-history account",
+    "authority": "official institution",
+    "englishSynopsis": "Institutional history follows the 1925 seal, renewed seal after restoration of independence, and recovery of earlier dies in 2008. Surviving tools, later manufacture and continuity of the state design are distinguishable histories.",
+    "glossary": [
+      {
+        "term": "punch die",
+        "english": "tool used in manufacture of the seal"
+      },
+      {
+        "term": "Keeper of the State Seal",
+        "english": "office responsible for custody"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ee-knighthood",
+    "area": "Estonia",
+    "language": "en",
+    "holding": "Government Office of Estonia, Estonian Statehood House",
+    "titleOriginal": "Collection of Coats of Arms of the Noble Families of the Estonian Knighthood",
+    "titleEnglish": "Collection of Coats of Arms of the Noble Families of the Estonian Knighthood",
+    "url": "https://www.riigikantselei.ee/en/collection-coats-arms-noble-families-estonian-knighthood",
+    "kind": "historical collection account",
+    "authority": "official institution",
+    "englishSynopsis": "Collection account identifies 280 plaques representing 254 families and their historical admission/display setting. Plaque counts, family counts and all families in the knighthood are different denominators.",
+    "glossary": [
+      {
+        "term": "matriculation",
+        "english": "formal entry in the historical corporate list"
+      },
+      {
+        "term": "plaque",
+        "english": "physical armorial display object"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ee-identity",
+    "area": "Estonia",
+    "language": "en",
+    "holding": "Government Office of Estonia",
+    "titleOriginal": "Style guide of the visual identity of government agencies",
+    "titleEnglish": "Style guide of the visual identity of government agencies",
+    "url": "https://www.riigikantselei.ee/en/node/101",
+    "kind": "official graphic guidance",
+    "authority": "official institution",
+    "englishSynopsis": "Government identity guidance distinguishes the national arms from the derived three-lions logo and assigns them to different media. Shared figures do not make the graphic forms interchangeable.",
+    "glossary": [
+      {
+        "term": "visual identity",
+        "english": "coordinated institutional graphic system"
+      },
+      {
+        "term": "derived logo",
+        "english": "graphic mark developed from another device"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "au-commonwealth",
+    "area": "Australia",
+    "language": "en",
+    "holding": "Department of the Prime Minister and Cabinet",
+    "titleOriginal": "Commonwealth Coat of Arms",
+    "titleEnglish": "Commonwealth Coat of Arms",
+    "url": "https://www.pmc.gov.au/honours-and-symbols/commonwealth-coat-arms",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Official account distinguishes the 1908 and 1912 warrants, identifies the present arms, and explains permission and reproduction requirements. Commonwealth public arms are not a private family grant.",
+    "glossary": [
+      {
+        "term": "Royal Warrant",
+        "english": "formal instrument establishing the arms"
+      },
+      {
+        "term": "Commonwealth",
+        "english": "the federal legal entity in this setting"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "au-symbols",
+    "area": "Australia",
+    "language": "en",
+    "holding": "Department of the Prime Minister and Cabinet, Australian Symbols booklet",
+    "titleOriginal": "Commonwealth Coat of Arms — Australian Symbols booklet",
+    "titleEnglish": "Commonwealth Coat of Arms — Australian Symbols booklet",
+    "url": "https://www.pmc.gov.au/resources/australian-symbols-booklet/national-symbols/commonwealth-coat-arms",
+    "kind": "official educational publication",
+    "authority": "official institution",
+    "englishSynopsis": "Official educational account identifies the state devices within the federal shield and the surrounding Australian flora and fauna. The explanatory symbolism remains an attributed institutional account.",
+    "glossary": [
+      {
+        "term": "Commonwealth Star",
+        "english": "star referring to states and territories"
+      },
+      {
+        "term": "livery colours",
+        "english": "identifying colors of the arms"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "au-guidelines",
+    "area": "Australia",
+    "language": "en",
+    "holding": "Department of the Prime Minister and Cabinet",
+    "titleOriginal": "Commonwealth Coat of Arms Information and Guidelines",
+    "titleEnglish": "Commonwealth Coat of Arms Information and Guidelines",
+    "url": "https://www.pmc.gov.au/resources/commonwealth-coat-arms-information-and-guidelines",
+    "kind": "official use guidance",
+    "authority": "official institution",
+    "englishSynopsis": "Guidance defines the Commonwealth legal entity and describes authorized and permission-based uses. Copyright or image availability should not be confused with permission to use a public emblem as one’s own identifying mark.",
+    "glossary": [
+      {
+        "term": "authorised use",
+        "english": "use permitted by the governing guidance"
+      },
+      {
+        "term": "authority",
+        "english": "public status signified by the device"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "nz-arms",
+    "area": "New Zealand",
+    "language": "en",
+    "holding": "Manatū Taonga, Ministry for Culture and Heritage",
+    "titleOriginal": "Coat of Arms",
+    "titleEnglish": "Coat of Arms",
+    "url": "https://www.mch.govt.nz/our-work/flags-anthems-and-emblems/coat-arms",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Official account of the 1911 warrant and 1956 revision, including the change from hei tiki to kapeu and the distinction between the national arms’ St Edward’s Crown and the sovereign’s personal Tudor Crown use. The source’s left/right description is a viewer-facing explanation.",
+    "glossary": [
+      {
+        "term": "kapeu",
+        "english": "greenstone ear pendant in the revised supporter"
+      },
+      {
+        "term": "taiaha",
+        "english": "Māori weapon carried by the supporter"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "nz-1911",
+    "area": "New Zealand",
+    "language": "en",
+    "holding": "NZHistory, Manatū Taonga",
+    "titleOriginal": "New Zealand Coat of Arms 1911–1956",
+    "titleEnglish": "New Zealand Coat of Arms 1911–1956",
+    "url": "https://nzhistory.govt.nz/media/photo/new-zealand-coat-arms-1911-1956",
+    "kind": "official historical account",
+    "authority": "official institution",
+    "englishSynopsis": "Historical account identifies the 26 August 1911 warrant and 11 January 1912 Gazette publication. It states that competition submissions survived in Archives New Zealand, contrary to a story that they were destroyed by fire.",
+    "glossary": [
+      {
+        "term": "dexter",
+        "english": "bearer’s right"
+      },
+      {
+        "term": "sinister",
+        "english": "bearer’s left"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "nz-protection",
+    "area": "New Zealand",
+    "language": "en",
+    "holding": "Parliamentary Counsel Office, section 13",
+    "titleOriginal": "Flags, Emblems, and Names Protection Act 1981",
+    "titleEnglish": "Flags, Emblems, and Names Protection Act 1981",
+    "url": "https://www.legislation.govt.nz/act/public/2015/66/en/latest/sections/DLM6405450/DLM52216/",
+    "kind": "consolidated legal provision",
+    "authority": "official institution",
+    "englishSynopsis": "Consulted consolidated section concerns use likely to imply government authority, sanction or patronage and lists exceptions. This provision requires context of use; it is not an assertion that every educational depiction is identically prohibited.",
+    "glossary": [
+      {
+        "term": "State emblems",
+        "english": "public identifying devices specified in the section"
+      },
+      {
+        "term": "prior written consent",
+        "english": "one statutory authorization route"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "be-french",
+    "area": "Belgium",
+    "language": "fr",
+    "holding": "Fédération Wallonie-Bruxelles, Direction du Patrimoine culturel",
+    "titleOriginal": "Armoiries et drapeaux",
+    "titleEnglish": "Coats of arms and flags",
+    "url": "https://patrimoineculturel.cfwb.be/reconnaissances-subventions/armoiries-et-drapeaux/",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "French Community service explains registration for cities, communes, individuals and family associations. Separate forms concern pre-existing and new arms. Its community jurisdiction must not be silently expanded to all Belgium.",
+    "glossary": [
+      {
+        "term": "personne physique",
+        "english": "individual or natural person"
+      },
+      {
+        "term": "association familiale",
+        "english": "family association"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "be-publications",
+    "area": "Belgium",
+    "language": "fr",
+    "holding": "Fédération Wallonie-Bruxelles, Direction du Patrimoine culturel",
+    "titleOriginal": "Publications Héraldique",
+    "titleEnglish": "Heraldic publications",
+    "url": "https://patrimoineculturel.cfwb.be/fr/publications/publications-heraldique/",
+    "kind": "official publication catalogue",
+    "authority": "official institution",
+    "englishSynopsis": "Publication account describes armorial volumes recording registration acts. Counts of acts across defined years are distinct from counts of all Belgian armigerous families.",
+    "glossary": [
+      {
+        "term": "arrêté",
+        "english": "formal order or administrative act"
+      },
+      {
+        "term": "enregistrement",
+        "english": "registration"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "be-inventory",
+    "area": "Belgium",
+    "language": "fr",
+    "holding": "Fédération Wallonie-Bruxelles, Direction du Patrimoine culturel",
+    "titleOriginal": "Inventaire héraldique",
+    "titleEnglish": "Heraldic inventory",
+    "url": "https://patrimoineculturel.cfwb.be/fr/inventaire-heraldique/",
+    "kind": "official register portal; indexed access",
+    "authority": "official institution",
+    "englishSynopsis": "Official searchable inventory separates bearer type, emblem and registration status. Some filtered requests were rejected during consultation; the chapter treats indexed descriptions as discovery evidence and does not claim a full original entry transcription.",
+    "glossary": [
+      {
+        "term": "titulaire",
+        "english": "bearer or holder"
+      },
+      {
+        "term": "en vigueur",
+        "english": "in force"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ge-department",
+    "area": "Georgia",
+    "language": "en",
+    "holding": "LEPL Department of State Symbols and Heraldry of Georgia",
+    "titleOriginal": "Heraldica — Main",
+    "titleEnglish": "Heraldica — Main",
+    "url": "https://www.heraldika.ge/?lng=eng",
+    "kind": "official heraldic portal",
+    "authority": "official institution",
+    "englishSynopsis": "Official department portal separates state, municipal, autonomous-republic and institutional symbols, historical arms and other research collections. The modern department’s remit should not be treated as evidence of an unchanged medieval office.",
+    "glossary": [
+      {
+        "term": "municipality",
+        "english": "local-government bearer"
+      },
+      {
+        "term": "institutional symbol",
+        "english": "device of a specific body"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ge-symbol-law",
+    "area": "Georgia",
+    "language": "en",
+    "holding": "Legislative Herald of Georgia, Article 3",
+    "titleOriginal": "Law of Georgia on State Symbols",
+    "titleEnglish": "Law of Georgia on State Symbols",
+    "url": "https://new.matsne.gov.ge/ka/document/view/4368486?impose=translateEn",
+    "kind": "official English translation of legal text",
+    "authority": "official institution",
+    "englishSynopsis": "Consulted official English translation describes full and small arms with Saint George, Georgian crown and different surrounding components. It renders the field as “purple”; a technical tincture classification requires comparison with Georgian wording and the statutory model.",
+    "glossary": [
+      {
+        "term": "small state coat of arms",
+        "english": "reduced prescribed public form"
+      },
+      {
+        "term": "Mkhedruli",
+        "english": "Georgian script named in the motto description"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ge-use-law",
+    "area": "Georgia",
+    "language": "en",
+    "holding": "Legislative Herald of Georgia, Articles 12–14",
+    "titleOriginal": "Law of Georgia on the Procedure for Use of the State Symbols of Georgia",
+    "titleEnglish": "Law of Georgia on the Procedure for Use of the State Symbols of Georgia",
+    "url": "https://new.matsne.gov.ge/en/document/view/4370734?fullscreen=1&impose=parallelEn",
+    "kind": "official English translation of legal text",
+    "authority": "official institution",
+    "englishSynopsis": "Official English legal text assigns full and small arms to defined public bodies, media and circumstances. Composition and authorized use are regulated through distinct provisions.",
+    "glossary": [
+      {
+        "term": "scope of use",
+        "english": "bodies and contexts specified for a device"
+      },
+      {
+        "term": "official document",
+        "english": "document issued in a defined institutional function"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "am-symbols",
+    "area": "Armenia",
+    "language": "en",
+    "holding": "President of the Republic of Armenia",
+    "titleOriginal": "State symbols of the Republic of Armenia",
+    "titleEnglish": "State symbols of the Republic of Armenia",
+    "url": "https://www.president.am/en/state-symbols/",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Official account connects the present composition with the First Republic design by Alexander Tamanian and Hakob Kojoyan and dates the 1992 and 2006 legislation. Its historical-dynasty identifications describe the modern national representation, not proof of identical ancient coats of arms.",
+    "glossary": [
+      {
+        "term": "national emblem",
+        "english": "state identifying design"
+      },
+      {
+        "term": "historical dynasty",
+        "english": "lineage represented in the modern account"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "am-constitution",
+    "area": "Armenia",
+    "language": "en",
+    "holding": "President of the Republic of Armenia, Constitution, Article 21",
+    "titleOriginal": "Constitution of the Republic of Armenia",
+    "titleEnglish": "Constitution of the Republic of Armenia",
+    "url": "https://president.am/en/constitution-2015/",
+    "kind": "official English constitutional text",
+    "authority": "official institution",
+    "englishSynopsis": "Article 21 defines principal components of the state arms and assigns detailed description to law. Constitutional outline and statutory graphic detail need separate citations.",
+    "glossary": [
+      {
+        "term": "symbols",
+        "english": "constitutionally identified national devices"
+      },
+      {
+        "term": "prescribed by law",
+        "english": "detail assigned to a further legal instrument"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "am-coin",
+    "area": "Armenia",
+    "language": "en",
+    "holding": "Metropolitan Museum of Art, loan L.2008.68.1",
+    "titleOriginal": "Tram from the Joint Rule of King Het‘um I and Queen Zabel (1229–52)",
+    "titleEnglish": "Tram from the Joint Rule of King Het‘um I and Queen Zabel (1229–52)",
+    "url": "https://www.metmuseum.org/art/collection/search/478409",
+    "kind": "museum object catalogue",
+    "authority": "official institution",
+    "englishSynopsis": "Silver coin depicts a royal couple and a lion with a cross. Museum interpretation connects the paired rulers with the marriage through which the Hetumid family gained power. The object is a loan, and no image-reproduction licence is assumed.",
+    "glossary": [
+      {
+        "term": "tram",
+        "english": "coin denomination"
+      },
+      {
+        "term": "joint rule",
+        "english": "authority represented by the paired rulers"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "mx-archive",
+    "area": "Mexico",
+    "language": "es",
+    "holding": "Archivo General de la Nación, 12 May 2023",
+    "titleOriginal": "Un nuevo escudo para una nueva nación: la creación de un símbolo de identidad mexicana",
+    "titleEnglish": "A new coat of arms for a new nation: creating a symbol of Mexican identity",
+    "url": "https://www.gob.mx/agn/es/articulos/un-nuevo-escudo-para-una-nueva-nacion-la-creacion-de-un-simbolo-de-identidad-mexicana?idiom=es",
+    "kind": "archive historical account",
+    "authority": "official institution",
+    "englishSynopsis": "Archive account links colonial civic and personal armory, the 1786 Texcoco witness, insurgent eagle seals and nineteenth-century national decisions. Captioned attributed dates must be retained rather than upgraded to independent authentication.",
+    "glossary": [
+      {
+        "term": "escudo",
+        "english": "shield or coat of arms, according to context"
+      },
+      {
+        "term": "nopal",
+        "english": "prickly-pear cactus"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "mx-law",
+    "area": "Mexico",
+    "language": "es",
+    "holding": "Secretaría de Gobernación, legal text with reforms through 1 April 2024",
+    "titleOriginal": "Ley sobre el Escudo, la Bandera y el Himno Nacionales",
+    "titleEnglish": "Law on the National Coat of Arms, Flag and Anthem",
+    "url": "https://ordenjuridico.gob.mx/Documentos/Federal/html/wo13243.html",
+    "kind": "official consolidated legal witness",
+    "authority": "official institution",
+    "englishSynopsis": "Consulted legal witness of the national-symbol law first published in 1984. It defines a present public-symbol framework distinct from colonial grants and older independence-period uses.",
+    "glossary": [
+      {
+        "term": "símbolos patrios",
+        "english": "national symbols"
+      },
+      {
+        "term": "difusión",
+        "english": "dissemination or public communication"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "mx-military",
+    "area": "Mexico",
+    "language": "es",
+    "holding": "Secretaría de la Defensa Nacional",
+    "titleOriginal": "Heráldica militar",
+    "titleEnglish": "Military heraldry",
+    "url": "https://www.gob.mx/defensa/documentos/heraldica-militar",
+    "kind": "official subject portal",
+    "authority": "official institution",
+    "englishSynopsis": "Military institution’s heraldry portal supplies a separate research route for organized armed-forces symbolism. A portal description should not be cited as if a full unpublished unit adoption file had been inspected.",
+    "glossary": [
+      {
+        "term": "heráldica militar",
+        "english": "military heraldry"
+      },
+      {
+        "term": "unidad",
+        "english": "unit"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ph-code",
+    "area": "Philippines",
+    "language": "en",
+    "holding": "Republic Act 8491, 12 February 1998; Lawphil statutory witness",
+    "titleOriginal": "Republic Act No. 8491 — Flag and Heraldic Code of the Philippines",
+    "titleEnglish": "Republic Act No. 8491 — Flag and Heraldic Code of the Philippines",
+    "url": "https://lawphil.net/statutes/repacts/ra1998/ra_8491_1998.html",
+    "kind": "primary statutory text in legal-research repository",
+    "authority": "enacted statutory text; hosted by Lawphil",
+    "englishSynopsis": "Statutory text distinguishes the national arms, Great Seal and government heraldic items. Sections 44–46 describe institutional adoption, recording, evaluation and manufacturing oversight. The historical text’s National Historical Institute name must be distinguished from the present NHCP.",
+    "glossary": [
+      {
+        "term": "point of honor",
+        "english": "named shield position in the statutory description"
+      },
+      {
+        "term": "heraldic items",
+        "english": "range of devices covered by the code"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ph-memory",
+    "area": "Philippines",
+    "language": "en",
+    "holding": "National Historical Commission of the Philippines",
+    "titleOriginal": "National Memory Project",
+    "titleEnglish": "National Memory Project",
+    "url": "https://memory.nhcp.gov.ph/",
+    "kind": "official collection portal",
+    "authority": "official institution",
+    "englishSynopsis": "Official public project includes Philippine heraldry among its collections and identifies the NHCP’s mandate under Republic Act 10086. Collection availability is a discovery route, not proof that every record has the same rights or review history.",
+    "glossary": [
+      {
+        "term": "registry",
+        "english": "organized public collection of records"
+      },
+      {
+        "term": "heraldry",
+        "english": "institutional subject category in this project"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ph-dilg",
+    "area": "Philippines",
+    "language": "en",
+    "holding": "National Historical Commission of the Philippines, heraldry registry",
+    "titleOriginal": "Department of the Interior and Local Government",
+    "titleEnglish": "Department of the Interior and Local Government",
+    "url": "https://memory.nhcp.gov.ph/ph-heraldry-registry/department-of-the-interior-and-local-government/",
+    "kind": "official registry entry",
+    "authority": "official institution",
+    "englishSynopsis": "Defined registry entry offers a reproducible institutional-device case. The chapter uses its catalogue identity and keeps the full adoption file, date verification and image licence as separate research requirements.",
+    "glossary": [
+      {
+        "term": "department",
+        "english": "government body identified by the entry"
+      },
+      {
+        "term": "seal",
+        "english": "institutional identifying device"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "lu-symbols",
+    "area": "Luxembourg",
+    "language": "en",
+    "holding": "Government of Luxembourg",
+    "titleOriginal": "National symbols",
+    "titleEnglish": "National symbols",
+    "url": "https://luxembourg.public.lu/en/societe-et-culture/systeme-politique/symboles-nationaux.html",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Official account specifies the ten-part silver-and-blue field, red lion with forked crossed tail, and three grades of arms. Its medieval history is a later institutional synthesis, distinct from original seals.",
+    "glossary": [
+      {
+        "term": "barruly",
+        "english": "field divided into narrow horizontal alternating pieces"
+      },
+      {
+        "term": "forked tail",
+        "english": "tail divided into two branches"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "lu-booklet",
+    "area": "Luxembourg",
+    "language": "fr",
+    "holding": "Service Information et Presse, September 2003, ISBN 2-87999-043-2",
+    "titleOriginal": "À propos… Symboles de l’État et de la Nation",
+    "titleEnglish": "About… Symbols of the state and nation",
+    "url": "https://luxembourg.public.lu/dam-assets/publications/a-propos-des-symboles-de-l-etat-et-de-la-nation/a-propos-des-symboles-de-l-etat-et-de-la-nation-fr.pdf",
+    "kind": "dated multilingual official publication",
+    "authority": "official institution",
+    "englishSynopsis": "Multilingual government booklet identifies the three forms and the heraldic commission within the national-symbol framework. Parallel French, German and English descriptions allow comparison of technical equivalents; the booklet is a dated explanatory witness.",
+    "glossary": [
+      {
+        "term": "burelé",
+        "english": "divided into multiple narrow horizontal pieces"
+      },
+      {
+        "term": "queue fourchue et passée en sautoir",
+        "english": "forked tail with branches crossed in saltire"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "sk-register",
+    "area": "Slovakia",
+    "language": "sk",
+    "holding": "Ministry of the Interior of the Slovak Republic",
+    "titleOriginal": "Vyhľadávanie v heraldickom registri Slovenskej republiky",
+    "titleEnglish": "Search the Heraldic Register of the Slovak Republic",
+    "url": "https://ives.minv.sk/heraldreg/",
+    "kind": "official register portal",
+    "authority": "official institution",
+    "englishSynopsis": "Official search interface distinguishes legal and natural persons and provides local administrative filters. Search categories reveal the register’s bearer types but do not establish the legal effect of every entry.",
+    "glossary": [
+      {
+        "term": "právnická osoba",
+        "english": "legal person or corporate body"
+      },
+      {
+        "term": "fyzická osoba",
+        "english": "natural person or individual"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "sk-application",
+    "area": "Slovakia",
+    "language": "sk",
+    "holding": "IVES, governmental information-system provider",
+    "titleOriginal": "HERALDREG — Heraldický register",
+    "titleEnglish": "HERALDREG — Heraldic Register",
+    "url": "https://www.ives.sk/portal/apv/heraldreg",
+    "kind": "official system description",
+    "authority": "official institution",
+    "englishSynopsis": "Provider describes separate editorial and public components. Public fields include blazon, authors and signature or register reference; the public interface is a selection from a larger administrative record.",
+    "glossary": [
+      {
+        "term": "blazón",
+        "english": "blazon"
+      },
+      {
+        "term": "signatúra",
+        "english": "record reference in this context"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "sk-state",
+    "area": "Slovakia",
+    "language": "sk",
+    "holding": "Slov-Lex, law 63/1993, consulted version effective 23 April 2025",
+    "titleOriginal": "Zákon o štátnych symboloch Slovenskej republiky a ich používaní",
+    "titleEnglish": "Law on the state symbols of the Slovak Republic and their use",
+    "url": "https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1993/63/?ucinnost=23.04.2025",
+    "kind": "dated consolidated statutory text",
+    "authority": "official institution",
+    "englishSynopsis": "Statutory description gives the silver double cross on a blue triple mount in a red early-Gothic shield. It distinguishes the state device and its sign and explicitly covers digital representation.",
+    "glossary": [
+      {
+        "term": "štátny znak",
+        "english": "state coat of arms or state device"
+      },
+      {
+        "term": "dvojitý kríž",
+        "english": "double cross"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "bg-law",
+    "area": "Bulgaria",
+    "language": "bg",
+    "holding": "National Assembly of Bulgaria, law published 4 August 1997",
+    "titleOriginal": "Герб на Република България",
+    "titleEnglish": "Coat of arms of the Republic of Bulgaria",
+    "url": "https://www.parliament.bg/bg/20",
+    "kind": "official statutory excerpt",
+    "authority": "official institution",
+    "englishSynopsis": "Official law excerpt describes the crowned gold lion, supporters, crown, oak-branch compartment and motto. Its English counterparts use some awkward technical equivalents; the Bulgarian text remains the primary language witness.",
+    "glossary": [
+      {
+        "term": "герб",
+        "english": "coat of arms"
+      },
+      {
+        "term": "щит",
+        "english": "shield"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "al-symbols",
+    "area": "Albania",
+    "language": "sq",
+    "holding": "Ministry for Europe and Foreign Affairs, diplomatic portal",
+    "titleOriginal": "Simbolet kombëtare",
+    "titleEnglish": "National symbols",
+    "url": "https://ambasadat.gov.al/munich/simbolet-kombetare/",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Official Albanian account distinguishes the black double-headed eagle on red in the flag from the shield composition that includes Skanderbeg’s gold helmet. Read it alongside the constitutional text: the diplomatic explanation identifies the components but does not replace the underlying legal instrument.",
+    "glossary": [
+      {
+        "term": "stema",
+        "english": "coat of arms or emblem"
+      },
+      {
+        "term": "përkrenarja",
+        "english": "helmet"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "al-helmet",
+    "area": "Albania",
+    "language": "en",
+    "holding": "Kunsthistorisches Museum, Imperial Armoury, A 127",
+    "titleOriginal": "Skanderbeg-Helm",
+    "titleEnglish": "Skanderbeg helmet",
+    "url": "https://www.khm.at/en/artworks/skanderbeg-helm-371645",
+    "kind": "museum object catalogue",
+    "authority": "official institution",
+    "englishSynopsis": "Object catalogue dates and describes the helmet’s surviving construction and its appearance in the 1593 and 1596 Ambras inventories. Association with a historical hero and modern use of a stylized helmet require separate evidence.",
+    "glossary": [
+      {
+        "term": "sallet",
+        "english": "helmet type"
+      },
+      {
+        "term": "inventory",
+        "english": "dated collection list"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "me-constitution",
+    "area": "Montenegro",
+    "language": "en",
+    "holding": "Government of Montenegro, Constitution, Article 4",
+    "titleOriginal": "State symbols — Article 4",
+    "titleEnglish": "State symbols — Article 4",
+    "url": "https://wapi.gov.me/download/2489436c-8a43-4c6b-9981-8af44719f19f?version=1.0",
+    "kind": "official English constitutional text",
+    "authority": "official institution",
+    "englishSynopsis": "Official constitutional witness defines the gold double-headed eagle with a lion on its chest and the flag and anthem. Its brief description is distinct from detailed rendering and use provisions.",
+    "glossary": [
+      {
+        "term": "state symbols",
+        "english": "constitutionally defined public devices"
+      },
+      {
+        "term": "coat of arms",
+        "english": "national identifying composition"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ba-decision",
+    "area": "Bosnia and Herzegovina",
+    "language": "en",
+    "holding": "Office of the High Representative, 18 May 1998",
+    "titleOriginal": "Decision on the shape and design of the coat-of-arms of BiH",
+    "titleEnglish": "Decision on the shape and design of the coat-of-arms of BiH",
+    "url": "https://www.ohr.int/decision-on-the-shape-and-design-of-the-coat-of-arms-of-bih/?print=print",
+    "kind": "primary adoption instrument",
+    "authority": "official institution",
+    "englishSynopsis": "Dated decision brings the law into force on an interim basis and describes the shield, yellow triangle and white stars. The institutional route of enactment is part of the emblem’s history, not an incidental footnote.",
+    "glossary": [
+      {
+        "term": "interim basis",
+        "english": "provisional legal operation as stated in the act"
+      },
+      {
+        "term": "Annex",
+        "english": "graphic material incorporated into the instrument"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "mk-research",
+    "area": "North Macedonia",
+    "language": "en",
+    "holding": "Macedonian Heraldic Society; original research on 1992–2014 proposals",
+    "titleOriginal": "The Coats of Arms and Other Forms of State Emblem Proposed for the Republic of Macedonia, and the Process of Their Adoption, 1992–2014",
+    "titleEnglish": "The Coats of Arms and Other Forms of State Emblem Proposed for the Republic of Macedonia, and the Process of Their Adoption, 1992–2014",
+    "url": "https://heraldika.org.mk/en/news/english-the-coats-of-arms-and-other-forms-of-state-emblem-proposed-for-the-republic-of-macedonia-and-the-process-of-their-adoption-1992-2014/",
+    "kind": "original historical research account",
+    "authority": "specialist researcher and heraldic society",
+    "englishSynopsis": "Research account distinguishes proposals from adoption and describes the 2009 removal of the red star while retaining the surrounding landscape-and-crop composition. The historical Republic of Macedonia name is retained in the publication title.",
+    "glossary": [
+      {
+        "term": "proposal",
+        "english": "design offered for consideration"
+      },
+      {
+        "term": "state emblem",
+        "english": "public identifying composition, including forms without a shield"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "cl-1834",
+    "area": "Chile",
+    "language": "es",
+    "holding": "Biblioteca del Congreso Nacional, law of 26 June 1834",
+    "titleOriginal": "Escudo de armas",
+    "titleEnglish": "Coat of arms",
+    "url": "https://www.bcn.cl/leychile/navegar?i=229390",
+    "kind": "official historical statutory text",
+    "authority": "official institution",
+    "englishSynopsis": "Original statutory witness describes the divided blue-and-red field, silver star, tricolor feather arrangement and huemul and condor with naval crowns. It establishes the 1834 text, not every later graphic standard or motto addition.",
+    "glossary": [
+      {
+        "term": "huemul",
+        "english": "South Andean deer named as supporter"
+      },
+      {
+        "term": "corona naval",
+        "english": "naval crown"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "pe-atlas",
+    "area": "Peru",
+    "language": "es",
+    "holding": "Instituto Geográfico Nacional, Atlas Digital del Perú",
+    "titleOriginal": "El Escudo Nacional",
+    "titleEnglish": "The national coat of arms",
+    "url": "https://app4.ign.gob.pe/capitulos/uno/estado.php",
+    "kind": "official atlas account",
+    "authority": "official institution",
+    "englishSynopsis": "Official atlas account describes the vicuña, cinchona tree and cornucopia and relates them to the three natural kingdoms. Compare its older description with law 32251 of 2025 rather than assuming every explanatory page is synchronized.",
+    "glossary": [
+      {
+        "term": "vicuña",
+        "english": "Andean camelid"
+      },
+      {
+        "term": "árbol de la quina",
+        "english": "cinchona tree"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "pe-2025",
+    "area": "Peru",
+    "language": "es",
+    "holding": "El Peruano, law 32251, published 19 January 2025, Articles 5, 9 and 11",
+    "titleOriginal": "Ley que unifica y armoniza la regulación de los símbolos de la patria, símbolos del estado y emblemas nacionales",
+    "titleEnglish": "Law unifying and harmonizing the regulation of national symbols, state symbols and national emblems",
+    "url": "https://busquedas.elperuano.pe/dispositivo/NL/2363369-4",
+    "kind": "primary statutory publication",
+    "authority": "official institution",
+    "englishSynopsis": "Primary legal text distinguishes escudo nacional, escudo de armas and the great state seal, including different surrounding arrangements and use provisions. The chapter reports the specified distinction without pretending the atlas’s older description is the current legal detail.",
+    "glossary": [
+      {
+        "term": "escudo nacional",
+        "english": "national arms as the law defines them"
+      },
+      {
+        "term": "escudo de armas",
+        "english": "separately defined armorial form in this law"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "co-symbols",
+    "area": "Colombia",
+    "language": "es",
+    "holding": "Ministry of Foreign Affairs",
+    "titleOriginal": "Símbolos patrios y otros datos de interés",
+    "titleEnglish": "National symbols and other information",
+    "url": "https://cancilleria.gov.co/politica-exterior/simbolos-patrios-y-otros-datos-de-interes",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Official explanation describes the pomegranate, cornucopias, liberty cap, maritime arrangement and condor. Its use of platino for the middle field is retained as source vocabulary rather than automatically made into a universal heraldic metal rule.",
+    "glossary": [
+      {
+        "term": "granada",
+        "english": "pomegranate; also a historical name reference"
+      },
+      {
+        "term": "gorro frigio",
+        "english": "Phrygian cap"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "jm-arms",
+    "area": "Jamaica",
+    "language": "en",
+    "holding": "Jamaica Information Service",
+    "titleOriginal": "Coat of Arms",
+    "titleEnglish": "Coat of Arms",
+    "url": "https://jis.gov.jm/information/symbols/jamaican-coat-of-arms/",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Official account describes Taíno supporters, a red cross with five pineapples and crocodile crest, alongside the national motto. The representation of Indigenous people does not by itself establish their participation in the original design.",
+    "glossary": [
+      {
+        "term": "Taíno",
+        "english": "people identified in the supporter explanation"
+      },
+      {
+        "term": "crest",
+        "english": "crocodile device above the helmet"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "jm-report",
+    "area": "Jamaica",
+    "language": "en",
+    "holding": "Government national-symbols report hosted by Jamaica Information Service",
+    "titleOriginal": "Report on National Symbols",
+    "titleEnglish": "Report on National Symbols",
+    "url": "https://jis.gov.jm/media/2021/11/Report-on-National-Symbols-.pdf",
+    "kind": "official review report",
+    "authority": "official institution",
+    "englishSynopsis": "Official report discusses the decision to retain earlier arms at independence and subsequent debates. It is a later review witness; historical attributions in its narrative still require comparison with original grant records.",
+    "glossary": [
+      {
+        "term": "Arms of State",
+        "english": "term used for the public bearer’s device"
+      },
+      {
+        "term": "retention",
+        "english": "continued use following a political change"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ke-college",
+    "area": "Kenya",
+    "language": "en",
+    "holding": "Kenya Law, Chapter 98, revised edition 2009",
+    "titleOriginal": "The College of Arms Act",
+    "titleEnglish": "The College of Arms Act",
+    "url": "https://kenyalaw.org/kl/fileadmin/pdfdownloads/Acts/CollegeofArmsCap98.pdf",
+    "kind": "dated consolidated statute",
+    "authority": "official institution",
+    "englishSynopsis": "Statute commencing in 1968 establishes the Kenyan College, grant and registration functions, foreign-grant registration and evidential provisions. The consulted PDF is a dated consolidation, not current fee advice. Its scheduled forms retain fee notes differing from the operative fee paragraph.",
+    "glossary": [
+      {
+        "term": "grantee",
+        "english": "recipient named in a grant"
+      },
+      {
+        "term": "registrar",
+        "english": "official responsible for the register"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ke-rules",
+    "area": "Kenya",
+    "language": "en",
+    "holding": "Kenya Law, Legal Notice 157 of 1968, consulted 2022 consolidation",
+    "titleOriginal": "The College of Arms Rules",
+    "titleEnglish": "The College of Arms Rules",
+    "url": "https://new.kenyalaw.org/akn/ke/act/ln/1968/157/eng%402022-12-31/source",
+    "kind": "dated consolidated rules; indexed form text",
+    "authority": "official institution",
+    "englishSynopsis": "Rules and forms distinguish an application for new arms from registration of a grant obtained elsewhere. Indexed form text was consulted; historical fee notes are not presented as current charges.",
+    "glossary": [
+      {
+        "term": "CA1",
+        "english": "form for a grant application"
+      },
+      {
+        "term": "CA2",
+        "english": "form for registration of an existing grant"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ke-portal",
+    "area": "Kenya",
+    "language": "en",
+    "holding": "Registrar College of Arms, eCitizen",
+    "titleOriginal": "Welcome to The Registrar College of Arms",
+    "titleEnglish": "Welcome to The Registrar College of Arms",
+    "url": "https://coatofarms.ecitizen.go.ke/",
+    "kind": "official public service portal",
+    "authority": "official institution",
+    "englishSynopsis": "Current public portal describes the College’s grant and registration remit and separate permission for incorporating protected national symbols. The study does not probe signed-in application records or infer private information from the service.",
+    "glossary": [
+      {
+        "term": "emblazon",
+        "english": "depict armorial bearings graphically"
+      },
+      {
+        "term": "foreign arms",
+        "english": "arms granted outside the Kenyan system"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ke-national",
+    "area": "Kenya",
+    "language": "en",
+    "holding": "Kenya Law, Chapter 99, revised edition 2013 (2012)",
+    "titleOriginal": "National Flag, Emblems and Names Act",
+    "titleEnglish": "National Flag, Emblems and Names Act",
+    "url": "https://kenyalaw.org/kl/fileadmin/pdfdownloads/Acts/NationalFlagEmblems_Names.pdf",
+    "kind": "dated consolidated statute",
+    "authority": "official institution",
+    "englishSynopsis": "Statutory schedule gives the national arms’ blazon and descriptive account, including cock with axe, lions with spears and Mount Kenya compartment. Public national symbols and arms administered under Chapter 98 are legally distinguished categories.",
+    "glossary": [
+      {
+        "term": "Harambee",
+        "english": "motto specified for the arms"
+      },
+      {
+        "term": "specified emblem",
+        "english": "protected public category in the Act"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "gh-mission",
+    "area": "Ghana",
+    "language": "en",
+    "holding": "Permanent Mission of Ghana to the United Nations",
+    "titleOriginal": "Ghana Flag & Coat of Arms",
+    "titleEnglish": "Ghana Flag & Coat of Arms",
+    "url": "https://www.ghanamissionun.org/ghana-flag/",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Official explanation links the staff and sword to traditional authority, castle to national government, cacao and mine to resources, and the lion and black star to wider political references. These are attributed symbolic explanations of a state achievement.",
+    "glossary": [
+      {
+        "term": "okyeame",
+        "english": "Akan linguist or spokesperson named in the account"
+      },
+      {
+        "term": "Black Star",
+        "english": "political identifying motif in the achievement"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "na-gazette",
+    "area": "Namibia",
+    "language": "en",
+    "holding": "Government Gazette 6807, 28 December 2018; hosted by Legal Assistance Centre",
+    "titleOriginal": "National Symbols of the Republic of Namibia Act, 2018",
+    "titleEnglish": "National Symbols of the Republic of Namibia Act, 2018",
+    "url": "https://www.lac.org.na/laws/2018/6807.pdf",
+    "kind": "primary government gazette",
+    "authority": "enacted statute in gazette facsimile",
+    "englishSynopsis": "Primary gazette includes the arms’ schedule with a traditional head-ring, fish eagle, oryx and Welwitschia compartment. The Act distinguishes public arms, seal and other national symbols.",
+    "glossary": [
+      {
+        "term": "torse",
+        "english": "supporting arrangement specified beneath the crest"
+      },
+      {
+        "term": "compartment",
+        "english": "base beneath the achievement"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "na-mission",
+    "area": "Namibia",
+    "language": "en",
+    "holding": "Permanent Mission of Namibia to the United Nations",
+    "titleOriginal": "Symbols",
+    "titleEnglish": "Symbols",
+    "url": "https://www.un.int/namibia/namibia/symbols",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Official mission account explains the headband, eagle, oryx and Welwitschia and distinguishes arms from the national seal. Institutional symbolism is kept separate from a universal interpretation of those species or forms.",
+    "glossary": [
+      {
+        "term": "Welwitschia mirabilis",
+        "english": "desert plant specified in the compartment"
+      },
+      {
+        "term": "national seal",
+        "english": "public documentary device with separate custody"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "in-dhar",
+    "area": "India",
+    "language": "en",
+    "holding": "British Library, Photo 209(27), record 040-003056217",
+    "titleOriginal": "H.H. the Maharajah of Dhar in Durbar. Photographer: Unknown",
+    "titleEnglish": "H.H. the Maharajah of Dhar in Durbar. Photographer: Unknown",
+    "url": "https://searcharchives.bl.uk/catalog/040-003056217",
+    "kind": "archival photograph catalogue",
+    "authority": "official institution",
+    "englishSynopsis": "Catalogue dates the photograph to the 1880s and identifies a banner presented at the 1877 Imperial Assemblage in its background. The image date and the depicted banner’s presentation date are distinct.",
+    "glossary": [
+      {
+        "term": "durbar",
+        "english": "court or ceremonial assembly in this record"
+      },
+      {
+        "term": "Imperial Assemblage",
+        "english": "Delhi event named in the banner history"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "in-bowring",
+    "area": "India",
+    "language": "en",
+    "holding": "British Library, Bowring Collection, Mss Eur G38",
+    "titleOriginal": "Bowring Collection: armorial and banner records",
+    "titleEnglish": "Bowring Collection: armorial and banner records",
+    "url": "https://searcharchives.bl.uk/?f%5Bcollection_area_ssi%5D%5B%5D=India+Office+Records+and+Private+Papers&f%5Broot_ancestor_reference_ssi%5D%5B%5D=Mss+Eur+G38&per_page=20&sort=title_for_sort_si+asc%2C+scope_and_content_for_sort_si+asc%2C+reference_for_sort_si+asc",
+    "kind": "archival collection catalogue; indexed descriptions",
+    "authority": "official institution",
+    "englishSynopsis": "Indexed catalogue descriptions identify armorial witnesses for several princely states, including a Patiala item signed by Besharatulla and banners associated with 1877. These are discovery descriptions, not complete inspected image transcriptions.",
+    "glossary": [
+      {
+        "term": "shelfmark",
+        "english": "repository reference for a witness"
+      },
+      {
+        "term": "banner",
+        "english": "textile carrying an identifying design"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "in-emblem",
+    "area": "India",
+    "language": "en",
+    "holding": "Government of India, Presentations portal, updated 11 March 2025",
+    "titleOriginal": "National Emblem",
+    "titleEnglish": "National Emblem",
+    "url": "https://www.presentations.gov.in/logos/national-emblem/",
+    "kind": "official graphic portal",
+    "authority": "official institution",
+    "englishSynopsis": "Official graphic portal identifies the national emblem as an adaptation of the Sarnath Lion Capital and supplies downloadable representations. No claim is made that ancient sculpture already constituted a modern European-style achievement.",
+    "glossary": [
+      {
+        "term": "Lion Capital",
+        "english": "sculptural source of the adapted emblem"
+      },
+      {
+        "term": "Devanagari",
+        "english": "script used for the motto"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "in-law",
+    "area": "India",
+    "language": "en",
+    "holding": "India Code, Ministry of Home Affairs, Act 50 of 2005",
+    "titleOriginal": "The State Emblem of India (Prohibition of Improper Use) Act, 2005",
+    "titleEnglish": "The State Emblem of India (Prohibition of Improper Use) Act, 2005",
+    "url": "https://www.indiacode.nic.in/indiacode/handle/123456789/2038?view_type=browse",
+    "kind": "official statutory catalogue",
+    "authority": "official institution",
+    "englishSynopsis": "Official statute catalogue identifies enactment in December 2005 and enforcement in September 2007 and provides the public-emblem protection framework. The separate dates prevent treating enactment and commencement as one event.",
+    "glossary": [
+      {
+        "term": "enactment",
+        "english": "making of the legislation"
+      },
+      {
+        "term": "enforcement date",
+        "english": "date the catalogue identifies for operation"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "socialist-ddr",
+    "area": "Socialist state emblems",
+    "language": "de",
+    "holding": "DDR Museum, inventory 1023517, DEWAG, Altmann, Berlin, 1980",
+    "titleOriginal": "Staatswappen der DDR",
+    "titleEnglish": "State emblem of the German Democratic Republic",
+    "url": "https://www.ddr-museum.de/de/objects/1023517",
+    "kind": "museum object catalogue",
+    "authority": "official institution",
+    "englishSynopsis": "Dated poster places the hammer, compasses and grain wreath within a flower presentation. It is a material propaganda witness, not the adoption instrument itself. The museum reserves image rights; no photograph is reproduced.",
+    "glossary": [
+      {
+        "term": "Staatswappen",
+        "english": "state arms or state emblem in the source’s usage"
+      },
+      {
+        "term": "Ährenkranz",
+        "english": "wreath of grain ears"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "socialist-medal",
+    "area": "Socialist state emblems",
+    "language": "de",
+    "holding": "DDR Museum, inventory 1017039",
+    "titleOriginal": "Wappen DDR",
+    "titleEnglish": "GDR emblem",
+    "url": "https://www.ddr-museum.de/de/objects/1017039",
+    "kind": "museum object catalogue",
+    "authority": "official institution",
+    "englishSynopsis": "Enamelled medal realizes the hammer, compasses, grain and national-color arrangement on a small object. The catalogue title uses Wappen for a device without the conventional Western shield-and-helm structure.",
+    "glossary": [
+      {
+        "term": "Hammer",
+        "english": "hammer"
+      },
+      {
+        "term": "Zirkel",
+        "english": "compasses"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "luth-sweden",
+    "area": "Lutheran heraldry",
+    "language": "sv",
+    "holding": "Church of Sweden, updated 5 April 2024",
+    "titleOriginal": "Svenska kyrkans heraldiska vapen",
+    "titleEnglish": "The Church of Sweden’s heraldic arms",
+    "url": "https://www.svenskakyrkan.se/vapen-och-heraldik",
+    "kind": "issuing church’s heraldic account",
+    "authority": "issuing church body",
+    "englishSynopsis": "Church’s own account distinguishes variable armorial realization from a logo and dates adoption to 1977 and modification to 2005. It also identifies diocesan arms, allowing church, diocese and officeholder to remain distinct bearers.",
+    "glossary": [
+      {
+        "term": "vapen",
+        "english": "arms"
+      },
+      {
+        "term": "stiftsvapen",
+        "english": "diocesan arms"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "luth-persenius",
+    "area": "Lutheran heraldry",
+    "language": "sv",
+    "holding": "Church of Sweden, Diocese of Uppsala",
+    "titleOriginal": "Biskop em Ragnar Persenius vapen",
+    "titleEnglish": "Bishop emeritus Ragnar Persenius’s arms",
+    "url": "https://www.svenskakyrkan.se/uppsalastift/biskopragnar/biskopsvapnet",
+    "kind": "named designer’s account published by the church",
+    "authority": "issuing church body and credited heraldic designer",
+    "englishSynopsis": "Bengt Olof Kälde’s described design quarters the Uppsala cross with personal grape imagery and specifies mitre and crozier. The church attributes the diocesan cross’s earlier witness to a 1296 seal; that later statement is not our fresh reading of the original seal.",
+    "glossary": [
+      {
+        "term": "kvadrerad",
+        "english": "quartered"
+      },
+      {
+        "term": "kräkla",
+        "english": "crozier"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "luth-rose",
+    "area": "Lutheran heraldry",
+    "language": "en",
+    "holding": "Musée protestant",
+    "titleOriginal": "The Evangelical Lutheran Church of France — Luther’s rose",
+    "titleEnglish": "The Evangelical Lutheran Church of France — Luther’s rose",
+    "url": "https://museeprotestant.org/en/notice/the-evangelical-lutheran-church-of-france/",
+    "kind": "museum historical explanation",
+    "authority": "religious-history museum",
+    "englishSynopsis": "The consulted rose section explains a seal-associated symbol and its later Lutheran use. Other present-tense institutional statements on the page are historically dated and are not adopted as a current account of French church organization.",
+    "glossary": [
+      {
+        "term": "Luther’s rose",
+        "english": "seal-associated identifying composition"
+      },
+      {
+        "term": "seal",
+        "english": "device used in personal or institutional identification"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "jew-rothschild",
+    "area": "Jewish personal and communal armory",
+    "language": "en",
+    "holding": "The Rothschild Archive",
+    "titleOriginal": "The Rothschild Coat of Arms",
+    "titleEnglish": "The Rothschild Coat of Arms",
+    "url": "https://www.rothschildarchive.org/family/the_rothschild_name_and_arms/",
+    "kind": "family archive historical account",
+    "authority": "official institution",
+    "englishSynopsis": "Family archive account follows the 1817 armorial patent and 1822 baronial grant, correspondence over design, and later uses of the arrows. This defines one family’s documentary history, not a rule for all Jewish bearers.",
+    "glossary": [
+      {
+        "term": "armorial patent",
+        "english": "instrument recording the granted arms"
+      },
+      {
+        "term": "barony",
+        "english": "noble status conferred through the named act"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "jew-shield",
+    "area": "Jewish personal and communal armory",
+    "language": "en",
+    "holding": "The Rothschild Archive, Archivist’s Choice, January 2017",
+    "titleOriginal": "The New Court Shield",
+    "titleEnglish": "The New Court Shield",
+    "url": "https://www.rothschildarchive.org/collections/archivists_choice/january_2017",
+    "kind": "archive object-history account",
+    "authority": "official institution",
+    "englishSynopsis": "Archive object account traces the five-arrow motif into the New Court Shield and later decorative uses. The arrow orientation varies in family and institutional practice; a later object is not identical to the grant instrument.",
+    "glossary": [
+      {
+        "term": "five arrows",
+        "english": "family identifying motif"
+      },
+      {
+        "term": "New Court",
+        "english": "institutional site associated with the object"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "jew-textiles",
+    "area": "Jewish personal and communal armory",
+    "language": "en",
+    "holding": "Jewish Museum in Prague, textiles collection",
+    "titleOriginal": "Textiles",
+    "titleEnglish": "Textiles",
+    "url": "https://www.jewishmuseum.cz/en/collection-research/collections-funds/textiles/",
+    "kind": "museum collection catalogue",
+    "authority": "official institution",
+    "englishSynopsis": "Collection catalogue identifies the Prague Jewish Butchers’ Guild banner, JMP 037.851, dated 1850, and describes the collection’s growth including the 1942–45 period. Object identification and acquisition history are kept separate.",
+    "glossary": [
+      {
+        "term": "guild banner",
+        "english": "textile identifying an organized trade body"
+      },
+      {
+        "term": "Torah curtain",
+        "english": "textile associated with the ark, not automatically armorial"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "jew-prague-flag",
+    "area": "Jewish personal and communal armory",
+    "language": "en",
+    "holding": "National Library of Israel; Center for Jewish Art, Hebrew University",
+    "titleOriginal": "Altneuschul Synagogue Flag, Prague",
+    "titleEnglish": "Altneuschul Synagogue Flag, Prague",
+    "url": "https://www.nli.org.il/en/education/teaching-resources/primary-sources/nnl_edu997013134815305171",
+    "kind": "institutional teaching dossier on a photographed object",
+    "authority": "official institution",
+    "englishSynopsis": "Educational primary-object account identifies the photographed display as a reproduction with star, hat and Hebrew text. Its broad origin narrative requires comparison with specialist research rather than use as a settled medieval chronology.",
+    "glossary": [
+      {
+        "term": "Magen David",
+        "english": "Shield of David or six-pointed star"
+      },
+      {
+        "term": "Shema Yisrael",
+        "english": "Hebrew prayer text identified in the description"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "jew-putik",
+    "area": "Jewish personal and communal armory",
+    "language": "en",
+    "holding": "Alexandr Putík; Judaica Bohemiae, published by Jewish Museum in Prague; CEEOL abstract",
+    "titleOriginal": "The Origin of the Symbols of the Prague Jewish Town. The Banner of the Old-New Synagogue. David’s Shield and the “Swedish Hat”",
+    "titleEnglish": "The Origin of the Symbols of the Prague Jewish Town. The Banner of the Old-New Synagogue. David’s Shield and the “Swedish Hat”",
+    "url": "https://www.ceeol.com/search/article-detail?id=1224423",
+    "kind": "original research abstract",
+    "authority": "museum-published specialist research; abstract consulted",
+    "englishSynopsis": "Consulted research abstract proposes acquisition of the oldest large banner under Wladislaus Jagellon, 1471–1516, and flags legends and forgeries among the research concerns. The chapter distinguishes this argument from the educational dossier’s simpler origin narrative.",
+    "glossary": [
+      {
+        "term": "banner",
+        "english": "communal identifying textile"
+      },
+      {
+        "term": "historical sources",
+        "english": "witnesses requiring criticism rather than repetition"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "teut-cross",
+    "area": "Teutonic Order",
+    "language": "de",
+    "holding": "Deutscher Orden",
+    "titleOriginal": "Das Kreuz",
+    "titleEnglish": "The cross",
+    "url": "https://www.deutscher-orden.at/site/spiritualitaet/kreuz",
+    "kind": "issuing order’s institutional account",
+    "authority": "issuing religious order",
+    "englishSynopsis": "Order’s own account explains the black cross on white as a membership sign and describes the Grand Master’s form. Historical privilege stories are explicitly presented through Order tradition rather than authenticated here as newly inspected royal grants.",
+    "glossary": [
+      {
+        "term": "Hochmeister",
+        "english": "Grand Master"
+      },
+      {
+        "term": "Ordenszugehörigkeit",
+        "english": "membership of the Order"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "teut-ewers",
+    "area": "Teutonic Order",
+    "language": "en",
+    "holding": "Metropolitan Museum of Art, 53.20.1",
+    "titleOriginal": "Ewer with Wildman Finial",
+    "titleEnglish": "Ewer with Wildman Finial",
+    "url": "https://www.metmuseum.org/art/collection/search/470604",
+    "kind": "museum object catalogue and curatorial commentary",
+    "authority": "official institution",
+    "englishSynopsis": "Late-fifteenth-century ewer tentatively connected with inventories of the Teutonic Knights. Museum commentary identifies removed heraldic emblazons on the wildman-held shields. Provenance, erased bearer evidence and present attribution remain separate.",
+    "glossary": [
+      {
+        "term": "ewer",
+        "english": "pitcher"
+      },
+      {
+        "term": "finial",
+        "english": "figure or ornament at the top"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "teut-seals",
+    "area": "Teutonic Order",
+    "language": "ru",
+    "holding": "D. V. Bayduzh, Bulletin of Nizhnevartovsk State University 2 (2017), pp. 67–75",
+    "titleOriginal": "The Seal in Culture of the Teutonic Order (the End of XII — the Beginning of XIV Centuries)",
+    "titleEnglish": "The Seal in Culture of the Teutonic Order (the End of XII — the Beginning of XIV Centuries)",
+    "url": "https://journals.eco-vector.com/2311-1402/article/view/49478/en_US",
+    "kind": "original historical research, Russian text and English abstract",
+    "authority": "university researcher’s published study",
+    "englishSynopsis": "Original Russian research with English abstract examines official seals, custody, transfer between officeholders and corporate authentication. The discussed three-key custody arrangement is the author’s source-based account; no independent new edition of the medieval statutes is claimed.",
+    "glossary": [
+      {
+        "term": "печать",
+        "english": "seal"
+      },
+      {
+        "term": "матрица",
+        "english": "seal matrix"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
   }
 ]

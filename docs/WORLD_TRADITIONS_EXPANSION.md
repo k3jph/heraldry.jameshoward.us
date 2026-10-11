@@ -1,5 +1,7 @@
 # World Traditions expansion — 11 October 2026
 
+For the subsequent 31-chapter expansion, see [World Traditions coverage](WORLD_TRADITIONS_COVERAGE.md). Counts below describe this earlier milestone.
+
 ## Delivered scope
 
 Eighteen new teaching chapters bring World Traditions to 39 chapters. England, Wales, Ireland, and Scotland have separate readings. Canada, the United States, Brazil, and Malta receive institutional and object-based treatments. Ecclesiastical heraldry groups Catholic and Anglican chapters; Other Traditions groups the Sovereign Military Order of Malta and micronations. The comparative expansion covers Mamluk blazons, Ottoman tughras, Chinese/Korean rank badges, Chinese seals and collectors’ marks, Akan/Asante adinkra, and European house/merchant marks. Existing tamgas and kamon chapters remain in the collection.
