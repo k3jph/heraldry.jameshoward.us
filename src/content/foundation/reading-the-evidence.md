@@ -220,6 +220,136 @@ Because the question concerns what can be recovered from defined evidence. A pro
 
 For a design-route model, submit one coherent shield, a reproducible blazon, a source-based account of the chosen framework, and a clearly attributed design rationale. End by distinguishing the educational proposal from any formal grant or exhaustive uniqueness search. The project succeeds by demonstrating the method, not by declaring a new armiger into existence.
 
+## Turn a topic into a testable proposition
+
+A topic names an area of interest. A question identifies something unknown within it. A proposition offers a possible answer that evidence can challenge. Keeping these stages distinct makes the project easier to revise. “Canadian cadency” is a topic. “How does this grant distinguish the named children?” is a question. “The recorded differences follow a fixed birth-order chart” is a proposition. The named grants studied in unit 8 give us reasons to test that last statement rather than assume it.
+
+Write a competing proposition before expanding the corpus. Perhaps the differences instead reflect individual biography and the particular destination of the grant. Now identify the observations that would distinguish the explanations: repeated marks across unrelated families, commentary explicitly naming birth order, substitutions associated with profession, or an instrument specifying a future heir. A proposition is useful when it tells us what evidence would count against it.
+
+This is different from collecting examples that illustrate something we already believe. An illustration can teach a concept with one carefully chosen case. A comparative argument about frequency or regularity needs a defined population and a defensible sample. Decide which kind of work you are doing. A chapter can legitimately use one exceptional grant to challenge an absolute rule without claiming to measure how common that exception is.
+
+For the first research proposal, state the object of study, the proposed explanation, one plausible alternative, and the evidence required to choose between them. If the alternatives would produce exactly the same observable evidence, refine the question. Otherwise the project may spend months collecting images that cannot resolve its central issue. Heraldic abundance is enjoyable; it is not, by itself, a research design.
+
+## Dates can constrain an argument without identifying a year
+
+Distinguish at least five events where the evidence requires them: creation of a design, creation of the physical object, an alteration to that object, creation of the consulted photograph or edition, and the present act of consultation. The dates can coincide, but coincidence should be established rather than built into the record format. Getty's reported repainting and the Met's later seal matrix already show why one date field can become misleading.
+
+A dated photograph establishes that the visible state existed by the photograph's date, subject to the image's identification and integrity. It does not necessarily establish when that state began. A dated commission can establish an instruction or payment without proving that the surviving object was completed on the same day. A register entry can record an act while referring to earlier use. The chronology improves when each date is attached to the event it actually concerns.
+
+Use bounds where appropriate. If an independently dated photograph from year A shows an earlier state and another from year B shows a changed state, the alteration may fall between them. Explain the conditions: the photographs must concern the same object, the relevant area must be visible, and neither should simply reproduce an earlier image. A bound supported by those checks is a real result even if it refuses to supply a satisfyingly exact Tuesday.
+
+The same method can expose an unsupported attribution. If a proposed patron died before the documented introduction of a component, the chronology creates a problem, unless later addition or commemoration explains it. Record the conflict instead of choosing whichever date makes the story easier. The conflict may lead to a better attribution or to an argument about alteration. Dates are not merely labels; they are constraints on possible histories.
+
+## Count witnesses, dependencies, and occurrences separately
+
+Two websites can reproduce one museum image. Two books can copy one earlier blazon. Two occurrences within one manuscript can have been painted within the same production process. These are multiple manifestations or occurrences without necessarily being independent evidence for every proposition. Independence depends on how the sources relate to the claim under study.
+
+Draw a dependency map. Put the object or original record at the center, then connect photographs, catalogue descriptions, transcriptions, editions, and derivative publications to the sources they use. Mark an unknown relationship as unknown. The purpose is not to disqualify everything derivative. A carefully made edition can be more useful than an inaccessible original. The map tells us which apparent corroborations may repeat the same underlying reading.
+
+For example, suppose a local guide takes a family identification from a museum catalogue, and a tourism page takes it from the guide. Three citations do not give us three independent attributions. They document one attribution's circulation. That circulation may itself be worth studying, but it should not be counted as independent confirmation of the family's identity.
+
+Conversely, two dependent witnesses can answer a different question very well. A modern edition and its manuscript source can show an editor's normalization choices. Two leaves in one book can show repeated wording or changed arrangement. A copy and its exemplar can show transmission. The dependency is then part of the mechanism we are investigating rather than a flaw to hide.
+
+Add a dependency field to the witness inventory and an independence note to claims that rely on corroboration. Describe independence in relation to the proposition: independent image capture, independent textual reading, independent identification, or a separately generated administrative act. A general badge reading “independent source” is too blunt for the work.
+
+## A corpus needs an inclusion rule
+
+Before counting anything, decide what enters the corpus. One possible rule is “all named personal grants in a specified register volume whose public records include a shield description and a stated cadet difference.” Another is “all surviving seal impressions attached to the identified set of documents in a defined archive series.” Each rule names a population, period, source, and required evidence. It also makes exclusions visible.
+
+Keep an exclusion log. Record an inaccessible image, an uncertain object identification, a duplicate, or an entry outside the period. An exclusion can be justified, but it can also bias the results. If complex coats are more likely to have unreadable photographs and are therefore excluded, the remaining sample may misleadingly suggest a tradition favors simplicity. Missingness has a shape, and the shape can affect the argument.
+
+Count the unit you actually studied. Entries, distinct designs, bearers, objects, and photographs have different denominators. A quartered shield can contain repeated components; several seal impressions can come from one matrix; one bearer can have dated variants. State the unit in the result. “Eight of twenty photographs” cannot become “forty percent of families” without a demonstrated relationship between photographs and families.
+
+**Constructed calculation:** a researcher collects twenty photographs showing twelve identifiable designs. Eight photographs show designs containing a bend, but those eight represent four distinct designs. The photograph proportion is 8/20, or 40 percent. The distinct-design proportion is 4/12, about 33 percent. Both calculations are correct for their stated units. Neither establishes the prevalence of bends in a national tradition because the selection rule has not yet connected this collection to that population.
+
+This is also why convenient digital corpora need historical context. Digitization can reflect conservation priorities, rights clearance, institutional resources, or demand. A searchable collection is not automatically a random sample of past use. Explain what the collection covers and what your search can recover. Then make a claim at the scale the evidence supports.
+
+## Classification decisions should survive a second reader
+
+A corpus comparison needs a codebook: definitions of the categories, examples, and instructions for uncertain cases. If you classify charges as birds, mammals, plants, tools, and geometric figures, explain how you handle hybrids, disembodied parts, attributes held by other charges, and an unclear photographed form. Otherwise the resulting counts may measure each reader's personal habits.
+
+Separate observation from classification. A visible winged figure can be recorded at that level before a species is established. If the source blazon names a martlet, retain the source term as another field. The observation, the documentary designation, and your comparative category can disagree without forcing one to overwrite the others. Such disagreement may be the most interesting result in the corpus.
+
+Test a small sample with a second reader. Compare where you agree, where you disagree, and where both defer judgment. Revise definitions that produce avoidable disagreement. Preserve genuinely ambiguous evidence. The aim is a repeatable method, not unanimous confidence manufactured by forbidding an “unresolved” category.
+
+For a bilingual corpus, decide whether terms are being compared lexically, pictorially, or functionally. French and English animal names can have heraldic conventions that make a literal dictionary substitution misleading. A source term and its working translation should remain paired, with a note where the equivalence is provisional. A count that depends on translation is also a count that depends on editorial choices.
+
+## A worked dossier: the later matrix in medieval style
+
+Return to Met **1981.291** and build a compact argument rather than a sequence of warnings. The question is: what historical period can this object witness directly, and what earlier period does its design reference? The catalogue supplies a later manufacture range and an earlier stylistic description. The photograph supplies the present visible matrix and accompanying impression. Those sources support a distinction between physical manufacture and represented style.[^matrix]
+
+The first claim is therefore an attributed dating statement about the physical object. The second concerns the visual and catalogued relation to an earlier style. A third, much stronger claim—that the matrix itself authenticated medieval documents—would conflict with the catalogue's manufacture range unless new evidence justified revision. Name that conflict explicitly. It is the point at which the proposed history fails, not a minor qualification to hide at the end.
+
+Now consider the impression. Its position beside the matrix helps demonstrate reversal, but it does not establish its material or manufacture date. Give it a separate record. The photograph can support a comparison of visible arrangement while leaving those metadata fields unresolved. This produces a positive methodological result: the dossier identifies two photographed manifestations and explains what each contributes.
+
+Finally identify a targeted next step. A technical examination or earlier collection record might refine the matrix's manufacture. Documentation of the accompanying impression might establish how and when it was made. A study of medieval comparanda might explain the stylistic attribution. Each proposed source answers a different question. “Find more information” is too vague; “locate the record of this accompanying impression” is a research action.
+
+The conclusion can now say that the object is useful evidence for a later representation of medieval seal imagery, according to the consulted catalogue, while not establishing medieval use of the physical matrix. That is a complete answer to the defined question. It also gives the next researcher a clear account of what could revise it.
+
+## Three advanced documentary routes
+
+### Material history
+
+Choose an object with documented alteration, restoration, relocation, or reuse. Build a chronology of the support and a separate chronology of the represented arms. Compare a current image with an earlier dated witness or conservation account. Your central claim should concern one demonstrable change: a replaced piece, repainted shield, later inscription, changed installation, or reused component. Do not reconstruct every missing stage merely to complete the timeline.
+
+The submission should include an annotated image or component map, an event chronology, a witness inventory, and a discussion of the strongest alternative explanation. Where technical examination would be necessary, identify the specific question it would answer. Do not claim to have detected paint layers from an ordinary web photograph when your evidence is a catalogue's report of them.
+
+### Institutional comparison
+
+Choose two armorial acts of comparable purpose in different frameworks. Compare original terminology, actors, documentary requirements, issued records, and the effects actually described. A grant and a confirmation can be compared, but their difference must remain central rather than normalized away. Include one underlying normative source for each framework and a version note where provisions changed.
+
+The argument should explain how a procedural difference changes the evidence a researcher needs. Perhaps one case requires a prior record, another a documented descent, and another a decision by a public body. This is stronger than ranking the systems by age, expense, or visual magnificence. A comparison becomes explanatory when it identifies the machinery producing the records.
+
+### Critical edition and transmission
+
+Choose a short text with two located occurrences or witnesses. Supply images or stable locators, diplomatic readings, declared normalization, translations where appropriate, and an apparatus. Map the witnesses' relationship and distinguish repeated occurrence from independent copying. Analyze one consequential difference or agreement, explaining how editorial intervention affects the result.
+
+The study should leave the reader able to challenge a particular reading. That requires a locus, visible evidence or accessible source, and a stated policy. An elegant translation without its underlying reading may be enjoyable prose, but it is a different product from a critical edition. Publish both when both serve the question.
+
+## Extend the design route with controlled variation
+
+A design project can investigate a genuine problem rather than stop at one attractive shield. Begin with an explicitly fictional specification. Render it on three supports, such as a shield, a rectangular banner, and a small digital icon. Define which features must remain invariant and which proportions can change. Then test whether another reader can recover the same composition from each rendering.
+
+Change one variable at a time. If you alter the charge's shape, spacing, color, and background simultaneously, a legibility difference cannot be attributed to any one change. A small comparison with controlled alternatives can explain why a wider ordinary or clearer attribute helps. Preserve the alternatives and the viewing conditions so that someone else can repeat the comparison.
+
+This is a design inquiry, not proof of worldwide uniqueness or formal entitlement. Its result can concern recoverability, proportion, or the relationship between verbal specification and visual realization. A successful study might show that a particular reduction loses a diagnostic feature and propose an adaptation that retains it. That is a more useful result than simply declaring the final rendering “bold and timeless.”
+
+For an advanced extension, ask readers to describe the renderings before showing them the blazon. Compare their descriptions with the specified invariants. Record the sample size, instructions, and disagreements. A few informal readers provide a limited design check, not a population-wide experiment, but the method can still reveal a concrete failure worth fixing.
+
+## Review the argument at four gates
+
+At the **question gate**, submit a short proposal naming the question, corpus, competing explanation, and necessary evidence. The review asks whether the available sources can distinguish the alternatives. Revising scope here is efficient because the project has not yet built an elaborate edition around an unanswerable question.
+
+At the **source gate**, submit the inventory, dependency map, inclusion rule, and a sample claim ledger. The review checks identifiers, locations, access forms, and whether the sources say what the proposed claims require. A missing source should produce a narrowed claim or a specific acquisition task, not an invented reference.
+
+At the **analysis gate**, submit the component map, transcription apparatus, comparison table, or controlled design variants that do the actual explanatory work. The review asks where the inference occurs and whether another explanation fits the same evidence. The argument should be visible before the prose is polished; elegant sentences are expensive camouflage for a broken model.
+
+At the **publication gate**, submit the complete study with rights records, references, unresolved questions, and a version note. Ask a reader to reproduce one important observation and challenge one important inference. Incorporate the result as a correction, a qualification, or a reasoned defense. The earlier rubric can score the submission, but these gates identify what to revise.
+
+## Give the adversarial reader a concrete job
+
+An adversarial review should test the strongest claims rather than merely demand a harsher tone. Ask the reader to locate the cited witness, identify the statement it actually supports, check the transformation from source to prose, and propose an alternative that fits the evidence. They should distinguish factual error, unsupported inference, ambiguous wording, and a difference of interpretation.
+
+Supply the source inventory and selected images or locators, not just the polished essay. Without them, the reviewer may be able to criticize style while being unable to inspect the central argument. For a translation, give the source text and editorial layers. For a genealogy, give the relevant links and transmission framework. For a design, give the specification and the variants tested.
+
+Record the response to each substantive point. If you accept it, show the change. If you reject it, explain the evidence. If it remains unresolved, narrow or qualify the claim. A review is useful when it improves the evidentiary chain. It is not a certificate that every statement has become correct because a critic ran out of objections.
+
+## Publish a correction that can be understood
+
+A correction should identify the affected claim, the earlier reading, the new evidence or reasoning, and the consequence. Perhaps only a caption date changes. Perhaps a revised transcription alters the translation and therefore the argument. Perhaps a duplicate removed from the corpus changes a percentage but leaves the qualitative conclusion intact. State which of these happened.
+
+Keep stable identifiers for witnesses and claims so that revisions can be followed. A new edition can add a witness without renumbering every earlier record. A claim ledger can mark a proposition as revised or withdrawn and identify dependent claims requiring review. This is especially helpful in digital work, where a silent edit can make an earlier citation impossible to understand.
+
+Archive the submitted version and maintain a readable change note. The note need not expose every spelling correction, but it should preserve substantive changes to evidence, attribution, translation, dating, and conclusion. A transparent correction is a contribution to the work's reliability. It tells future readers both what they can now use and why the earlier version differed.
+
+## A substantial capstone still needs a narrow center
+
+The introductory submission remains a manageable first study. An extended capstone can develop one of the advanced routes into a longer article, edition, or design investigation. Set its length from the evidence and argument: a short inscription may need a substantial apparatus; a comparative register study may need tables more than additional prose; a material history may need a carefully annotated chronology.
+
+Require the same core deliverables at either scale: question, witness inventory, claim ledger, method, actual analysis, conclusion, and rights record. Add the route-specific apparatus rather than padding the introduction. A larger project earns its size by resolving additional problems, testing alternatives, and making its sources more usable.
+
+The strongest result may be a new identification, a corrected reading, a documented transmission, a clarified institutional distinction, or a well-supported limit on what can be recovered. It need not overturn all of heraldry. One reliably established result can become a useful part of a much larger resource, especially when the next researcher can find its evidence and build on it.
+
 ## Continue into research
 
 The foundation course prepares you to ask better questions of actual evidence. Continue with the [world traditions](/traditions/), [source atlas](/source-atlas/), [translation laboratory](/translation-lab/), and [research seminars](/seminars/). Those routes develop historical, multilingual, and methodological depth beyond this introductory sequence.
