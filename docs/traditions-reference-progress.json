@@ -1,7 +1,8 @@
 {
-  "scope": 70,
-  "completedDrafts": 20,
   "status": "in progress; remaining chapters not yet expanded",
+  "targetChapters": 70,
+  "expandedDrafts": 29,
+  "addedWords": 61380,
   "chapters": [
     {
       "slug": "japan-kamon",
@@ -539,6 +540,250 @@
         "The nested crosses define layers of colour",
         "Reinstating old arms on a building is a heritage proposal",
         "Workshop: translate a story into a composition without losing its history"
+      ]
+    },
+    {
+      "slug": "luxembourg",
+      "before": 845,
+      "after": 2723,
+      "added": 1878,
+      "sections": 13,
+      "sourceIds": [
+        "lu-symbols",
+        "lu-booklet",
+        "lu-dynastic-arms",
+        "lu-court-protocol",
+        "lu-guillaume-monogram",
+        "lu-city-archives"
+      ],
+      "expansionHeads": [
+        "State, dynasty, and person occupy different layers",
+        "Two lions make an unusually good tincture lesson",
+        "Quartering can reorganize political emphasis",
+        "A royal monogram can change while the national lion persists",
+        "The urban seal belongs to another documentary story",
+        "Translating the lion requires preserving relationships",
+        "Graduate exercise: design an evidence-led label"
+      ]
+    },
+    {
+      "slug": "italy",
+      "before": 958,
+      "after": 2921,
+      "added": 1963,
+      "sections": 15,
+      "sourceIds": [
+        "it-acs",
+        "it-sala",
+        "it-florence-identity",
+        "it-florence-relief",
+        "it-medici-cup",
+        "it-milan-statute",
+        "it-visconti-relief",
+        "it-venice-lion",
+        "it-public-heraldry",
+        "it-republic-emblem",
+        "it-emblem-decree"
+      ],
+      "expansionHeads": [
+        "Florence: a flower can carry a political reversal",
+        "Medici balls: an augmentation can help date a component",
+        "Milan: cross, saint, and serpent are different civic histories",
+        "Venice: read the lion’s pose before reading its legend",
+        "A republic can retain public heraldry while changing noble status",
+        "The national emblem speaks republican political language",
+        "Graduate workshop: build an Italian object biography"
+      ]
+    },
+    {
+      "slug": "portugal",
+      "before": 1222,
+      "after": 3284,
+      "added": 2062,
+      "sections": 15,
+      "sourceIds": [
+        "pt-armeiro",
+        "pt-vasco",
+        "pt-national-symbols",
+        "pt-civic-law",
+        "pt-lisbon-arms",
+        "pt-sintra-arms",
+        "pt-evora-stone",
+        "pt-lumiar",
+        "pt-lagos-police"
+      ],
+      "expansionHeads": [
+        "Quinas are nested designs, not five blue spots",
+        "Évora preserves another historical royal composition",
+        "The armillary sphere survives a change of regime",
+        "Lisbon’s ship carries several historical programs",
+        "Mural crowns classify the bearer within a local framework",
+        "Military heraldry uses a fuller achievement and specific offices",
+        "Lagos turns historical references into a new service design",
+        "Graduate workshop: reconstruct a Portuguese design in layers"
+      ]
+    },
+    {
+      "slug": "spain",
+      "before": 861,
+      "after": 2881,
+      "added": 2020,
+      "sections": 14,
+      "sourceIds": [
+        "es-council",
+        "es-boe-burgos",
+        "es-academia",
+        "es-national-law",
+        "es-colour-decree",
+        "es-felipe-arms",
+        "es-navarra-government",
+        "es-navarra-seals",
+        "es-catalan-civic",
+        "es-galicia-law"
+      ],
+      "expansionHeads": [
+        "The national shield contains several kinds of relationship",
+        "Purple in a blazon and purple in a colour specification",
+        "The sovereign’s arms are closely related to the state’s",
+        "Navarra’s chains make source criticism unavoidable",
+        "Twentieth-century Navarra changes the external statement",
+        "Catalan civic heraldry has its own language and geometry",
+        "Galicia joins sacred imagery to territorial public identity",
+        "Graduate workshop: compare three kinds of authority"
+      ]
+    },
+    {
+      "slug": "estonia",
+      "before": 1029,
+      "after": 2698,
+      "added": 1669,
+      "sections": 14,
+      "sourceIds": [
+        "ee-state",
+        "ee-seal",
+        "ee-knighthood",
+        "ee-identity",
+        "ee-tallinn-history",
+        "ee-tallinn-statute",
+        "ee-tartu"
+      ],
+      "expansionHeads": [
+        "Three lions can connect institutions without making them identical",
+        "Tallinn’s small arms are a different shield",
+        "The full Tallinn achievement restores a third dimension",
+        "Two Tallinn flags answer different design questions",
+        "Tartu gives us an exact civic reconstruction problem",
+        "A recovered die can establish material continuity",
+        "Graduate workshop: compare bearers, components and material witnesses"
+      ]
+    },
+    {
+      "slug": "latvia",
+      "before": 1065,
+      "after": 2933,
+      "added": 1868,
+      "sections": 15,
+      "sourceIds": [
+        "lv-heraldry-law",
+        "lv-national",
+        "lv-national-en",
+        "lv-riga",
+        "lv-commission"
+      ],
+      "expansionHeads": [
+        "The national arms combine a new state with regional devices",
+        "A griffin is an organized composite creature",
+        "Parallel official pages can expose a translation discrepancy",
+        "Several state forms are a hierarchy of presentation",
+        "Riga’s gate and keys preserve a different civic composition",
+        "The commission’s work is more than approving pictures",
+        "Private arms need an identified bearer and a transmission argument",
+        "Graduate workshop: audit a Latvian armorial explanation"
+      ]
+    },
+    {
+      "slug": "lithuania",
+      "before": 988,
+      "after": 2849,
+      "added": 1861,
+      "sections": 15,
+      "sourceIds": [
+        "lt-heraldry-act",
+        "lt-state-history",
+        "lt-state-symbols",
+        "lt-double-cross",
+        "lt-kaunas",
+        "lt-kaunas-en",
+        "lt-vilnius"
+      ],
+      "expansionHeads": [
+        "Vytis is a mounted knight, not a portrait label",
+        "The double cross has a history inside and outside the shield",
+        "The Columns of the Gediminids belong in the comparison",
+        "Restoration included a transitional purple standard",
+        "Kaunas: an aurochs survives several jurisdictions",
+        "Kaunas’s great achievement uses a ship as a supporter",
+        "Vilnius carries a sacred narrative into civic arms",
+        "Graduate workshop: separate historical identity from a graphic standard"
+      ]
+    },
+    {
+      "slug": "poland-lithuania",
+      "before": 892,
+      "after": 2958,
+      "added": 2066,
+      "sections": 15,
+      "sourceIds": [
+        "pl-herbarze",
+        "pl-tarnow-history",
+        "pl-tarnow-seal",
+        "pl-jelita-zamoyski",
+        "pl-frost-horodlo",
+        "pl-citko-names",
+        "pl-dlugosz-1885",
+        "pl-niesiecki-1839"
+      ],
+      "expansionHeads": [
+        "Begin with the herb, then identify the bearer",
+        "Leliwa offers a compact visual case",
+        "Tarnów’s seal connects a person with a corporate identity",
+        "Jelita makes the origin legend visible",
+        "Horodło was an act of affiliation with political consequences",
+        "Medieval naming patterns complicate the family search",
+        "Długosz’s text and its printed edition have separate dates",
+        "Niesiecki’s nineteenth-century edition is a layered compilation",
+        "Graduate laboratory: build an armorial affiliation graph"
+      ]
+    },
+    {
+      "slug": "ukraine",
+      "before": 1063,
+      "after": 3125,
+      "added": 2062,
+      "sections": 15,
+      "sourceIds": [
+        "ua-arms",
+        "ua-constitution",
+        "ua-volhynia",
+        "ua-seals",
+        "ua-money-history",
+        "ua-1918-design",
+        "ua-mazepa-cross-anchor",
+        "ua-lviv-grechylo",
+        "ua-1992-resolution",
+        "ua-great-bill",
+        "ua-great-first-reading"
+      ],
+      "expansionHeads": [
+        "A princely sign survives in a different emblematic world",
+        "Coin, banknote and shield make different kinds of reference",
+        "The 1918 republic separated adoption from drawing approval",
+        "The Cossack with a firearm represents a host",
+        "Mazepa’s arms invite interpretation through armorial verse",
+        "Lviv’s civic lion has to remain inside its gateway",
+        "The modern small arms have a dated legal model",
+        "A signed first-reading resolution is not the finished great-arms law",
+        "Graduate workshop: give each Ukrainian witness its own question"
       ]
     }
   ]

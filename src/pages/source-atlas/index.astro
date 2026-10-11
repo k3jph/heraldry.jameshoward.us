@@ -5,7 +5,7 @@ import sources from '../../data/world-sources.json';
 import readings from '../../data/parallel-readings.json';
 const sorted=[...sources].sort((a,b)=>a.area.localeCompare(b.area)||a.titleOriginal.localeCompare(b.titleOriginal));
 const regions=[...new Set(sorted.map(s=>s.area))].sort();
-const languageLabels:Record<string,string>={fr:'French',de:'German',nl:'Dutch',sv:'Swedish',es:'Spanish',pt:'Portuguese',it:'Italian',pl:'Polish',cs:'Czech',ja:'Japanese',en:'English',lv:'Latvian',lt:'Lithuanian',fi:'Finnish',ro:'Romanian',hr:'Croatian',hu:'Hungarian',sl:'Slovenian',ru:'Russian',tr:'Turkish',la:'Latin',da:'Danish',el:'Greek',uk:'Ukrainian',nb:'Norwegian (Bokmål)',is:'Icelandic',et:'Estonian',sk:'Slovak',bg:'Bulgarian',sq:'Albanian'};
+const languageLabels:Record<string,string>={fr:'French',de:'German',nl:'Dutch',sv:'Swedish',es:'Spanish',pt:'Portuguese',it:'Italian',pl:'Polish',cs:'Czech',ja:'Japanese',en:'English',lv:'Latvian',lt:'Lithuanian',fi:'Finnish',ro:'Romanian',hr:'Croatian',hu:'Hungarian',sl:'Slovenian',ru:'Russian',tr:'Turkish',la:'Latin',da:'Danish',el:'Greek',uk:'Ukrainian',nb:'Norwegian (Bokmål)',is:'Icelandic',et:'Estonian',sk:'Slovak',bg:'Bulgarian',sq:'Albanian',ca:'Catalan'};
 const languages=[...new Set(sorted.map(s=>s.language))].sort((a,b)=>(languageLabels[a]||a).localeCompare(languageLabels[b]||b,'en'));
 ---
 <Base title="International Source Atlas" description="A searchable, source-provenanced atlas of heraldic archives, registers, legal records and specialist institutions in more than a dozen source languages, with original English synopses and bilingual terminology.">

@@ -8152,5 +8152,1355 @@
     "accessed": "2026-10-11",
     "reviewStatus": "editorially synthesized; independent specialist review pending",
     "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "lu-dynastic-arms",
+    "area": "Luxembourg",
+    "language": "fr",
+    "holding": "Cour grand-ducale",
+    "titleOriginal": "Les armoiries",
+    "titleEnglish": "Grand-ducal arms and their revisions",
+    "url": "https://monarchie.lu/fr/la-monarchie/les-armoiries",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "The Court explains the Nassau-Luxembourg compositions adopted under Adolphe and their revision in 2001. Quarter positions, Bourbon-Parma central arms, supporters and external ornaments distinguish the sovereign’s dynastic achievement from the state arms.",
+    "glossary": [
+      {
+        "term": "écartelé",
+        "english": "quartered"
+      },
+      {
+        "term": "en cœur",
+        "english": "at the centre"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "lu-court-protocol",
+    "area": "Luxembourg",
+    "language": "fr",
+    "holding": "Cour grand-ducale",
+    "titleOriginal": "Les usages protocolaires de la Cour",
+    "titleEnglish": "Court protocol and emblem use",
+    "url": "https://monarchie.lu/fr/le-chef-de-letat/les-usages-protocolaires-de-la-cour",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "The Court distinguishes the state arms on public buildings and state documents from the Grand Duke’s arms in royal residences and documents issued by the sovereign. It also identifies orange and blue as court colours, distinct from the national tricolour.",
+    "glossary": [
+      {
+        "term": "armoiries d’État",
+        "english": "state arms"
+      },
+      {
+        "term": "couleurs",
+        "english": "colours"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "lu-guillaume-monogram",
+    "area": "Luxembourg",
+    "language": "fr",
+    "holding": "Cour grand-ducale",
+    "titleOriginal": "Avènement au trône | Le monogramme du futur Grand-Duc Guillaume",
+    "titleEnglish": "Guillaume’s accession monogram",
+    "url": "https://monarchie.lu/fr/actualites/avenement-au-trone-le-monogramme-du-futur-grand-duc-guillaume",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "The accession announcement introduces mirrored G initials beneath a crown for formal use from 3 October 2025. The named uniforms and historical comparisons show how a personal royal identifier changes with a reign without requiring a new national shield.",
+    "glossary": [
+      {
+        "term": "monogramme",
+        "english": "monogram"
+      },
+      {
+        "term": "avènement",
+        "english": "accession"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "lu-city-archives",
+    "area": "Luxembourg",
+    "language": "en",
+    "holding": "Ville de Luxembourg, Archives municipales",
+    "titleOriginal": "Municipal Archives",
+    "titleEnglish": "Municipal records and seal witnesses",
+    "url": "https://www.vdl.lu/en/city/a-glance/municipal-archives",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "The municipal archives introduce their documentary holdings with a city seal dated 1419 and a charter of 1282 confirming earlier privileges. These dated witnesses offer a route into urban institutional history without assuming the modern state arms describe every municipal seal.",
+    "glossary": [
+      {
+        "term": "seal",
+        "english": "impression or matrix identifying an issuer"
+      },
+      {
+        "term": "charter",
+        "english": "documentary act"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "it-republic-emblem",
+    "area": "Italy",
+    "language": "it",
+    "holding": "Presidenza della Repubblica",
+    "titleOriginal": "I Simboli della Repubblica - l’Emblema",
+    "titleEnglish": "The Republic’s emblem and the design competitions",
+    "url": "https://www.quirinale.it/it/pagine/simboli-repubblica-emblema",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "The Presidency describes two public competitions, Paolo Paschetto’s winning design and the 1948 adoption. Its account interprets the star, cogwheel, olive and oak within republican political language; those interpretations belong to this emblem, rather than to a universal heraldic dictionary.",
+    "glossary": [
+      {
+        "term": "ruota dentata",
+        "english": "cogwheel"
+      },
+      {
+        "term": "stella",
+        "english": "star"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "it-emblem-decree",
+    "area": "Italy",
+    "language": "it",
+    "holding": "Presidenza del Consiglio dei Ministri, Cerimoniale dello Stato",
+    "titleOriginal": "L’Emblema dello Stato",
+    "titleEnglish": "Legal specification of the state emblem",
+    "url": "https://presidenza.governo.it/ufficio_cerimoniale/cerimoniale/emblema.html",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "The state ceremonial office reproduces Article 1 of legislative decree 535 of 5 May 1948. It specifies the white star edged red, steel cogwheel, two branches and inscribed red ribbon, tying the textual composition to the attached official drawings.",
+    "glossary": [
+      {
+        "term": "foggia",
+        "english": "prescribed form"
+      },
+      {
+        "term": "nastro",
+        "english": "ribbon"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "it-venice-lion",
+    "area": "Italy",
+    "language": "it",
+    "holding": "Comune di Venezia",
+    "titleOriginal": "Il leone di San Marco",
+    "titleEnglish": "Forms of the Lion of Saint Mark",
+    "url": "https://live.comune.venezia.it/it/node/132935",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Venice’s municipal account distinguishes walking, rampant, frontal crab-like and banner-bearing presentations of the winged lion. It connects the emblem with Saint Mark’s cult and civic rule, providing useful iconographic vocabulary without reducing all lion variants to one modern municipal model.",
+    "glossary": [
+      {
+        "term": "in moeca",
+        "english": "frontal crab-like presentation"
+      },
+      {
+        "term": "vessillifero",
+        "english": "bearing a banner"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "it-florence-relief",
+    "area": "Italy",
+    "language": "it",
+    "holding": "Ministero della Cultura, Catalogo generale dei Beni Culturali",
+    "titleOriginal": "Stemma della città di Firenze, rilievo, ca. 1400–1449",
+    "titleEnglish": "Florentine civic arms on a stone relief",
+    "url": "https://catalogo.beniculturali.it/detail/HistoricOrArtisticProperty/0900294159",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Catalogue record 0900294159 identifies an early-fifteenth-century Florentine civic relief. Its historical commentary associates the lily with the city and the colour reversal of 1251; catalogue dating, material evidence and later historical explanation should be recorded separately.",
+    "glossary": [
+      {
+        "term": "rilievo",
+        "english": "relief"
+      },
+      {
+        "term": "giglio",
+        "english": "lily or Florentine emblem"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "it-florence-identity",
+    "area": "Italy",
+    "language": "it",
+    "holding": "Comune di Firenze",
+    "titleOriginal": "Sistema di identità visiva — Firenze, 2014",
+    "titleEnglish": "Florence visual identity and the civic lily",
+    "url": "https://www.comune.firenze.it/system/files/2017-11/SIV%20Firenze_2014.pdf",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "The municipal identity manual explains the red lily on white, the earlier reversed colours and the 1251 political transition. Its modern graphic system allows study of how an inherited civic charge becomes a reproducible administrative mark without erasing the older object history.",
+    "glossary": [
+      {
+        "term": "giglio aperto e bottonato",
+        "english": "opened lily with projecting buds"
+      },
+      {
+        "term": "identità visiva",
+        "english": "visual identity"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "it-milan-statute",
+    "area": "Italy",
+    "language": "it",
+    "holding": "Comune di Milano",
+    "titleOriginal": "Statuto del Comune di Milano — articolo 4, Emblemi",
+    "titleEnglish": "Milan’s arms, flag and historic gonfalon",
+    "url": "https://www2.comune.milano.it/documents/20126/1048170/Statuto%2Baggiornato%2Ba%2Bnovembre%2B2020.pdf/30ed91df-f35f-5c34-d826-fd8ace5a6c46?t=1615914392887",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "The statute’s November 2020 text identifies three civic objects: the Saint Ambrose gonfalon, silver shield with red cross and external ornaments, and red-cross flag on white. Their different contents prevent treating every civic ceremonial textile as a banner of the shield.",
+    "glossary": [
+      {
+        "term": "gonfalone",
+        "english": "ceremonial civic banner"
+      },
+      {
+        "term": "corona turrita",
+        "english": "towered crown"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "pt-national-symbols",
+    "area": "Portugal",
+    "language": "pt",
+    "holding": "Presidência da República",
+    "titleOriginal": "Símbolos Nacionais",
+    "titleEnglish": "National symbols and the republican flag settlement",
+    "url": "https://www.presidencia.pt/presidente-da-republica/a-presidencia/simbolos-nacionais/",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "The Presidency explains the 1910–1911 selection of the republican flag and reproduces the adoption text. The shield and Manueline armillary sphere survive within a new green-red arrangement, demonstrating selective reuse rather than replacement of every monarchical-era emblem.",
+    "glossary": [
+      {
+        "term": "tralha",
+        "english": "hoist"
+      },
+      {
+        "term": "esfera armilar",
+        "english": "armillary sphere"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "pt-civic-law",
+    "area": "Portugal",
+    "language": "pt",
+    "holding": "Diário da República, Assembleia da República",
+    "titleOriginal": "Lei n.º 53/91, de 7 de agosto",
+    "titleEnglish": "Local-government heraldry law",
+    "url": "https://diariodarepublica.pt/dr/detalhe/lei/53-1991-681597",
+    "kind": "legislation",
+    "authority": "official legislation portal",
+    "englishSynopsis": "The law defines local-government arms, flags and seals, requires expert consultation in adoption and distinguishes categories of mural crown. Its principles include simplicity and distinctiveness. The portal marks the law in force; particular claims still require the relevant act and applicable version.",
+    "glossary": [
+      {
+        "term": "autarquia local",
+        "english": "local authority"
+      },
+      {
+        "term": "coroa mural",
+        "english": "mural crown"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "pt-lisbon-arms",
+    "area": "Portugal",
+    "language": "pt",
+    "holding": "Arquivo Municipal de Lisboa",
+    "titleOriginal": "O brasão de Lisboa",
+    "titleEnglish": "Lisbon arms across changing political regimes",
+    "url": "https://arquivomunicipal.lisboa.pt/publicacoes/documento-do-mes/detalhe/o-brasao-de-lisboa",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "The archive’s February 2025 study presents a 1961 drawing and traces changes in Lisbon’s ship imagery, including a republican bireme and the restoration of Vincentian references. It identifies the 1940 official composition, while preserving the distinction between historical legend and documented design change.",
+    "glossary": [
+      {
+        "term": "corvo",
+        "english": "raven"
+      },
+      {
+        "term": "barca",
+        "english": "boat"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "es-national-law",
+    "area": "Spain",
+    "language": "es",
+    "holding": "Boletín Oficial del Estado",
+    "titleOriginal": "Ley 33/1981, de 5 de octubre, del Escudo de España",
+    "titleEnglish": "Law defining the arms of Spain",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1981-24155",
+    "kind": "legislation",
+    "authority": "official legislation portal",
+    "englishSynopsis": "The 1981 law defines the national quartered shield, Granada base, Bourbon central shield, columns and royal crown. Transitional provisions also preserve certain older architectural arms, showing that survival on a building need not signify present official adoption.",
+    "glossary": [
+      {
+        "term": "entado en punta",
+        "english": "grafted in the base"
+      },
+      {
+        "term": "escusón",
+        "english": "small overlying shield"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "es-colour-decree",
+    "area": "Spain",
+    "language": "es",
+    "holding": "Boletín Oficial del Estado",
+    "titleOriginal": "Real Decreto 2267/1982, de 3 de septiembre",
+    "titleEnglish": "Technical colour specification of Spain’s arms",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1982-23298&lang=es",
+    "kind": "legislation",
+    "authority": "official legislation portal",
+    "englishSynopsis": "The decree gives CIELAB and CIE 1931 specifications for the colours of Spain’s arms, including purple. It supplies a modern technical layer alongside the earlier heraldic description; its colour coordinates cannot be treated as a universal palette for every historical emblazonment.",
+    "glossary": [
+      {
+        "term": "púrpura",
+        "english": "purple"
+      },
+      {
+        "term": "claridad",
+        "english": "lightness"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "es-felipe-arms",
+    "area": "Spain",
+    "language": "es",
+    "holding": "Casa de S. M. el Rey",
+    "titleOriginal": "Armas de Su Majestad el Rey Don Felipe VI",
+    "titleEnglish": "Felipe VI’s arms and accession change",
+    "url": "https://www.casareal.es/ES/FamiliaReal/ReyFelipe/Paginas/armas.aspx",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "The Royal Household identifies the 2014 specification of Felipe VI’s arms and explains removal of the heir’s label and replacement of the princely crown. The achievement with the Golden Fleece collar differs from the state arms with columns.",
+    "glossary": [
+      {
+        "term": "lambel",
+        "english": "label"
+      },
+      {
+        "term": "Toisón de Oro",
+        "english": "Golden Fleece"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "it-medici-cup",
+    "area": "Italy",
+    "language": "it",
+    "holding": "Gallerie degli Uffizi",
+    "titleOriginal": "Doppia coppa del XV secolo",
+    "titleEnglish": "Medici heraldry on a double cup",
+    "url": "https://www.uffizi.it/opere/doppia-coppa",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "The Uffizi connect the silver mounts’ blue ball and gold fleurs-de-lis with the 1465 augmentation granted to Piero de’ Medici. The catalogue also traces the vessel’s later conversion into a reliquary, making it a case study in dating components and changing object functions.",
+    "glossary": [
+      {
+        "term": "palla",
+        "english": "ball or roundel"
+      },
+      {
+        "term": "montatura",
+        "english": "mount"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "it-visconti-relief",
+    "area": "Italy",
+    "language": "it",
+    "holding": "Ministero della Cultura, Catalogo generale dei Beni Culturali",
+    "titleOriginal": "Biscione visconteo, rilievo, ca. 1450–1499",
+    "titleEnglish": "A Visconti serpent on a stone relief",
+    "url": "https://www.catalogo.beniculturali.it/detail/HistoricOrArtisticProperty/0300022840",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Record 0300022840 documents a late-fifteenth-century Lombard stone relief with an uncrowned serpent and human figure. Its notes distinguish the physical specimen from wider armorial literature and discuss possible architectural reuse rather than presenting that reuse as certain.",
+    "glossary": [
+      {
+        "term": "biscione",
+        "english": "large serpent, especially the Visconti emblem"
+      },
+      {
+        "term": "chiave d’arco",
+        "english": "arch keystone"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "it-public-heraldry",
+    "area": "Italy",
+    "language": "it",
+    "holding": "Presidenza del Consiglio dei Ministri, Ufficio Onorificenze e Araldica",
+    "titleOriginal": "Emblemi Araldici — d.P.C.M. 28 gennaio 2011",
+    "titleEnglish": "The Republic’s public heraldic procedure",
+    "url": "https://presidenza.governo.it/onorificenze_araldica/araldica/normativa.html",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "The government office explains the procedure for official emblems of territorial and legal entities under the 2011 framework. It identifies presidential decrees and administrative examination, demonstrating that contemporary public heraldry persists despite the constitutional treatment of noble titles.",
+    "glossary": [
+      {
+        "term": "istruttoria",
+        "english": "administrative examination"
+      },
+      {
+        "term": "concessione",
+        "english": "grant"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "pt-sintra-arms",
+    "area": "Portugal",
+    "language": "pt",
+    "holding": "Câmara Municipal de Sintra",
+    "titleOriginal": "Brasão de Armas e Bandeira do Concelho de Sintra",
+    "titleEnglish": "Sintra’s civic arms and historical quinas",
+    "url": "https://arquivo2026.cm-sintra.pt/artigos-com-categoria-concelho/brasao-de-armas-e-bandeira-do-concelho-de-sintra",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "The municipality’s dated account specifies a tower with old-style quinas, eleven silver roundels on each blue shieldlet, opposed side shieldlets, crescents and stars. Its four-towered silver mural crown and scroll identify the civic presentation; local symbolic commentary should not be generalized to all heraldry.",
+    "glossary": [
+      {
+        "term": "torre torreada",
+        "english": "tower surmounted by a smaller tower"
+      },
+      {
+        "term": "besante",
+        "english": "roundel"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "pt-evora-stone",
+    "area": "Portugal",
+    "language": "pt",
+    "holding": "Museu Nacional Frei Manuel do Cenáculo, RAIZ",
+    "titleOriginal": "Brasão de Armas da Cidade de Évora",
+    "titleEnglish": "A fourteenth-century Évora civic carving",
+    "url": "https://raiz.museusemonumentos.pt/DetalhesObra?id=13112&tipo=OBJ",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Inventory ME 1744 identifies a fourteenth-century civic relief with an armed rider, severed heads and royal arms above. The royal component has twelve castles and side shieldlets turned inward, demonstrating a historical witness whose details differ from the modern national model.",
+    "glossary": [
+      {
+        "term": "escudete",
+        "english": "small shield"
+      },
+      {
+        "term": "cavaleiro",
+        "english": "mounted knight"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "pt-lumiar",
+    "area": "Portugal",
+    "language": "pt",
+    "holding": "Força Aérea Portuguesa",
+    "titleOriginal": "Base do Lumiar — Heráldica",
+    "titleEnglish": "Unit and commander heraldry at Lumiar",
+    "url": "https://www.emfa.pt/unidade-heraldica-51-base-do-lumiar",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "The Air Force page describes commander’s arms with a silver pelican feeding three young on red and a Pegasus crest. Its explanation links the pelican with the base’s support functions. Shield, crest and designated office should remain distinct in an English rendering.",
+    "glossary": [
+      {
+        "term": "paquife",
+        "english": "mantling"
+      },
+      {
+        "term": "virol",
+        "english": "torse"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "pt-lagos-police",
+    "area": "Portugal",
+    "language": "pt",
+    "holding": "Marinha Portuguesa, Revista da Armada 526, 2018",
+    "titleOriginal": "Brasão do Comando Local da Polícia Marítima de Lagos",
+    "titleEnglish": "Lagos maritime-police heraldry",
+    "url": "https://www.marinha.pt/pt/servicos/Documents/Revista_da_Armada/2018/RA526.pdf",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "The Navy publication supplies a blazon for the Lagos maritime-police command, combining an armillary sphere, anchor-bearing stars and a chief carrying a three-pendant label charged with fleurs-de-lis. Its symbolic explanation links selected elements with Prince Henry and Lagos, rather than giving them universal meanings.",
+    "glossary": [
+      {
+        "term": "banco de pinchar",
+        "english": "label"
+      },
+      {
+        "term": "coronel naval",
+        "english": "naval crown"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "es-galicia-law",
+    "area": "Spain — Galicia",
+    "language": "es",
+    "holding": "Boletín Oficial del Estado / Parlamento de Galicia",
+    "titleOriginal": "Ley 5/1984, de 29 de mayo, de símbolos de Galicia",
+    "titleEnglish": "Galicia’s symbols law",
+    "url": "https://www.boe.es/eli/es-ga/l/1984/05/29/5/con",
+    "kind": "legislation",
+    "authority": "official legislation portal",
+    "englishSynopsis": "The law defines Galicia’s blue shield with a gold chalice, silver host and seven silver crosses, as well as official flag use. Its enumerated contexts show how a religiously derived device can serve as a contemporary territorial emblem under public law.",
+    "glossary": [
+      {
+        "term": "cáliz",
+        "english": "chalice"
+      },
+      {
+        "term": "hostia",
+        "english": "Eucharistic host"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "es-navarra-government",
+    "area": "Spain — Navarra",
+    "language": "es",
+    "holding": "Gobierno de Navarra",
+    "titleOriginal": "El autogobierno — Los símbolos",
+    "titleEnglish": "Navarra’s official symbols and institutional history",
+    "url": "https://www.navarra.es/es/gobierno-de-navarra/el-autogobierno",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "The government account describes the chain arms, the 1910 model and twentieth-century changes of crown and decoration. It also repeats the Navas de Tolosa origin story, which must be distinguished from specialist research into medieval seals and the later identification of radial fittings as chains.",
+    "glossary": [
+      {
+        "term": "cadenas",
+        "english": "chains"
+      },
+      {
+        "term": "corona mural",
+        "english": "mural crown"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "es-navarra-seals",
+    "area": "Spain — Navarra",
+    "language": "es",
+    "holding": "Faustino Menéndez Pidal de Navascués, Príncipe de Viana",
+    "titleOriginal": "Sellos, signos y emblemas de los reyes de Navarra, desde el Restaurador a los Teobaldos",
+    "titleEnglish": "Medieval seals and the development of Navarra’s emblems",
+    "url": "https://www.navarra.es/NR/rdonlyres/A1A75AAC-371E-46E7-81D8-EF4AD0B9D25C/283852/SellossignosyemblemasRPV241_WEB.pdf",
+    "kind": "research article",
+    "authority": "specialist research published in an institutional journal",
+    "englishSynopsis": "This specialist study examines royal seal evidence and the transition of a radial shield fitting into an armorial emblem under the Teobaldos. It distinguishes medieval forms and descriptions from later chain terminology, supplying a critical counterpart to the familiar battle-origin narrative.",
+    "glossary": [
+      {
+        "term": "bloca",
+        "english": "radial shield fitting"
+      },
+      {
+        "term": "escarboucle",
+        "english": "carbuncle-shaped radial emblem"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "es-catalan-civic",
+    "area": "Spain — Catalonia",
+    "language": "ca",
+    "holding": "Generalitat de Catalunya, Municat",
+    "titleOriginal": "L’heràldica cívica",
+    "titleEnglish": "Catalan civic heraldry and the caironat shield",
+    "url": "https://aplicacions.municat.gencat.cat/index.php?page=heraldicacivica",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "The civic-heraldry account discusses late-thirteenth-century municipal seals, combinations of local signs with the comital-royal four pales, and the caironat format adopted for modern civic practice. Its canting examples use Catalan words, making language a part of the design’s interpretation.",
+    "glossary": [
+      {
+        "term": "escut caironat",
+        "english": "square shield resting on a vertex"
+      },
+      {
+        "term": "senyal parlant",
+        "english": "canting or speaking sign"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ee-tallinn-history",
+    "area": "Estonia",
+    "language": "et",
+    "holding": "Tallinna linn",
+    "titleOriginal": "Tallinna linna vapp ja lipp",
+    "titleEnglish": "Tallinn’s arms and flags",
+    "url": "https://www.tallinn.ee/eng/Tallinna-linna-vapp-ja-lipp",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "The city account distinguishes three crowned blue lions, a red shield with a silver cross, and the full achievement. It identifies a lion seal from 1277 and explains later civic formats. Despite the English URL segment, the retrieved text is Estonian.",
+    "glossary": [
+      {
+        "term": "täisvapp",
+        "english": "full achievement"
+      },
+      {
+        "term": "otsavaatav",
+        "english": "looking toward the viewer"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ee-tallinn-statute",
+    "area": "Estonia",
+    "language": "et",
+    "holding": "Riigi Teataja / Tallinna Linnavolikogu",
+    "titleOriginal": "Tallinna põhimäärus — Tallinna sümbolid",
+    "titleEnglish": "Tallinn municipal statute and emblem specifications",
+    "url": "https://www.riigiteataja.ee/public-api/api/v1/akt/418032023027/blob-html",
+    "kind": "municipal statute",
+    "authority": "official legislation portal",
+    "englishSynopsis": "The March 2023 statutory witness distinguishes large and small arms, the full achievement, logo, city flag and heraldic flag. Its specifications allow comparison of related objects without treating all textile or graphic forms as identical.",
+    "glossary": [
+      {
+        "term": "vapilipp",
+        "english": "heraldic flag"
+      },
+      {
+        "term": "etalonkujutis",
+        "english": "standard representation"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ee-tartu",
+    "area": "Estonia",
+    "language": "et",
+    "holding": "Tartu linn",
+    "titleOriginal": "Tartu sümboolika",
+    "titleEnglish": "Tartu’s civic symbols",
+    "url": "https://tartu.ee/et/tartu-suemboolika",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "The municipality specifies the silver wall and towers on red, star and chain at the gate, and crossed key and sword above. Their orientation and overlap give the reader a detailed civic example, including a smaller key-and-sword presentation distinct from the complete arms.",
+    "glossary": [
+      {
+        "term": "langevõre",
+        "english": "portcullis"
+      },
+      {
+        "term": "võti",
+        "english": "key"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "lv-national",
+    "area": "Latvia",
+    "language": "lv",
+    "holding": "Valsts prezidenta kanceleja",
+    "titleOriginal": "Valsts simboli",
+    "titleEnglish": "Latvia’s state symbols",
+    "url": "https://www.president.lv/lv/valsts-simboli",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "The Latvian-language presidential account specifies the sun, reversed red lion, silver griffin, stars and external elements. It also distinguishes forms and uses. The original-language description helps check the English page, whose tongue-colour wording differs.",
+    "glossary": [
+      {
+        "term": "grifs",
+        "english": "griffin"
+      },
+      {
+        "term": "vairoga turētāji",
+        "english": "shield supporters"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "lv-national-en",
+    "area": "Latvia",
+    "language": "en",
+    "holding": "Valsts prezidenta kanceleja",
+    "titleOriginal": "National symbols",
+    "titleEnglish": "English orientation to Latvia’s national symbols",
+    "url": "https://www.president.lv/en/national-symbols",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "The English presidential page introduces Latvia’s great arms and dates their 1921 approval and 1993 restoration. Its griffin tongue-colour wording differs from the Latvian account, so the English orientation should not replace the controlling specification in close colour analysis.",
+    "glossary": [
+      {
+        "term": "griffon",
+        "english": "griffin"
+      },
+      {
+        "term": "great arms",
+        "english": "shield with prescribed external elements"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "lv-commission",
+    "area": "Latvia",
+    "language": "lv",
+    "holding": "Valsts prezidenta kanceleja",
+    "titleOriginal": "Valsts heraldikas komisija",
+    "titleEnglish": "State Heraldry Commission",
+    "url": "https://www.president.lv/lv/valsts-heraldikas-komisija",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "The Presidency describes the commission’s research, design examination and advisory functions under the Coats of Arms Law and other symbol legislation. This account shows the institutional work behind approval and registration, rather than treating the register as an image gallery alone.",
+    "glossary": [
+      {
+        "term": "komisija",
+        "english": "commission"
+      },
+      {
+        "term": "dzimta",
+        "english": "family or lineage"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "lv-riga",
+    "area": "Latvia",
+    "language": "en",
+    "holding": "Rīgas valstspilsētas pašvaldība",
+    "titleOriginal": "The Symbols of Riga",
+    "titleEnglish": "Riga’s civic emblem system",
+    "url": "https://www.riga.lv/en/symbols-riga",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "The city describes the gate, lion’s head, crossed keys and external lion supporters, and distinguishes its large and small arms. It gives 1925 approval and 1988 renewal dates. The explanatory webpage contains conflicting flag shape and proportion wording, requiring reference to formal standards for production.",
+    "glossary": [
+      {
+        "term": "small arms",
+        "english": "shield component of the large arms"
+      },
+      {
+        "term": "renewal",
+        "english": "a dated act of renewed adoption"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "lt-state-history",
+    "area": "Lithuania",
+    "language": "en",
+    "holding": "Lietuvos Respublikos Seimas",
+    "titleOriginal": "Coat of arms of the Republic of Lithuania — History of the national coat of arms",
+    "titleEnglish": "Vytis and its modern standards",
+    "url": "https://www.lrs.lt/sip/portal.show?p_a=1745&p_k=2&p_kade_id=10&p_r=38110",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "The parliamentary history traces the 1990 transitional standard through the 1991 design by Arvydas Každailis and earlier Vytis witnesses. It distinguishes revival of a historical symbol from the successive approval of particular graphic models, including the transitional purple background.",
+    "glossary": [
+      {
+        "term": "Vytis",
+        "english": "conventional name of the Lithuanian mounted-knight arms"
+      },
+      {
+        "term": "standard",
+        "english": "approved graphic model"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "lt-kaunas",
+    "area": "Lithuania",
+    "language": "lt",
+    "holding": "Kauno miesto savivaldybė",
+    "titleOriginal": "Vėliava ir herbas",
+    "titleEnglish": "Kaunas arms and their historical changes",
+    "url": "https://www.kaunas.lt/apie-kauna/kauno-zenklai/veliava-ir-herbas/",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "The city’s native-language account traces its aurochs device through seal evidence, Russian imperial presentation, interwar and Soviet-era revisions, and the 1993 and 2008 standards. It distinguishes city and guberniya bearings, providing a case study in changing jurisdictions.",
+    "glossary": [
+      {
+        "term": "tauras",
+        "english": "aurochs"
+      },
+      {
+        "term": "skydininkas",
+        "english": "shield supporter"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "lt-kaunas-en",
+    "area": "Lithuania",
+    "language": "en",
+    "holding": "Kaunas city municipality",
+    "titleOriginal": "Coat of Arms",
+    "titleEnglish": "Kaunas English-language armorial account",
+    "url": "https://en.kaunas.lt/city/coat-of-arms",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "The English municipal page attempts to translate the Kaunas historical account but uses erroneous terms including cup for the animal and skydiver for a supporter. It is retained as a translation-comparison witness, not a reliable source for those technical identifications.",
+    "glossary": [
+      {
+        "term": "translation comparison",
+        "english": "checking an English rendering against the original"
+      },
+      {
+        "term": "aurochs",
+        "english": "the animal intended in the native text"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "lt-vilnius",
+    "area": "Lithuania",
+    "language": "lt",
+    "holding": "Vilniaus miesto savivaldybė",
+    "titleOriginal": "Šiandien – Vilniaus globėjo Šv. Kristoforo diena!",
+    "titleEnglish": "Saint Christopher and the Vilnius civic arms",
+    "url": "https://vilnius.lt/naujienos/siandien-vilniaus-globejo-sv-kristoforo-diena",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "The municipality describes Saint Christopher carrying the Christ child through water in the civic arms. It identifies the current design by Arvydas Každailis and its approval on 17 April 1991, while presenting the underlying narrative as a legend.",
+    "glossary": [
+      {
+        "term": "Šv. Kristoforas",
+        "english": "Saint Christopher"
+      },
+      {
+        "term": "vaikelis Jėzus",
+        "english": "the Christ child"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "lt-state-symbols",
+    "area": "Lithuania",
+    "language": "lt",
+    "holding": "Lietuvos Respublikos Seimas",
+    "titleOriginal": "Lietuvos valstybės simboliai",
+    "titleEnglish": "State symbols and the structure of Vytis",
+    "url": "https://www.lrs.lt/sip/portal.show?p_k=1&p_r=35580",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "The parliament identifies the knight, horse, sword, small blue shield and gold double cross, and distinguishes other historical signs such as the Columns of the Gediminids. Its native-language descriptions supply a technical reference for English reconstruction and comparison.",
+    "glossary": [
+      {
+        "term": "raitelis",
+        "english": "mounted rider"
+      },
+      {
+        "term": "Gediminaičių stulpai",
+        "english": "Columns of the Gediminids"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "lt-double-cross",
+    "area": "Lithuania",
+    "language": "en",
+    "holding": "Lietuvos Respublikos Seimas",
+    "titleOriginal": "Double Cross",
+    "titleEnglish": "The double cross as dynastic and national symbol",
+    "url": "https://www.lrs.lt/sip/portal.show?p_k=2&p_r=38115",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "The parliamentary account traces the double cross from Jogaila’s 1386 seal through Jagiellonian use and later variations of colour and crossbar length. The current gold-on-blue form is part of the national arms, while historical versions require their own dated identification.",
+    "glossary": [
+      {
+        "term": "double cross",
+        "english": "cross with two horizontal bars"
+      },
+      {
+        "term": "dynastic emblem",
+        "english": "sign associated with a ruling house"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "pl-niesiecki-1839",
+    "area": "Poland–Lithuania",
+    "language": "pl",
+    "holding": "Mazowiecka Biblioteka Cyfrowa",
+    "titleOriginal": "Herbarz polski Kaspra Niesieckiego, wyd. Jana Nep. Bobrowicza, t. 1",
+    "titleEnglish": "Niesiecki’s armorial, Bobrowicz edition, volume 1",
+    "url": "https://mbc.cyfrowemazowsze.pl/dlibra/publication/136174/edition/125081?language=pl",
+    "kind": "digitized historical armorial",
+    "authority": "institutional digital library",
+    "englishSynopsis": "The digital library identifies the 1839 Leipzig first volume, with Niesiecki as author and Bobrowicz as editor. Its title explicitly signals additions from later writers, manuscripts and official evidence, making the edition’s layered authorship central to responsible citation.",
+    "glossary": [
+      {
+        "term": "wydany",
+        "english": "published or edited"
+      },
+      {
+        "term": "rękopism",
+        "english": "manuscript, historical spelling"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "pl-dlugosz-1885",
+    "area": "Poland–Lithuania",
+    "language": "la",
+    "holding": "PAN Biblioteka Kórnicka / Wielkopolska Biblioteka Cyfrowa",
+    "titleOriginal": "Insignia seu Clenodia Regis et Regni Poloniae, wyd. Z. Celichowski",
+    "titleEnglish": "Celichowski’s 1885 edition of the Kórnik witness",
+    "url": "https://www.wbc.poznan.pl/publication/811",
+    "kind": "historical text edition",
+    "authority": "institutional digital library",
+    "englishSynopsis": "The library identifies an 1885 edition associated with Jan Długosz and edited by Zygmunt Celichowski from the Kórnik codex. Its Latin and Polish contents and manuscript basis require distinguishing the medieval text from the later printed edition and its editorial apparatus.",
+    "glossary": [
+      {
+        "term": "insignia",
+        "english": "identifying signs"
+      },
+      {
+        "term": "clenodia",
+        "english": "armorial insignia or jewels"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "pl-frost-horodlo",
+    "area": "Poland–Lithuania",
+    "language": "pl",
+    "holding": "Robert Frost / Muzeum Historii Polski",
+    "titleOriginal": "Unia Horodelska",
+    "titleEnglish": "Horodło and the political meaning of heraldic adoption",
+    "url": "https://muzhp.pl/wiedza-on-line/robert-frost-unia-horodelska",
+    "kind": "historian’s essay",
+    "authority": "specialist contribution published by a national museum",
+    "englishSynopsis": "Frost interprets the Horodło adoption within a developing union of political communities, rather than merely a dynastic arrangement. The essay is an attributed historical argument; its account of political integration should not be mistaken for proof of biological kinship among all armorial affiliates.",
+    "glossary": [
+      {
+        "term": "adopcja",
+        "english": "adoption"
+      },
+      {
+        "term": "wspólnota",
+        "english": "community"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "pl-citko-names",
+    "area": "Poland–Lithuania",
+    "language": "pl",
+    "holding": "Lilia Citko / Uniwersytet w Białymstoku",
+    "titleOriginal": "Akty Horodelskie z 1413 r. jako źródło do historii antroponimii polskiej i litewsko-ruskiej",
+    "titleEnglish": "Horodło documents and personal-name development",
+    "url": "https://crossroads.uwb.edu.pl/index.php/sw/article/view/1312",
+    "kind": "research article",
+    "authority": "university journal",
+    "englishSynopsis": "Citko’s 2015 article, pages 209–218, examines names in the Horodło documents, including place-derived names, patronymics, nicknames and armorial names. It provides a method for avoiding premature treatment of every medieval second naming element as a fixed modern surname.",
+    "glossary": [
+      {
+        "term": "antroponimia",
+        "english": "study of personal names"
+      },
+      {
+        "term": "patronim",
+        "english": "patronymic"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "pl-jelita-zamoyski",
+    "area": "Poland–Lithuania",
+    "language": "pl",
+    "holding": "Muzeum Pałacu Króla Jana III w Wilanowie",
+    "titleOriginal": "Zamoyscy – zarys dziejów rodu",
+    "titleEnglish": "The Zamoyski family, Jelita and the origin legend",
+    "url": "https://w.wilanow-palac.pl/pasaz-wiedzy/zamoyscy-zarys-dziejow-rodu",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "The museum’s account distinguishes the Jelita origin legend involving Florian Szary from documented later Zamoyski family history. Three spear motifs and the named armorial affiliation connect visual identity with a narrative that must remain attributed as legend.",
+    "glossary": [
+      {
+        "term": "włócznia",
+        "english": "spear"
+      },
+      {
+        "term": "legenda",
+        "english": "legend"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "pl-tarnow-history",
+    "area": "Poland–Lithuania",
+    "language": "pl",
+    "holding": "Urząd Miasta Tarnowa",
+    "titleOriginal": "Dzieje Tarnowa",
+    "titleEnglish": "Tarnów and the Leliwa arms",
+    "url": "https://www.tarnow.pl/Miasto/O-Tarnowie/Historia-miasta/Dzieje-Tarnowa",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "The city account identifies Spycimir with Leliwa’s gold crescent and six-pointed star on blue, and locates the 1330 foundation privilege in the Czartoryski Library. It supplies a concrete relationship between a founder’s armorial identity and civic history.",
+    "glossary": [
+      {
+        "term": "półksiężyc",
+        "english": "crescent"
+      },
+      {
+        "term": "sześcioramienna gwiazda",
+        "english": "six-pointed star"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "pl-tarnow-seal",
+    "area": "Poland–Lithuania",
+    "language": "pl",
+    "holding": "Krzysztof Moskal / Miejska Biblioteka Publiczna w Tarnowie",
+    "titleOriginal": "Panowie na Tarnowie, cz. 1–7",
+    "titleEnglish": "Spycimir, names and the early Tarnów seal",
+    "url": "https://www.biblioteka.tarnow.pl/panowie-na-tarnowie",
+    "kind": "local historical study",
+    "authority": "named historian published by a municipal library",
+    "englishSynopsis": "Moskal discusses Spycimir’s varied documentary name forms and the early city seal, which depicts him with sword and Leliwa shield alongside religious and heraldic components. The local historical study connects person, civic institution and armorial display without reducing them to one modern name string.",
+    "glossary": [
+      {
+        "term": "pieczęć",
+        "english": "seal"
+      },
+      {
+        "term": "labry",
+        "english": "mantling"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ua-1992-resolution",
+    "area": "Ukraine",
+    "language": "uk",
+    "holding": "Верховна Рада України",
+    "titleOriginal": "Про Державний герб України, 19 лютого 1992, № 2137-XII",
+    "titleEnglish": "The 1992 resolution adopting the small state arms",
+    "url": "https://zakon.rada.gov.ua/laws/show/2137-12",
+    "kind": "parliamentary resolution",
+    "authority": "official legislation portal",
+    "englishSynopsis": "The parliamentary resolution adopts the trident as Ukraine’s small coat and principal element of a future great coat, with colour and schematic drawings attached. It provides a dated legal witness distinct from earlier princely marks and twentieth-century republican designs.",
+    "glossary": [
+      {
+        "term": "малий герб",
+        "english": "small coat of arms"
+      },
+      {
+        "term": "схематичне зображення",
+        "english": "schematic representation"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ua-great-bill",
+    "area": "Ukraine",
+    "language": "uk",
+    "holding": "Верховна Рада України",
+    "titleOriginal": "Проєкт Закону про великий Державний Герб України, № 5712",
+    "titleEnglish": "Great state arms bill 5712 and its procedural status",
+    "url": "https://itd.rada.gov.ua/billinfo/Bills/Card/27209",
+    "kind": "legislative bill record",
+    "authority": "official parliamentary portal",
+    "englishSynopsis": "The bill card records registration on 29 June 2021, adoption in principle on 24 August 2021 and preparation for a second reading. Checked in October 2026, this is procedural evidence for a proposal, not proof that its illustration is the enacted great arms.",
+    "glossary": [
+      {
+        "term": "прийнято за основу",
+        "english": "adopted in principle"
+      },
+      {
+        "term": "друге читання",
+        "english": "second reading"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ua-great-first-reading",
+    "area": "Ukraine",
+    "language": "uk",
+    "holding": "Верховна Рада України",
+    "titleOriginal": "Про прийняття за основу проекту Закону України про великий Державний Герб України, № 1707-IX",
+    "titleEnglish": "Resolution advancing the great-arms bill",
+    "url": "https://zakon.rada.gov.ua/laws/show/1707-20",
+    "kind": "parliamentary resolution",
+    "authority": "official legislation portal",
+    "englishSynopsis": "The 24 August 2021 resolution adopts bill 5712 in principle and instructs the committee to prepare it for a second reading with amendments. The signed procedural resolution must not be confused with final enactment of the substantive coat-of-arms law.",
+    "glossary": [
+      {
+        "term": "доопрацювати",
+        "english": "revise or prepare further"
+      },
+      {
+        "term": "постанова",
+        "english": "resolution"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ua-money-history",
+    "area": "Ukraine",
+    "language": "uk",
+    "holding": "Національний банк України",
+    "titleOriginal": "Історія української гривні",
+    "titleEnglish": "Princely coinage and modern banknote design",
+    "url": "https://bank.gov.ua/ua/uah/uah-history",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "The National Bank identifies Volodymyr’s zlatnyk and sriblianyk coinage as witnesses to the princely sign and discusses Narbut’s use of the trident in the first republican banknote. Coin image, inscription and modern explanation are distinct layers of evidence.",
+    "glossary": [
+      {
+        "term": "златник",
+        "english": "gold coin"
+      },
+      {
+        "term": "срібляник",
+        "english": "silver coin"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ua-1918-design",
+    "area": "Ukraine",
+    "language": "uk",
+    "holding": "Український інститут національної пам’яті",
+    "titleOriginal": "Знак твоєї свободи. Затвердження Тризуба гербом УНР",
+    "titleEnglish": "Trident adoption and republican graphic standards in 1918",
+    "url": "https://uinp.gov.ua/informaciyni-materialy/vchytelyam/metodychni-rekomendaciyi/znak-tvoyeyi-svobody-zatverdzhennya-tryzuba-gerbom-unr-derzhavni-symvoly-y-atrybuty-ukrayiny",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "The institute’s educational synthesis distinguishes the February 1918 adoption of the sign from March approval of Krychevskyi’s drawings. It also discusses the Cossack musketeer emblem and Narbut’s later proposals, preserving the difference between completed designs, commission approval and enacted symbols.",
+    "glossary": [
+      {
+        "term": "самопал",
+        "english": "firearm, in the historic expression for the Cossack emblem"
+      },
+      {
+        "term": "ескіз",
+        "english": "design sketch"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ua-lviv-grechylo",
+    "area": "Ukraine",
+    "language": "uk",
+    "holding": "Андрій Гречило / Музей «Львів Стародавній»",
+    "titleOriginal": "Герб міста Львова: ґенеза, традиція, відродження",
+    "titleEnglish": "Lviv civic arms: development and revival",
+    "url": "https://lvivancient.org.ua/statti/herb-mista-lvova-geneza-tradytsiia-vidrodzhennia/",
+    "kind": "historical research article",
+    "authority": "specialist research published by a museum",
+    "englishSynopsis": "The research account traces Lviv’s lion-in-gateway design and its 1990 restoration, including the taller central tower, open gate and larger achievement. It treats changing forms through documented civic history, rather than collapsing the city’s lion with every Galician territorial lion.",
+    "glossary": [
+      {
+        "term": "брама",
+        "english": "gateway"
+      },
+      {
+        "term": "щитотримач",
+        "english": "shield supporter"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ua-mazepa-cross-anchor",
+    "area": "Ukraine",
+    "language": "uk",
+    "holding": "Георгій Шаповалов, Олександр Бєлов / Zaporizhzhia Historical Review",
+    "titleOriginal": "«Хрест незрушний на кітві буде навік-віки». Ще раз про символ хреста-якоря у гербі гетьмана Івана Мазепи",
+    "titleEnglish": "The cross-anchor in Mazepa’s arms",
+    "url": "https://history.znu.edu.ua/index.php/journal/article/view/42",
+    "kind": "research article",
+    "authority": "university historical journal",
+    "englishSynopsis": "The authors investigate the cross-anchor interpretation in Mazepa’s arms using archaeological, numismatic, armorial and written sources, including armorial verse. It is an attributed research argument about meaning, which should remain distinct from a bare visual description of the charge.",
+    "glossary": [
+      {
+        "term": "кітва",
+        "english": "anchor"
+      },
+      {
+        "term": "гербовий вірш",
+        "english": "armorial verse"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
   }
 ]

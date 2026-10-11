@@ -169,8 +169,6 @@ Reconstruct the national lion through its component relationships, then compare 
 
 Next compare the national-arm record, Helsinki’s manual, and the family association’s account. Distinguish legal specification, generated description, fixed graphic guidance, and the bearer’s commissioning history. A developed study should show how those sources contribute different information to the practical use of Finnish heraldry.
 
-
-
 <aside class="editorial-notice" aria-label="Editorial note">
 <p><strong>Status:</strong> This is a legal and source-critical introduction, not yet a complete history of Finnish heraldry. A developed course must also cover personal and noble heraldry, material witnesses and comparative Nordic scholarship from original Finnish and Swedish sources.</p>
 </aside>

@@ -81,10 +81,6 @@ Begin with the [National Diet Library research guide](https://ndlsearch.ndl.go.j
 
 **Research frontier:** access and transcribe actual Japanese historical witnesses, evaluate literature written in Japanese, and consult specialists rather than projecting European concepts onto local art and customs.
 
-<aside class="editorial-notice" aria-label="Editorial note">
-<p><strong>Editorial status:</strong> Original English synthesis supported by linked sources. Scope and interpretive assumptions are explicit. Specialist and, where relevant, community review remain to be completed.</p>
-</aside>
-
 ## A mon has a form, a bearer, and a setting
 
 To understand a family emblem, begin with three things that can vary independently. The form is the visible design. The bearer is the person, household, or other body associated with it in the case under investigation. The setting is the object and occasion through which the association is presented. A motif dictionary helps us name the form. A dated object can show a form in use. A document identifying a household can connect that use to a bearer. Keeping those components separate gives us a workable account of kamon without requiring a European grant system to sit behind it.
@@ -171,7 +167,9 @@ Select one motif identified in a Japanese-language reference work and locate thr
 
 The resulting essay should make one bounded historical argument. It might explain a household’s documented use across several objects, a workshop’s handling of a motif class, or the role of a banner within a particular public occasion. Include the Japanese titles and terms needed to check the account, and discuss at least one competing explanation for the pattern you observe. A corpus this small cannot establish the whole history of kamon, but it can demonstrate how a serious history becomes possible.
 
-
+<aside class="editorial-notice" aria-label="Editorial note">
+<p><strong>Editorial status:</strong> Original English synthesis supported by linked sources. Scope and interpretive assumptions are explicit. Specialist and, where relevant, community review remain to be completed.</p>
+</aside>
 
 [^jp-loc-sumiyoshi]: Library of Congress, [Tsukudajima sumiyoshi no matsuri](https://www.loc.gov/pictures/item/2009631888/). Consulted 11 October 2026. Original English editorial synthesis; consult the linked record for close reading.
 

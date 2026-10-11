@@ -2,7 +2,7 @@
 title: "Ireland: An armorial archive across independence"
 description: "Examine an original Tudor grant, its production and political setting, institutional succession, diaspora confirmations, civic arms, and the harp’s material and public histories."
 region: "Ireland"
-languages: ["en", "la", "fr"]
+languages: ["en", "la"]
 track: "Comparative traditions"
 period: "Sixteenth century–present"
 sourceIds: ["irl-chief-herald", "irl-register-q", "irl-state-emblems", "eng-college-descent", "irl-stanyhurst-grant", "irl-stanyhurst-analysis", "irl-act-1997", "irl-trinity-harp"]

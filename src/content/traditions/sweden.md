@@ -169,8 +169,6 @@ Compare the lesser arms, Stockholm’s logo, the county composition, and one loc
 
 For graduate work, choose a bounded public or familial corpus and follow one identifying form across at least two material witnesses. Explain its historical transmission, the institutional relationship, and any substantive alteration. A developed account should show the form doing work in Swedish society, with the register providing the route into that evidence.
 
-
-
 <aside class="editorial-notice" aria-label="Editorial note">
 <p><strong>Editorial status:</strong> Original English research synthesis, grounded in the linked institutional sources. Not a full translation of those sources, not legal advice, and awaiting specialist review.</p>
 </aside>
