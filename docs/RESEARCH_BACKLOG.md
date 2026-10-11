@@ -1,6 +1,6 @@
 # International heraldry research and translation backlog
 
-Last updated: 2026-10-10. This queue is ordered for **coverage gaps and primary evidence**, not prestige or proximity to English sources.
+Last updated: 2026-10-11. This queue is ordered for **coverage gaps and primary evidence**, not prestige or proximity to English sources.
 
 ## Stage A — primary-source foundation (under way)
 
@@ -46,11 +46,11 @@ Last updated: 2026-10-10. This queue is ordered for **coverage gaps and primary 
 ## Stage C — global afterlives and comparison
 
 - [x] Add an initial substantial tamgas chapter to Comparative emblem systems: nine source dossiers, ancient coin/seal/vessel comparisons, medieval Turkic archaeological research, Mongolian branding scholarship, a contemporary Crimean Tatar artwork, one separately licensed photograph, and three documentary workshops. Abstract-based arguments and indexed catalogue evidence are identified; full witness collation and specialist review remain open.
-- [ ] Expand World Traditions with England/Wales, Scotland, a distinct Ireland chapter, Malta, Brazil, Canada, and the United States. Compare official military/government emblem administration with voluntary personal armory in the United States.
-- [ ] Add an Ecclesiastical heraldry group including Catholic and Anglican traditions.
-- [ ] Add **Other Traditions**, grouping SMOM and micronations as agreed on 10 October 2026. Distinguish the Order from the Republic of Malta; investigate micronational practice through documented examples without an unsupported claim about its share of all modern heraldry.
-- [ ] Add the remaining Comparative emblem systems chapters: Mamluk blazons, Ottoman tughras, Chinese/Korean rank badges, Chinese seals and collectors' marks, and Akan/Asante adinkra. European house and merchant marks remain a further research candidate. These additions are deferred while tamgas is delivered.
-- [ ] Ireland, Wales, Scotland, England, and the Commonwealth: genuinely separate traditions and authority structures.
+- [x] Deliver substantial first teaching drafts for England and Wales separately, Scotland, Ireland, Malta, Brazil, Canada, and the United States. Compare official military/government emblem administration with voluntary personal armory in the United States. Broader scholarship, direct archival investigation, and specialist review remain open.
+- [x] Add Ecclesiastical heraldry with separate Catholic and Anglican chapters, dated insignia instruments, contemporary papal and Canadian institutional cases, and a distinction between ecclesiastical office and state symbols. Independent specialist review remains open.
+- [x] Add **Other Traditions**, grouping SMOM and micronations as agreed on 10 October 2026. Distinguish the Order from the Republic of Malta; investigate micronational practice through documented examples without an unsupported claim about its share of all modern heraldry.
+- [x] Deliver substantial first chapters on Mamluk blazons, Ottoman tughras, Chinese/Korean rank badges, Chinese seals and collectors' marks, Akan/Asante adinkra, and European house/merchant marks. Add five individually verified Met Public Domain/CC0 photographs with accession and image provenance. These chapters retain indexed-catalogue and qualified-attribution limits; original-language regulatory/manuscript work and independent specialist review remain open.
+- [ ] Deepen the new Ireland, Wales, Scotland, and England chapters with further historical scholarship and primary files; extend Commonwealth coverage beyond Canada and South Africa.
 - [ ] United States, Canada, Mexico, Central America, South America and Caribbean: transmission, state seals, national symbolism, heraldic law.
 - [ ] African heraldry: South African civic and family practices, the 2000 national arms and Indigenous symbolic narratives, wider regional usage.
 - [ ] Asian public heraldry: historical and contemporary state arms and institutional borrowings, postcolonial use, non-European iconographic systems.

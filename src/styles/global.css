@@ -642,7 +642,7 @@ button:focus-visible, a:focus-visible, input:focus-visible, textarea:focus-visib
 .atlas-provenance{font-size:.7rem;line-height:1.65;color:var(--muted);margin:26px 0 19px;}
 .atlas-card .btn{width:100%;}
 @media(max-width:1060px){.tradition-grid{grid-template-columns:repeat(2,1fr);}.world-article-shell{grid-template-columns:minmax(0,1fr) 245px;gap:30px;}.world-sidebar-box{padding:18px;}}
-@media(max-width:840px){.world-article-shell{grid-template-columns:1fr;}.world-sidebar{position:static;grid-row:1;grid-template-columns:1fr 1fr;}.atlas-tools{grid-template-columns:1fr 1fr;}.atlas-tools label:first-child{grid-column:1/-1;}}
+@media(max-width:840px){.world-article-shell{grid-template-columns:1fr;}.world-sidebar{position:static;grid-row:auto;grid-template-columns:1fr 1fr;}.atlas-tools{grid-template-columns:1fr 1fr;}.atlas-tools label:first-child{grid-column:1/-1;}}
 @media(max-width:650px){.international-intro{grid-template-columns:1fr;}.tradition-grid,.atlas-grid,.world-sidebar{grid-template-columns:1fr;}.atlas-tools{grid-template-columns:1fr;}.atlas-tools label:first-child{grid-column:auto;}.international-cluster{margin:42px 0 55px;}.world-article-shell{padding-top:25px;}.world-article h2{font-size:2.1rem;}.world-article p{font-size:.95rem;}.world-article table{min-width:480px;}.atlas-glossary dl{grid-template-columns:1fr 1fr;}}
 
 /* Linked, accessible entries in the expanded scholarly lexicon. */
