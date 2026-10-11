@@ -43,6 +43,12 @@ Last updated: 2026-10-11. This queue is ordered for **coverage gaps and primary 
 - [ ] Czechia/Slovakia/Hungary: municipal and aristocratic arms, national archives, the Czech REKOS register, genealogical case studies.
 - [ ] Balkans and Eastern Europe: source-limited contexts, state emblems, Ottoman and Habsburg administrative overlays.
 
+## Coverage expansion — further teaching drafts delivered
+
+- [x] Add 31 further chapters, bringing the collection to 70 chapters and 223 source dossiers. Separate Ukraine, Byzantium, Greece, Serbia and Russia; add the Nordic, Alpine, Baltic, Low Countries, Caucasian, Pacific, Mexican, Philippine and Kenyan gaps discussed in the coverage review. Regional readings cover additional Balkan traditions, Latin America and the Caribbean, Ghana and Namibia. See [the coverage inventory](WORLD_TRADITIONS_COVERAGE.md).
+- [x] Add cross-border readings on Orthodox and Lutheran heraldry, Jewish armory, the Teutonic Order, colonial and Indigenous participation, and socialist state emblems. Preserve source-language titles and attributed disagreements; add all newly consulted language labels to the atlas.
+- [ ] Deepen these teaching drafts with original instruments, further local scholarship, design-process archives, reviewed translations and independent specialist review. Regional chapters are starting points, not replacements for national or community histories. The substantive survey tasks below remain open.
+
 ## Stage C — global afterlives and comparison
 
 - [x] Add an initial substantial tamgas chapter to Comparative emblem systems: nine source dossiers, ancient coin/seal/vessel comparisons, medieval Turkic archaeological research, Mongolian branding scholarship, a contemporary Crimean Tatar artwork, one separately licensed photograph, and three documentary workshops. Abstract-based arguments and indexed catalogue evidence are identified; full witness collation and specialist review remain open.
