@@ -2110,5 +2110,301 @@
     "recordTitle": "The Most Distinguished Order of St Michael and St George",
     "recordHolding": "Central Chancery of the Orders of Knighthood",
     "recordKind": "institutional account"
+  },
+  {
+    "id": "stowe-armorial",
+    "title": "726 quarterings, one ceiling",
+    "catalogueTitle": "The Heraldic Achievements of the Grenville, Temple Nugent, and Chandos Families",
+    "summary": "The Stowe Armorial turns accumulated ancestry into an architectural spectacle. Its 726 quarterings invite a closer look at what marshalling can communicate, and what it takes to substantiate the relationships.",
+    "date": "Painting: 1806; Photograph: undated reproduction",
+    "culture": "British · Stowe House",
+    "material": "Architectural display",
+    "medium": "Oil on parchment; circular painting, 132 cm diameter",
+    "accession": "SS.51",
+    "museum": "Stowe House",
+    "objectId": "SS.51",
+    "creator": "P Sonnard (Stowe House catalogue attribution)",
+    "url": "https://www.stowehouse.org/object/the-heraldic-achievements-of-the-grenville-temple-nugent-and-chandos-families/",
+    "credit": "P Sonnard; reproduction via Wikimedia Commons",
+    "imageRights": "Public domain",
+    "rightsUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "imageAttribution": "P Sonnard (catalogue attribution); digital reproduction via Wikimedia Commons",
+    "imageRightsNote": "The individual Commons record marks this reproduction of the historic painting as public domain. Its source-generated preview is reproduced without local cropping or recolouring. The rights statement concerns the reproduction; it does not certify entitlement to each quartering.",
+    "imageRecordUrl": "https://commons.wikimedia.org/wiki/File:Stowe_Armorial,_Ceiling_of_Gothic_Library,_Stowe_House,_Buckinghamshire.png",
+    "lesson": "marshalling",
+    "periods": [
+      "Modern"
+    ],
+    "studyType": "Early nineteenth-century genealogy displayed as architectural armory; not a medieval manuscript",
+    "question": "When does a shield become a room-sized argument?",
+    "observations": [
+      "A circular painted field is packed with small rectangular armorial compartments. Their rows shorten toward the curved edge, while red, blue, gold, and white recur across different geometrical and figural designs.",
+      "The arrangement gives the circle a dense overall rhythm before individual devices become legible. At this preview size, the number and complexity of the compartments are easier to appreciate than the identity of every charge."
+    ],
+    "catalogue": "Stowe House dates the painting to 1806, attributes it to P Sonnard, and records oil on parchment and a diameter of 132 cm. Catalogue number SS.51 identifies the work displayed in the Gothic Library. The institutional account describes 726 armorial bearings associated with the Temple, Nugent, Brydges, Chandos, and Grenville families. [1]",
+    "reading": [
+      "Marshalling lets several armorial identities occupy one composition. Here that capacity has become the subject of the picture. A viewer first encounters an accumulation: a repeated grid whose small parts make the circle look almost impossibly comprehensive. The effect depends on the relationship between the individual quartering and the whole. An isolated compartment would present one design. Hundreds arranged together present the possession of an extensive genealogical past as something a visitor can see.",
+      "That visual argument carries several research questions. Which quarterings were selected, in what order, and on what genealogical basis? A familiar lion is a beginning for identification, but a pedigree has to explain why that lion belongs within this particular assemblage. Counting painted compartments cannot answer the question. Repeated designs, variant representations, and claims transmitted through different lines can all matter; the catalogue’s total should not be silently converted into 726 independently verified ancestors or distinct families.",
+      "The architectural setting changes how the armory is read. A visitor looking upward in a library encounters a concentrated statement of ancestry rather than a practical identification mark on a shield. The circle has to hold the room at a distance, while the smaller designs reward examination in a reproduction. We can therefore evaluate two kinds of success: the painting’s power as a display and the documentary support for its genealogical argument. The first is visible here. Investigating the second requires evidence beyond this preview.",
+      "Try the same problem at a smaller scale. Put four invented coats into one quartered shield, then expand the composition to sixteen. With each addition, the opportunity to tell a longer family story grows while the space available to each design shrinks. Stowe takes that tradeoff to an extraordinary extent. Its abundance teaches something practical about marshalling: a composition can preserve many relationships even when recognition at a glance ceases to be its main job."
+    ],
+    "claims": [
+      {
+        "claim": "The institutional catalogue dates and attributes the painting to 1806 and P Sonnard.",
+        "basis": "Stowe House object record SS.51",
+        "limit": "Catalogue attribution, not a new examination of the signature or painting."
+      },
+      {
+        "claim": "The record describes 726 armorial bearings.",
+        "basis": "Stowe House object account",
+        "limit": "Not proof of 726 distinct families or independently established entitlements."
+      },
+      {
+        "claim": "The composition uses numerous armorial compartments within a circular boundary.",
+        "basis": "Visible reproduction",
+        "limit": "The preview does not permit secure identification of every small charge."
+      }
+    ],
+    "exercise": "Choose a group of four adjacent compartments. Record only features you can actually distinguish, then list what would be needed to identify the bearers and explain their inclusion. Separately explain how the whole circle communicates accumulation without asking a viewer to identify every compartment.",
+    "discussion": "A good answer keeps observation, attribution, and pedigree separate. It may describe an arrangement confidently while leaving tiny charges unresolved. It also explains the visual mechanism: repeated compartments turn genealogical extent into a dense architectural display. A stronger identification needs a keyed inventory and the relevant descent evidence.",
+    "research": "Seek a numbered or keyed account of the quarterings, and trace one selected inclusion through a documented pedigree. Compare its place within this circle with the simpler marshalling exercises in the Academy.",
+    "image": "/images/objects/stowe-armorial.png",
+    "imageSource": "https://upload.wikimedia.org/wikipedia/commons/9/97/Stowe_Armorial%2C_Ceiling_of_Gothic_Library%2C_Stowe_House%2C_Buckinghamshire.png",
+    "imageNote": "The source-generated preview preserves the whole circular composition. Follow the enlargement link for finer detail; the reproduction’s capture date is not established.",
+    "accessed": "2026-10-11",
+    "width": 500,
+    "height": 503,
+    "alt": "A circular painted field is packed with small rectangular armorial compartments. Their rows shorten toward the curved edge, while red, blue, gold, and white recur across different geometrical and figural designs."
+  },
+  {
+    "id": "bayeux-tapestry",
+    "title": "A battle before the armorial directory",
+    "catalogueTitle": "Bayeux Tapestry: scene 51, Norman knights and archers",
+    "summary": "An embroidered battle scene makes shields, bodies, weapons, and words work together. It offers a powerful comparison with later heraldry without turning every shield pattern into a hereditary coat of arms.",
+    "date": "11th century; Photograph: 7 March 2013",
+    "culture": "Anglo-Norman narrative; makers unrecorded",
+    "material": "Textiles",
+    "medium": "Wool embroidery on linen; photographed detail",
+    "accession": "Wikimedia Commons file 25450703",
+    "identifierLabel": "Photograph identifier",
+    "museum": "Bayeux Museum / City of Bayeux",
+    "objectId": "25450703",
+    "url": "https://www.bayeuxmuseum.com/en/the-bayeux-tapestry/discover-the-bayeux-tapestry/tapestry-or-embroidery/",
+    "recordTitle": "Making the Bayeux Tapestry",
+    "recordHolding": "Bayeux Museum",
+    "recordKind": "institutional account",
+    "credit": "Photograph by Myrabella / Wikimedia Commons / CC0",
+    "imageRights": "Public domain",
+    "rightsUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "imageAttribution": "Myrabella / Wikimedia Commons / CC0",
+    "imageRightsNote": "The individual file record dedicates Myrabella’s 2013 photograph under CC0 and records the historic embroidery as public domain. This is that separately licensed photograph, not an extraction from the museum’s restricted 2017 digital panorama. A source-generated preview is reproduced without local cropping or recolouring.",
+    "imageRecordUrl": "https://commons.wikimedia.org/wiki/File:Bayeux_Tapestry_scene51_Battle_of_Hastings_Norman_knights_and_archers.jpg",
+    "lesson": "the-visual-language",
+    "periods": [
+      "Medieval",
+      "Modern"
+    ],
+    "studyType": "Eleventh-century embroidery photographed in 2013; comparison with the development of armory",
+    "question": "How many ways can a picture identify an army?",
+    "observations": [
+      "Mounted figures advance across the central strip beside archers on foot. Long shields, patterned clothing, horses, bows, and raised weapons distinguish bodies and actions. A line of lettering runs above them.",
+      "Animal and human figures occupy the narrower borders. The central action and the border imagery share a stitched surface but operate at different scales. This photograph shows a selected section rather than the entire narrative."
+    ],
+    "catalogue": "Bayeux Museum explains that the work commonly called a tapestry is wool embroidery on linen. Its institutional account places the work in the eleventh century, leaves its makers unknown, and presents Bishop Odo of Bayeux as the probable commissioner. This separately licensed photograph by Myrabella records the detail catalogued on Commons as scene 51 on 7 March 2013. [1]",
+    "reading": [
+      "The first thing to read is the action. Mounted warriors, archers, weapons, text, and direction organize a scene that identifies roles through several channels at once. Shield decoration belongs to that larger arrangement. If we remove a single shield and place it in a modern armorial chart, we discard the contextual information that made it intelligible within the embroidery. The isolated pattern may look heraldic while the historical argument needed to call it hereditary armory remains unmade.",
+      "That is a productive problem rather than a reason to ignore the shields. Record the visible designs and compare appearances across the narrative. Does a particular pattern recur with a named person? Does it remain stable when the person changes position or equipment? What can be learned from repetition, and what might instead reflect workshop convention or the requirements of the scene? Those questions let the embroidery contribute to a history of identification without requiring it to behave like a later roll of arms.",
+      "The picture is also an account of a conflict made after the events it represents. Its narrative choices deserve examination alongside its material construction. A named figure or a represented gesture tells us how the story was presented; confirming the corresponding historical act calls for comparison with other witnesses. This distinction becomes especially useful when an arresting image seems to settle an argument all by itself. A vivid embroidery can supply excellent evidence for its own account while leaving the event behind that account open to inquiry.",
+      "Compare this scene with a later heraldic banner. Both use cloth, colour, and a public audience, but the identifying work is distributed differently. A banner of arms can make a stable armorial design its central content. Here the scene relies on bodies, equipment, direction, and lettering as well as shield patterns. Following that difference helps explain the emergence of heraldic identification as a particular solution within a much longer history of visible signs."
+    ],
+    "claims": [
+      {
+        "claim": "The work is embroidery on linen rather than a woven tapestry.",
+        "basis": "Bayeux Museum’s material explanation",
+        "limit": "The photograph does not independently determine the fibres or every stitch."
+      },
+      {
+        "claim": "The photograph records scene 51 on 7 March 2013.",
+        "basis": "Individual Commons photograph record",
+        "limit": "Not the date of the embroidery or evidence of its present display location."
+      },
+      {
+        "claim": "Shield patterns participate in the scene’s identification system.",
+        "basis": "Visible photographed detail",
+        "limit": "Their appearance alone does not establish stable hereditary coats or entitlement."
+      }
+    ],
+    "exercise": "Make an inventory of five means of identification or narrative distinction in this detail. Then isolate one shield pattern and formulate a test for the proposition that it identifies a particular bearer consistently. State what evidence would strengthen that proposition and what would leave it unresolved.",
+    "discussion": "An effective inventory includes posture, equipment, direction, lettering, and decoration, rather than treating shield patterns as the only meaningful signs. The proposed test looks for dated or internally repeated associations with an identifiable bearer. A resemblance to a later coat is a research lead; it needs an argument connecting the witnesses.",
+    "research": "Follow the museum’s account of manufacture and narrative, then compare this selected detail with its online guide. Investigate how a named person is identified across multiple scenes. Preserve the difference between an eleventh-century representation, the battle it narrates, and the 2013 photograph.",
+    "additionalSources": [
+      {
+        "title": "What is the Bayeux Tapestry about?",
+        "holding": "Bayeux Museum",
+        "url": "https://www.bayeuxmuseum.com/en/the-bayeux-tapestry/discover-the-bayeux-tapestry/what-is-the-bayeux-tapestry-about/",
+        "note": "Institutional explanation of the represented narrative; the events of the story and the surviving embroidered witness need separate evaluation."
+      }
+    ],
+    "image": "/images/objects/bayeux-tapestry.jpg",
+    "imageSource": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Bayeux_Tapestry_scene51_Battle_of_Hastings_Norman_knights_and_archers.jpg",
+    "imageNote": "Scene 51 only. The image is a separately licensed 2013 photograph of the embroidery.",
+    "accessed": "2026-10-11",
+    "width": 1280,
+    "height": 464,
+    "alt": "Mounted figures advance across the central strip beside archers on foot. Long shields, patterned clothing, horses, bows, and raised weapons distinguish bodies and actions. A line of lettering runs above them."
+  },
+  {
+    "id": "sanbaso-nobori",
+    "title": "A dancer and a family device on one nobori",
+    "catalogueTitle": "Banner (Nobori)",
+    "summary": "An 1827 Japanese banner combines a theatrical figure with a small family-associated device. The comparison asks which part identifies the motif, the occasion, and the people connected with the cloth.",
+    "date": "1827",
+    "culture": "Japan · Edo period",
+    "material": "Textiles",
+    "medium": "Cotton, hemp (?), bamboo, paper; paste-resist decoration and applied colour",
+    "accession": "1999.247.6",
+    "museum": "The Metropolitan Museum of Art",
+    "objectId": "53912",
+    "url": "https://www.metmuseum.org/art/collection/search/53912",
+    "credit": "Gift of John B. Elliott through the Mercer Trust, 1999",
+    "imageRights": "CC0",
+    "rightsUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access",
+    "lesson": "heraldry-in-public-life",
+    "periods": [
+      "Modern"
+    ],
+    "studyType": "Surviving nobori; photograph shows the decorated section, not the full length",
+    "question": "Which image does the identifying work?",
+    "observations": [
+      "A masked figure in a dark robe steps across the light cloth, raising an open fan. Fine white lines articulate the robe and its plant designs; red accents sharpen the movement. A round dark device sits below the figure at the left.",
+      "Fabric tabs run along the right edge and across the top of the photographed section. Their attachment makes the cloth’s intended support visible. The figure, small device, and mounting details occupy the same object but answer different questions."
+    ],
+    "catalogue": "The Met dates the nobori to 1827 and identifies the figure as Sanbaso from the Noh play Okina. Its account describes tsutsugaki paste-resist work and a dedication inscription elsewhere on the banner, recording presentation to Shohachimangu in the eighth month of 1827. The small device represents paired Japanese ginger branches, chigai myoga, a design used by multiple families. The full object measures 858.5 by 69.9 cm; this photograph shows only its decorated portion. [1]",
+    "reading": [
+      "The dancer attracts attention first, which makes the small device below especially instructive. Size and brightness do not tell us which element has a family association. The larger figure can carry theatrical or ceremonial meaning while the smaller mon connects the object with a different category of identity. Treating everything painted on a banner as one coat of arms would collapse those distinct functions before we had a chance to investigate them.",
+      "Material technique helps explain the design. Paste applied to the cloth resisted the colour subsequently added around it, allowing the white lines to define details within dark areas. Those lines make movement and fabric pattern readable without requiring separate sewn pieces for every contour. A design made for a long textile must survive both its method of production and its use on a support. The edge tabs give us physical evidence for that second problem.",
+      "The record’s identification of chigai myoga is useful precisely because it does not assign a unique family from the motif alone. When several families use a related design, finding the pattern narrows a question without completing the attribution. The dedication inscription and the history of this particular object could be more decisive. A catalogue of mon supplies names for forms; connecting one form to a donor, household, or shrine requires the surrounding evidence.",
+      "This nobori also broadens a comparison too easily restricted to battlefields. A banner can support festival, ceremonial, theatrical, and family meanings. Its shape does not make every instance military, just as a shield-shaped composition in Europe need not have been carried in combat. Compare the surviving textile with Hiroshige’s festival print: one permits examination of an object’s surface and attachments, while the other places banners within a larger public scene."
+    ],
+    "claims": [
+      {
+        "claim": "The Met identifies Sanbaso and the chigai myoga device.",
+        "basis": "Individual collection record",
+        "limit": "The device does not uniquely establish a donor’s family."
+      },
+      {
+        "claim": "The full banner is over eight metres long.",
+        "basis": "Catalogue dimensions, 858.5 cm",
+        "limit": "This image does not show its full length or the dedication inscription."
+      },
+      {
+        "claim": "The photograph shows edge tabs and contrasting linework.",
+        "basis": "Visible object photograph",
+        "limit": "The photograph does not demonstrate the complete mounting arrangement in use."
+      }
+    ],
+    "exercise": "Describe the dancer, the small round device, and the edge tabs separately. Give each a likely function grounded in the record or visible image. Then explain why identifying the mon’s motif is insufficient to name the banner’s donor.",
+    "discussion": "The dancer belongs to the represented theatrical subject, the mon to a family-associated motif, and the tabs to physical suspension. The Met’s account says the motif was used by several families. A donor attribution therefore needs evidence such as the inscription or object history, and should not be manufactured from a surname chart.",
+    "research": "Compare the Met’s additional photographs with this view and locate the parts absent here. Follow the linked Japanese records for a four-diamond military-context nobori and another festival textile, preserving each catalogue’s date and institutional identification.",
+    "additionalSources": [
+      {
+        "title": "Nobori Banner with Yotsuwari-Bishi (Four-Diamond) Family Crest",
+        "holding": "Edo-Tokyo Museum / Tokyo Museum Collection",
+        "url": "https://museumcollection.tokyo/en/works/7075732/",
+        "note": "Nineteenth-century nobori, collection ID 20000282, classified under Arms and Armor. Linked record only; its image is not reproduced here."
+      },
+      {
+        "title": "Boy’s Day Banner (nobori)",
+        "holding": "Spencer Museum of Art",
+        "url": "https://spencerart.ku.edu/art/collections-online/object/18141",
+        "note": "Hekizan, early to mid nineteenth century, accession 1993.0012. A separately catalogued festival example; linked record only."
+      }
+    ],
+    "image": "/images/objects/sanbaso-nobori.jpg",
+    "imageSource": "https://images.metmuseum.org/CRDImages/as/original/1999_247_6_d1.jpg",
+    "imageNote": "The museum’s selected image is a view of the decorated section. Its additional photographs and inscription account establish the larger object.",
+    "accessed": "2026-10-11",
+    "width": 399,
+    "height": 625,
+    "alt": "A masked figure in a dark robe steps across the light cloth, raising an open fan. Fine white lines articulate the robe and its plant designs; red accents sharpen the movement. A round dark device sits below the figure at the left."
+  },
+  {
+    "id": "sumiyoshi-nobori",
+    "title": "A nobori large enough to organize the view",
+    "catalogueTitle": "Tsukudajima sumiyoshi no matsuri — Sumiyoshi festival, Tsukudajima",
+    "summary": "Hiroshige puts a giant festival banner in the foreground and a procession behind it. The print shows how a public sign can organize both a place and the picture made of it.",
+    "date": "Print: [1857]; Photograph: undated digital reproduction",
+    "culture": "Japan · Edo",
+    "material": "Prints",
+    "medium": "Colour woodblock print; digital reproduction",
+    "accession": "LC-DIG-jpd-02949",
+    "museum": "Library of Congress, Prints and Photographs Division",
+    "objectId": "2009631888",
+    "creator": "Andō / Utagawa Hiroshige (1797–1858)",
+    "url": "https://www.loc.gov/pictures/item/2009631888/",
+    "credit": "Library of Congress, Visual materials from the Donald D. Walker collection",
+    "imageRights": "Public domain",
+    "rightsUrl": "https://commons.wikimedia.org/wiki/File:Hiroshige,_Sumiyoshi_festival,_Tsukudajima,_1857.jpg",
+    "imageAttribution": "Utagawa Hiroshige; Library of Congress reproduction via Wikimedia Commons",
+    "imageRightsNote": "The Library of Congress record states no known restrictions on publication. The individual Commons file identifies the historic print and faithful reproduction as public domain. The source-generated preview is reproduced without local cropping or recolouring.",
+    "imageRecordUrl": "https://commons.wikimedia.org/wiki/File:Hiroshige,_Sumiyoshi_festival,_Tsukudajima,_1857.jpg",
+    "lesson": "heraldry-in-public-life",
+    "periods": [
+      "Modern"
+    ],
+    "studyType": "An artist’s depiction of festival nobori, not a surviving textile or a documentary photograph of the event",
+    "question": "What changes when the banner becomes the foreground?",
+    "observations": [
+      "A very tall white banner bearing black characters divides the scene vertically. Repeated loops attach its left edge to an upright support, and a crosspiece holds its top. Its lower edge curves above the water.",
+      "A pine tree fills the left, boats occupy the water, and a procession surrounds a small golden structure in the middle distance. Smaller pale banners appear farther away. The large foreground sign is much easier to read than the individual participants."
+    ],
+    "catalogue": "The Library of Congress identifies the work as Hiroshige’s Sumiyoshi festival, Tsukudajima, dates it to [1857], and describes a procession with a banner and portable shrine. It records a colour woodcut measuring 36.3 by 24.1 cm, part of One Hundred Famous Views of Edo, with reproduction number LC-DIG-jpd-02949. The digital image derives from the original print. [1]",
+    "reading": [
+      "The banner is an object in the represented festival and a device in the composition. Its height creates a dominant vertical axis; its pale surface interrupts the landscape and carries writing that a viewer can notice before the distant procession. Hiroshige makes public identification do pictorial work. We can study that choice even without assuming that the print preserves the exact position of every pole on a particular day.",
+      "The depicted support matters. Loops along the vertical edge and across the upper edge keep the banner associated with its frame, while the curved lower end introduces movement. Comparing these features with the tabs on the Met’s 1827 nobori connects an actual textile with an artist’s representation of suspension. Agreement makes the comparison useful, but the two witnesses have different strengths: the surviving cloth supports material inspection, while the print supplies a selected spatial setting.",
+      "Writing deserves the same attention that a familiar animal charge receives in European armory. A public banner can identify an institution or occasion through an inscription rather than a pictorial family device. It would be a mistake to turn the writing into a decorative substitute for an imagined shield. Read the sign as part of a Japanese setting first, then ask which functions can be compared with other traditions of public display.",
+      "The contrast in scale produces a final lesson. The procession is collective and visually small; the sign is immense and legible. That relationship can make a public institution present across a larger area than any individual participant occupies. The image therefore helps us think about identification as a spatial activity. An emblem, name, or inscription has to meet its audience somewhere, and the size, mounting, and surroundings determine what the audience can actually perceive."
+    ],
+    "claims": [
+      {
+        "claim": "The catalogued work is a colour woodcut dated [1857].",
+        "basis": "Library of Congress object record",
+        "limit": "The bracketed date is a catalogue statement, not a separately established exposure date."
+      },
+      {
+        "claim": "The print places a mounted banner in front of a procession and waterside scene.",
+        "basis": "Visible composition and catalogue summary",
+        "limit": "An artist’s arrangement does not establish a complete event inventory."
+      },
+      {
+        "claim": "The loops and crosspiece show a represented method of supporting the banner.",
+        "basis": "Visible print",
+        "limit": "Not a physical examination of the actual textile or pole."
+      }
+    ],
+    "exercise": "Compare the mounting features in this print with the surviving 1827 nobori. Explain one conclusion strengthened by the comparison and one that still requires another kind of witness. Then describe how the foreground banner changes the viewer’s attention.",
+    "discussion": "The comparison can identify common represented or surviving attachment features. It cannot establish that the two banners shared a maker, owner, dimensions, or occasion. The foreground banner organizes the picture through scale, contrast, verticality, and writing; those visible effects support an analysis of the print even where the actual festival arrangement remains unverified.",
+    "research": "Use the Library of Congress record to retain the identity of this impression. Compare a separately catalogued impression in the Edo-Tokyo Museum, noting that one work can survive in several physical prints. For the contemporary festival, follow the local association’s Japanese account and keep its present practices distinct from the 1857 depiction.",
+    "additionalSources": [
+      {
+        "title": "One Hundred Famous Views of Edo: Sumiyoshi Festival on Tsukadajima Island",
+        "holding": "Edo-Tokyo Museum / Tokyo Museum Collection",
+        "url": "https://museumcollection.tokyo/en/works/6234967/",
+        "note": "A separate catalogued impression, collection ID 83200051, dated 1857. The existence of another impression does not make the two physical objects identical."
+      },
+      {
+        "title": "佃住吉講公式サイト",
+        "holding": "Tsukuda Sumiyoshi festival association",
+        "url": "https://www.tsukuda.chuo.tokyo.jp/",
+        "note": "Japanese account of the shrine festival and its large nobori; useful for a dated comparison with modern practice."
+      }
+    ],
+    "image": "/images/objects/sumiyoshi-nobori.jpg",
+    "imageSource": "https://upload.wikimedia.org/wikipedia/commons/7/74/Hiroshige%2C_Sumiyoshi_festival%2C_Tsukudajima%2C_1857.jpg",
+    "imageNote": "A reproduction of a woodblock print, not a photograph of surviving festival banners.",
+    "accessed": "2026-10-11",
+    "width": 1280,
+    "height": 1932,
+    "alt": "A very tall white banner bearing black characters divides the scene vertically. Repeated loops attach its left edge to an upright support, and a crosspiece holds its top. Its lower edge curves above the water."
   }
 ]

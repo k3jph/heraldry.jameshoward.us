@@ -5,11 +5,11 @@ region: "Mamluk Egypt and Syria"
 languages: ["en"]
 track: "Comparative emblem systems"
 period: "Thirteenth–sixteenth centuries"
-sourceIds: ["mamluk-met-context", "mamluk-cup-stand", "mamluk-textile", "mamluk-plate"]
+sourceIds: ["mamluk-met-context", "mamluk-cup-stand", "mamluk-textile", "mamluk-plate", "mamluk-qawsun-lamp", "mamluk-bowkeeper-lamp", "mamluk-composite-dish", "mamluk-polo-pottery", "mamluk-glass-technique"]
 level: "Advanced undergraduate / graduate"
 ---
 
-<nav class="chapter-toc" aria-label="Mamluk Egypt and Syria chapter contents">
+<nav class="chapter-toc" aria-label="In this chapter">
   <strong>In this chapter</strong>
   <ol>
     <li><a href="#a-cup-on-a-stand-identifies-more-than-a-drink">A cup on a stand identifies more than a drink</a></li>
@@ -18,6 +18,12 @@ level: "Advanced undergraduate / graduate"
     <li><a href="#a-textile-fragment-changes-the-encounter">A textile fragment changes the encounter</a></li>
     <li><a href="#writing-can-occupy-the-emblematic-center">Writing can occupy the emblematic center</a></li>
     <li><a href="#comparison-without-a-borrowed-rulebook">Comparison without a borrowed rulebook</a></li>
+    <li><a href="#the-bow-keeper-gives-the-comparison-another-office">The bow-keeper gives the comparison another office</a></li>
+    <li><a href="#the-polo-master-appears-on-pottery">The polo master appears on pottery</a></li>
+    <li><a href="#qawsuns-patronage-extends-across-supports">Qawsun’s patronage extends across supports</a></li>
+    <li><a href="#a-composite-blazon-has-an-internal-grammar">A composite blazon has an internal grammar</a></li>
+    <li><a href="#glass-introduces-a-technical-history-of-visibility">Glass introduces a technical history of visibility</a></li>
+    <li><a href="#epigraphic-identity-belongs-beside-figured-devices">Epigraphic identity belongs beside figured devices</a></li>
     <li><a href="#workshop-office-and-family-can-overlap">Workshop: office and family can overlap</a></li>
     <li><a href="#graduate-project-a-device-across-supports">Graduate project: a device across supports</a></li>
   </ol>
@@ -80,6 +86,66 @@ The cases share emblematic identification, but they do not prove one uniform sys
 
 The [Ottoman tughra chapter](/traditions/ottoman-tughras/) follows a different calligraphic apparatus of royal identification. The [tamgas chapter](/traditions/tamgas/) supplies small marks on several materials. Together, these chapters let us compare what designs identify and how audiences read them while preserving the institutions and histories that make the identification work.
 
+## The bow-keeper gives the comparison another office
+
+The Met’s lamp 17.190.985, dated shortly after 1285, carries two gold crossbows against red. The museum relates the figure to the office of *bunduqdar*, keeper of the bow, and reads its inscriptions as identifying Aydakin’s mausoleum as the intended destination.[^mamluk-bowkeeper-lamp] It supplies a different office emblem and a more specific architectural association than the cup case alone.
+
+The crossed weapons are depicted figures, not actual weapons fastened to the lamp. Their emblematic work depends on recognition of the office relationship. The lamp’s illumination and the bow-keeper’s court role are different functions brought together by patronage. The object need not be a piece of military equipment for its decoration to identify a military or ceremonial official.
+
+This is an important limit to interpreting objects solely by their everyday purpose. A vessel can carry an emblem whose referent lies outside dining; a lamp can carry one whose referent lies outside lighting. The support provides an occasion for identity to appear. We should explain how the device relates to the patron and commission instead of assuming the pictured tool describes the object’s use.
+
+The inscription adds information that the motif cannot supply alone. Two crossbows establish a proposed office association in the cited account. The name and destination link this particular lamp to a more specific history. Replacing the inscription with a tidy museum label saying only “bow-keeper badge” would remove part of the surviving evidence. Read the emblem and writing as coordinated means of identification.
+
+## The polo master appears on pottery
+
+The Cairo museum’s ceramic record identifies two polo sticks on the surviving bottom of a glazed vessel and connects them with the *al-Jokandar* office.[^mamluk-polo-pottery] The form belongs to another court relationship and another manufacturing medium. It helps us move beyond a single office and beyond elite metalwork.
+
+The fragment’s survival gives a useful material boundary. A bottom can preserve an emblem while the rim, handles and much of the wall are gone. That allows study of the mark without establishing the complete vessel’s dimensions or precise handling. A reconstruction should identify which features are observed and which are supplied through comparison. The emblem’s survival does not make the missing parts irrelevant.
+
+Nor does an office association identify one particular person without additional evidence. Many people can hold the same kind of office over time. The generic relationship gives us a classification; a name-bearing inscription or secure archaeological context can refine it. This is the same analytical distinction encountered in a Han seal naming a general’s office and in a Qing rank badge. The devices differ, but category and individual remain different questions.
+
+The pottery also gives a productive comparison with the bow-keeper’s glass lamp. Two depicted implements can communicate a court role within a bounded area. Their meanings depend on a documented convention, and their production depends on different materials. We can compare the mechanisms without claiming that every similar pair of crossed strokes has the same origin or referent.
+
+## Qawsun’s patronage extends across supports
+
+The Met dates Qawsun’s glass lamp 17.190.991 to about 1329–1335. Its name-bearing inscription connects it with the patron, while the museum proposes either his mosque or tomb-hospice complex as its intended architectural setting.[^mamluk-qawsun-lamp] Retain that alternative. The record provides a strong named association without establishing the exact original hanging position.
+
+Set it beside the tray stand associated with Husain, Qawsun’s son. The two objects enter a family-centered research sequence through their names and the cited institutional accounts. The comparison is richer than simply finding cups on two surfaces. It can follow a patron’s public commission and a later use associated with his son, then ask which identifying relationships remain stable.
+
+The material audiences differ. A stand holding a tray participates in presentation and service. A hanging lamp participates in an architectural interior. The emblem’s visibility depends on placement, scale and lighting in each setting. A photograph on a white museum background removes much of that encounter. The catalogue’s suggested destination helps restore context while leaving precise installation unresolved.
+
+This is also where the family question becomes historically interesting. The earlier office relationship can contribute prestige that later relatives continue to display. We should investigate that documented sequence rather than forcing it into either a purely personal appointment badge or a fully standardized European system of hereditary arms. The surviving objects may reveal a relationship that cuts across those convenient categories.
+
+## A composite blazon has an internal grammar
+
+National Museums of Scotland’s dish A.1923.700 carries a divided composite device: a napkin above, a cup bearing a pen-case between horn-like figures in the middle, and another cup below. The curatorial account associates this type with Qaytbay, officials and successors, supporting a late-Mamluk date range.[^mamluk-composite-dish] Its composition should be read as an arrangement, not a list of interchangeable office symbols.
+
+Begin with the fields. A figure in the upper area and a figure in the lower area have different places even when both contribute to the same identifying system. Now examine the central cup: the pen-case is placed on it, not merely beside it. A diagram omitting that relationship would preserve the component inventory while changing the device. Spatial grammar is part of the evidence.
+
+The two cups supply another useful detail. Repetition does not necessarily mean redundant decoration. One cup occupies the central composite relationship; the other occupies the lower field. If an artist combines them into one larger cup, the result may look cleaner while failing to reproduce the described arrangement. A modern educational diagram should clarify the source, not redesign it silently.
+
+The type’s association with several rulers and officials also limits attribution from shape. If a device was used across a broader political group, finding it does not uniquely identify Qaytbay as the object’s personal owner. The inscription and the rest of the object record remain important. Classification can narrow the historical setting without resolving the individual bearer.
+
+The dish’s account also preserves uncertainty in an inscription on the underside.[^mamluk-composite-dish] That is useful evidence rather than a defect to hide. A proposed reading can guide a research question while remaining qualified. An unreadable word should not acquire certainty merely because the surrounding emblem belongs to a familiar type.
+
+## Glass introduces a technical history of visibility
+
+The Met’s technical essay explains that gold and powdered enamels were applied to glass and fixed through heating. It presents combined firing as a likely solution to the differing thermal requirements and risks of repeated reheating.[^mamluk-glass-technique] The account distinguishes an observable decorated surface from a reconstructed workshop procedure.
+
+That distinction matters for the blazon. Color differentiation on a glass lamp can depend on applied decoration, uncolored glass and transmitted light. Metal inlay works through another relationship between surface and contrasting material. A black-and-white outline drawing can preserve the emblem’s organization while concealing how the actual support made it visible. Comparing devices across media therefore needs both a component description and a material account.
+
+The proposed firing procedure is also a good example of historical technical reasoning. Surviving objects demonstrate a result; physical constraints help explain how it might have been achieved. The inference should remain tied to the essay’s degree of confidence. We should not convert “likely” into a claim that every workshop followed one documented recipe. A reference becomes stronger when it explains the mechanism and preserves the precise uncertainty.
+
+## Epigraphic identity belongs beside figured devices
+
+The plate naming al-Mu’ayyad Shaikh gives this chapter a different identifying center: an inscription rather than a depicted implement. Its engraved decoration and separate maker signature demonstrate that a name-bearing emblem can coexist with other writing on the same object.[^plate] The difference concerns the work each inscription performs, not whether one is sufficiently pictorial to count.
+
+Compare it with the composite dish and the office lamps. The figured devices invite identification through a conventional object or arrangement. The epigraphic center invites reading of a named authority. Either can also be recognized at the level of overall composition before every detail is understood. A literate and a non-reading viewer may obtain different information from one object; that does not make writing merely an ornamental substitute for a coat of arms.
+
+For an advanced exercise, prepare a corpus with one cup, one bow-keeper device, one polo motif, one composite and one epigraphic center. Record what identifies a category and what identifies a person. Then compare the material supports and the evidence of audience. This corpus is deliberately small enough for close reading and broad enough to test the claim that all Mamluk blazons perform one identical function.
+
+<details class="research-answer"><summary>Can a composite device identify its owner alone?</summary><p>Only where the relevant evidence supports an exclusive association. The Scottish dish’s catalogue connects its type with a broader group, so an individual identification needs further witnesses. Its arrangement can support classification and dating while its inscription supplies another line of inquiry. Retain the value of the device without asking it to answer a question for which it is not unique.</p></details>
+
 ## Workshop: office and family can overlap
 
 Using the tray-stand record, write one statement about the cup’s documented office association and another about its continued use by sons. Then compare two hypotheses: a strictly office-only system and a system in which office prestige can contribute to family identity. State which hypothesis the particular case complicates and what a larger test would require.
@@ -98,3 +164,13 @@ The project should explain a particular transmission or change of function. Incl
 [^context]: Suzan Yalman, [The Art of the Mamluk Period (1250–1517)](https://www.metmuseum.org/fr/essays/the-art-of-the-mamluk-period-1250-1517), October 2001. The consulted essay is English despite the URL’s French prefix.
 [^textile]: The Met, [Textile Fragment with Mamluk Emblem, 1972.120.3](https://www.metmuseum.org/art/collection/search/452400), qualified date, attribution, and support.
 [^plate]: The Met, [Mamluk Plate, 2018.472](https://www.metmuseum.org/art/collection/search/781974), ruler and artist identifications. Sources consulted 11 October 2026; interpretations are catalogue-mediated unless expressly identified as observations of the reproduced photograph.
+
+[^mamluk-bowkeeper-lamp]: The Metropolitan Museum of Art, 17.190.985, [Mosque Lamp for the Mausoleum of Amir Aydakin al-‘Ala’i al-Bunduqdar](https://www.metmuseum.org/art/collection/search/447000). Consulted 11 October 2026. Original English editorial synthesis; consult the linked record for close reading.
+
+[^mamluk-composite-dish]: Ulrike Al-Khamis, National Museums of Scotland, A.1923.700; MWNF, [Dish (National Museums Scotland, A.1923.700)](https://islamicart.museumwnf.org/database_item.php?id=object%3BISL%3Buk%3BMus03%3B22%3Ben). Consulted 11 October 2026. Original English editorial synthesis; consult the linked record for close reading.
+
+[^mamluk-glass-technique]: Stefano Carboni and Qamar Adamjee, Metropolitan Museum of Art, October 2002, [Enameled and Gilded Glass from Islamic Lands](https://www.metmuseum.org/it/essays/enameled-and-gilded-glass-from-islamic-lands). Consulted 11 October 2026. Original English editorial synthesis; consult the linked record for close reading.
+
+[^mamluk-polo-pottery]: Museum of Islamic Art, Cairo; Museum With No Frontiers ceramics catalogue, [Bottom of a pottery vessel with polo-stick blazon](https://ceramics.museumwnf.org/database-item/mwnf3/objects/ISL/eg/Mus01/19/en/). Consulted 11 October 2026. Original English editorial synthesis; consult the linked record for close reading.
+
+[^mamluk-qawsun-lamp]: The Metropolitan Museum of Art, 17.190.991, [Mosque Lamp of Amir Qawsun](https://www.metmuseum.org/art/collection/search/447006). Consulted 11 October 2026. Original English editorial synthesis; consult the linked record for close reading.

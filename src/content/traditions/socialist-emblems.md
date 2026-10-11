@@ -5,11 +5,11 @@ region: "Comparative socialist state emblems"
 languages: ["de", "en"]
 track: "Comparative emblem systems"
 period: "Twentieth century–present"
-sourceIds: ["socialist-ddr", "socialist-medal", "mk-research", "ee-seal", "ru-1993"]
+sourceIds: ["socialist-ddr", "socialist-medal", "mk-research", "ee-seal", "ru-1993", "socialist-ddr-law", "socialist-ddr-flag", "socialist-ussr-constitution", "socialist-china-law"]
 level: "Advanced undergraduate / graduate"
 ---
 
-<nav class="chapter-toc" aria-label="Comparative socialist state emblems chapter contents">
+<nav class="chapter-toc" aria-label="In this chapter">
   <strong>In this chapter</strong>
   <ol>
     <li><a href="#a-state-device-can-have-another-grammar">A state device can have another grammar</a></li>
@@ -18,6 +18,12 @@ level: "Advanced undergraduate / graduate"
     <li><a href="#the-landscape-remains-after-the-star-is-removed">The landscape remains after the star is removed</a></li>
     <li><a href="#revival-creates-another-chronology">Revival creates another chronology</a></li>
     <li><a href="#public-emblems-and-party-devices-require-separate-records">Public emblems and party devices require separate records</a></li>
+    <li><a href="#the-1955-gdr-law-specifies-more-than-a-collection-of-symbols">The 1955 GDR law specifies more than a collection of symbols</a></li>
+    <li><a href="#a-flag-can-change-after-the-emblem-exists">A flag can change after the emblem exists</a></li>
+    <li><a href="#the-soviet-constitution-puts-the-globe-inside-the-political-argument">The Soviet Constitution puts the globe inside the political argument</a></li>
+    <li><a href="#china-supplies-an-architectural-center-and-a-manufacturing-plan">China supplies an architectural center and a manufacturing plan</a></li>
+    <li><a href="#similar-agricultural-frames-can-hold-different-kinds-of-center">Similar agricultural frames can hold different kinds of center</a></li>
+    <li><a href="#worked-comparison-identify-the-device-before-naming-its-politics">Worked comparison: identify the device before naming its politics</a></li>
     <li><a href="#workshop-identify-what-changed">Workshop: identify what changed</a></li>
   </ol>
 </nav>
@@ -68,7 +74,66 @@ A governing party can use a device distinct from the state emblem, even where th
 
 A research corpus should therefore include bearer type and object function. Party badge, state seal, military insignia and decorative souvenir are not interchangeable categories. Without those fields, an image collection can misrepresent the distribution of official symbols and the actual extent of public adoption.
 
-The next research stage should add original adoption legislation, design correspondence and comparative material from further states. The present objects establish specific realizations and a method of comparison; they do not supply a complete statutory history of every socialist emblem.
+The legislation discussed below adds dated specifications to the object record. Further work can connect those specifications with design correspondence and production files, particularly where an object differs from the prescribed model.
+
+## The 1955 GDR law specifies more than a collection of symbols
+
+The GDR’s law of 26 September 1955 describes hammer and compasses within a grain wreath, with a black-red-gold ribbon around its lower part. It also prescribes a square presidential standard: the emblem on red, bordered in the national colors and finished with gold fringe. Attached models govern form, design and color.[^socialist-ddr-law] A useful reading therefore starts with relations: enclosure, binding, center, border and relative scale.
+
+These relations distinguish the device from an illustrated list of occupations. Move the instruments outside the wreath and the components remain recognizable, but the composition changes. Remove the ribbon and a connection to national colors disappears. Put the whole device on a rectangular flag and the surrounding field belongs to that realization. The law gives the historian a way to test these changes without having to decide whether each version feels sufficiently heraldic.
+
+The presidential standard demonstrates a second level of specification. The state device is a reusable component within an object that has its own proportions and framing. This resembles the relationship between an achievement and a banner carrying it, but the comparison concerns nested designs. It does not require the standard to become a medieval banner of arms or the grain wreath to become supporters.
+
+## A flag can change after the emblem exists
+
+Haus der Geschichte explains that the two German states initially used the same black-red-gold flag; the GDR added its emblem in 1959.[^socialist-ddr-flag] The 1955 emblem and the later flag change belong on separate lines of a chronology. The earlier date establishes the public device; the later one concerns its deployment on a particular national symbol.
+
+That distinction explains why an apparently missing emblem is sometimes correct. An earlier flag need not be an unfinished version of the later one. A photograph dated before the change cannot be evaluated against the later specification without first acknowledging the change in rules. Conversely, an old flag visible after a new design has been prescribed may raise a question about replacement, manufacture or continued display. Its presence alone does not decide which explanation applies.
+
+An effective object sequence might begin with the enactment, continue through a flag specification, and end with the museum’s poster and enamelled medal. The sequence tracks how a design enters different forms of public life. It also reveals why an adoption history needs more than one date: a state can authorize a composition, add it to a flag, commission a new object and reproduce it for an anniversary at different moments.
+
+## The Soviet Constitution puts the globe inside the political argument
+
+Article 169 of the 1977 Soviet Constitution describes a hammer and sickle against a globe, with sunlight, grain ears, a slogan in the languages of the Union Republics and a five-pointed star above. Article 170 separately specifies the red flag, its golden hammer and sickle, a red star edged in gold, and a width-to-length ratio of 1:2.[^socialist-ussr-constitution] These are related designs, rather than one description indiscriminately applied to every object.
+
+The globe changes the scale of the image. A territorial state presents a device that contains an image of the world. The multilingual inscription adds a textual structure to that visual one: the same political appeal is articulated through several languages. Neither feature can be adequately recorded by counting agricultural stalks and industrial tools. A close reading needs the pictured geography, the ordering of the components and the words actually present on the object.
+
+The constitutional article identifies the required languages by their relationship to the Union Republics. It does not, in the passage used here, enumerate a fixed ribbon count for every historical version. A chart that assigns one count to the entire Soviet period would conceal changes in state composition. For an individual emblem, transcribe the visible inscriptions and establish its date before using the arrangement to make a claim about the constituent republics.
+
+Text also presents a manufacturing problem. A large architectural emblem can accommodate lettering that becomes difficult to read on a small badge. Simplification may preserve recognition while weakening the literal readability of the constitutional inscription. Comparing those objects tells us how public identity was made workable at different scales; it does not give every manufacturer permission to redefine the constitutional design.
+
+## China supplies an architectural center and a manufacturing plan
+
+The historical English publication of China’s 1991 emblem law includes the 1950 design instructions. Tian’anmen appears beneath five stars, enclosed by wheat and rice, with a cogwheel at the base. The instructions specify red and gold, bilateral symmetry and proportional enlargement or reduction from the drawing. They also address the relative heights of parts when making a relief.[^socialist-china-law] These details describe both an image and a method of producing it.
+
+Architecture gives this composition a particular place. Compare the globe in the Soviet description with the named gate in the Chinese one. Both occupy the center of a crop-framed public device, but one provides a world image and the other a recognizable site. Calling both simply socialist emblems identifies a useful comparative category while leaving this central difference unexplained.
+
+The two crops deserve the same attention. “Grain wreath” is convenient shorthand, but the instructions distinguish wheat and rice. A drawing that standardizes every stalk into a generic cereal form could erase a specified feature. Heraldic readers already know this problem from confusing an oak branch with any green branch: resemblance at a distance does not make the particular kind irrelevant.
+
+The directions for relief add a third dimension to the comparison. An emblem on a building is not merely a flat picture enlarged until it fits. Parts rise from the support, cast shadows and remain readable from below. A source-to-object study should compare those relationships with the prescribed section as well as the frontal drawing. This makes manufacture part of the design history, rather than a final practical detail left to somebody else.
+
+The law’s accompanying explanation assigns political meanings to the composition. Treat that account as the state’s interpretation. The historical reader can establish what the instrument says and investigate how the image was encountered without adopting the political claim as an independent description of society.
+
+## Similar agricultural frames can hold different kinds of center
+
+The cases now support a more precise comparison than a collection of red stars. The GDR places instruments at the center. The Soviet text introduces a globe and multilingual appeal. China centers a named building. North Macedonia’s retained landscape offers another way to organize public identity. Shared framing elements let us compare the designs; the central subjects prevent the comparison from collapsing into sameness.
+
+| Witness | Central subject | Surrounding organization | A question the composition makes visible |
+|---|---|---|---|
+| GDR, 1955 instrument | Hammer and compasses | Grain wreath and national-color binding | How does an occupational image acquire national identification? |
+| USSR, 1977 constitutional text | Hammer and sickle against a globe | Sunlight, grain, multilingual inscription, upper star | How does a state combine territorial organization with an international appeal? |
+| China, 1950 instructions reproduced with the law | Tian’anmen and five stars | Wheat, rice and cogwheel | How do place, agriculture and industry become one reproducible device? |
+| North Macedonian revision discussed above | Retained landscape | Retained agricultural frame, removed upper star | How much of an inherited structure can remain through a politically significant alteration? |
+
+A star’s removal can be a major political act while leaving most of the design intact. The proportional significance of a component in the drawing is therefore different from its political significance. A tiny upper figure may be the focus of a public dispute; a large inherited landscape may attract less attention. The historian needs both the formal inventory and evidence about the decision.
+
+## Worked comparison: identify the device before naming its politics
+
+Suppose a catalogue entry reads, “Communist arms, red and gold, with crops.” It cannot distinguish the Chinese specification from numerous other objects and gives no date, issuer or material. Improve it by identifying the central architectural subject, upper stars, two specified crops and cogwheel; then identify whether the object is a relief, printed illustration or another realization. Finally connect the description to a dated design instrument.
+
+<details class="research-answer"><summary>Develop the catalogue entry</summary><p>A useful record names the state bearer, describes the arrangement, identifies the object and dates its manufacture where possible. It cites the historical design directions for the features those directions actually specify. The political account belongs in an interpretation field attributed to its source. If the object differs from the model, record the difference and investigate its cause rather than silently correcting the photograph or assuming a deliberate political revision.</p></details>
+
+The same exercise can be reversed. Start with the GDR’s text and ask what it cannot establish about a surviving medal: its individual manufacturer, production date, recipient or occasion of use. Those facts require object records. Bringing the two together yields a stronger history than asking either the law or the object to supply everything.
 
 ## Workshop: identify what changed
 
@@ -87,3 +152,11 @@ For graduate work, assemble twelve dated objects spanning one regime transition.
 [^ee-seal]: Government Office of Estonia, Stenbock House, [State Seal Hall](https://www.riigikantselei.ee/en/stenbock-house/stenbock-house/state-seal-hall). Consulted 11 October 2026. Original English editorial synthesis; consult the linked witness for close reading.
 
 [^ru-1993]: State Duma, 30 November 2018, [25 years ago the coat of arms of the Russian Federation was approved](https://duma.gov.ru/en/news/28991/). Consulted 11 October 2026. Original English editorial synthesis; consult the linked witness for close reading.
+
+[^socialist-china-law]: Supreme People’s Court of China, English text published 2016, [Law of the People’s Republic of China on the National Emblem](https://english.court.gov.cn/2016-04/14/c_1170200.htm). Consulted 11 October 2026. Original English editorial synthesis; consult the linked record for close reading.
+
+[^socialist-ddr-flag]: Haus der Geschichte, LeMO, [Entstehung der DDR: Gesamtdeutscher Anspruch](https://www.hdg.de/lemo/kapitel/nachkriegsjahre/doppelte-staatsgruendung/entstehung-der-ddr-gesamtdeutscher-anspruch). Consulted 11 October 2026. Original English editorial synthesis; consult the linked record for close reading.
+
+[^socialist-ddr-law]: Gesetzblatt der DDR, Teil I, 1955, p. 705; digitized transcription, [Gesetz über das Staatswappen und die Staatsflagge der Deutschen Demokratischen Republik](https://www.gvoon.de/gesetzblatt-gbl-ddr-teil-1-1955/seite-705-299936.html). Consulted 11 October 2026. Original English editorial synthesis; consult the linked record for close reading.
+
+[^socialist-ussr-constitution]: Novosti Press Agency, Moscow, 1982 edition of the 1977 Constitution; Marxists Internet Archive, [Constitution (Fundamental Law) of the Union of Soviet Socialist Republics](https://www.marxists.org/history/ussr/government/constitution/1977/constitution-ussr-1977.pdf). Consulted 11 October 2026. Original English editorial synthesis; consult the linked record for close reading.

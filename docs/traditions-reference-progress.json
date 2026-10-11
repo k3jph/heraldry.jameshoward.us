@@ -1,0 +1,1862 @@
+{
+  "status": "all 70 expanded; editorial pass and local release validation complete; independent specialist review pending",
+  "targetChapters": 70,
+  "expandedDrafts": 70,
+  "addedWords": 129460,
+  "chapters": [
+    {
+      "slug": "japan-kamon",
+      "before": 846,
+      "after": 3772,
+      "added": 2926,
+      "sections": 15,
+      "sourceIds": [
+        "jp-ndl-kamon",
+        "jp-met-nobori",
+        "jp-loc-sumiyoshi",
+        "jp-met-sashimono",
+        "jp-met-maidate",
+        "jp-met-okabe-armour",
+        "jp-met-yoshiro-tsuba",
+        "jp-tokyo-four-diamonds"
+      ],
+      "expansionHeads": [
+        "A mon has a form, a bearer, and a setting",
+        "The useful history is a history of practices",
+        "Nobori: a banner is a support before it is a symbol",
+        "Sashimono and the identification of people in motion",
+        "Helmet ornaments, sacred names, and the limits of crest",
+        "A sword guard with several mon changes the question",
+        "Describing a mon precisely enough to compare it",
+        "Workshop: build an argument from four different objects",
+        "Graduate inquiry: follow a device across media"
+      ]
+    },
+    {
+      "slug": "england",
+      "before": 1838,
+      "after": 4373,
+      "added": 2535,
+      "sections": 16,
+      "sourceIds": [
+        "eng-college-grants",
+        "eng-college-law",
+        "eng-college-descent",
+        "eng-dering-news",
+        "eng-college-faq",
+        "eng-college-history",
+        "eng-wellington-augmentation",
+        "eng-military-insignia"
+      ],
+      "expansionHeads": [
+        "Before the College: identifying people in a changing visual culture",
+        "Royal service becomes a continuing institution",
+        "English blazon as a specification readers can operate",
+        "The shield, crest, badge, and banner carry different statements",
+        "Quartering: a genealogy has to become a composition",
+        "An augmentation changes an existing armorial history",
+        "Corporate continuity needs an institutional pedigree",
+        "Workshop: reconstruct change without flattening the record"
+      ]
+    },
+    {
+      "slug": "scotland",
+      "before": 1687,
+      "after": 4592,
+      "added": 2905,
+      "sections": 17,
+      "sourceIds": [
+        "sco-lyon-petitions",
+        "sco-lyon-office",
+        "sco-register-guide",
+        "sco-arbroath",
+        "sco-nrs-register",
+        "sco-lyon-crests",
+        "sco-royal-banner"
+      ],
+      "expansionHeads": [
+        "Medieval seals and a collective political act",
+        "The register changes the scale of the inquiry",
+        "Cadency is a relationship, not an automatic border calculator",
+        "Worked family file: descent, identity, and the missing act",
+        "Clan affiliation has its own visual grammar",
+        "The royal lion and the question of what a flag represents",
+        "Corporate and civic arms within the Scottish system",
+        "Scottish identity across borders",
+        "Workshop: identify the relationship the object presents"
+      ]
+    },
+    {
+      "slug": "wales",
+      "before": 1703,
+      "after": 4151,
+      "added": 2448,
+      "sections": 16,
+      "sourceIds": [
+        "wal-glyndwr-seal",
+        "wal-harlech-mount",
+        "wal-royal-badge",
+        "ang-church-flags",
+        "eng-college-grants",
+        "wal-national-emblems",
+        "wal-hansard-flag",
+        "wal-dwnn-witness",
+        "wal-llywelyn-banner"
+      ],
+      "expansionHeads": [
+        "A princely composition can outlive the prince’s government",
+        "What Glyndŵr’s two-sided seal lets us investigate",
+        "The dragon’s history contains both evidence and explanatory stories",
+        "The 1959 flag direction gives the distinction a date",
+        "Welsh pedigrees and the work of named compilers",
+        "Modern reconstruction is part of the tradition too",
+        "Local identity within a recognizable national vocabulary",
+        "Workshop: compare an old reference with a new act"
+      ]
+    },
+    {
+      "slug": "ireland",
+      "before": 1754,
+      "after": 4562,
+      "added": 2808,
+      "sections": 17,
+      "sourceIds": [
+        "irl-chief-herald",
+        "irl-register-q",
+        "irl-state-emblems",
+        "eng-college-descent",
+        "irl-stanyhurst-grant",
+        "irl-stanyhurst-analysis",
+        "irl-act-1997",
+        "irl-trinity-harp"
+      ],
+      "expansionHeads": [
+        "An early grant makes the issuing authority visible",
+        "The decorated initial opens a production question",
+        "Language belongs to the instrument’s institutional setting",
+        "Independence changes authority without erasing custody",
+        "A confirmation makes a claim about an existing relationship",
+        "A harp can be an instrument, a historical attribution, and a State model",
+        "Civic arms record public bodies rather than permanent landscapes",
+        "Irish armory is not exhausted by the granting office",
+        "Workshop: explain the Stanyhurst instrument’s different kinds of evidence"
+      ]
+    },
+    {
+      "slug": "canada",
+      "before": 1807,
+      "after": 4781,
+      "added": 2974,
+      "sections": 18,
+      "sourceIds": [
+        "ca-authority",
+        "ca-authority-arms",
+        "ca-irniq",
+        "ca-whitehorse",
+        "ca-correctional-buff",
+        "ca-cadency-society",
+        "ca-register-portal",
+        "ca-authority-faq",
+        "ca-crabtree",
+        "ca-metlej",
+        "ca-pride-citation",
+        "ca-supreme-court-badges",
+        "ca-william-rose-registration"
+      ],
+      "expansionHeads": [
+        "Canadian heraldry develops by changing several parts of the system",
+        "Succession begins with the eldest child, subject to the stated arrangement",
+        "The Crabtree grant shows two different solutions in one family",
+        "Tincture reversal preserves a recognizable core",
+        "An expanded palette can preserve a distinction the design needs",
+        "The graphic realization can vary without rewriting the arms",
+        "An office emblem can contain institutional reasoning",
+        "Indigenous cultural forms need their particular authorities and contexts",
+        "Registration gives an older design a new Canadian witness",
+        "Workshop: preserve family identity through two different operations"
+      ]
+    },
+    {
+      "slug": "united-states",
+      "before": 1854,
+      "after": 4560,
+      "added": 2706,
+      "sections": 18,
+      "sourceIds": [
+        "us-tioh",
+        "us-quartermaster-arms",
+        "us-great-seal-original",
+        "us-state-seals",
+        "us-ahs-guidelines",
+        "us-cary-bookplate",
+        "us-qm-heraldic-history",
+        "us-110th-lineage",
+        "us-washington-arms",
+        "us-dc-flag",
+        "us-amedd-change"
+      ],
+      "expansionHeads": [
+        "A republic can reject inherited rank and retain armorial identification",
+        "An official design has to survive manufacture",
+        "Unit lineage supplies the pedigree for military arms",
+        "A crest, a patch, and a distinctive unit insignia are different objects",
+        "Medical insignia shows an old composition acquiring a new use",
+        "Washington’s arms can become a public allusion without becoming national arms",
+        "Private assumption creates a need for durable evidence",
+        "Foreign grants and inherited traditions enter a plural setting",
+        "Workshop: trace one design across a change of bearer or organization"
+      ]
+    },
+    {
+      "slug": "brazil",
+      "before": 1731,
+      "after": 4354,
+      "added": 2623,
+      "sections": 17,
+      "sourceIds": [
+        "br-imperial-archive",
+        "br-national-arms-law",
+        "br-imperial-flag",
+        "br-official-artwork",
+        "br-saopaulo-law",
+        "br-saopaulo-centenary",
+        "br-constitution-1891",
+        "br-recife-1968",
+        "br-army-quaderna"
+      ],
+      "expansionHeads": [
+        "The imperial archive contains acts, not merely attractive shields",
+        "Republican equality changes rank without making symbols disappear",
+        "The National Arms are an assembled public emblem",
+        "Coffee and tobacco require a history of labour as well as a symbol key",
+        "A municipal decree can revise both memory and drawing",
+        "Mural crowns need a defined counting convention",
+        "The quaderna carries information about qualification and organization",
+        "Ecclesiastical and private practices enlarge the field",
+        "Workshop: distinguish status, public identity, and material survival"
+      ]
+    },
+    {
+      "slug": "france",
+      "before": 1585,
+      "after": 3653,
+      "added": 2068,
+      "sections": 15,
+      "sourceIds": [
+        "fr-bnf-armorial",
+        "fr-bnf-catalogue",
+        "fr-imperial-registers",
+        "fr-dupuch",
+        "fr-simon-1812",
+        "fr-seal",
+        "fr-fasces"
+      ],
+      "expansionHeads": [
+        "Read a French shield from its grammar",
+        "A fleur-de-lis can occupy several different roles",
+        "Differences and combinations express relationships",
+        "An imperial armorial organizes a political system",
+        "Dupuch: the words constrain the drawing",
+        "Republican identification extends beyond the shield",
+        "Design laboratory: a French reading with a defensible result"
+      ]
+    },
+    {
+      "slug": "germany",
+      "before": 991,
+      "after": 3119,
+      "added": 2128,
+      "sections": 15,
+      "sourceIds": [
+        "de-dwr",
+        "de-berliner",
+        "de-siebmacher-burgher",
+        "de-siebmacher-index",
+        "de-hamburg",
+        "de-berlin-text",
+        "de-federal-description",
+        "de-eagle-history"
+      ],
+      "expansionHeads": [
+        "The complete achievement is a composition",
+        "Stylization gives a figure work to do",
+        "Counterchanging is a relationship between surfaces",
+        "Burgher arms are a major corpus, not an exception",
+        "Siebmacher is a publication history as well as a name",
+        "Hamburg: a city image becomes a public emblem",
+        "The federal eagle can remain an identity across realizations",
+        "Workshop: one family identity, four realizations"
+      ]
+    },
+    {
+      "slug": "netherlands",
+      "before": 857,
+      "after": 2787,
+      "added": 1930,
+      "sections": 13,
+      "sourceIds": [
+        "nl-hra-adellijk",
+        "nl-hra-gemeente",
+        "nl-public-history",
+        "nl-design-guidelines",
+        "nl-royal-arms",
+        "nl-delft-council",
+        "nl-waterboard-building"
+      ],
+      "expansionHeads": [
+        "The lion within the shield and the lions beside it",
+        "Public heraldry includes water authorities",
+        "A merger is a design problem with political consequences",
+        "Crowns, supporters, and mottos require their own reasons",
+        "Delft’s councillors: personal arms inside a civic ensemble",
+        "Family identity and public identity move differently",
+        "Workshop: advise a fictional merged authority"
+      ]
+    },
+    {
+      "slug": "flanders",
+      "before": 838,
+      "after": 2580,
+      "added": 1742,
+      "sections": 13,
+      "sourceIds": [
+        "be-vl-decree",
+        "be-vl-procedure",
+        "vl-symbols-history",
+        "vl-lievegem",
+        "vl-annual-2023"
+      ],
+      "expansionHeads": [
+        "The Flemish lion has a history of particular representations",
+        "Lievegem: arms and flag share a vocabulary",
+        "Recognition of older arms and creation of new arms",
+        "Inheritance belongs to a defined armorial identity",
+        "A new design needs more than meaningful ingredients",
+        "The diploma records a process with several participants",
+        "Workshop: compare a shield, a flag, and an application"
+      ]
+    },
+    {
+      "slug": "belgium",
+      "before": 1003,
+      "after": 2787,
+      "added": 1784,
+      "sections": 14,
+      "sourceIds": [
+        "be-french",
+        "be-publications",
+        "be-inventory",
+        "be-federal-lion",
+        "be-nobility-guide",
+        "be-liege-monument",
+        "be-liege-logo"
+      ],
+      "expansionHeads": [
+        "The Belgian lion and the Flemish lion differ as designs",
+        "National, royal, noble, and community settings intersect",
+        "An achievement’s external parts carry information",
+        "The Perron makes local authority visible",
+        "A provincial logo can adapt an armorial vocabulary",
+        "Family associations make the bearer a collective object",
+        "Workshop: three lions and one local monument"
+      ]
+    },
+    {
+      "slug": "austria",
+      "before": 983,
+      "after": 2462,
+      "added": 1479,
+      "sections": 12,
+      "sourceIds": [
+        "at-1919",
+        "at-implementation",
+        "at-state",
+        "at-targe",
+        "at-herald-tabard",
+        "at-falcon-hood",
+        "at-republic-eagle"
+      ],
+      "expansionHeads": [
+        "The republican eagle carries a social argument",
+        "Red, white, and red can organize several objects",
+        "An imperial herald wore an arrangement of identities",
+        "A falcon hood carries identity at another scale",
+        "Composite arms organize claims across territories",
+        "Workshop: compare the two eagles and two objects"
+      ]
+    },
+    {
+      "slug": "switzerland",
+      "before": 954,
+      "after": 2859,
+      "added": 1905,
+      "sections": 14,
+      "sourceIds": [
+        "ch-bern",
+        "ch-klingen",
+        "ch-1798",
+        "ch-fribourg-glass",
+        "ch-zurich-roll",
+        "ch-zurich-glass-1500",
+        "ch-zurich-glass-1567",
+        "ch-glass-patronage",
+        "ch-cross-proportions"
+      ],
+      "expansionHeads": [
+        "The Zurich roll joins shields with crests",
+        "Armorial glass makes patronage visible",
+        "Zurich’s 1500 panel presents public relationships",
+        "A family shield can appear inside a public ensemble",
+        "Fribourg’s divided shield tests the value of geometry",
+        "The Swiss cross is a proportioned figure",
+        "Family, canton, commune, and federation are different bearers",
+        "Workshop: keep the ensemble intact"
+      ]
+    },
+    {
+      "slug": "denmark",
+      "before": 994,
+      "after": 2640,
+      "added": 1646,
+      "sections": 13,
+      "sourceIds": [
+        "dk-public",
+        "dk-guide",
+        "dk-royal-2025",
+        "dk-royal-composition",
+        "dk-copenhagen-1661",
+        "dk-copenhagen-commercial"
+      ],
+      "expansionHeads": [
+        "Three lions and nine hearts are separate instructions",
+        "The royal cross organizes the quarters",
+        "A new quarter can change emphasis without inventing a new device",
+        "Order collars and supporters complete the royal display",
+        "Copenhagen’s arms participated in a political bargain",
+        "Three towers can identify a place or a producer",
+        "Workshop: describe the layer that changed"
+      ]
+    },
+    {
+      "slug": "sweden",
+      "before": 795,
+      "after": 2866,
+      "added": 2071,
+      "sections": 15,
+      "sourceIds": [
+        "se-riksarkivet",
+        "se-riksregister",
+        "se-great-arms",
+        "se-stockholm-brand",
+        "se-stockholm-county",
+        "se-royal-flag",
+        "se-small-arms",
+        "se-keyser-1650",
+        "se-private-register"
+      ],
+      "expansionHeads": [
+        "Three crowns are a count and an arrangement",
+        "Greater arms combine state and dynastic references",
+        "A royal flag joins an emblem with a ceremonial signal",
+        "Stockholm’s Saint Erik is a face within a public identity",
+        "Stockholm County combines predecessors selectively",
+        "Province and county are different historical objects",
+        "Noble armory has its own publication and material histories",
+        "Private registration performs another institutional job",
+        "Workshop: identify the specification and the bearer"
+      ]
+    },
+    {
+      "slug": "norway",
+      "before": 1076,
+      "after": 2829,
+      "added": 1753,
+      "sections": 15,
+      "sourceIds": [
+        "no-royal",
+        "no-state",
+        "no-military",
+        "no-oslo-brand",
+        "no-oslo-medal",
+        "no-trondheim",
+        "no-bergen"
+      ],
+      "expansionHeads": [
+        "A crowned lion holds a specified axe",
+        "The shield and the royal achievement identify different layers",
+        "Oslo keeps Saint Hallvard while changing everyday communication",
+        "Saint Hallvard also appears in a civic honour",
+        "Trondheim combines a seal-derived emblem with two municipal names",
+        "Bergen distinguishes seal, arms, and logo",
+        "Local design can retain history without painting a landscape",
+        "Workshop: classify four uses of civic identity"
+      ]
+    },
+    {
+      "slug": "finland",
+      "before": 973,
+      "after": 2854,
+      "added": 1881,
+      "sections": 15,
+      "sourceIds": [
+        "fi-kuntalaki",
+        "fi-national-law",
+        "fi-national-history",
+        "fi-heraldic-model",
+        "fi-helsinki-brand",
+        "fi-society",
+        "fi-lempiainen"
+      ],
+      "expansionHeads": [
+        "The national lion has a replacement limb",
+        "An early monument and a later national instrument",
+        "Municipal arms are a major modern design practice",
+        "Finnish description is a construction sequence",
+        "A database can generate a sentence without producing an official blazon",
+        "Helsinki assigns different contexts to logo and arms",
+        "A family association commissioned a modern coat",
+        "Workshop: make the description survive the redraw"
+      ]
+    },
+    {
+      "slug": "iceland",
+      "before": 946,
+      "after": 2570,
+      "added": 1624,
+      "sections": 13,
+      "sourceIds": [
+        "is-decree",
+        "is-history",
+        "is-flags",
+        "is-heimskringla",
+        "is-seal-1593",
+        "is-parliament-facade"
+      ],
+      "expansionHeads": [
+        "A fish can identify an island without becoming a landscape",
+        "Falcon, spirits, and crown belong to successive decisions",
+        "The land-spirit story is a reconnaissance narrative",
+        "Supporters turn a travelling sequence into an ensemble",
+        "The nested crosses define layers of colour",
+        "Reinstating old arms on a building is a heritage proposal",
+        "Workshop: translate a story into a composition without losing its history"
+      ]
+    },
+    {
+      "slug": "luxembourg",
+      "before": 845,
+      "after": 2723,
+      "added": 1878,
+      "sections": 13,
+      "sourceIds": [
+        "lu-symbols",
+        "lu-booklet",
+        "lu-dynastic-arms",
+        "lu-court-protocol",
+        "lu-guillaume-monogram",
+        "lu-city-archives"
+      ],
+      "expansionHeads": [
+        "State, dynasty, and person occupy different layers",
+        "Two lions make an unusually good tincture lesson",
+        "Quartering can reorganize political emphasis",
+        "A royal monogram can change while the national lion persists",
+        "The urban seal belongs to another documentary story",
+        "Translating the lion requires preserving relationships",
+        "Graduate exercise: design an evidence-led label"
+      ]
+    },
+    {
+      "slug": "italy",
+      "before": 958,
+      "after": 2921,
+      "added": 1963,
+      "sections": 15,
+      "sourceIds": [
+        "it-acs",
+        "it-sala",
+        "it-florence-identity",
+        "it-florence-relief",
+        "it-medici-cup",
+        "it-milan-statute",
+        "it-visconti-relief",
+        "it-venice-lion",
+        "it-public-heraldry",
+        "it-republic-emblem",
+        "it-emblem-decree"
+      ],
+      "expansionHeads": [
+        "Florence: a flower can carry a political reversal",
+        "Medici balls: an augmentation can help date a component",
+        "Milan: cross, saint, and serpent are different civic histories",
+        "Venice: read the lion’s pose before reading its legend",
+        "A republic can retain public heraldry while changing noble status",
+        "The national emblem speaks republican political language",
+        "Graduate workshop: build an Italian object biography"
+      ]
+    },
+    {
+      "slug": "portugal",
+      "before": 1222,
+      "after": 3284,
+      "added": 2062,
+      "sections": 15,
+      "sourceIds": [
+        "pt-armeiro",
+        "pt-vasco",
+        "pt-national-symbols",
+        "pt-civic-law",
+        "pt-lisbon-arms",
+        "pt-sintra-arms",
+        "pt-evora-stone",
+        "pt-lumiar",
+        "pt-lagos-police"
+      ],
+      "expansionHeads": [
+        "Quinas are nested designs, not five blue spots",
+        "Évora preserves another historical royal composition",
+        "The armillary sphere survives a change of regime",
+        "Lisbon’s ship carries several historical programs",
+        "Mural crowns classify the bearer within a local framework",
+        "Military heraldry uses a fuller achievement and specific offices",
+        "Lagos turns historical references into a new service design",
+        "Graduate workshop: reconstruct a Portuguese design in layers"
+      ]
+    },
+    {
+      "slug": "spain",
+      "before": 861,
+      "after": 2881,
+      "added": 2020,
+      "sections": 14,
+      "sourceIds": [
+        "es-council",
+        "es-boe-burgos",
+        "es-academia",
+        "es-national-law",
+        "es-colour-decree",
+        "es-felipe-arms",
+        "es-navarra-government",
+        "es-navarra-seals",
+        "es-catalan-civic",
+        "es-galicia-law"
+      ],
+      "expansionHeads": [
+        "The national shield contains several kinds of relationship",
+        "Purple in a blazon and purple in a colour specification",
+        "The sovereign’s arms are closely related to the state’s",
+        "Navarra’s chains make source criticism unavoidable",
+        "Twentieth-century Navarra changes the external statement",
+        "Catalan civic heraldry has its own language and geometry",
+        "Galicia joins sacred imagery to territorial public identity",
+        "Graduate workshop: compare three kinds of authority"
+      ]
+    },
+    {
+      "slug": "estonia",
+      "before": 1029,
+      "after": 2698,
+      "added": 1669,
+      "sections": 14,
+      "sourceIds": [
+        "ee-state",
+        "ee-seal",
+        "ee-knighthood",
+        "ee-identity",
+        "ee-tallinn-history",
+        "ee-tallinn-statute",
+        "ee-tartu"
+      ],
+      "expansionHeads": [
+        "Three lions can connect institutions without making them identical",
+        "Tallinn’s small arms are a different shield",
+        "The full Tallinn achievement restores a third dimension",
+        "Two Tallinn flags answer different design questions",
+        "Tartu gives us an exact civic reconstruction problem",
+        "A recovered die can establish material continuity",
+        "Graduate workshop: compare bearers, components and material witnesses"
+      ]
+    },
+    {
+      "slug": "latvia",
+      "before": 1065,
+      "after": 2933,
+      "added": 1868,
+      "sections": 15,
+      "sourceIds": [
+        "lv-heraldry-law",
+        "lv-national",
+        "lv-national-en",
+        "lv-riga",
+        "lv-commission"
+      ],
+      "expansionHeads": [
+        "The national arms combine a new state with regional devices",
+        "A griffin is an organized composite creature",
+        "Parallel official pages can expose a translation discrepancy",
+        "Several state forms are a hierarchy of presentation",
+        "Riga’s gate and keys preserve a different civic composition",
+        "The commission’s work is more than approving pictures",
+        "Private arms need an identified bearer and a transmission argument",
+        "Graduate workshop: audit a Latvian armorial explanation"
+      ]
+    },
+    {
+      "slug": "lithuania",
+      "before": 988,
+      "after": 2849,
+      "added": 1861,
+      "sections": 15,
+      "sourceIds": [
+        "lt-heraldry-act",
+        "lt-state-history",
+        "lt-state-symbols",
+        "lt-double-cross",
+        "lt-kaunas",
+        "lt-kaunas-en",
+        "lt-vilnius"
+      ],
+      "expansionHeads": [
+        "Vytis is a mounted knight, not a portrait label",
+        "The double cross has a history inside and outside the shield",
+        "The Columns of the Gediminids belong in the comparison",
+        "Restoration included a transitional purple standard",
+        "Kaunas: an aurochs survives several jurisdictions",
+        "Kaunas’s great achievement uses a ship as a supporter",
+        "Vilnius carries a sacred narrative into civic arms",
+        "Graduate workshop: separate historical identity from a graphic standard"
+      ]
+    },
+    {
+      "slug": "poland-lithuania",
+      "before": 892,
+      "after": 2958,
+      "added": 2066,
+      "sections": 15,
+      "sourceIds": [
+        "pl-herbarze",
+        "pl-tarnow-history",
+        "pl-tarnow-seal",
+        "pl-jelita-zamoyski",
+        "pl-frost-horodlo",
+        "pl-citko-names",
+        "pl-dlugosz-1885",
+        "pl-niesiecki-1839"
+      ],
+      "expansionHeads": [
+        "Begin with the herb, then identify the bearer",
+        "Leliwa offers a compact visual case",
+        "Tarnów’s seal connects a person with a corporate identity",
+        "Jelita makes the origin legend visible",
+        "Horodło was an act of affiliation with political consequences",
+        "Medieval naming patterns complicate the family search",
+        "Długosz’s text and its printed edition have separate dates",
+        "Niesiecki’s nineteenth-century edition is a layered compilation",
+        "Graduate laboratory: build an armorial affiliation graph"
+      ]
+    },
+    {
+      "slug": "ukraine",
+      "before": 1063,
+      "after": 3125,
+      "added": 2062,
+      "sections": 15,
+      "sourceIds": [
+        "ua-arms",
+        "ua-constitution",
+        "ua-volhynia",
+        "ua-seals",
+        "ua-money-history",
+        "ua-1918-design",
+        "ua-mazepa-cross-anchor",
+        "ua-lviv-grechylo",
+        "ua-1992-resolution",
+        "ua-great-bill",
+        "ua-great-first-reading"
+      ],
+      "expansionHeads": [
+        "A princely sign survives in a different emblematic world",
+        "Coin, banknote and shield make different kinds of reference",
+        "The 1918 republic separated adoption from drawing approval",
+        "The Cossack with a firearm represents a host",
+        "Mazepa’s arms invite interpretation through armorial verse",
+        "Lviv’s civic lion has to remain inside its gateway",
+        "The modern small arms have a dated legal model",
+        "A signed first-reading resolution is not the finished great-arms law",
+        "Graduate workshop: give each Ukrainian witness its own question"
+      ]
+    },
+    {
+      "slug": "russia",
+      "before": 1073,
+      "after": 3039,
+      "added": 1966,
+      "sections": 15,
+      "sourceIds": [
+        "ru-general",
+        "ru-hermitage",
+        "ru-1993",
+        "ru-titulyarnik-research",
+        "ru-titulyarnik-edition",
+        "ru-beaker",
+        "ru-state-law",
+        "ru-crosses-2025",
+        "ru-moscow-law",
+        "ru-moscow-register"
+      ],
+      "expansionHeads": [
+        "Titular heraldry turns a ruler’s words into images",
+        "A 1903 edition does not make every plate an original of 1672",
+        "Noble-family armorials organize another kind of identity",
+        "Vienna made Russian arms into diplomatic porcelain",
+        "Read the modern eagle as a nested composition",
+        "The 2025 amendment makes small crosses explicit in the text",
+        "Moscow’s Saint George is a precise comparison",
+        "Public registration belongs to a specified administrative system",
+        "Graduate workshop: follow one image through several authorities"
+      ]
+    },
+    {
+      "slug": "czechia",
+      "before": 716,
+      "after": 2472,
+      "added": 1756,
+      "sections": 12,
+      "sourceIds": [
+        "cz-rekos",
+        "cz-state-symbols",
+        "cz-moravian-colours",
+        "cz-brno-statute",
+        "cz-brno-history",
+        "cz-moravian-silesian-region"
+      ],
+      "expansionHeads": [
+        "Bohemia, Moravia and Silesia occupy different fields",
+        "The Moravian eagle has a contested colour history",
+        "Brno: a painted privilege can get the colours wrong",
+        "A regional shield is a negotiated summary",
+        "Czech terminology preserves operations",
+        "Graduate investigation: resolve the Brno disagreement"
+      ]
+    },
+    {
+      "slug": "slovakia",
+      "before": 887,
+      "after": 2637,
+      "added": 1750,
+      "sections": 12,
+      "sourceIds": [
+        "sk-state",
+        "sk-register",
+        "sk-application",
+        "sk-government-symbols",
+        "sk-bratislava",
+        "sk-kosice-1369",
+        "sk-kosice-1502"
+      ],
+      "expansionHeads": [
+        "One double cross participates in several histories",
+        "The three hills are an armorial construction",
+        "Bratislava's towers are not a miniature castle",
+        "Košice: four charters reveal a developing civic achievement",
+        "Registers can connect artists, texts and bearers",
+        "Graduate investigation: trace a city across text and image"
+      ]
+    },
+    {
+      "slug": "hungary",
+      "before": 1629,
+      "after": 3666,
+      "added": 2037,
+      "sections": 14,
+      "sourceIds": [
+        "hu-armalis-db",
+        "hu-hunyadi-1453",
+        "hu-arany-1634",
+        "hu-fundamental-law-2020",
+        "hu-coronation-mantle",
+        "hu-kossuth-study",
+        "hu-illuminated-chronicle-study"
+      ],
+      "expansionHeads": [
+        "The national shield combines signs with separate histories",
+        "The Illuminated Chronicle is a medieval interpretation",
+        "The 1031 mantle belongs to a different visual system",
+        "A crown can represent statehood in a republic",
+        "An armorial letter combines a grant with a material object",
+        "Augmentation explains one act rather than every raven",
+        "Graduate investigation: construct a four-witness dossier"
+      ]
+    },
+    {
+      "slug": "croatia",
+      "before": 1208,
+      "after": 3051,
+      "added": 1843,
+      "sections": 14,
+      "sourceIds": [
+        "hr-municipal-law-2001",
+        "hr-consolidated-2013",
+        "hr-regulation-1998",
+        "hr-state-design",
+        "hr-state-description",
+        "hr-zagreb-identity-2026"
+      ],
+      "expansionHeads": [
+        "Twenty-five squares need a date and an order",
+        "Five small shields form an unusual crown",
+        "Design authorship and digital processing are separate credits",
+        "State and municipal arms use different legal categories",
+        "Zagreb keeps its arms while adding a new graphic mark",
+        "A Croatian blazon needs more than a colour lookup",
+        "Graduate investigation: compare a coat with an identity system"
+      ]
+    },
+    {
+      "slug": "slovenia",
+      "before": 1180,
+      "after": 3071,
+      "added": 1891,
+      "sections": 14,
+      "sourceIds": [
+        "sl-ajdovscina-2012",
+        "sl-mezica-2025",
+        "sl-national-symbols",
+        "sl-symbols-designer",
+        "sl-ljubljana",
+        "sl-dragon-history",
+        "sl-public-symbols-register",
+        "sl-kranj-2022"
+      ],
+      "expansionHeads": [
+        "Triglav is a prescribed figure in a modern state coat",
+        "A three-dimensional rendering has its own instructions",
+        "Ljubljana's dragon rests on a very specific tower",
+        "The dragon's history is not the date of a founding legend",
+        "Kranj's eagle is connected to a dated seal model",
+        "The archive records the prescribing public bodies",
+        "Graduate investigation: test three descriptions against drawings"
+      ]
+    },
+    {
+      "slug": "serbia",
+      "before": 1034,
+      "after": 2814,
+      "added": 1780,
+      "sections": 13,
+      "sourceIds": [
+        "rs-symbols",
+        "rs-2004",
+        "rs-illyrian",
+        "rs-medieval",
+        "rs-presidential-symbols",
+        "rs-radoslav-ring",
+        "rs-belgrade-armorial"
+      ],
+      "expansionHeads": [
+        "The breast shield and the eagle do different work",
+        "From the 1882 kingdom to a modern republic",
+        "Radoslav's ring identifies a dynastic relationship through words",
+        "Belgrade Armorial II is a surviving copy of a lost project",
+        "Byzantine inheritance needs an object-by-object account",
+        "Family arms require a bearer rather than a national silhouette",
+        "Graduate investigation: identify four mechanisms of continuity"
+      ]
+    },
+    {
+      "slug": "romania",
+      "before": 1172,
+      "after": 3049,
+      "added": 1877,
+      "sections": 14,
+      "sourceIds": [
+        "ro-national-arms",
+        "ro-2016-amendment",
+        "ro-steel-crown",
+        "ro-money-history",
+        "ro-cuza-objects",
+        "ro-brasov-2024"
+      ],
+      "expansionHeads": [
+        "Cuza's objects show a union being represented",
+        "The Steel Crown is a physical object with a particular story",
+        "Coins make sovereignty visible in everyday exchange",
+        "Brașov: a crown can be a pun inside another crown",
+        "Au rochs, eagles and territorial continuities",
+        "Romanian descriptions connect drawing with legal classification",
+        "Graduate investigation: follow public identity through objects"
+      ]
+    },
+    {
+      "slug": "greece",
+      "before": 1058,
+      "after": 2699,
+      "added": 1641,
+      "sections": 13,
+      "sourceIds": [
+        "gr-emblem",
+        "gr-emblem-en",
+        "orth-pectoral",
+        "byz-podea",
+        "gr-heraldic-monuments",
+        "gr-rhodes-ensemble",
+        "gr-phoenix-museum",
+        "gr-coins-2021"
+      ],
+      "expansionHeads": [
+        "The bridge runs through places, patrons and institutions",
+        "Rhodes displays several foreign and ecclesiastical bearers together",
+        "The phoenix joins national rebirth to monetary authority",
+        "A 2021 commemoration selects its own symbolic history",
+        "Royal dynasties and national arms have related identities",
+        "Laurel, crowns and eagles require exact classification",
+        "Graduate investigation: four dates, four audiences"
+      ]
+    },
+    {
+      "slug": "byzantium",
+      "before": 1094,
+      "after": 2957,
+      "added": 1863,
+      "sections": 13,
+      "sourceIds": [
+        "byz-podea",
+        "byz-conservation",
+        "byz-nerezi",
+        "byz-agency",
+        "byz-boilas-seal",
+        "byz-alexios-seal",
+        "byz-zorianos-ring",
+        "byz-seal-copy"
+      ],
+      "expansionHeads": [
+        "An imperial seal can identify power without a heraldic eagle",
+        "Michael Boilas combines a name, a title and a sacred patron",
+        "A signet ring raises a different attribution problem",
+        "Modern copies must carry both their dates",
+        "Patronage at Mystras joins arms with Greek inscriptions",
+        "The category depends on the question being asked",
+        "Graduate investigation: compare five forms of identification"
+      ]
+    },
+    {
+      "slug": "malta",
+      "before": 1482,
+      "after": 3280,
+      "added": 1798,
+      "sections": 15,
+      "sourceIds": [
+        "mt-chief-herald",
+        "mt-heraldry-regulations",
+        "mt-symbols",
+        "mt-emblem-1988",
+        "mt-tombs",
+        "mt-register-volume",
+        "mt-gazette-applications-2025"
+      ],
+      "expansionHeads": [
+        "A mural crown counts real and visible turrets differently",
+        "The presidential flag adds another kind of cross",
+        "The 2019–2024 register has a defined publication scope",
+        "A public application notice is a stage in the procedure",
+        "Registration and recognition abroad are different questions",
+        "St John's combines arms with rank, memory and mortality",
+        "Graduate investigation: compare a tomb, a notice and a completed entry"
+      ]
+    },
+    {
+      "slug": "georgia",
+      "before": 1011,
+      "after": 2739,
+      "added": 1728,
+      "sections": 15,
+      "sourceIds": [
+        "ge-department",
+        "ge-symbol-law",
+        "ge-use-law",
+        "ge-history-2023",
+        "ge-state-description"
+      ],
+      "expansionHeads": [
+        "Saint George is identified by the complete scene",
+        "A vine ornament is part of a local visual vocabulary",
+        "Three English colour labels do not resolve one Georgian field",
+        "Kutaisi combines an older charge with a new companion",
+        "Oni retains an animal suited to its setting",
+        "An imperial civic coat belongs to an administrative history",
+        "The department's separate collections support separate questions",
+        "Graduate investigation: compare three kinds of adaptation"
+      ]
+    },
+    {
+      "slug": "armenia",
+      "before": 1018,
+      "after": 2755,
+      "added": 1737,
+      "sections": 14,
+      "sourceIds": [
+        "am-symbols",
+        "am-constitution",
+        "am-coin",
+        "am-yerevan-symbols",
+        "am-yerevan-coin",
+        "am-cilicia-exhibition",
+        "am-john-leaf"
+      ],
+      "expansionHeads": [
+        "A modern composition selects four royal histories",
+        "Ararat combines landscape with a scriptural reference",
+        "Cilicia places Armenian royal imagery in wider networks",
+        "A lion and an eagle can identify evangelists",
+        "Yerevan uses a distinctive civic palette and composition",
+        "A collector coin places the civic arms beside other identities",
+        "Graduate investigation: distinguish a historical sign from a revival"
+      ]
+    },
+    {
+      "slug": "balkans",
+      "before": 1025,
+      "after": 3163,
+      "added": 2138,
+      "sections": 16,
+      "sourceIds": [
+        "bg-law",
+        "al-symbols",
+        "al-helmet",
+        "me-constitution",
+        "ba-decision",
+        "mk-research",
+        "rs-illyrian",
+        "bg-sofia-arms",
+        "ba-brocade-mantle",
+        "mk-skopje-design-study",
+        "al-helmet-construction"
+      ],
+      "expansionHeads": [
+        "Sofia's arms began with a commission for an exhibition",
+        "Bulgaria's achievement coordinates three lions and an external crown",
+        "Albania's helmet is both a surviving object and an emblematic reference",
+        "Montenegro's gold eagle differs from neighbouring white and black ones",
+        "Bosnia's medieval textiles need their own identification argument",
+        "North Macedonia distinguishes proposals from adopted emblems",
+        "Skopje's bridge and mountain expose a design constraint",
+        "Graduate investigation: map the routes to adoption"
+      ]
+    },
+    {
+      "slug": "catholic-heraldry",
+      "before": 1593,
+      "after": 3430,
+      "added": 1837,
+      "sections": 16,
+      "sourceIds": [
+        "cath-leo-xiv",
+        "cath-benedict-xvi",
+        "cath-ut-sive",
+        "cath-1967-schedule",
+        "cath-vatican-law-2023",
+        "cath-cupich",
+        "cath-swiss-guard-flag",
+        "cath-vacant-see-coin-2026"
+      ],
+      "expansionHeads": [
+        "Shield, insignia and bearer must be read separately",
+        "Chicago's phoenix belongs to a corporate half",
+        "Impalement expresses an office relationship rather than a marriage",
+        "A hat's tassels are a structured count",
+        "The Swiss Guard flag combines several times and bearers",
+        "A vacancy uses different insignia from a pontificate",
+        "State emblems and personal papal arms continue on different clocks",
+        "Graduate investigation: follow a person and an institution separately"
+      ]
+    },
+    {
+      "slug": "anglican-heraldry",
+      "before": 1771,
+      "after": 3559,
+      "added": 1788,
+      "sections": 17,
+      "sourceIds": [
+        "ang-canadian-synod",
+        "ang-church-flags",
+        "ang-1976-hats",
+        "ang-compass-2016",
+        "eng-college-law",
+        "ang-ottawa-cathedral",
+        "ang-hamilton-cathedral",
+        "ang-vancouver-cathedral",
+        "ang-province-canada"
+      ],
+      "expansionHeads": [
+        "A cathedral is a corporate bearer with local references",
+        "Hamilton's black cross has a specifically attributed meaning",
+        "Vancouver combines a cross with Salish design and Copper",
+        "The Province of Canada is not the whole country",
+        "Office arms can combine see and person without hereditary transmission",
+        "Communion, province, diocese and parish occupy different scales",
+        "Grants, registrations and designs have separate dates",
+        "Graduate investigation: compare four Canadian bearers"
+      ]
+    },
+    {
+      "slug": "lutheran-heraldry",
+      "before": 980,
+      "after": 2690,
+      "added": 1710,
+      "sections": 15,
+      "sourceIds": [
+        "luth-sweden",
+        "luth-persenius",
+        "luth-rose",
+        "luth-modeus",
+        "luth-lund-tyrberg",
+        "luth-kuopio",
+        "luth-rose-letter",
+        "luth-elca-guide-2022",
+        "luth-lwf-2013"
+      ],
+      "expansionHeads": [
+        "Luther's letter supplies an unusually direct design explanation",
+        "From a personal seal to a shared confessional emblem",
+        "The Lutheran World Federation deliberately reinterprets the rose",
+        "Martin Modéus joins a diocesan cross with personal animals",
+        "Lund's cross-staff recalls an earlier archiepiscopal status",
+        "Kuopio's episcopal arrangement includes a stole and a dated staff",
+        "The ELCA globe is governed by a graphic standard",
+        "Graduate investigation: follow three kinds of continuity"
+      ]
+    },
+    {
+      "slug": "orthodox-heraldry",
+      "before": 1027,
+      "after": 2578,
+      "added": 1551,
+      "sections": 13,
+      "sourceIds": [
+        "orth-pectoral",
+        "byz-podea",
+        "byz-conservation",
+        "orth-certificate",
+        "orth-patriarchal-church",
+        "orth-antioch-icon"
+      ],
+      "expansionHeads": [
+        "The patriarchal eagle occupies an actual liturgical setting",
+        "A breast ornament and an architectural emblem have different uses",
+        "Peter and Paul identify a see through sacred narrative",
+        "Parish seals authenticate local documents",
+        "Sacred attributes are not a universal episcopal rank code",
+        "Imperial afterlives require a chain of witnesses",
+        "Graduate investigation: classify before constructing a rank table"
+      ]
+    },
+    {
+      "slug": "order-of-malta",
+      "before": 1612,
+      "after": 3103,
+      "added": 1491,
+      "sections": 16,
+      "sourceIds": [
+        "smom-constitution-2022",
+        "smom-flags-emblems",
+        "smom-faq",
+        "mt-tombs",
+        "smom-langues",
+        "smom-eight-points",
+        "smom-history",
+        "smom-perellos-tapestries",
+        "smom-related-orders",
+        "smom-dalla-torre-2020"
+      ],
+      "expansionHeads": [
+        "Jerusalem, Rhodes, Malta and Rome are different historical settings",
+        "The eight points carry several explanations",
+        "Langues explain an administrative geography",
+        "Quartering joins an office to a particular person",
+        "Perellos's tapestries carry patronage and manufacture together",
+        "Related Orders share history without becoming one bearer",
+        "Advanced laboratory: four identities on one object record"
+      ]
+    },
+    {
+      "slug": "teutonic-order",
+      "before": 1055,
+      "after": 2565,
+      "added": 1510,
+      "sections": 14,
+      "sourceIds": [
+        "teut-cross",
+        "teut-seals",
+        "teut-ewers",
+        "at-targe",
+        "teut-history",
+        "teut-rule-1929",
+        "teut-bayard-arms",
+        "teut-office-titles"
+      ],
+      "expansionHeads": [
+        "A hospital foundation became a knightly institution",
+        "Territorial loss changed the title without ending the office",
+        "The published Bayard achievement can be read in layers",
+        "A mitre, crozier and sword require different explanations",
+        "The 1929 rule gives the modern cross a new setting",
+        "Wearing a cross and controlling a matrix are different acts",
+        "Advanced workshop: explain a modern achievement historically"
+      ]
+    },
+    {
+      "slug": "micronations",
+      "before": 1714,
+      "after": 3434,
+      "added": 1720,
+      "sections": 17,
+      "sourceIds": [
+        "micro-sealand-story",
+        "micro-sealand-fco",
+        "micro-molossia-symbols",
+        "micro-molossia-coins",
+        "micro-ladonia-about",
+        "micro-talossa-grants",
+        "micro-talossa-armorial",
+        "micro-talossa-government",
+        "micro-talossa-gentry",
+        "micro-talossa-rules",
+        "micro-talossa-restricted",
+        "micro-aerica-symbols",
+        "micro-aerica-history"
+      ],
+      "expansionHeads": [
+        "Talossa publishes a working heraldic apparatus",
+        "A petition process can be studied as a sequence of decisions",
+        "Ministry arms use a shared field to distinguish offices",
+        "Personal grants allow an actual close reading",
+        "Design rules turn preferences into reviewable criteria",
+        "Restricted devices expose a community's boundary choices",
+        "Aerica gives the smile a documented armorial home",
+        "Advanced laboratory: audit one contemporary grant"
+      ]
+    },
+    {
+      "slug": "argentina",
+      "before": 619,
+      "after": 2406,
+      "added": 1787,
+      "sections": 13,
+      "sourceIds": [
+        "ar-escudo",
+        "ar-1944-original",
+        "ar-buenos-aires",
+        "ar-cordoba",
+        "ar-museum-revolution",
+        "ar-bcra-bicentenary"
+      ],
+      "expansionHeads": [
+        "The 1944 decree distinguishes arms from the Great Seal",
+        "Buenos Aires province is a close relative, not a duplicate",
+        "Córdoba carries a colonial tower through political change",
+        "Award shields complicate the word escudo",
+        "A 2013 coin reproduces an 1813 monetary image",
+        "The sun should be compared by object, not counted once for every use",
+        "A federal comparison needs several levels of identity",
+        "Workshop: national seal, province, award and coin"
+      ]
+    },
+    {
+      "slug": "mexico",
+      "before": 1022,
+      "after": 2450,
+      "added": 1428,
+      "sections": 14,
+      "sourceIds": [
+        "mx-archive",
+        "mx-law",
+        "mx-military",
+        "mx-puebla-provision",
+        "mx-puebla-modern-award",
+        "mx-republic-coins",
+        "mx-gold-law-coin"
+      ],
+      "expansionHeads": [
+        "Puebla's grant survives as an illuminated object",
+        "Giving a copy does not give the recipient the city's identity",
+        "Republican coins paired the eagle with the liberty cap",
+        "A hand, a law code and a cap make another republican composition",
+        "Colonial civic arms and national arms answer different political questions",
+        "Read the eagle's action before assigning a period",
+        "Advanced workshop: grant, presentation and monetary quotation"
+      ]
+    },
+    {
+      "slug": "latin-america-caribbean",
+      "before": 1087,
+      "after": 2577,
+      "added": 1490,
+      "sections": 14,
+      "sourceIds": [
+        "cl-1834",
+        "pe-atlas",
+        "pe-2025",
+        "co-symbols",
+        "jm-arms",
+        "jm-report",
+        "cl-model-1920",
+        "cl-emblems-1967",
+        "co-sandstone-arms",
+        "jm-library-symbols"
+      ],
+      "expansionHeads": [
+        "Chile's chronology separates creation from a fixed model",
+        "Peru's vocabulary assigns different surrounding forms",
+        "New Granada survives in stone as well as in a pomegranate",
+        "Jamaica's grant date needs a calendar note",
+        "An independent motto can change the achievement's argument",
+        "Native species and minerals complicate imported color categories",
+        "Advanced laboratory: one statute, one carving and one retained achievement"
+      ]
+    },
+    {
+      "slug": "australia",
+      "before": 932,
+      "after": 2383,
+      "added": 1451,
+      "sections": 13,
+      "sourceIds": [
+        "au-commonwealth",
+        "au-symbols",
+        "au-guidelines",
+        "au-nsw-arms",
+        "au-nsw-flag",
+        "au-irish-grants",
+        "au-war-memorial-symbols",
+        "au-sydney-arms",
+        "au-melbourne-seal-arms"
+      ],
+      "expansionHeads": [
+        "New South Wales has arms beyond its federal compartment",
+        "A flag badge and a shield can share a cross without being identical",
+        "Sydney's arms locate learning under changed stars",
+        "Melbourne's Victory connects a seal, a shield and a name",
+        "Australian private arms have documentary routes beyond London",
+        "Federation-era symbols form a material constellation",
+        "Advanced laboratory: three corporate bodies and two kinds of patent"
+      ]
+    },
+    {
+      "slug": "new-zealand",
+      "before": 990,
+      "after": 2487,
+      "added": 1497,
+      "sections": 15,
+      "sourceIds": [
+        "nz-arms",
+        "nz-1911",
+        "nz-protection",
+        "nz-carved-series",
+        "nz-personal-elements",
+        "nz-reeves-tangi",
+        "nz-wars-flags",
+        "nz-auckland-calendar-1993",
+        "nz-auckland-current-arms",
+        "nz-tizard-eulogy",
+        "au-irish-grants"
+      ],
+      "expansionHeads": [
+        "The Government House entrance is a material armorial sequence",
+        "Paul Reeves's identity reaches into crest, supporters and motto",
+        "Catherine Tizard puts a joke into a formal achievement",
+        "Auckland's book and kiwis give a corporate close reading",
+        "Technical terminology survives imperfect official explanations",
+        "Māori flags establish other forms of authority",
+        "The national and personal corpora need connected histories",
+        "Advanced laboratory: compare a national revision with a personal panel"
+      ]
+    },
+    {
+      "slug": "south-africa",
+      "before": 838,
+      "after": 2585,
+      "added": 1747,
+      "sections": 14,
+      "sourceIds": [
+        "za-coat",
+        "za-act-original",
+        "za-bureau-faq",
+        "za-linton-panel",
+        "za-wits-exhibition",
+        "za-national-registration-2000",
+        "za-national-register-old",
+        "za-wits-arms"
+      ],
+      "expansionHeads": [
+        "The old achievement represented a different political union",
+        "A statutory bureau makes armorial acts public",
+        "Design, objection and registration are distinct stages",
+        "The 2000 notice is a technical specification, not only a symbol list",
+        "Red ochre, Orange and Brunatre extend the working palette",
+        "The Linton Panel has a history before the national arms",
+        "Wits links learning, industry and a particular landscape",
+        "Advanced laboratory: register, palette and source image"
+      ]
+    },
+    {
+      "slug": "kenya",
+      "before": 1014,
+      "after": 2521,
+      "added": 1507,
+      "sections": 11,
+      "sourceIds": [
+        "ke-college",
+        "ke-rules",
+        "ke-portal",
+        "ke-national",
+        "ke-registrar-guidance",
+        "ke-nairobi-2020"
+      ],
+      "expansionHeads": [
+        "The design test has several moving parts",
+        "Nairobi’s animals preserve an institutional geography",
+        "Read the national achievement from the shield outward",
+        "Grant, graphic, register and public explanation"
+      ]
+    },
+    {
+      "slug": "ghana-namibia",
+      "before": 1018,
+      "after": 2696,
+      "added": 1678,
+      "sections": 13,
+      "sourceIds": [
+        "gh-mission",
+        "na-gazette",
+        "na-mission",
+        "gh-ankara-emblems",
+        "na-presidency-assets"
+      ],
+      "expansionHeads": [
+        "Ghana’s cross organizes a national account",
+        "One black star has several positions",
+        "Namibia’s flag-derived shield has a particular direction",
+        "A head-ring can occupy the torse position",
+        "A desert plant supplies more than a setting",
+        "Production files belong to a use system"
+      ]
+    },
+    {
+      "slug": "adinkra",
+      "before": 1619,
+      "after": 3184,
+      "added": 1565,
+      "sections": 13,
+      "sourceIds": [
+        "adinkra-prempeh-wrapper",
+        "adinkra-inscribing-meaning",
+        "adinkra-gourd-stamp",
+        "adinkra-bowdich-cloth",
+        "adinkra-museum-commission",
+        "adinkra-yellow-wrapper",
+        "adinkra-anagnost-2025"
+      ],
+      "expansionHeads": [
+        "The grid is a second level of design",
+        "A museum commission changes the purpose of a wrapper",
+        "A yellow cloth demonstrates another arrangement",
+        "The imperial history runs in more than one direction",
+        "Nsaa across a stamp, weight and bag"
+      ]
+    },
+    {
+      "slug": "rank-badges",
+      "before": 1430,
+      "after": 2738,
+      "added": 1308,
+      "sections": 13,
+      "sourceIds": [
+        "rank-china-tiger",
+        "rank-china-bear",
+        "rank-korea-crane",
+        "rank-williams-digital",
+        "rank-china-crane-kesi",
+        "rank-china-crane-embroidered"
+      ],
+      "expansionHeads": [
+        "Nine ranks form a dated code",
+        "Two cranes can share a rank and differ as textiles",
+        "A garment turns the code into public recognition",
+        "Chinese and Korean cranes require different tables",
+        "Identify a detached badge in stages"
+      ]
+    },
+    {
+      "slug": "chinese-seals",
+      "before": 1616,
+      "after": 3128,
+      "added": 1512,
+      "sections": 14,
+      "sourceIds": [
+        "seal-xie-exhibition",
+        "seal-bamboo-qing",
+        "seal-peach-textile",
+        "seal-fishes-inscriptions",
+        "seal-qianlong-oval",
+        "seal-qianlong-wufu",
+        "seal-han-tiannan",
+        "seal-han-guo-sa"
+      ],
+      "expansionHeads": [
+        "A Han seal can identify an office",
+        "A private seal can enter an imperial collection",
+        "Qianlong’s oval face and dated side inscription",
+        "An imperial seal can carry an auspicious declaration",
+        "Red and white describe a printing relationship",
+        "Build an inscription record that can be checked"
+      ]
+    },
+    {
+      "slug": "india",
+      "before": 1018,
+      "after": 2601,
+      "added": 1583,
+      "sections": 13,
+      "sourceIds": [
+        "in-dhar",
+        "in-bowring",
+        "in-emblem",
+        "in-law",
+        "in-jaipur-banner",
+        "in-travancore-registration",
+        "in-jubbal-registration",
+        "in-sarnath-capital",
+        "in-ncert-mauryan"
+      ],
+      "expansionHeads": [
+        "Jaipur supplies a specific armorial composition",
+        "Travancore and Cochin are different compositions",
+        "The administrative history continued after 1877",
+        "Sarnath is a sculpture before it is a national graphic",
+        "Antiquity and modern state use have different dates",
+        "Compare local making with imperial presentation"
+      ]
+    },
+    {
+      "slug": "philippines",
+      "before": 1023,
+      "after": 2807,
+      "added": 1784,
+      "sections": 14,
+      "sourceIds": [
+        "ph-code",
+        "ph-memory",
+        "ph-dilg",
+        "ph-eo313-1940",
+        "ph-eo341-1941",
+        "ph-ca731-1946",
+        "ph-motto-1978",
+        "ph-motto-revocation",
+        "ph-presidential-2004",
+        "ph-navy-registry",
+        "ph-afp-registry"
+      ],
+      "expansionHeads": [
+        "Follow the eagle through three dated arrangements",
+        "The 1998 text deserves a close comparison",
+        "A national motto can change through an identifiable act",
+        "Presidential devices identify an office",
+        "The sea lion is a transmitted figure with changing roles",
+        "Local script can enter a contemporary public device",
+        "A research sequence across regimes and offices"
+      ]
+    },
+    {
+      "slug": "mamluk-blazons",
+      "before": 1432,
+      "after": 2926,
+      "added": 1494,
+      "sections": 14,
+      "sourceIds": [
+        "mamluk-met-context",
+        "mamluk-cup-stand",
+        "mamluk-textile",
+        "mamluk-plate",
+        "mamluk-qawsun-lamp",
+        "mamluk-bowkeeper-lamp",
+        "mamluk-composite-dish",
+        "mamluk-polo-pottery",
+        "mamluk-glass-technique"
+      ],
+      "expansionHeads": [
+        "The bow-keeper gives the comparison another office",
+        "The polo master appears on pottery",
+        "Qawsun’s patronage extends across supports",
+        "A composite blazon has an internal grammar",
+        "Glass introduces a technical history of visibility",
+        "Epigraphic identity belongs beside figured devices"
+      ]
+    },
+    {
+      "slug": "ottoman-tughras",
+      "before": 1462,
+      "after": 3078,
+      "added": 1616,
+      "sections": 15,
+      "sourceIds": [
+        "ott-suleiman",
+        "ott-selim-panel",
+        "ott-selim-pendant",
+        "ott-derman-tugra",
+        "ott-proteus-firman",
+        "ott-jewish-firman",
+        "ott-met-firman-fragment",
+        "ott-akyavas-ferman",
+        "ott-modern-dialogues"
+      ],
+      "expansionHeads": [
+        "The configuration has named parts",
+        "The early history precedes Süleiman",
+        "The Proteus decree makes an administrative act visible",
+        "A decree can address protection rather than commerce",
+        "A surviving tughra may be only part of a document",
+        "A modern Ferman makes the historical form a subject",
+        "Read authority, writing and support together"
+      ]
+    },
+    {
+      "slug": "house-and-merchant-marks",
+      "before": 1682,
+      "after": 3201,
+      "added": 1519,
+      "sections": 15,
+      "sourceIds": [
+        "marks-vasa-inventory",
+        "marks-smale-ring",
+        "marks-bronze-ring",
+        "marks-barwell-token",
+        "marks-danish-signet",
+        "marks-vasa-direct",
+        "marks-cloth-study",
+        "marks-gdansk-cloth",
+        "marks-norwich-wardens",
+        "marks-bodilsker-stone"
+      ],
+      "expansionHeads": [
+        "The Vasa figures reward a careful denominator",
+        "Rotation and added strokes need a local convention",
+        "A cloth seal can certify a commodity",
+        "Gdańsk’s arms travel with a separate mark",
+        "Norwich’s initials identify officeholders together",
+        "A reused stone preserves several material histories"
+      ]
+    },
+    {
+      "slug": "jewish-armory",
+      "before": 1056,
+      "after": 2644,
+      "added": 1588,
+      "sections": 14,
+      "sourceIds": [
+        "jew-rothschild",
+        "jew-shield",
+        "jew-textiles",
+        "jew-prague-flag",
+        "jew-putik",
+        "jew-montefiore-testimonials",
+        "jew-montefiore-halberstadt",
+        "jew-montefiore-drawn-stamps",
+        "jew-bevis-seal",
+        "jew-benveniste-cast",
+        "jew-geniza-stamp"
+      ],
+      "expansionHeads": [
+        "Montefiore adds another jurisdiction and another mechanism",
+        "A testimonial is another use of arms",
+        "A drawn stamp is not a stamped impression",
+        "Bevis Marks supplies a congregational bearer",
+        "A medieval impression can survive through a modern cast",
+        "A name-bearing stamp can work without a shield",
+        "Compare bearers before grouping motifs"
+      ]
+    },
+    {
+      "slug": "socialist-emblems",
+      "before": 985,
+      "after": 2452,
+      "added": 1467,
+      "sections": 13,
+      "sourceIds": [
+        "socialist-ddr",
+        "socialist-medal",
+        "mk-research",
+        "ee-seal",
+        "ru-1993",
+        "socialist-ddr-law",
+        "socialist-ddr-flag",
+        "socialist-ussr-constitution",
+        "socialist-china-law"
+      ],
+      "expansionHeads": [
+        "The 1955 GDR law specifies more than a collection of symbols",
+        "A flag can change after the emblem exists",
+        "The Soviet Constitution puts the globe inside the political argument",
+        "China supplies an architectural center and a manufacturing plan",
+        "Similar agricultural frames can hold different kinds of center",
+        "Worked comparison: identify the device before naming its politics"
+      ]
+    },
+    {
+      "slug": "tamgas",
+      "before": 4032,
+      "after": 5241,
+      "added": 1209,
+      "sections": 18,
+      "sourceIds": [
+        "tamga-bm-alchon",
+        "tamga-bm-kushan",
+        "tamga-bm-vase",
+        "tamga-carlos-seal",
+        "tamga-altai-semirechye",
+        "tamga-humphrey-brands",
+        "tamga-syeitkhan-brands",
+        "tamga-lnmm-skybin",
+        "tamga-cng-alchon",
+        "tamga-divan-nomination",
+        "tamga-halacoglu",
+        "tamga-paiza"
+      ],
+      "expansionHeads": [
+        "Oghuz marks come with a manuscript history",
+        "A short word can name a fiscal relationship",
+        "A seal can depend on controlled custody",
+        "A Mongol pass adds words, material and portability",
+        "Worked reading: the same strokes do not guarantee the same act"
+      ]
+    },
+    {
+      "slug": "colonial-indigenous",
+      "before": 1131,
+      "after": 2564,
+      "added": 1433,
+      "sections": 14,
+      "sourceIds": [
+        "mx-archive",
+        "ca-irniq",
+        "nz-arms",
+        "jm-arms",
+        "in-bowring",
+        "na-gazette",
+        "ci-bartleman",
+        "ci-steven-point",
+        "ci-heiltsuk-logo",
+        "ci-ihos-history",
+        "ci-ihos-ownership",
+        "ci-surrey-police"
+      ],
+      "expansionHeads": [
+        "Bartleman’s canoes make counterchanging carry several meanings",
+        "Point’s serpent has a relationship before it enters the shield",
+        "A community institution can explain its own device",
+        "I-Hos carries a connected design across a canoe and a building",
+        "A gifted element can enter a civic achievement",
+        "Worked comparison: four different kinds of authority"
+      ]
+    }
+  ]
+}

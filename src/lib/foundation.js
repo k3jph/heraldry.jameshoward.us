@@ -3,6 +3,7 @@
 export function chapterWordCount(body = '') {
   const prose = body
     .replace(/^---\r?\n[\s\S]*?\r?\n---\r?\n/, '')
+    .replace(/<nav\b[\s\S]*?<\/nav>/gi, '')
     .replace(/^\[\^[^\]]+\]:.*(?:\r?\n[ \t]+.*)*/gm, '')
     .replace(/<[^>]*>/g, ' ')
     .replace(/\[([^\]]+)\]\([^)]*\)/g, '$1')

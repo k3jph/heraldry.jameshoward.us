@@ -5,11 +5,11 @@ region: "Malta"
 languages: ["en"]
 track: "Comparative traditions"
 period: "Seventeenth century–present"
-sourceIds: ["mt-chief-herald", "mt-heraldry-regulations", "mt-symbols", "mt-emblem-1988", "mt-tombs"]
+sourceIds: ["mt-chief-herald", "mt-heraldry-regulations", "mt-symbols", "mt-emblem-1988", "mt-tombs", "mt-register-volume", "mt-gazette-applications-2025"]
 level: "Advanced undergraduate / graduate"
 ---
 
-<nav class="chapter-toc" aria-label="Malta chapter contents">
+<nav class="chapter-toc" aria-label="In this chapter">
   <strong>In this chapter</strong>
   <ol>
     <li><a href="#a-cathedral-floor-is-an-armorial-landscape">A cathedral floor is an armorial landscape</a></li>
@@ -18,6 +18,13 @@ level: "Advanced undergraduate / graduate"
     <li><a href="#granting-new-arms-and-registering-older-ones">Granting new arms and registering older ones</a></li>
     <li><a href="#read-the-regulations-by-the-act-they-govern">Read the regulations by the act they govern</a></li>
     <li><a href="#tombs-ask-a-different-question-from-registers">Tombs ask a different question from registers</a></li>
+    <li><a href="#a-mural-crown-counts-real-and-visible-turrets-differently">A mural crown counts real and visible turrets differently</a></li>
+    <li><a href="#the-presidential-flag-adds-another-kind-of-cross">The presidential flag adds another kind of cross</a></li>
+    <li><a href="#the-20192024-register-has-a-defined-publication-scope">The 2019–2024 register has a defined publication scope</a></li>
+    <li><a href="#a-public-application-notice-is-a-stage-in-the-procedure">A public application notice is a stage in the procedure</a></li>
+    <li><a href="#registration-and-recognition-abroad-are-different-questions">Registration and recognition abroad are different questions</a></li>
+    <li><a href="#st-johns-combines-arms-with-rank-memory-and-mortality">St John&#x27;s combines arms with rank, memory and mortality</a></li>
+    <li><a href="#graduate-investigation-compare-a-tomb-a-notice-and-a-completed-entry">Graduate investigation: compare a tomb, a notice and a completed entry</a></li>
     <li><a href="#workshop-classify-a-three-stage-file">Workshop: classify a three-stage file</a></li>
     <li><a href="#graduate-project-connect-stone-and-record">Graduate project: connect stone and record</a></li>
   </ol>
@@ -75,6 +82,84 @@ Begin a material study with the whole slab. Record the inscription, named person
 
 The monument’s collective setting matters too. Rank and memory can be expressed through placement and surrounding objects as well as shield design. An inventory of cropped shields loses that evidence. A stronger corpus keeps photographs or descriptions of the larger composition and location alongside the detailed armorial entry. The cathedral floor becomes a historical arrangement rather than a source of decorative cutouts.
 
+## A mural crown counts real and visible turrets differently
+
+The government describes Malta's state emblem with a gold mural crown having eight turrets, five visible. A shield represents the national flag; olive and palm branches surround it, joined by a ribbon naming the republic.[^mt-symbols] “Eight” and “five” are not contradictory counts: one describes the imagined complete crown, the other its visible representation.
+
+This is a useful exercise in heraldic perspective. A circular crown can have structural features around its circumference that a frontal image does not show. The drawing should follow the approved visible model rather than placing all eight turrets in a flat row. Counting what exists conceptually and counting what appears in the image answer different questions.
+
+The mural crown's stated association with fortifications and a city-state is also specific to the official account. A crown of towers elsewhere can indicate a municipal rank under another system. The same broad ornament family does not impose identical jurisdictional meanings. Compare the Maltese description with [Brașov's civic crown](/traditions/romania/) to see how public categories attach to different prescribed forms.
+
+The branches require their own identification. Olive on one side and palm on the other are not an unspecified symmetrical laurel wreath. Their placement, colour treatment and joining ribbon belong to the full state emblem. A simplified shield-only image omits external elements; it should be described as such rather than mistaken for the complete approved composition.
+
+The George Cross in the flag-derived shield is another distinct element, not the eight-pointed Maltese cross. Their names, forms and historical roles differ. A general instruction to add “the Maltese cross” to every national design would create the wrong charge. The current state model, presidential flag and Order's signs provide related but separate comparisons.
+
+## The presidential flag adds another kind of cross
+
+Malta's presidential flag has a blue field with the state emblem at the centre and a gold Maltese cross in each corner. The government dates its introduction by proclamation to December 1988.[^mt-symbols] It is an office flag, distinct from both the national flag and a personal coat of the individual serving as president.
+
+The corner crosses make the difference particularly clear. They belong to the presidential flag's composition around the state emblem. They are not four additional charges suddenly inserted into the national shield. The flag acts as a complete design whose central component is itself an emblem.
+
+Compare three images at the same scale: the national flag, the state emblem and the presidential flag. Label the bearer and use beneath each. Identify which features translate from one format into another and which are added for the office. The exercise makes it difficult to treat every white-and-red or cross-bearing Maltese sign as interchangeable.
+
+A photograph of the presidential flag at a residence is evidence of display in an official setting. It does not establish a grant of hereditary arms to the resident. The use of a public office sign and the possession of personal arms can coexist; they require distinct records. This distinction becomes especially useful when the register includes arms of prominent officeholders.
+
+## The 2019–2024 register has a defined publication scope
+
+Heritage Malta's October 2025 announcement identifies the first published Register of Arms volume, covering 2019–2024 and compiled by Charles Gauci and Raymond Cassar. It reports illustrated personal arms of 133 armigers, blazons of 70 more, and additional institutional arms, standards, badges and pedigrees.[^mt-register-volume] Those figures describe a publication's coverage, not the entire armorial history of Malta.
+
+The dates connect directly to the recent heraldic office. The islands' much older armorial landscape remains visible in tombs, churches and buildings. A first volume of a modern register can document a new administrative series without being the first occasion on which anyone in Malta used a coat. The distinction keeps institutional novelty and historical depth in the same account.
+
+The announcement also distinguishes granted from registered arms. Those categories should be retained for individual entries. A new grant issued through the office and a registration of an existing coat can appear in the same volume while recording different acts. The image's position in the book does not settle which act occurred; the entry's wording does.
+
+Standards and badges extend the identifying vocabulary beyond the shield. A badge can identify a bearer or affiliation through a detached sign, while a standard is a particular display format. A pedigree addresses relationships among persons. Their inclusion makes the publication a record of several linked forms of identity, not simply a picture book of shields.
+
+For a research citation, give volume, coverage dates, entry or page and act type where available. A press release establishes that the publication exists and describes its scope. Close interpretation of a specific coat requires the actual entry. A prominent name in the announcement should not be used to invent a blazon or genealogy that has not been inspected.
+
+## A public application notice is a stage in the procedure
+
+Government Gazette notice 181 of 31 January 2025 publishes named armorial applications and invites representations under the Heraldry and Genealogy Regulations. It supplies proposed descriptions and file references.[^mt-gazette-applications-2025] The notice demonstrates a public procedural stage; it does not alone establish that every application subsequently resulted in a completed grant.
+
+That distinction is more than clerical caution. An application can be examined, challenged, altered or withdrawn before the final instrument. The published proposal is evidence of what was requested at that point. To establish the eventual act, locate the resulting grant or registration and compare its final text with the notice.
+
+One listed proposal, for Michael Twist, combines a field divided horizontally into silver and gold with a complex chief arrangement and a red stag holding a green sprig. It also describes an eagle crest.[^mt-gazette-applications-2025] This is useful evidence that actual contemporary proposals can exceed the conventional beginner's selection of one plain field and one simple charge.
+
+Read the grammar before judging the composition. Identify the field division, the location of the grouped chief elements, the stag's attitude and its attributes. Keep the crest separate from the shield. Where a published description is difficult or appears ambiguous, compare the filed artwork or ask for the definitive entry; silently rewriting the proposal to fit a preferred English template would destroy the evidence being examined.
+
+The notice's named American applicant also shows that the procedure is not confined to a list of Maltese residents. This establishes the scope of that application process. It does not settle how a foreign grant, registration, title or external ornament will be recognized in every other jurisdiction. Recognition abroad is another question with its own relevant institutions.
+
+## Registration and recognition abroad are different questions
+
+The office's published functions include new grants, registration of older local arms and registration of foreign grants. A foreign instrument can therefore enter the record as an existing source of armorial identity. The registering act does not change the original issuer's name, date or terms.[^mt-chief-herald]
+
+Conversely, a coat granted in Malta and used by someone abroad must be examined through both the Maltese act and the relevant destination's practices. The fact of a Maltese grant is one proposition; its treatment by another jurisdiction is a second. A global applicant base does not create a global court in which all local heraldic rules become identical.
+
+For comparative study, preserve the chain: original grant or prior use, Maltese registration if any, later publication and actual display. Each step can add evidence without replacing the earlier record. A register entry may make an old coat easier to find; it should not be backdated as the act that first created it.
+
+Applications also require identification of the intended bearer. A personal coat, joint arms, corporate arms and posthumous record can raise different questions about future use and transmission. The relevant instrument and regulations should determine the terms. A designer's attractive drawing does not supply those terms automatically.
+
+## St John's combines arms with rank, memory and mortality
+
+The cathedral floor discussed earlier places armorial shields among epitaphs, weapons and mortality imagery. Its inventory identifies individual knights and grand masters rather than treating the entire floor as one institutional coat.[^mt-tombs] Every monument can consequently be read as a local arrangement within a larger collective setting.
+
+Begin with the named person and the monument's location. A tomb in a national or linguistic chapel can connect the individual with a community within the Order, while the personal arms identify family or bearer. Rank and office may appear through titles, ornaments and insignia. None of those relationships requires every knight to share one complete coat.
+
+The skeleton, hourglass or trumpet has a different task from the shield. Such imagery addresses mortality, time or fame; the shield identifies the person being remembered. The overall programme gains meaning from their coexistence. Treating every motif as a heraldic charge would flatten the monument's visual argument into a list with no grammar.
+
+The epitaph adds claims about service and virtue. Read it as commemorative language shaped by the patron and setting, then compare its biographical assertions with independent records. The tomb is excellent evidence of how someone was memorialized. It is not automatically an impartial account of every achievement attributed to the deceased.
+
+The monument's manufacture date may also differ from death or reburial. Preserve each date when the evidence supplies it. A later replacement or transfer can retain the person's name while changing the visual form. Current placement in the cathedral cannot, by itself, establish the original burial context.
+
+For a field study, compare two monuments with different ranks or family origins. Record shield, external ornaments, inscription, emblems of office and surrounding mortality imagery in separate fields. Then explain how the complete design coordinates them. This produces a richer reading than photographing the shield and discarding the rest of the floor.
+
+## Graduate investigation: compare a tomb, a notice and a completed entry
+
+Select a named cathedral monument, a public application notice and a completed grant or registration entry. Record the bearer, dates, type of act and identifying composition for each. For the monument, include the epitaph and commemorative setting. For the notice, identify what remained pending. For the completed entry, transcribe the act type rather than inferring it from the image.
+
+Write a history of how these three records establish different propositions. The tomb documents commemorative display; the notice documents a request at a procedural stage; the completed instrument records the resulting act. If the final instrument cannot be located for a particular application, say so and retain the application as an application.
+
+Finish by comparing the republican state emblem with the Order's institutional identity. Both belong to Malta's armorial landscape, but their bearers and histories differ. A complete account of the islands can embrace the old monuments and new office while preserving that distinction. The tradition is more interesting when its several institutions are allowed to remain visible.
+
 ## Workshop: classify a three-stage file
 
 An invented Maltese file contains a photograph of a shield on an old corporate building, an application notice, and a certificate of registration. Give each witness its own date and status. Explain what would justify describing the design as historically used, applied for, and registered.
@@ -94,3 +179,13 @@ A second possible route follows one modern grant or registration from applicatio
 [^symbols]: Government of Malta, [Flags, Symbols and their uses](https://govcms.gov.mt/en/About%20Malta/Pages/Flags-Symbols-and-their-use.aspx).
 [^act]: Parliament of Malta, [Act XXIX of 1988](https://parlament.mt/6th-leg/acts/act-xxix-of-1988/), publication date and objects and reasons.
 [^regulations]: Government of Malta, [Heraldry and Genealogy Regulations, S.L. 445.07](https://legislation.mt/getpdf/61ee60a7f7066b1f6c7b0f11), especially regs. 5, 8–10, and 14–15. Sources consulted 11 October 2026; no monument or official graphic reproduced.
+
+[^mt-chief-herald]: Heritage Malta, [Heraldry — Office of the Chief Herald of Arms of Malta](https://heritagemalta.mt/subsidiaries/heraldry/). Consulted 11 October 2026. Original English editorial synthesis; consult the linked record for close reading.
+
+[^mt-gazette-applications-2025]: Government Gazette No. 21,385, notice 181, 31 January 2025, [Office of the Chief Herald of Arms of Malta — Heraldry and Genealogy Regulations](https://www.gov.mt/en/Government/DOI/Government%20Gazette/Government%20Notices/Pages/2025/01/GovNotices3101.aspx). Consulted 11 October 2026. Original English editorial synthesis; consult the linked record for close reading.
+
+[^mt-register-volume]: Heritage Malta, press release 15 October 2025, [Malta’s Heraldry Documented in First-Ever Register of Arms Volume](https://heritagemalta.mt/news/maltas-heraldry-documented-in-first-ever-register-of-arms-volume/). Consulted 11 October 2026. Original English editorial synthesis; consult the linked record for close reading.
+
+[^mt-symbols]: Government of Malta, [Flags, Symbols and their uses](https://govcms.gov.mt/en/About%20Malta/Pages/Flags-Symbols-and-their-use.aspx). Consulted 11 October 2026. Original English editorial synthesis; consult the linked record for close reading.
+
+[^mt-tombs]: St John’s Co-Cathedral Foundation, [Tombstones & Monuments](https://www.stjohnscocathedral.com/explore/tombstones-and-monuments/). Consulted 11 October 2026. Original English editorial synthesis; consult the linked record for close reading.

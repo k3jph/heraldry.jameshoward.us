@@ -5,11 +5,11 @@ region: "Akan / Asante"
 languages: ["en"]
 track: "Comparative emblem systems"
 period: "Nineteenth-century witnesses and later museum interpretation"
-sourceIds: ["adinkra-prempeh-wrapper", "adinkra-inscribing-meaning", "adinkra-gourd-stamp", "adinkra-bowdich-cloth"]
+sourceIds: ["adinkra-prempeh-wrapper", "adinkra-inscribing-meaning", "adinkra-gourd-stamp", "adinkra-bowdich-cloth", "adinkra-museum-commission", "adinkra-yellow-wrapper", "adinkra-anagnost-2025"]
 level: "Advanced undergraduate / graduate"
 ---
 
-<nav class="chapter-toc" aria-label="Akan / Asante chapter contents">
+<nav class="chapter-toc" aria-label="In this chapter">
   <strong>In this chapter</strong>
   <ol>
     <li><a href="#begin-with-a-cloth-not-a-dictionary">Begin with a cloth, not a dictionary</a></li>
@@ -18,8 +18,13 @@ level: "Advanced undergraduate / graduate"
     <li><a href="#prempehs-wrapper-makes-the-stakes-visible">Prempeh’s wrapper makes the stakes visible</a></li>
     <li><a href="#a-proverb-is-not-a-serial-number">A proverb is not a serial number</a></li>
     <li><a href="#the-material-and-occasion-can-change">The material and occasion can change</a></li>
-    <li><a href="#a-workshop-in-attribution">A workshop in attribution</a></li>
     <li><a href="#compare-the-relationship-then-the-shape">Compare the relationship, then the shape</a></li>
+    <li><a href="#the-grid-is-a-second-level-of-design">The grid is a second level of design</a></li>
+    <li><a href="#a-museum-commission-changes-the-purpose-of-a-wrapper">A museum commission changes the purpose of a wrapper</a></li>
+    <li><a href="#a-yellow-cloth-demonstrates-another-arrangement">A yellow cloth demonstrates another arrangement</a></li>
+    <li><a href="#the-imperial-history-runs-in-more-than-one-direction">The imperial history runs in more than one direction</a></li>
+    <li><a href="#nsaa-across-a-stamp-weight-and-bag">Nsaa across a stamp, weight and bag</a></li>
+    <li><a href="#a-workshop-in-attribution">A workshop in attribution</a></li>
   </ol>
 </nav>
 
@@ -85,6 +90,68 @@ The occasion matters as much as the support. The same broad value may acquire a 
 
 For a modern design exercise, these distinctions are useful before a symbol is selected. A maker who wants to communicate a specific idea needs more than an appealing outline and a one-line internet definition. The research should establish the source of the proposed reading and how the design relates to the practice being referenced. That is basic explanatory work, not an optional decoration added to it.
 
+## Compare the relationship, then the shape
+
+Set one documented adinkra cloth beside an armorial banner. Describe how each organizes signs on its surface, how each is displayed, and what evidence associates it with its user. Then explain the relationship between the design and the identity or idea it expresses.
+
+A similar-looking mark may participate in a different system. A different-looking mark may answer a related practical question. Comparison works best when it identifies those relationships before measuring visual resemblance.
+
+The two cloths and the stamp linked here supply a beginning, not a survey of Akan history. A deeper project would need contextual scholarship, relevant language knowledge, more objects, and competent regional review. The first gain is already substantial: a sign’s meaning becomes clearer when we put the cloth, tool, occasion, and interpreting community back into the account.
+
+## The grid is a second level of design
+
+A stamp gives an artist a repeatable unit. A grid supplies the larger structure into which that unit is placed. The Smithsonian’s gourd-stamp record describes comb-like border and crossing lines followed by impressions within the resulting fields. It dates the tool itself to the late twentieth century.[^stamp] The two operations make different kinds of order: one establishes boundaries, the other fills or accents them.
+
+We can understand the mechanism with an invented cloth divided into six fields. Fill each field with one repeated sign, then compare it with a cloth that alternates the same six signs throughout every field. The inventory remains the same, but the reader encounters different groups. In the first arrangement each area establishes an extended association through repetition. In the second, juxtaposition occurs locally and repeatedly. Meaning depends partly on the organization of attention, not only on the presence of a shape.
+
+Repetition also changes the way an irregular impression is perceived. A single incomplete print may be difficult to recognize; neighboring complete impressions can help establish the repeated unit. That is an analytical possibility to investigate on an actual object, rather than proof that every irregularity was intentional. Tool size, pressure and the cloth’s surface remain material questions. We should distinguish the pattern an artist organized from defects introduced by wear, damage or photography.
+
+A useful transcription therefore has at least three layers. Record the cloth’s assembled strips and seams; record its drawn field boundaries; then record impressions within those fields. Combining all three into a clean vector diagram might help teach the arrangement, but it can conceal the construction sequence. Keep the diagram tied to the object it models. The cloth did not begin life as a downloadable icon sheet.
+
+## A museum commission changes the purpose of a wrapper
+
+Wrapper 74-31-12 was commissioned in 1974 from the Cultural Center in Kumasi to display a variety of traditional designs. The museum records six strips of commercial cloth, maroon-brown dye, black stamping and multicolored embroidery covering the seams. Its dimensions are 219.1 by 351.2 centimeters.[^adinkra-museum-commission] Here the collecting purpose is part of the object’s manufacture, rather than a later event in the life of an independently made garment.
+
+That difference has consequences for interpretation. An artist asked to show a range of designs has an incentive to select and organize a representative assortment. A wearer selecting a cloth for a particular occasion may have another purpose. The commissioned wrapper can teach us about available motifs, materials and techniques while remaining evidence of a museum’s collecting request. Calling it a museum commission does not make it inauthentic; it identifies a real relationship that shaped its production.
+
+The embroidered seams deserve attention on their own. A seam joins the support; embroidery can turn that joining line into a visible part of the composition. Structural necessity becomes an opportunity for another kind of work. The cloth thus coordinates drawing, stamping, assembly and embroidery. A reproduction that preserves only black symbols on a flat maroon rectangle discards part of the artist’s organization even if it gets each symbol’s outline right.
+
+The use of commercially manufactured cloth also matters. Material continuity does not require an unchanged supply chain. Stamping and composition can persist while the support is obtained through a different production system. We should investigate the relationship between material change and practice instead of assuming that a commercial textile makes the finished work merely a degraded version of an earlier handwoven one. That judgment would require evidence about makers, users and their standards of workmanship.
+
+The catalogue associates the maroon color with mourning.[^adinkra-museum-commission] The commission, however, does not by itself identify a funeral at which this particular wrapper was worn. This is a precise distinction between a color convention and a documented occasion. The museum’s purpose and the cloth’s available cultural associations can coexist without allowing us to invent a named wearer or ceremony.
+
+## A yellow cloth demonstrates another arrangement
+
+The Smithsonian records wrapper EJ10604 from Bonwire as yellow cotton colored with synthetic dye, 163 by 99 centimeters. Comb-painted lines divide it into six rectangular fields, each containing repetitions of one stamped motif.[^adinkra-yellow-wrapper] The record gives us a concrete alternative to the maroon museum commission while leaving its individual wearer and occasion unresolved.
+
+Its pattern illustrates why a field count and a strip count are different measurements. Six design fields need not mean six separately woven or purchased pieces of cloth. The first count concerns the visible organization of signs; the second concerns the support’s construction. A catalogue that uses “six sections” without explaining which category it means can make the object harder to understand. Drawn boundaries and physical seams may coincide, but that coincidence should be observed rather than assumed.
+
+The smaller dimensions also change the encounter. The 1974 commission has an area of roughly 7.7 square meters; the yellow wrapper is roughly 1.6 square meters, calculated from the catalogue dimensions. These figures describe the flat objects, not how much of each would remain visible on a body. Folding, overlap and movement can conceal fields or expose them in sequence. An overall museum photograph provides one view of a wearable composition, not its entire history of appearance.
+
+Color alone cannot finish the interpretation. Yellow establishes an observable difference from the maroon wrapper, and the synthetic dye identifies a material. Neither tells us the precise occasion for this cloth. A sensible caption can describe the palette and structure while leaving that question open. This is preferable to taking a general statement about festive colors and manufacturing a festival biography for an object whose record does not supply one.
+
+## The imperial history runs in more than one direction
+
+Adrian Anagnost’s 2025 study treats adinkra within a multiethnic Asante polity and later British collecting. The argument emphasizes contributions and exchanges that a single homogeneous cultural label can hide. It also examines how museum display and printed analysis reorganized the material after collection.[^adinkra-anagnost-2025] This is a historical argument to evaluate through its evidence, not a reason to discard the cultural names in existing records.
+
+The useful complication is that more than one powerful institution can select, absorb and reframe an object. A history that begins only when Europeans collect the cloth risks presenting the earlier African setting as culturally static. A history that ends at the Asante label risks overlooking what happened during removal, cataloguing and display. The chapter needs to hold those stages together while naming the people and institutions involved at each stage.
+
+This affects how we use the early cloth’s Asante and Dagomba associations. They need not be an inconvenient catalogue inconsistency to smooth away. They can direct research toward manufacture, circulation and the historical relationship between communities. A current national heading supplies a useful finding aid; it cannot by itself explain a nineteenth-century network of expertise and exchange. The question becomes which part of the object’s history each attribution describes.
+
+There is an equivalent lesson for armorial research. A coat preserved in a royal archive can have been commissioned by a town, painted by a migrant artist and collected after a political conquest. The archive’s present name is not a complete account of its creation. Comparisons become stronger when they follow those actual relationships. They become weaker when a current museum department or country label is treated as the object’s entire cultural biography.
+
+## Nsaa across a stamp, weight and bag
+
+Anagnost illustrates the nsaa form in a wooden stamp, a brass gold weight and a Dagomba leather bag: British Museum numbers Af1978,22.342, Af1922,1027.257 and Af1818,1114.26.[^adinkra-anagnost-2025] The comparison supplies three different material functions for a related form, rather than three interchangeable examples of a textile mark.
+
+The stamp produces an impression on another surface. The weight has a measuring function through its mass. The bag is a container whose surface carries the design. Shape enters each object through a different practical mechanism. Seeing a recurring outline is a good beginning; the next step is to ask how the outline participates in the object’s use. A motif can circulate without making every object bearing it a personal seal, an armorial badge or a declaration of descent.
+
+The material also constrains what the form can do. A stamp needs a working face that transfers pigment. A weight needs sufficient material to perform its metrological task. A bag’s pattern occupies a flexible or assembled surface. These general constraints give us questions to take back to the records and objects. They do not establish the maker’s intention from engineering alone. Function and interpretation require related but distinct evidence.
+
+For an advanced exercise, catalogue the three objects in parallel. Describe the recurring form, the medium, the object's primary operation and the evidence linking it to a maker or community. Then decide which comparison can be defended. “The form recurs across these documented media” is a narrower and stronger claim than “this is one family’s coat of arms.” The latter introduces an identity relationship that visual recurrence cannot supply.
+
+<details class="research-answer"><summary>What does the cross-media comparison establish?</summary><p>It establishes a documented recurrence and opens questions about circulation, recognition and material adaptation. The stamp, weight and bag do different practical work. A claim of exclusive hereditary identity would require evidence connecting the sign to that specific relationship. Neither shared shape nor shared museum location supplies it. Keep the demonstrated visual connection while investigating the social one.</p></details>
+
 ## A workshop in attribution
 
 You receive three invented records. The first is a museum photograph of a cloth with an accession number. The second is a modern icon sheet that assigns a one-word meaning to each sign. The third is a catalogue paragraph associating the cloth with a named ruler and event. Draft a caption and a research question.
@@ -96,15 +163,13 @@ Your caption should identify which witness supplies the object’s institutional
 <p>The photograph supports observations about the visible arrangement. The catalogue supplies an attributed historical association. The icon sheet records a modern interpretation and needs its own source history. The caption should not present that sheet as testimony from the wearer. A useful research question might ask whether an account of the occasion, a contemporary explanation, or a contextual study connects the selected sign with the action attributed to the ruler.</p>
 </details>
 
-## Compare the relationship, then the shape
-
-Set one documented adinkra cloth beside an armorial banner. Describe how each organizes signs on its surface, how each is displayed, and what evidence associates it with its user. Then explain the relationship between the design and the identity or idea it expresses.
-
-A similar-looking mark may participate in a different system. A different-looking mark may answer a related practical question. Comparison works best when it identifies those relationships before measuring visual resemblance.
-
-The two cloths and the stamp linked here supply a beginning, not a survey of Akan history. A deeper project would need contextual scholarship, relevant language knowledge, more objects, and competent regional review. The first gain is already substantial: a sign’s meaning becomes clearer when we put the cloth, tool, occasion, and interpreting community back into the account.
-
 [^meaning]: Smithsonian National Museum of African Art, [*Inscribing Meaning: Writing and Graphic Systems in African Art*](https://africa.si.edu/exhibitions/inscribing-meaning-writing-and-graphic-systems-africa-art).
 [^stamp]: Smithsonian, [adinkra stamp, 2010-10-388](https://africa.si.edu/collection/object/nmafa_2010-10-388).
 [^early]: British Museum, [cloth, Af1818,1114.23](https://www.britishmuseum.org/collection/object/E_Af1818-1114-23). The indexed catalogue description was consulted; this chapter does not claim a fresh examination of the cloth or a full critical edition of early observers’ accounts.
 [^prempeh]: Smithsonian, [wrapper, 83-3-8](https://africa.si.edu/collection/object/nmafa_83-3-8), also presented on its [featured-artwork page](https://africa.si.edu/collection/selected-artwork/1720). Indexed museum descriptions were consulted where the live collection pages did not load.
+
+[^adinkra-anagnost-2025]: Adrian Anagnost, British Art Studies 28, November 2025, [Woven, Inscribed, Enfolded, Encased: Adinkra from Kumase to the British Museum](https://britishartstudies.ac.uk/issues/28/adinkra-from-kumase-to-the-british-museum/). Consulted 11 October 2026. Original English editorial synthesis; consult the linked record for close reading.
+
+[^adinkra-museum-commission]: Smithsonian National Museum of African Art, 74-31-12, [Wrapper — museum commission, 1974](https://africa.si.edu/collection/object/nmafa_74-31-12). Consulted 11 October 2026. Original English editorial synthesis; consult the linked record for close reading.
+
+[^adinkra-yellow-wrapper]: Smithsonian National Museum of African Art, EJ10604, [Wrapper — Bonwire, Ghana](https://www.si.edu/object/wrapper%3Anmafa_EJ10604). Consulted 11 October 2026. Original English editorial synthesis; consult the linked record for close reading.
