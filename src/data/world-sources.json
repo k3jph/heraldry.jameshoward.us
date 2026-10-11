@@ -10704,5 +10704,650 @@
     "accessed": "2026-10-11",
     "reviewStatus": "editorially synthesized; independent specialist review pending",
     "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ge-history-2023",
+    "area": "Georgia",
+    "language": "en",
+    "holding": "Tornike Asatiani, State Council of Heraldry at the Parliament of Georgia, Tbilisi 2023",
+    "titleOriginal": "The Story of Georgian Heraldry",
+    "titleEnglish": "The Story of Georgian Heraldry",
+    "url": "https://www.heraldika.ge/uploads/The_Story_of_Georgian_Heraldry-compressed_compressed.pdf",
+    "kind": "institutionally published historical synthesis",
+    "authority": "scholarly author",
+    "englishSynopsis": "Institutionally published historical synthesis discusses imperial civic arms, modern Georgian revisions and local examples including Kutaisi and Oni. Its interpretations are attributed historical arguments, distinct from the legal acts defining present devices. Image rights remain reserved; the chapter links and summarizes selected cases.",
+    "glossary": [
+      {
+        "term": "golden fleece",
+        "english": "charge associated with the Argonaut tradition"
+      },
+      {
+        "term": "tur",
+        "english": "mountain goat in the Oni discussion"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ge-state-description",
+    "area": "Georgia",
+    "language": "en",
+    "holding": "Department of State Symbols and Heraldry of Georgia",
+    "titleOriginal": "The State Coat of Arms",
+    "titleEnglish": "State coat of arms: departmental English description",
+    "url": "https://heraldika.ge/index.php?arms_id=838&lng=eng&m=85",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Departmental description identifies Saint George, a Georgian crown, lion supporters and vine ornament and uses the English colour label sanguine. Comparison with the official legal translation’s purple provides a real terminology problem; the English word alone should not override the statutory Georgian text and model.",
+    "glossary": [
+      {
+        "term": "sanguine",
+        "english": "English colour label used in this description"
+      },
+      {
+        "term": "Iberian crown",
+        "english": "Georgian crown in this context"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "am-yerevan-symbols",
+    "area": "Armenia",
+    "language": "en",
+    "holding": "City of Yerevan",
+    "titleOriginal": "Symbols of Yerevan",
+    "titleEnglish": "Yerevan’s civic emblem",
+    "url": "https://www.yerevan.am/en/symbols-of-yerevan/",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Municipality dates revisions to its emblem description and identifies a backward-looking lion, sceptre, crown, tree-of-life reference, eternity sign and Ararat within the design. Apricot and bronze colour terminology and artist Albert Sokhikyan’s credit supply a distinctive modern civic case beside the national arms.",
+    "glossary": [
+      {
+        "term": "emblem",
+        "english": "municipal identifying device"
+      },
+      {
+        "term": "apricot",
+        "english": "colour named in the civic description"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "am-yerevan-coin",
+    "area": "Armenia",
+    "language": "en",
+    "holding": "Central Bank of Armenia",
+    "titleOriginal": "Yerevan-2800",
+    "titleEnglish": "Yerevan 2800th anniversary collector coin",
+    "url": "https://www.cba.am/en/collector-coins/282",
+    "kind": "official coin issue record",
+    "authority": "official institution",
+    "englishSynopsis": "Issuer identifies Vardan Vardanyan’s commemorative design combining the civic arms, city plan and tree-of-life ornament on one face with a sculpture fragment on the other. The issue is a modern representation of Yerevan’s historical identity, not an ancient coin from the city’s foundation.",
+    "glossary": [
+      {
+        "term": "obverse",
+        "english": "face described by the issuer"
+      },
+      {
+        "term": "collector coin",
+        "english": "modern commemorative issue"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "am-cilicia-exhibition",
+    "area": "Armenia",
+    "language": "en",
+    "holding": "Metropolitan Museum of Art, Armenia! exhibition, 2018",
+    "titleOriginal": "The Armenian Kingdom of Cilicia",
+    "titleEnglish": "Cilicia in the Armenia! exhibition",
+    "url": "https://www.metmuseum.org/exhibitions/listings/2018/armenia/exhibition-galleries",
+    "kind": "institutional exhibition interpretation",
+    "authority": "official institution",
+    "englishSynopsis": "Curatorial account places Cilician royal and clerical patronage in networks connecting Armenian, Latin and Mongol cultures and identifies manuscript production at Hromkla. It supplies historical context for investigating royal coins and identifying signs without classifying every religious ornament as armorial.",
+    "glossary": [
+      {
+        "term": "scriptorium",
+        "english": "workshop for manuscript production"
+      },
+      {
+        "term": "Cilicia",
+        "english": "medieval Armenian political and cultural setting"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "am-john-leaf",
+    "area": "Armenia",
+    "language": "en",
+    "holding": "Metropolitan Museum of Art, manuscript leaf by Sargis",
+    "titleOriginal": "Title Page of the Gospel of John",
+    "titleEnglish": "Gospel of John title page, 1300–1310",
+    "url": "https://www.metmuseum.org/art/collection/search/449536",
+    "kind": "museum object record",
+    "authority": "official institution",
+    "englishSynopsis": "Museum identifies the four evangelists’ symbols in an Armenian illuminated leaf and bird-shaped letters in its opening text. A lion, ox and eagle can function within sacred narrative and lettering rather than as family arms; the dated object makes that distinction concrete.",
+    "glossary": [
+      {
+        "term": "incipit",
+        "english": "opening of a text"
+      },
+      {
+        "term": "evangelist symbol",
+        "english": "conventional identifying attribute of a Gospel author"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "bg-sofia-arms",
+    "area": "Balkans",
+    "language": "en",
+    "holding": "Municipality of Sofia",
+    "titleOriginal": "Coat of Arms of Sofia",
+    "titleEnglish": "Sofia’s arms and Haralampi Tachev’s account",
+    "url": "https://www.sofia.bg/en/web/sofia-municipality/coat-of-arms-of-sofia",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "City publishes the designer’s retrospective account of the arms created for the Paris exhibition of 1900 and a chronology of later revisions. Antique coin motifs, St Sophia, Vitosha and a central lion are assembled into a civic composition; the account distinguishes original design, later motto and branches, socialist alteration and restoration.",
+    "glossary": [
+      {
+        "term": "mural crown",
+        "english": "city-associated external crown"
+      },
+      {
+        "term": "inescutcheon",
+        "english": "small central shield"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ba-brocade-mantle",
+    "area": "Balkans",
+    "language": "bs",
+    "holding": "National Museum of Bosnia and Herzegovina",
+    "titleOriginal": "Ostaci pogrebnog plašta kneza Mirka Radojevića",
+    "titleEnglish": "Remains of Mirko Radojević’s funerary mantle",
+    "url": "https://zemaljskimuzej.ba/predmet/ostaci-pogrebnog-plasta-kneza-mirka-radojevica/",
+    "kind": "museum object interpretation",
+    "authority": "official institution",
+    "englishSynopsis": "Museum identifies fifteenth-century purple brocade with lion or griffin motifs from the 2015 excavation at Kopošići. It explains its proposed bearer through archaeological and kinship evidence and treats the textile as probable import. The pattern should not automatically be converted into a proven hereditary coat.",
+    "glossary": [
+      {
+        "term": "plašt",
+        "english": "mantle"
+      },
+      {
+        "term": "brokat",
+        "english": "brocade"
+      },
+      {
+        "term": "grifon",
+        "english": "griffin"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "mk-skopje-design-study",
+    "area": "Balkans",
+    "language": "en",
+    "holding": "Macedonian Heraldry Society, Macedonian Herald 7, 2013",
+    "titleOriginal": "Heraldry — the arms of Skopje",
+    "titleEnglish": "Skopje’s design and statutory constraints",
+    "url": "https://heraldika.org.mk/wp-content/uploads/2013/12/MkHerald-7-final-smal.pdf",
+    "kind": "original specialist design account",
+    "authority": "heraldic society",
+    "englishSynopsis": "Specialist society’s account explains a redesign constrained to preserve the city charter’s specified shield shape and bridge, river, fortress and snow-covered mountain. It distinguishes a design solution from amendment of the charter and notes that the existing description leaves tinctures and relationships underdetermined.",
+    "glossary": [
+      {
+        "term": "city charter",
+        "english": "municipal prescribing text"
+      },
+      {
+        "term": "design solution",
+        "english": "rendering constrained by a description"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "al-helmet-construction",
+    "area": "Balkans",
+    "language": "en",
+    "holding": "Kunsthistorisches Museum Vienna, Imperial Armoury",
+    "titleOriginal": "The Skanderbeg Helmet and the Skanderbeg Sword",
+    "titleEnglish": "Construction and collection history of the Skanderbeg helmet",
+    "url": "https://www.khm.at/en/visit/collections/imperial-armoury/skanderbeg",
+    "kind": "museum object interpretation",
+    "authority": "official institution",
+    "englishSynopsis": "Museum identifies a late-fifteenth-century Italian sallet fragment, copper band and gilt-copper goat head, with armoury accession A 127. It connects the surviving object with Ambras inventory records while distinguishing material construction from the simplified emblematic helmet used in modern Albanian public symbolism.",
+    "glossary": [
+      {
+        "term": "sallet",
+        "english": "helmet type"
+      },
+      {
+        "term": "gilt copper",
+        "english": "copper with gilding"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "cath-cupich",
+    "area": "Catholic heraldry",
+    "language": "en",
+    "holding": "Archdiocese of Chicago",
+    "titleOriginal": "Cardinal’s Coat of Arms",
+    "titleEnglish": "Cardinal Cupich’s arms: corporate and personal composition",
+    "url": "https://www.archchicago.org/cardinal-coat-of-arms",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Archdiocese supplies blazon and attributed symbolism for the impaled corporate and personal arms, including Chicago’s phoenix and Cupich’s biographical charges. The explanatory prose contains a direction slip when naming the personal half; the formal blazon and approved arrangement should be compared rather than silently repeated inconsistently.",
+    "glossary": [
+      {
+        "term": "impaled",
+        "english": "joined side by side in one shield"
+      },
+      {
+        "term": "galero",
+        "english": "ecclesiastical hat"
+      },
+      {
+        "term": "barlet",
+        "english": "narrow horizontal bar"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "cath-swiss-guard-flag",
+    "area": "Catholic heraldry",
+    "language": "en",
+    "holding": "Pontifical Swiss Guard, Vatican",
+    "titleOriginal": "Pontifical Swiss Guard Profile",
+    "titleEnglish": "Swiss Guard profile and flag composition",
+    "url": "https://www.vatican.va/content/romancuria/en/guardia-svizzera-pontificia/corpo-della-guardia-svizzera-pontificia/profilo.html",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Guard’s account describes a white-cross flag with the reigning pope’s arms, Julius II’s arms, corps colours and the commander’s arms at the crossing. It supplies a concrete flag composition combining historical founder, current officeholder and corporate identity without making their several coats one hereditary achievement.",
+    "glossary": [
+      {
+        "term": "corps",
+        "english": "institutional bearer"
+      },
+      {
+        "term": "crossing",
+        "english": "intersection of the flag’s cross"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "cath-vacant-see-coin-2026",
+    "area": "Catholic heraldry",
+    "language": "en",
+    "holding": "Vatican City State, From the Heart of the State, issue 2/2026",
+    "titleOriginal": "From the Heart of the State — Sede Vacante numismatic issue",
+    "titleEnglish": "Vatican State account of vacancy coin imagery",
+    "url": "https://www.vaticanstate.va/images/trimestrale/2026/2-2026-eng.pdf",
+    "kind": "official numismatic publication",
+    "authority": "official institution",
+    "englishSynopsis": "State publication discusses the Camerlengo’s arms with crossed keys and umbraculum in the interregnum numismatic context and accompanying sacred imagery. The dated issue records a particular vacancy representation; it should not be described as the personal arms of a reigning pope or as a universal episcopal form.",
+    "glossary": [
+      {
+        "term": "umbraculum",
+        "english": "ceremonial umbrella represented as an insignia"
+      },
+      {
+        "term": "interregnum",
+        "english": "period between pontificates"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ang-ottawa-cathedral",
+    "area": "Anglican heraldry",
+    "language": "en",
+    "holding": "Canadian Heraldic Authority, Public Register vol. III p. 71",
+    "titleOriginal": "Christ Church Cathedral",
+    "titleEnglish": "Arms granted to Christ Church Cathedral, Ottawa, 1995",
+    "url": "https://www.gg.ca/en/heraldry/public-register/project/588",
+    "kind": "official grant record",
+    "authority": "official institution",
+    "englishSynopsis": "Grant record of 20 June 1995 identifies Chi-Rho, layered crosses, rivers-related wavy forms, stars and a mitre for the cathedral. It connects the arms with local windows, civic imagery and the bishop’s seat. The cathedral is the corporate bearer; the mitre inside its shield is not the same category as an officeholder’s external insignia.",
+    "glossary": [
+      {
+        "term": "Chi-Rho",
+        "english": "Christogram using Greek initial letters"
+      },
+      {
+        "term": "cathedral",
+        "english": "church containing the bishop’s seat"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ang-hamilton-cathedral",
+    "area": "Anglican heraldry",
+    "language": "en",
+    "holding": "Canadian Heraldic Authority, Public Register vol. IV p. 32",
+    "titleOriginal": "Christ’s Church Anglican Cathedral",
+    "titleEnglish": "Arms of Christ’s Church Cathedral, Hamilton, 2000",
+    "url": "https://www.gg.ca/en/heraldry/public-register/project/135",
+    "kind": "official grant record",
+    "authority": "official institution",
+    "englishSynopsis": "Grant dated 4 April 2000 combines a mitre, wavy bars, a fimbriated cross crosslet and a Chi-Rho-bearing plate. The authority explains a black cross through Hamilton’s steel identity and connects other elements with the diocese. This named interpretation is specific to the grant rather than a universal meaning of black crosses.",
+    "glossary": [
+      {
+        "term": "fimbriated",
+        "english": "edged with another tincture"
+      },
+      {
+        "term": "plate",
+        "english": "silver roundel"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ang-vancouver-cathedral",
+    "area": "Anglican heraldry",
+    "language": "en",
+    "holding": "Canadian Heraldic Authority, Public Register vol. III p. 277",
+    "titleOriginal": "Christ Church Cathedral",
+    "titleEnglish": "Vancouver cathedral grant of arms, supporter, flag and badge, 1998",
+    "url": "https://www.gg.ca/en/heraldry/public-register/project/797",
+    "kind": "official grant record",
+    "authority": "official institution",
+    "englishSynopsis": "Record dated 12 April 1998 describes a cross and Salish spindle-whorl arrangement with three salmon in Copper alongside several granted emblem types. It offers a concrete cross-cultural and nonstandard-tincture case. The register expressly reserves image reproduction to permission from the authority and/or recipient.",
+    "glossary": [
+      {
+        "term": "Copper",
+        "english": "named tincture in this blazon"
+      },
+      {
+        "term": "spindle whorl",
+        "english": "object whose form informs the central charge"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ang-province-canada",
+    "area": "Anglican heraldry",
+    "language": "en",
+    "holding": "Canadian Heraldic Authority, Public Register vol. IV p. 47",
+    "titleOriginal": "Ecclesiastical Province of Canada",
+    "titleEnglish": "Ecclesiastical Province of Canada arms, 2000",
+    "url": "https://www.gg.ca/en/heraldry/public-register/project/150",
+    "kind": "official grant record",
+    "authority": "official institution",
+    "englishSynopsis": "Grant of 30 August 2000 describes a counterchanged ichthus with groups of interlaced annulets. The authority relates the ring groups to dioceses and episcopal collegiality. An ecclesiastical province is the corporate bearer; it is not coextensive with the country whose name it includes.",
+    "glossary": [
+      {
+        "term": "ichthus",
+        "english": "fish sign in Christian symbolism"
+      },
+      {
+        "term": "annulet",
+        "english": "ring charge"
+      },
+      {
+        "term": "counterchanged",
+        "english": "tinctures exchanged across the division"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "luth-modeus",
+    "area": "Lutheran churches",
+    "language": "sv",
+    "holding": "Church of Sweden",
+    "titleOriginal": "Ärkebiskopens vapensköld och valspråk",
+    "titleEnglish": "Archbishop Martin Modéus’s shield and motto",
+    "url": "https://www.svenskakyrkan.se/om-oss/organisation/arkebiskopen/arkebiskop-martin/vapenskold",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Church describes the Uppsala cross quartered with Modéus’s personal lion and lamb and publishes his explanations of the latter. It distinguishes crozier and cross-staff and identifies Lund’s historical exception. The dated officeholder case shows personal interpretation alongside institutional armory.",
+    "glossary": [
+      {
+        "term": "korsstav",
+        "english": "cross-staff"
+      },
+      {
+        "term": "kräkla",
+        "english": "crozier"
+      },
+      {
+        "term": "lamm",
+        "english": "lamb"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "luth-lund-tyrberg",
+    "area": "Lutheran churches",
+    "language": "en",
+    "holding": "Diocese of Lund, Church of Sweden",
+    "titleOriginal": "Bishop Johan Tyrberg",
+    "titleEnglish": "Johan Tyrberg’s episcopal arms",
+    "url": "https://www.svenskakyrkan.se/lundsstift/in-english-bishop-johan-tyrberg",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Diocese explains Lund’s use of the Primate’s Cross as a reminder of its former archiepiscopal status and credits Ronny Andersen’s design process with named consultants. The ornament’s local historical meaning should not be replaced by a universal Latin rank interpretation.",
+    "glossary": [
+      {
+        "term": "Primate’s Cross",
+        "english": "cross-staff in the diocese’s stated tradition"
+      },
+      {
+        "term": "coat of arms",
+        "english": "officeholder’s armorial design"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "luth-kuopio",
+    "area": "Lutheran churches",
+    "language": "fi",
+    "holding": "Office of Bishop Jari Jolkkonen, Evangelical Lutheran Church of Finland",
+    "titleOriginal": "Symbolit",
+    "titleEnglish": "Symbols: arms of the bishop of Kuopio",
+    "url": "https://www.piispajarijolkkonen.fi/symbolit/",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Bishop’s official account describes Kuopio’s diocesan arms with a triple mount linked to named regional heights and a cross, together with mitre, stole and crozier. It credits Kaj Kajander’s diocesan design and dates the represented staff to 1953. The case provides a Finnish episcopal format distinct from a Roman Catholic hat schedule.",
+    "glossary": [
+      {
+        "term": "piispan vaakuna",
+        "english": "bishop’s arms"
+      },
+      {
+        "term": "hiippakunta",
+        "english": "diocese"
+      },
+      {
+        "term": "stola",
+        "english": "stole"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "orth-patriarchal-church",
+    "area": "Orthodox churches",
+    "language": "el",
+    "holding": "Ecumenical Patriarchate",
+    "titleOriginal": "Πατριαρχικός Ναός",
+    "titleEnglish": "The patriarchal church",
+    "url": "https://ec-patr.org/oikoymeniko-patriarxeio/istoria/patriarchikos-naos/",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Patriarchate describes the sculpted double-headed eagle at the Royal Doors as its emblem and connects it with Byzantine imperial symbolism. The account identifies a specific architectural and liturgical setting rather than prescribing one coat for every Orthodox bishop.",
+    "glossary": [
+      {
+        "term": "δικέφαλος αετός",
+        "english": "double-headed eagle"
+      },
+      {
+        "term": "Ωραία Πύλη",
+        "english": "Royal or Beautiful Gate in this setting"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "orth-antioch-icon",
+    "area": "Orthodox churches",
+    "language": "en",
+    "holding": "Greek Orthodox Patriarchate of Antioch and All the East",
+    "titleOriginal": "The icon of Saints Peter and Paul, Founders of the Antiochian See",
+    "titleEnglish": "Peter and Paul icon: patriarchal interpretation",
+    "url": "https://antiochpatriarchate.org/en/page/the-icon-of-saints-peter-and-paul-founders-of-the-antiochian-see/2473/",
+    "kind": "institutional devotional interpretation",
+    "authority": "official institution",
+    "englishSynopsis": "Patriarchate explains an embracing Peter-and-Paul icon through the apostolic identity of its see and names the museum holding of the discussed work. Its devotional interpretation supplies a neighbouring system of institutional identity, distinct from a formal armorial blazon or universal clerical rank code.",
+    "glossary": [
+      {
+        "term": "See",
+        "english": "ecclesiastical institutional seat"
+      },
+      {
+        "term": "icon",
+        "english": "sacred representation in this account"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "luth-rose-letter",
+    "area": "Lutheran churches",
+    "language": "de",
+    "holding": "Luther2017, Reformation anniversary project",
+    "titleOriginal": "Die Lutherrose — Symbol des Reformators",
+    "titleEnglish": "Luther’s rose and the 1530 Spengler letter",
+    "url": "https://www.luther2017.de/de/neuigkeiten/die-lutherrose-symbol-des-reformators/",
+    "kind": "institutional account with quoted historical letter",
+    "authority": "official institution",
+    "englishSynopsis": "Institutional anniversary account quotes Luther’s letter of 8 July 1530 explaining the black cross, red heart, white rose, blue field and gold ring, and connects the seal with later publication use. The modern account and the historic letter should be distinguished; a personal identifying sign subsequently gained broader confessional use.",
+    "glossary": [
+      {
+        "term": "Merkzeichen",
+        "english": "identifying or mnemonic sign"
+      },
+      {
+        "term": "Siegelring",
+        "english": "signet ring"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "luth-elca-guide-2022",
+    "area": "Lutheran churches",
+    "language": "en",
+    "holding": "Evangelical Lutheran Church in America",
+    "titleOriginal": "Graphic Standards — Quick Reference Guide",
+    "titleEnglish": "ELCA graphic standards, 2022 guide",
+    "url": "https://download.elca.org/ELCA%20Resource%20Repository/ELCA_Brandmark_Quick_Reference_Guide_2022.pdf",
+    "kind": "dated institutional graphic standard",
+    "authority": "official institution",
+    "englishSynopsis": "Dated guide defines the church’s emblem and name, permitted rendering versions and fixed colour quadrants around a black cross in a globe. It supplies a corporate logo case with technical reproduction rules, distinct from personal arms and from a universal Lutheran blazon.",
+    "glossary": [
+      {
+        "term": "brandmark",
+        "english": "combined corporate emblem and name"
+      },
+      {
+        "term": "reverse",
+        "english": "light design for a dark ground"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "luth-lwf-2013",
+    "area": "Lutheran churches",
+    "language": "en",
+    "holding": "Lutheran World Federation, 2013 announcement",
+    "titleOriginal": "The Lutheran World Federation Develops New Visual Identity",
+    "titleEnglish": "LWF’s 2013 visual identity",
+    "url": "https://lutheranworld.org/news/lutheran-world-federation-develops-new-visual-identity",
+    "kind": "dated institutional design announcement",
+    "authority": "official institution",
+    "englishSynopsis": "Federation announces its 2013 logo as a reinterpretation of Luther’s seal with cross, circle, rose, dove and hand. It dates the development and approval process and identifies a distinct corporate interpretive programme. Continuity with the rose does not make the modern logo an unchanged sixteenth-century signet.",
+    "glossary": [
+      {
+        "term": "visual identity",
+        "english": "institutional graphic system"
+      },
+      {
+        "term": "diakonia",
+        "english": "service in the stated theological interpretation"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
   }
 ]

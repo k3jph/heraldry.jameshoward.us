@@ -5,11 +5,11 @@ region: "Georgia"
 languages: ["en"]
 track: "Comparative traditions"
 period: "Historical antecedents–present"
-sourceIds: ["ge-department", "ge-symbol-law", "ge-use-law"]
+sourceIds: ["ge-department", "ge-symbol-law", "ge-use-law", "ge-history-2023", "ge-state-description"]
 level: "Advanced undergraduate / graduate"
 ---
 
-<nav class="chapter-toc" aria-label="Georgia chapter contents">
+<nav class="chapter-toc" aria-label="In this chapter">
   <strong>In this chapter</strong>
   <ol>
     <li><a href="#a-rider-within-a-modern-legal-design">A rider within a modern legal design</a></li>
@@ -18,6 +18,14 @@ level: "Advanced undergraduate / graduate"
     <li><a href="#purple-requires-a-careful-translation-note">“Purple” requires a careful translation note</a></li>
     <li><a href="#a-modern-department-organizes-several-corpora">A modern department organizes several corpora</a></li>
     <li><a href="#compare-the-caucasus-through-actual-objects">Compare the Caucasus through actual objects</a></li>
+    <li><a href="#saint-george-is-identified-by-the-complete-scene">Saint George is identified by the complete scene</a></li>
+    <li><a href="#a-vine-ornament-is-part-of-a-local-visual-vocabulary">A vine ornament is part of a local visual vocabulary</a></li>
+    <li><a href="#three-english-colour-labels-do-not-resolve-one-georgian-field">Three English colour labels do not resolve one Georgian field</a></li>
+    <li><a href="#kutaisi-combines-an-older-charge-with-a-new-companion">Kutaisi combines an older charge with a new companion</a></li>
+    <li><a href="#oni-retains-an-animal-suited-to-its-setting">Oni retains an animal suited to its setting</a></li>
+    <li><a href="#an-imperial-civic-coat-belongs-to-an-administrative-history">An imperial civic coat belongs to an administrative history</a></li>
+    <li><a href="#the-departments-separate-collections-support-separate-questions">The department&#x27;s separate collections support separate questions</a></li>
+    <li><a href="#graduate-investigation-compare-three-kinds-of-adaptation">Graduate investigation: compare three kinds of adaptation</a></li>
     <li><a href="#workshop-separate-the-three-propositions">Workshop: separate the three propositions</a></li>
   </ol>
 </nav>
@@ -68,6 +76,84 @@ The [Armenia chapter](/traditions/armenia/) provides a nearby comparison in whic
 
 Further research should examine Georgian historical arms, seals and portolan representations through dated catalogue entries and original publications. A modern state law cannot authenticate every earlier map label. The next stage needs individual witnesses, their makers and the political geography represented at their dates.
 
+## Saint George is identified by the complete scene
+
+The rider in Georgia's state arms is Saint George, mounted and slaying a dragon. The departmental description identifies the horse, lance, nimbus and crown, alongside the supporters and surrounding arrangement.[^ge-state-description] This is a scene with a named figure, not merely a generic horseman who happens to carry a weapon.
+
+The relationship between rider and dragon does much of the identifying work. The lance connects their positions, and the horse carries the rider within the field. A drawing that moves the dragon far away or turns the lance into an unrelated vertical staff can weaken that relationship. Recognizable individual components do not guarantee a correctly composed scene.
+
+Compare Georgia's figure with [Moscow's rider](/traditions/russia/) and a Saint George in a church painting. Record the named identification, field, clothing, weapon and purpose for each. The same sacred subject can appear in a state coat, a civic coat and devotional imagery. The shared subject does not make the entire devices identical or transfer the legal rules from one bearer to another.
+
+The nimbus is also distinct from the crown above the shield. One identifies the figure through sacred imagery; the other belongs to the achievement's external arrangement. A small reproduction may make both look like gold shapes around a head. A formal description needs to preserve their different positions and functions.
+
+When interpreting the scene, identify the source of the meaning being claimed. A national office's description can name the saint and prescribe the device. A theological account can explain the saint's legend. Neither automatically supplies the date when every Georgian ruler first used a particular armorial rendering. The long history of devotion and the legal history of a modern coat remain connected but separate.
+
+## A vine ornament is part of a local visual vocabulary
+
+The full departmental description places two lion supporters on a stylized vine ornament and includes a ribbon carrying the national motto.[^ge-state-description] The external arrangement contributes to the complete achievement without becoming additional charges inside the shield.
+
+That distinction helps in reduced versions. A small authorized form can omit components prescribed for the full achievement while keeping its core identity. An illustrator should follow the actual small-form description, rather than deciding independently which ornaments seem expendable. The result is a defined relationship between formats, not an invitation to cut away anything that makes a header crowded.
+
+The vine ornament also gives a locally recognizable form to the support beneath the lions. A generic grassy compartment may perform a similar structural role in another tradition, but it is not therefore an adequate substitute in this model. Identify the ornament as described before translating it into the nearest familiar English heraldic category.
+
+The motto belongs to text as well as image. Its script, placement and direction need to remain legible in an actual reproduction. Translating the wording in a caption helps English readers; replacing the lettering in the official image creates a derivative rendering. The two actions should not be confused. A translation note can stand beside the Georgian words without changing them.
+
+## Three English colour labels do not resolve one Georgian field
+
+The legal translation discussed earlier uses “purple,” while the departmental English description uses “sanguine.” Popular English blazons often use “Gules.” These labels do not provide a single self-explanatory technical mapping. The original Georgian legal wording and the statutory model must remain the controlling witnesses for a precise reproduction.[^ge-symbol-law][^ge-state-description]
+
+The problem is especially relevant to a tincture database. Purpure and Sanguine can be distinct named categories within some English heraldic vocabularies, with red represented by Gules. A computer that selects a fill from the translated word alone may produce a sharply different image from the official model. The error lies in an unexamined cross-language mapping, even when the lookup table works exactly as programmed.
+
+A good record retains the Georgian term, the translation's wording, the version date and the approved visual reference. It can then state a practical reproduction rule without declaring that every language uses the English tincture system identically. If the standard supplies a colour specification, record that separately from the historical colour word.
+
+The same discipline applies to “Iberian crown.” In this context the departmental description refers to a Georgian crown, not the arms of a modern Iberian Peninsula state. The geographical and historical meaning of a translated term depends on its setting. A glossary that ignores context can send a researcher an impressive distance in the wrong direction.
+
+## Kutaisi combines an older charge with a new companion
+
+Tornike Asatiani's 2023 institutional history describes Kutaisi's modern arms as retaining a golden fleece from an older civic device and adding the ship Argo. The combination develops an Argonaut reference through an updated composition.[^ge-history-2023] It is a local example of continuity that includes deliberate change.
+
+The fleece should be identified as a fleece, rather than an ordinary sheep standing on the field. The difference concerns the represented object, not simply posture. Argo adds another element from the same narrative association. A working analysis should explain how the two charges reinforce the selected civic story without presenting the legend as a contemporary record of a ship's arrival.
+
+This is a different operation from restoring an old coat unchanged. An earlier charge remains recognizable while a new companion strengthens the modern account. The adoption date of the whole composition therefore differs from the age of the retained motif. A caption that dates the present arms only by the older fleece would conceal the modern design decision.
+
+For a close comparison, place the earlier civic witness and approved modern model side by side. Identify the field, the fleece's form, the added ship and the external elements. Use Asatiani's account to guide the inquiry, then cite the specific records for the actual adoption and historical image. A published synthesis is a research map rather than a substitute for every underlying instrument.
+
+## Oni retains an animal suited to its setting
+
+Asatiani similarly describes Oni's modern use of a tur's head and horns, a cross and mountain peaks, retaining an animal reference from the older civic arms.[^ge-history-2023] The tur is a mountain goat associated with the region; it should not be converted into a stag merely because both animals have impressive headgear.
+
+The head and horns form an extracted charge, distinct from a complete animal. Their position relative to the cross and mountain peaks needs to be specified. A picture can preserve all three motifs while rearranging them enough to change the composition. Count and relationship matter before an explanation of local geography can be attached.
+
+The geographic reading also has a different evidential basis from a canting pun. An animal suited to a region's environment can be selected as a local identifier without playing on the place name. Compare Oni with [Brașov's crown](/traditions/romania/), whose official explanation explicitly refers to names. Both relate a charge to a place, but through different mechanisms.
+
+Retaining an older animal reference can make a modern design familiar while revising its style and accompanying signs. That process should be documented as adaptation. The older witness establishes prior use of a motif; the modern act establishes the new composition. Neither record should be asked to supply the other's date.
+
+## An imperial civic coat belongs to an administrative history
+
+The same Georgian synthesis describes a nineteenth-century Tbilisi device using a caduceus to emphasize trade and its appearance in early postal imagery.[^ge-history-2023] That selection belongs to an imperial administrative setting, different from the present national Saint George achievement.
+
+An economic charge can identify how an administration chooses to characterize a city. It may emphasize commerce while leaving other local histories unrepresented. To interpret that choice politically, examine the issuing authority, contemporary explanations and comparable grants to other cities. A single caduceus gives a visual fact; a claim about an empire's entire policy requires a wider corpus.
+
+A postage stamp then distributes the selected civic sign through another public system. Identify which coat appears, the stamp's issue and use dates, and whether the image is an original specimen or a later reproduction. Philatelic and heraldic evidence can strengthen each other when the object records are kept distinct.
+
+The historical device should not be redrawn with the present state supporters or motto to make it look more Georgian to a modern audience. Its administrative character is part of the evidence. A sequence of changing coats can reveal how public identity was shaped under different authorities; homogenizing the sequence would erase that history.
+
+## The department's separate collections support separate questions
+
+The official portal organizes state, municipal, autonomous-republic and institutional symbols alongside historical material and other specialist collections.[^ge-department] Those categories show the range of the present institution's work. They also provide a way to prevent a state coat from becoming the answer to every question about Georgian armory.
+
+For a municipal entry, seek the civic adoption and approved description. For a historical family coat, identify its bearer, date and source. For an institutional emblem, locate the organization and the rules governing its use. A common portal can hold these materials without making their authorization mechanisms identical.
+
+The national department's modern existence also needs its own date and remit. It should not be described as an unchanged medieval office simply because its subject includes medieval references. Historical expertise and administrative authority can be organized in a recent institution. The sources should allow both the age of the symbols and the age of the organization to remain visible.
+
+## Graduate investigation: compare three kinds of adaptation
+
+Build a dossier for the full state arms, Kutaisi and Oni. Give each an exact bearer, current model, earlier reference and source of the interpretive explanation. For the two civic cases, identify the retained charge and the additions or changes. For the state case, compare the full and small forms and preserve the colour-translation issue in an editorial note.
+
+Then add the Tbilisi imperial device as a historical control. Ask whether each case develops a local narrative, preserves an older motif, or selects a different administrative emphasis. The answer can include several mechanisms, but each needs a dated witness.
+
+Finish with a multilingual metadata proposal: original term, working English description, official model, act date and source attribution. Demonstrate how it prevents both the colour error and the confusion over the Georgian crown. A useful comparative resource should make the local tradition easier to understand without forcing its vocabulary into an unreliable one-word English lookup.
+
 ## Workshop: separate the three propositions
 
 A fictional caption claims that a medieval Saint George image proves the exact modern Georgian arms and authorizes its use by any local association. Identify the separate propositions and their missing evidence. Include the field-color translation question in your corrected research note.
@@ -81,3 +167,7 @@ For graduate work, compare one historical Saint George witness with the current 
 [^ge-symbol-law]: Legislative Herald of Georgia, Article 3, [Law of Georgia on State Symbols](https://new.matsne.gov.ge/ka/document/view/4368486?impose=translateEn). Consulted 11 October 2026. Original English editorial synthesis; consult the linked witness for close reading.
 
 [^ge-use-law]: Legislative Herald of Georgia, Articles 12–14, [Law of Georgia on the Procedure for Use of the State Symbols of Georgia](https://new.matsne.gov.ge/en/document/view/4370734?fullscreen=1&impose=parallelEn). Consulted 11 October 2026. Original English editorial synthesis; consult the linked witness for close reading.
+
+[^ge-history-2023]: Tornike Asatiani, State Council of Heraldry at the Parliament of Georgia, Tbilisi 2023, [The Story of Georgian Heraldry](https://www.heraldika.ge/uploads/The_Story_of_Georgian_Heraldry-compressed_compressed.pdf). Consulted 11 October 2026. Original English editorial synthesis; consult the linked record for close reading.
+
+[^ge-state-description]: Department of State Symbols and Heraldry of Georgia, [The State Coat of Arms](https://heraldika.ge/index.php?arms_id=838&lng=eng&m=85). Consulted 11 October 2026. Original English editorial synthesis; consult the linked record for close reading.

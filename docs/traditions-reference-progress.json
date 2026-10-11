@@ -1,8 +1,8 @@
 {
   "status": "in progress; remaining chapters not yet expanded",
   "targetChapters": 70,
-  "expandedDrafts": 40,
-  "addedWords": 81581,
+  "expandedDrafts": 47,
+  "addedWords": 94065,
   "chapters": [
     {
       "slug": "japan-kamon",
@@ -1062,6 +1062,192 @@
         "Registration and recognition abroad are different questions",
         "St John's combines arms with rank, memory and mortality",
         "Graduate investigation: compare a tomb, a notice and a completed entry"
+      ]
+    },
+    {
+      "slug": "georgia",
+      "before": 1011,
+      "after": 2739,
+      "added": 1728,
+      "sections": 15,
+      "sourceIds": [
+        "ge-department",
+        "ge-symbol-law",
+        "ge-use-law",
+        "ge-history-2023",
+        "ge-state-description"
+      ],
+      "expansionHeads": [
+        "Saint George is identified by the complete scene",
+        "A vine ornament is part of a local visual vocabulary",
+        "Three English colour labels do not resolve one Georgian field",
+        "Kutaisi combines an older charge with a new companion",
+        "Oni retains an animal suited to its setting",
+        "An imperial civic coat belongs to an administrative history",
+        "The department's separate collections support separate questions",
+        "Graduate investigation: compare three kinds of adaptation"
+      ]
+    },
+    {
+      "slug": "armenia",
+      "before": 1018,
+      "after": 2755,
+      "added": 1737,
+      "sections": 14,
+      "sourceIds": [
+        "am-symbols",
+        "am-constitution",
+        "am-coin",
+        "am-yerevan-symbols",
+        "am-yerevan-coin",
+        "am-cilicia-exhibition",
+        "am-john-leaf"
+      ],
+      "expansionHeads": [
+        "A modern composition selects four royal histories",
+        "Ararat combines landscape with a scriptural reference",
+        "Cilicia places Armenian royal imagery in wider networks",
+        "A lion and an eagle can identify evangelists",
+        "Yerevan uses a distinctive civic palette and composition",
+        "A collector coin places the civic arms beside other identities",
+        "Graduate investigation: distinguish a historical sign from a revival"
+      ]
+    },
+    {
+      "slug": "balkans",
+      "before": 1025,
+      "after": 3163,
+      "added": 2138,
+      "sections": 16,
+      "sourceIds": [
+        "bg-law",
+        "al-symbols",
+        "al-helmet",
+        "me-constitution",
+        "ba-decision",
+        "mk-research",
+        "rs-illyrian",
+        "bg-sofia-arms",
+        "ba-brocade-mantle",
+        "mk-skopje-design-study",
+        "al-helmet-construction"
+      ],
+      "expansionHeads": [
+        "Sofia's arms began with a commission for an exhibition",
+        "Bulgaria's achievement coordinates three lions and an external crown",
+        "Albania's helmet is both a surviving object and an emblematic reference",
+        "Montenegro's gold eagle differs from neighbouring white and black ones",
+        "Bosnia's medieval textiles need their own identification argument",
+        "North Macedonia distinguishes proposals from adopted emblems",
+        "Skopje's bridge and mountain expose a design constraint",
+        "Graduate investigation: map the routes to adoption"
+      ]
+    },
+    {
+      "slug": "catholic-heraldry",
+      "before": 1593,
+      "after": 3425,
+      "added": 1832,
+      "sections": 16,
+      "sourceIds": [
+        "cath-leo-xiv",
+        "cath-benedict-xvi",
+        "cath-ut-sive",
+        "cath-1967-schedule",
+        "cath-vatican-law-2023",
+        "cath-cupich",
+        "cath-swiss-guard-flag",
+        "cath-vacant-see-coin-2026"
+      ],
+      "expansionHeads": [
+        "Shield, insignia and bearer must be read separately",
+        "Chicago's phoenix belongs to a corporate half",
+        "Impalement expresses an office relationship rather than a marriage",
+        "A hat's tassels are a structured count",
+        "The Swiss Guard flag combines several times and bearers",
+        "A vacancy uses different insignia from a pontificate",
+        "State emblems and personal papal arms continue on different clocks",
+        "Graduate investigation: follow a person and an institution separately"
+      ]
+    },
+    {
+      "slug": "anglican-heraldry",
+      "before": 1771,
+      "after": 3559,
+      "added": 1788,
+      "sections": 17,
+      "sourceIds": [
+        "ang-canadian-synod",
+        "ang-church-flags",
+        "ang-1976-hats",
+        "ang-compass-2016",
+        "eng-college-law",
+        "ang-ottawa-cathedral",
+        "ang-hamilton-cathedral",
+        "ang-vancouver-cathedral",
+        "ang-province-canada"
+      ],
+      "expansionHeads": [
+        "A cathedral is a corporate bearer with local references",
+        "Hamilton's black cross has a specifically attributed meaning",
+        "Vancouver combines a cross with Salish design and Copper",
+        "The Province of Canada is not the whole country",
+        "Office arms can combine see and person without hereditary transmission",
+        "Communion, province, diocese and parish occupy different scales",
+        "Grants, registrations and designs have separate dates",
+        "Graduate investigation: compare four Canadian bearers"
+      ]
+    },
+    {
+      "slug": "lutheran-heraldry",
+      "before": 980,
+      "after": 2690,
+      "added": 1710,
+      "sections": 15,
+      "sourceIds": [
+        "luth-sweden",
+        "luth-persenius",
+        "luth-rose",
+        "luth-modeus",
+        "luth-lund-tyrberg",
+        "luth-kuopio",
+        "luth-rose-letter",
+        "luth-elca-guide-2022",
+        "luth-lwf-2013"
+      ],
+      "expansionHeads": [
+        "Luther's letter supplies an unusually direct design explanation",
+        "From a personal seal to a shared confessional emblem",
+        "The Lutheran World Federation deliberately reinterprets the rose",
+        "Martin Modéus joins a diocesan cross with personal animals",
+        "Lund's cross-staff recalls an earlier archiepiscopal status",
+        "Kuopio's episcopal arrangement includes a stole and a dated staff",
+        "The ELCA globe is governed by a graphic standard",
+        "Graduate investigation: follow three kinds of continuity"
+      ]
+    },
+    {
+      "slug": "orthodox-heraldry",
+      "before": 1027,
+      "after": 2578,
+      "added": 1551,
+      "sections": 13,
+      "sourceIds": [
+        "orth-pectoral",
+        "byz-podea",
+        "byz-conservation",
+        "orth-certificate",
+        "orth-patriarchal-church",
+        "orth-antioch-icon"
+      ],
+      "expansionHeads": [
+        "The patriarchal eagle occupies an actual liturgical setting",
+        "A breast ornament and an architectural emblem have different uses",
+        "Peter and Paul identify a see through sacred narrative",
+        "Parish seals authenticate local documents",
+        "Sacred attributes are not a universal episcopal rank code",
+        "Imperial afterlives require a chain of witnesses",
+        "Graduate investigation: classify before constructing a rank table"
       ]
     }
   ]

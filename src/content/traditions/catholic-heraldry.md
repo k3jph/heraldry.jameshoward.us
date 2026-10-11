@@ -5,11 +5,11 @@ region: "Catholic heraldry"
 languages: ["en", "la", "it"]
 track: "Ecclesiastical heraldry"
 period: "Medieval period–present"
-sourceIds: ["cath-leo-xiv", "cath-benedict-xvi", "cath-ut-sive", "cath-1967-schedule", "cath-vatican-law-2023"]
+sourceIds: ["cath-leo-xiv", "cath-benedict-xvi", "cath-ut-sive", "cath-1967-schedule", "cath-vatican-law-2023", "cath-cupich", "cath-swiss-guard-flag", "cath-vacant-see-coin-2026"]
 level: "Advanced undergraduate / graduate"
 ---
 
-<nav class="chapter-toc" aria-label="Catholic heraldry chapter contents">
+<nav class="chapter-toc" aria-label="In this chapter">
   <strong>In this chapter</strong>
   <ol>
     <li><a href="#begin-with-a-named-popes-shield">Begin with a named pope’s shield</a></li>
@@ -18,6 +18,14 @@ level: "Advanced undergraduate / graduate"
     <li><a href="#1967-and-1969-are-different-normative-witnesses">1967 and 1969 are different normative witnesses</a></li>
     <li><a href="#benedict-xvi-makes-a-documented-change">Benedict XVI makes a documented change</a></li>
     <li><a href="#the-states-arms-have-their-own-legal-text">The State’s arms have their own legal text</a></li>
+    <li><a href="#shield-insignia-and-bearer-must-be-read-separately">Shield, insignia and bearer must be read separately</a></li>
+    <li><a href="#chicagos-phoenix-belongs-to-a-corporate-half">Chicago&#x27;s phoenix belongs to a corporate half</a></li>
+    <li><a href="#impalement-expresses-an-office-relationship-rather-than-a-marriage">Impalement expresses an office relationship rather than a marriage</a></li>
+    <li><a href="#a-hats-tassels-are-a-structured-count">A hat&#x27;s tassels are a structured count</a></li>
+    <li><a href="#the-swiss-guard-flag-combines-several-times-and-bearers">The Swiss Guard flag combines several times and bearers</a></li>
+    <li><a href="#a-vacancy-uses-different-insignia-from-a-pontificate">A vacancy uses different insignia from a pontificate</a></li>
+    <li><a href="#state-emblems-and-personal-papal-arms-continue-on-different-clocks">State emblems and personal papal arms continue on different clocks</a></li>
+    <li><a href="#graduate-investigation-follow-a-person-and-an-institution-separately">Graduate investigation: follow a person and an institution separately</a></li>
     <li><a href="#workshop-a-mitre-in-three-positions">Workshop: a mitre in three positions</a></li>
     <li><a href="#graduate-project-one-career-several-achievements">Graduate project: one career, several achievements</a></li>
   </ol>
@@ -77,6 +85,90 @@ The annexes matter because a legal specification can rely on a graphic model. A 
 
 The seal introduces a further distinction. A central emblem and encircling words can identify an authenticating instrument rather than a general armorial display. Preserve the legend and object type when cataloguing it. The same familiar devices can participate in a personal achievement, State arms, flag, and seal; the document and context identify which relationship is present.
 
+## Shield, insignia and bearer must be read separately
+
+A Catholic achievement can combine a personal shield, signs of ecclesiastical dignity and a reference to the institution governed by its bearer. Those layers do not change together automatically. A person can retain a shield while acquiring a different hat or cross; a diocesan coat can continue through several bishops; a papal election can introduce a new personal shield without replacing every Vatican State emblem.
+
+Begin by identifying what lies inside the shield and what stands outside it. A mitre painted as a charge inside a corporate coat has a different status from a mitre surmounting a bishop's personal shield. A crozier can similarly be a charge or an external ornament. The instruction governing one position should not be applied blindly to every depiction of the object.
+
+The distinction becomes practical in the 1969 instruction discussed earlier. Its treatment of mitres and pastoral staffs in prelates' armorial bearings concerns a normative arrangement. It should be read with the actual class of bearer and feature under consideration.[^cath-ut-sive] The reader who interprets it as a command to delete every mitre from every Catholic organization's shield has expanded the rule beyond the question the text addresses.
+
+A full description therefore needs a bearer field as well as a charge list. “Bishop's arms” can refer to a person's achievement as bishop, a diocesan corporate coat or an illustration of episcopal insignia in general. Name the individual or institution, date the model and identify the relevant act. The resulting precision prevents a great deal of apparently mysterious variation.
+
+## Chicago's phoenix belongs to a corporate half
+
+The Archdiocese of Chicago publishes Cardinal Blase Cupich's impaled arms: its own phoenix on gold occupies dexter, and the personal composition occupies sinister. The diocesan explanation links the phoenix to Chicago's recovery after the 1871 fire and the IHS monogram to the cathedral's dedication.[^cath-cupich] The corporate coat carries a local historical account within an ecclesiastical setting.
+
+The bird's rebirth imagery is therefore attributed to this particular design. It should not be generalized into a rule that every heraldic phoenix commemorates a city fire. The archdiocese names the event and the relationship. That explicit account makes the charge more useful historically than a universal symbolism table would.
+
+The personal half includes crossed candles and a crozier, with other charges recalling ministry and family background. The published account relates the candles to the bearer's baptismal patron and the checkering to Croatian heritage.[^cath-cupich] These are biographical references selected for a named individual, not a national coat automatically belonging to every person of that ancestry.
+
+The internal crozier also illustrates the difference between a charge and an external ornament. It is part of the personal shield's stated composition. Its occurrence there should not be confused with a pastoral staff placed behind the entire achievement. Position determines which formal question is being asked.
+
+The page's explanatory prose calls the personal half dexter at one point, while its formal blazon places it sinister. A critical reading records the slip and compares the authoritative composition, rather than reproducing both directions as though they agree. The page remains valuable; the discrepancy makes it an unusually good source-reading exercise.
+
+## Impalement expresses an office relationship rather than a marriage
+
+In the Chicago example, impalement joins a see's arms with the officeholder's personal coat. The geometry is familiar from marital heraldry, but the asserted relationship is different. It represents person and ecclesiastical jurisdiction in a single achievement. A bishop does not acquire hereditary ownership of the diocesan arms simply by using them during his episcopate.
+
+The institutional half can therefore remain through succession while the personal half changes. To trace a see's armorial history, compare several officeholders' achievements and isolate the recurring corporate component. To trace a bishop's personal arms, compare his designs across offices, noting which elements remain and which were modified. The two histories intersect but have different bearers.
+
+Some episcopal traditions use quartering or another form of combination instead. The method should be established from the particular jurisdiction and design, rather than inferred from Chicago as a universal rule. Compare the [Swedish Lutheran officeholder examples](/traditions/lutheran-heraldry/) for a different documented geometry.
+
+For an educational drawing, show the corporate coat, personal coat and combined achievement in three stages. Label the dexter and sinister halves from the bearer's viewpoint. Then explain what the joining claims. The exercise makes the formal operation visible without encouraging readers to assume that every impaled shield records the same kind of relationship.
+
+## A hat's tassels are a structured count
+
+The Chicago explanation identifies the red galero with fifteen tassels in five rows on each side. The complete count is thirty, arranged symmetrically.[^cath-cupich] “Fifteen tassels” is an incomplete rendering instruction if it fails to specify that the number applies to each side.
+
+The row structure matters as well: one, two, three, four and five form the triangular progression. A designer can vary line and ornament while preserving that count. A generic bundle of decorative cords may look ecclesiastical and still fail to communicate the prescribed dignity. The arithmetic is part of the insignia's grammar.
+
+Colour, number and arrangement should be recorded together. A tassel count without its hat colour may not distinguish the categories a particular schedule describes. Likewise, a historical black-and-white engraving may encode or omit colour in ways that need investigation. The modern coloured model should not be used to fill an older witness's missing information without a source.
+
+The 1967 schedule introduced earlier remains a dated comparative witness. It should be set alongside later normative texts and actual authorized achievements rather than treated as an eternal rank chart.[^cath-1967-schedule] Historical Catholic insignia can differ by period and particular privilege. A precise account identifies where the rule applies before drawing conclusions from a hat.
+
+## The Swiss Guard flag combines several times and bearers
+
+The Pontifical Swiss Guard's official account describes a white cross dividing its flag into four fields. One carries the reigning pope's arms, another Julius II's; two carry corps colours, and the commander's arms stand at the crossing.[^cath-swiss-guard-flag] The flag coordinates current office, historical reference and corporate identity.
+
+These several coats do not become one person's hereditary achievement. Their positions within the flag state their relationship to the corps. The founding reference can remain while the reigning pope's or commander's coat changes. A full chronology of the flag should therefore identify which component changed and why.
+
+The central commander's arms should not be mistaken for a state inescutcheon simply because the flag's geometry places them at the centre. A shield at the crossing is a component of a flag design whose bearer is the corps. Its meaning follows the Guard's stated arrangement, not a rule imported from a different national achievement.
+
+A dated photograph is essential for identifying a particular flag version. First recognize the papal and commander components, then compare the photograph date with their tenures. Do not replace an older pope's coat with the newest one in a historical photograph and call the result a faithful reproduction. The succession of versions is part of the flag's history.
+
+This case is also a useful guide to flags carrying more than one coat. A flag can make an institutional argument through several embedded devices, just as an architectural ensemble can. Describing only its most prominent shield loses the corporate arrangement that brings the parts together.
+
+## A vacancy uses different insignia from a pontificate
+
+The Vatican State's 2026 publication discusses vacancy coin imagery using the Camerlengo's arms with crossed keys and an umbraculum. It also identifies accompanying sacred imagery.[^cath-vacant-see-coin-2026] This is a dated representation of an interregnum context, not the personal coat of a reigning pope.
+
+The umbrella-like insignia should not be labelled a tiara or a mitre merely because it occupies a position above a shield. Its form and institutional use identify a different arrangement. The combination with keys can communicate an office operating in a particular circumstance. A reader must establish that circumstance before interpreting the achievement as papal.
+
+The vacancy date, publication date and coin issue date should be recorded separately where the source supplies them. A later publication can describe an earlier interregnum issue. The year printed on the PDF does not alone establish when every represented act occurred. Numismatic chronology remains necessary even when the arms are familiar.
+
+Nor should the depiction be used to infer the Camerlengo's complete constitutional powers. An emblem identifies office and setting; the governing law establishes authority. The present chapter studies the image and its documented function. A claim about which acts an official may perform during a vacancy needs the relevant legal provisions, rather than a conclusion drawn from the size of the keys.
+
+Compare the vacancy image with a papal personal achievement and the Vatican State model. Identify shield bearer, upper ornament and keys in each. The repeated elements make them related; their different combinations prevent them from being interchangeable.
+
+## State emblems and personal papal arms continue on different clocks
+
+Benedict XVI's use of a mitre and pallium, Leo XIV's personal shield and the Vatican State's statutory emblems demonstrate different kinds of change. The papal cases are named achievements with attributed explanations. The State model is governed by its own legal text and annexes.[^cath-benedict-xvi][^cath-leo-xiv][^cath-vatican-law-2023]
+
+A pope's personal design should not be substituted into every flag or seal that carries the State's institutional emblem. Conversely, the keys and tiara of a State model do not establish that a later pope used the tiara above his own shield. Identify the bearer and governing model before treating a difference as an inconsistency.
+
+The same distinction applies to historical objects. A papal coin, diplomatic seal and building inscription can show different levels of identity. The pope may appear by portrait, name or personal arms while an institutional sign supplies a wider reference. Record which mechanism the object uses rather than assuming every item is a complete personal achievement.
+
+The resulting account is an institutional history as well as an artistic one. Some components change with succession, some through legislation, and some through revised personal presentation. Dating those processes separately makes Catholic heraldry more intelligible than a single chart of hats could.
+
+## Graduate investigation: follow a person and an institution separately
+
+Prepare a two-track dossier for a documented bishop or pope. One track follows the personal shield across offices; the other follows the corporate arms and external insignia relevant at each stage. Use exact dated descriptions and identify any changes that cannot be established from the available record.
+
+Add Chicago as a direction-reading exercise and the Swiss Guard flag as a composite institutional case. For Chicago, reconcile the formal blazon and the prose slip explicitly. For the Guard, identify which components respond to succession and which preserve an older reference.
+
+Finish with a comparison of a vacancy coin, personal papal arms and State emblem. The final captions should identify the bearer and setting without reducing all three to “the Vatican coat.” A successful account explains continuity through distinct institutions and dates, with the visual composition doing precisely the work the source supports.
+
 ## Workshop: a mitre in three positions
 
 Compare three constructed cases: a bishop’s historical achievement with a mitre above the shield, a church corporation whose shield includes a mitre as a charge, and a papal achievement described in an official 2025 account. Explain why the 1969 instruction cannot be applied to all three merely by searching each image for a mitre.
@@ -97,3 +189,19 @@ A second route examines one corporate or State emblem across a legal revision. R
 [^instruction]: Secretariat of State, instruction of 31 March 1969, [AAS 61 (1969), pp. 334–340](https://www.vatican.va/archive/aas/documents/AAS-61-1969-ocr.pdf), §28, p. 339. Latin passage examined; original English synopsis here.
 [^benedict]: Holy See, [The Coat of Arms of His Holiness Benedict XVI](https://www.vatican.va/content/benedict-xvi/en/elezione/documents/stemma-benedict-xvi.html).
 [^state]: Holy See, [Legge Fondamentale dello Stato della Città del Vaticano, 13 May 2023](https://www.vatican.va/content/francesco/it/motu_proprio/documents/20230513-legge-fond-scv.html), arts. 23–24. Sources consulted 11 October 2026; official artwork remains linked rather than reproduced.
+
+[^cath-1967-schedule]: College of Arms, [Ecclesiastical Hats: Roman Catholic Church](https://www.college-of-arms.gov.uk/resources/ecclesiastical-hats-roman-catholic-church). Consulted 11 October 2026. Original English editorial synthesis; consult the linked record for close reading.
+
+[^cath-benedict-xvi]: Holy See, [The Coat of Arms of His Holiness Benedict XVI](https://www.vatican.va/content/benedict-xvi/en/elezione/documents/stemma-benedict-xvi.html). Consulted 11 October 2026. Original English editorial synthesis; consult the linked record for close reading.
+
+[^cath-cupich]: Archdiocese of Chicago, [Cardinal’s Coat of Arms](https://www.archchicago.org/cardinal-coat-of-arms). Consulted 11 October 2026. Original English editorial synthesis; consult the linked record for close reading.
+
+[^cath-leo-xiv]: Holy See Press Office, [The coat of arms of Pope Leo XIV: Explanation, 14 May 2025](https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2025/05/14/250514b.html). Consulted 11 October 2026. Original English editorial synthesis; consult the linked record for close reading.
+
+[^cath-swiss-guard-flag]: Pontifical Swiss Guard, Vatican, [Pontifical Swiss Guard Profile](https://www.vatican.va/content/romancuria/en/guardia-svizzera-pontificia/corpo-della-guardia-svizzera-pontificia/profilo.html). Consulted 11 October 2026. Original English editorial synthesis; consult the linked record for close reading.
+
+[^cath-ut-sive]: Holy See — Acta Apostolicae Sedis, [Instructio circa vestes, titulos et insignia generis Cardinalium, Episcoporum et Praelatorum ordine minorum](https://www.vatican.va/archive/aas/documents/AAS-61-1969-ocr.pdf). Consulted 11 October 2026. Original English editorial synthesis; consult the linked record for close reading.
+
+[^cath-vacant-see-coin-2026]: Vatican City State, From the Heart of the State, issue 2/2026, [From the Heart of the State — Sede Vacante numismatic issue](https://www.vaticanstate.va/images/trimestrale/2026/2-2026-eng.pdf). Consulted 11 October 2026. Original English editorial synthesis; consult the linked record for close reading.
+
+[^cath-vatican-law-2023]: Holy See, [Legge Fondamentale dello Stato della Città del Vaticano, 13 maggio 2023](https://www.vatican.va/content/francesco/it/motu_proprio/documents/20230513-legge-fond-scv.html). Consulted 11 October 2026. Original English editorial synthesis; consult the linked record for close reading.
