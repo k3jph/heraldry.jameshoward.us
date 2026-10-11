@@ -1169,5 +1169,238 @@
         "english": "municipal council"
       }
     ]
+  },
+  {
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only; photograph rights recorded separately where reproduced.",
+    "accessed": "2026-10-11",
+    "id": "tamga-bm-alchon",
+    "area": "Eurasia: tamgas",
+    "language": "en",
+    "holding": "British Museum",
+    "titleOriginal": "Coin 1894,0506.215: Alchon silver issue",
+    "titleEnglish": "Alchon coin with tamga and Bactrian inscription",
+    "url": "https://www.britishmuseum.org/collection/object/C_1894-0506-215",
+    "kind": "museum object catalogue",
+    "authority": "holding institution; indexed collection record",
+    "englishSynopsis": "A silver coin catalogued as Alchon, approximately fourth–fifth century, with a tamga beside the portrait. Its Hadda findspot and manuscript reference support provenance research. The catalogue is a located witness to a scholarly identification; it does not establish exclusive use of the design.",
+    "glossary": [
+      {
+        "term": "tamga",
+        "english": "identifying mark, as catalogued"
+      },
+      {
+        "term": "findspot",
+        "english": "recorded place of recovery"
+      }
+    ]
+  },
+  {
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only; photograph rights recorded separately where reproduced.",
+    "accessed": "2026-10-11",
+    "id": "tamga-bm-kushan",
+    "area": "Eurasia: tamgas",
+    "language": "en",
+    "holding": "British Museum",
+    "titleOriginal": "Coin 1987,0921.15: Vasudeva II",
+    "titleEnglish": "Kushan coin with tamga and recorded overstrike",
+    "url": "https://www.britishmuseum.org/collection/object/C_1987-0921-15",
+    "kind": "museum object catalogue",
+    "authority": "holding institution; indexed collection record",
+    "englishSynopsis": "A copper coin attributed to Vasudeva II, dated 270–300, with Ardochsho and a tamga. The overstrike note invites study of successive issuing operations. The occurrence identifies a bounded case for comparison; a history of the mark requires additional coins and evidence.",
+    "glossary": [
+      {
+        "term": "overstruck",
+        "english": "struck over an earlier coin"
+      },
+      {
+        "term": "authority",
+        "english": "catalogue attribution of the issuing ruler"
+      }
+    ]
+  },
+  {
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only; photograph rights recorded separately where reproduced.",
+    "accessed": "2026-10-11",
+    "id": "tamga-bm-vase",
+    "area": "Eurasia: tamgas",
+    "language": "en",
+    "holding": "British Museum",
+    "titleOriginal": "Vase 1897,1231.189 / 124094: Late Sasanian",
+    "titleEnglish": "Gilded silver vessel with punched rim mark",
+    "url": "https://www.britishmuseum.org/collection/object/W_1897-1231-189",
+    "kind": "museum object catalogue",
+    "authority": "holding institution; indexed collection record",
+    "englishSynopsis": "The catalogue dates this gilded silver vessel to the fifth–seventh centuries and describes a punched monogram, identified as a tamga, on its rim. A Pahlavi inscription offers a further research pathway. The original function of the mark is left for investigation rather than assigned from its shape.",
+    "glossary": [
+      {
+        "term": "punched",
+        "english": "made by an impressed or struck tool"
+      },
+      {
+        "term": "Pahlavi",
+        "english": "Middle Persian inscription designation in the record"
+      }
+    ]
+  },
+  {
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only; photograph rights recorded separately where reproduced.",
+    "accessed": "2026-10-11",
+    "id": "tamga-carlos-seal",
+    "area": "Eurasia: tamgas",
+    "language": "en",
+    "holding": "Michael C. Carlos Museum, Emory University",
+    "titleOriginal": "Dome Stamp Seal: Tamga, Two Lunar Crescents, Inscription",
+    "titleEnglish": "Sasanian bloodstone stamp seal, 2012.032.298",
+    "url": "https://collections.carlos.emory.edu/objects/27152/dome-stamp-seal-tamga-two-lunar-crescents-inscription",
+    "kind": "museum object catalogue",
+    "authority": "holding institution; indexed collection metadata",
+    "englishSynopsis": "A Sasanian bloodstone stamp seal dated to the fifth–sixth centuries. The record identifies its motifs and dimensions. It supplies an object for investigating matrices and impressions; this editorial note provides neither an inscription transcription nor an identification of the original user.",
+    "glossary": [
+      {
+        "term": "stamp seal",
+        "english": "tool carrying a design for impression"
+      },
+      {
+        "term": "matrix",
+        "english": "engraved surface that produces an impression"
+      }
+    ]
+  },
+  {
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only; photograph rights recorded separately where reproduced.",
+    "accessed": "2026-10-11",
+    "id": "tamga-altai-semirechye",
+    "area": "Eurasia: tamgas",
+    "language": "ru",
+    "holding": "А. Е. Рогожинский; Д. В. Черемисин · Институт археологии и этнографии СО РАН",
+    "titleOriginal": "Тамги кочевников тюркской эпохи на Алтае и в Семиречье (опыт сопоставления и идентификации)",
+    "titleEnglish": "Tamga signs of Turkic nomads in the Altai and Semirechye",
+    "url": "https://archaeology.nsc.ru/izdatelstvo/jr-aeae-ru/19-47-2/annot-06/",
+    "kind": "archaeological research article; publisher abstracts consulted",
+    "authority": "original research; publisher Russian and English abstracts",
+    "englishSynopsis": "The 2019 study compares eight groups of signs on portable objects and rock. Its abstracts distinguish group, alliance, and dynastic associations. These statements describe the authors’ interpretations; evaluating an individual classification requires the full article, figures, dating evidence, and bibliography.",
+    "glossary": [
+      {
+        "term": "тамги",
+        "english": "tamgas; plural"
+      },
+      {
+        "term": "петроглиф",
+        "english": "petroglyph"
+      },
+      {
+        "term": "групповая идентичность",
+        "english": "group identity in the authors’ analytical vocabulary"
+      }
+    ]
+  },
+  {
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only; photograph rights recorded separately where reproduced.",
+    "accessed": "2026-10-11",
+    "id": "tamga-humphrey-brands",
+    "area": "Eurasia: tamgas",
+    "language": "en",
+    "holding": "Caroline Humphrey Waddington · American Ethnologist",
+    "titleOriginal": "Horse brands of the Mongolians: a system of signs in a nomadic culture",
+    "titleEnglish": "Mongolian private-herd brands and their social associations",
+    "url": "https://anthrosource.onlinelibrary.wiley.com/doi/abs/10.1525/ae.1974.1.3.02a00050",
+    "kind": "ethnographic research article; published abstract consulted",
+    "authority": "original ethnographic research; publisher abstract",
+    "englishSynopsis": "The 1974 article’s abstract discusses traditional private-herd brands, distinguishing them from collective-sector marking. It identifies ownership and social relationships as information conveyed by the system. The chapter uses that bounded account as a comparative model; it does not claim a full article collation or present-day universality.",
+    "glossary": [
+      {
+        "term": "brand",
+        "english": "mark applied to identify an animal’s association"
+      },
+      {
+        "term": "private herds",
+        "english": "the scope specified by the article’s abstract"
+      }
+    ]
+  },
+  {
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only; photograph rights recorded separately where reproduced.",
+    "accessed": "2026-10-11",
+    "id": "tamga-syeitkhan-brands",
+    "area": "Eurasia: tamgas",
+    "language": "tr",
+    "holding": "Shynarbyek Syeitkhan · Uluslararası Türkçe Edebiyat Kültür Eğitim Dergisi",
+    "titleOriginal": "Moğollarda at damgalama gelenekleri ve damga (tamga) türleri",
+    "titleEnglish": "Horse branding traditions and types of brands among Mongols",
+    "url": "https://dergipark.org.tr/en/pub/teke/article/1426386",
+    "kind": "research article; Turkish opening discussion and bibliography",
+    "authority": "scholarly research pathway; Turkish original and publisher English abstract",
+    "englishSynopsis": "The 2024 article offers a Turkish-language pathway into horse-branding scholarship, including Mongolian-language references. Its opening discussion identifies variation in terminology and disagreement about linguistic origin. Editorial English explanations retain that uncertainty; independent terminology review remains open.",
+    "glossary": [
+      {
+        "term": "damga",
+        "english": "mark, stamp, or brand in context"
+      },
+      {
+        "term": "damgalama",
+        "english": "marking or branding"
+      },
+      {
+        "term": "at",
+        "english": "horse"
+      }
+    ]
+  },
+  {
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only; photograph rights recorded separately where reproduced.",
+    "accessed": "2026-10-11",
+    "id": "tamga-lnmm-skybin",
+    "area": "Eurasia: tamgas",
+    "language": "en",
+    "holding": "Latvian National Museum of Art",
+    "titleOriginal": "Tamga — Rustem Skybin, 2023",
+    "titleEnglish": "Contemporary Crimean Tatar ceramic artwork",
+    "url": "https://lnmm.gov.lv/en/latvian-national-museum-of-art/learn/current-exhibition-programmes/tamga",
+    "kind": "museum artwork interpretation",
+    "authority": "exhibiting institution; contemporary artwork record",
+    "englishSynopsis": "The museum identifies Skybin’s 2023 ceramic work and explains its reference to a seventeenth-century shield and a Giray-associated tamga. This is evidence of contemporary presentation and reinterpretation. Further work should compare the artist’s account, source object, and reception. The artwork image is not reproduced.",
+    "glossary": [
+      {
+        "term": "tamga",
+        "english": "historical device incorporated into this artwork"
+      },
+      {
+        "term": "ceramic shield",
+        "english": "the contemporary work’s material form"
+      }
+    ]
+  },
+  {
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only; photograph rights recorded separately where reproduced.",
+    "accessed": "2026-10-11",
+    "id": "tamga-cng-alchon",
+    "area": "Eurasia: tamgas",
+    "language": "en",
+    "holding": "Classical Numismatic Group, Inc.",
+    "titleOriginal": "CNG 69, lot 896: Anonymous Alchon drachm",
+    "titleEnglish": "Photographed Alchon coin, attributed approximately 400–440",
+    "url": "https://www.cngcoins.com/Coin.aspx?CoinID=65481",
+    "kind": "auction object record",
+    "authority": "cataloguing institution; photographed auction specimen",
+    "englishSynopsis": "The 2005 auction record identifies an anonymous Alchon silver drachm and supplies proposed dating, mint attribution, references, and condition. Its photographed specimen is distinct from the British Museum objects in the chapter. Reproduction follows the separately verified Commons CC BY-SA 3.0 licence for the photograph.",
+    "glossary": [
+      {
+        "term": "AR drachm",
+        "english": "silver denomination in the auction description"
+      },
+      {
+        "term": "anonymous",
+        "english": "the issue is not assigned a personal ruler name in this record"
+      }
+    ]
   }
 ]
