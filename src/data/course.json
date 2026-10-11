@@ -5,11 +5,13 @@
     "title": "The visual language",
     "eyebrow": "Origins & identity",
     "minutes": 22,
-    "description": "Why a medieval system of identification became one of the world's most durable visual languages.",
+    "description": "How armorial identity survives changing artwork, audiences, and documentary witnesses.",
     "objectives": [
-      "Explain why armory emerged in medieval Europe.",
-      "Separate personal arms from the idea of a surname-wide emblem.",
-      "Distinguish an armorial identification from a modern brand."
+      "Distinguish an armorial identity from its individual realizations.",
+      "Separate motif, design, system, and recorded use.",
+      "Compare Dering and Zürich witnesses without collapsing their histories.",
+      "Explain office and affiliation using a messenger badge.",
+      "Test an attribution with a traceable evidence chain."
     ],
     "example": {
       "field": "or",
@@ -88,6 +90,16 @@
         "label": "College of Arms — About coats of arms",
         "url": "https://www.college-of-arms.gov.uk/",
         "note": "Official explanation of the personal character of arms."
+      },
+      {
+        "label": "Zürich armorial roll — e-codices",
+        "url": "https://www.e-codices.unifr.ch/en/list/one/snm/AG002760",
+        "note": "Compare the physical description and multilingual catalogue summaries."
+      },
+      {
+        "label": "British Library — Dering copy",
+        "url": "https://searcharchives.bl.uk/catalog/032-002057815",
+        "note": "A separately identified witness; distinguish its shelfmark from the medieval roll."
       }
     ]
   },
@@ -97,11 +109,13 @@
     "title": "Anatomy of an achievement",
     "eyebrow": "The whole composition",
     "minutes": 24,
-    "description": "Shield, helm, crest, wreath, mantling, supporters: what each element actually is.",
+    "description": "Read the components of an achievement as a set of relationships, roles, and institutional claims.",
     "objectives": [
-      "Identify the major components of an achievement.",
-      "Explain the distinction between a shield, a crest, and a complete achievement.",
-      "Recognize that some external ornaments are restricted or jurisdiction-dependent."
+      "Identify shield, crest, helm, wreath, mantling, and external ornaments.",
+      "Distinguish omitted components from components not possessed.",
+      "Compare Canadian, Swedish, ecclesiastical, and Garter displays.",
+      "Separate a depicted helmet from a surviving material object.",
+      "Build a component chronology for an altered or distributed achievement."
     ],
     "example": {
       "field": "gules",
@@ -180,6 +194,16 @@
         "label": "College of Arms — FAQ",
         "url": "https://www.college-of-arms.gov.uk/Newsletter/018.pdf",
         "note": "Official explanation of the distinction between crest and arms."
+      },
+      {
+        "label": "College of St George — heraldic components",
+        "url": "https://www.stgeorges-windsor.org/featured_articles/heraldry-st-georges-chapel/",
+        "note": "Different retention histories for banners, helms, crests, and plates."
+      },
+      {
+        "label": "Canadian Heraldic Authority — parts of arms",
+        "url": "https://gg.ca/en/heraldry/parts-coat-arms",
+        "note": "Institutional account of the achievement and external elements."
       }
     ]
   },
@@ -313,11 +337,13 @@
     "title": "Geometry of the shield",
     "eyebrow": "Space & direction",
     "minutes": 26,
-    "description": "Understand partitions, positions, dexter and sinister, and how space becomes information.",
+    "description": "Partitions, positions, arrangements, and transformations—and why geometry alone cannot identify a bearer.",
     "objectives": [
-      "Interpret dexter and sinister from the bearer's perspective.",
-      "Recognize principal field divisions.",
-      "Describe how quartering differs from a purely decorative grid."
+      "Distinguish a field partition, geometric figure, and charge arrangement.",
+      "Apply the bearer’s coordinate system across different supports.",
+      "Diagnose rotation, reflection, and optical imbalance.",
+      "Explain counterchanging through regional and layer relationships.",
+      "Record damaged boundaries without silently reconstructing them."
     ],
     "example": {
       "field": "argent",
@@ -397,6 +423,16 @@
         "label": "The Heraldry Society — Education",
         "url": "https://www.theheraldrysociety.com/education/",
         "note": "Introductory guides and structured historical material."
+      },
+      {
+        "label": "IRHT — French heraldic geometry",
+        "url": "https://lorfevre.irht.cnrs.fr/heraldique.php",
+        "note": "Distinguish partitions, figures, and source-language conventions."
+      },
+      {
+        "label": "Canadian Public Register — Goebel",
+        "url": "https://www.gg.ca/en/heraldry/public-register/project/3626",
+        "note": "A dated example of a counterchanged ordinary on a shaped partition."
       }
     ]
   },
@@ -406,11 +442,13 @@
     "title": "Ordinaries & subordinaries",
     "eyebrow": "The grammar of shapes",
     "minutes": 25,
-    "description": "Recognize fesses, bends, pales, chevrons, chiefs, and crosses, then follow how they carry charges.",
+    "description": "How bands, crosses, borders, and smaller geometries behave as named figures with edges and layers.",
     "objectives": [
-      "Recognize seven common ordinaries.",
-      "Distinguish a partition from an ordinary.",
-      "Use an ordinary correctly in a basic blazon."
+      "Distinguish principal ordinaries and related geometric charges.",
+      "Explain voiding, fimbriation, edge treatment, and enclosing figures.",
+      "Parse a charged ordinary as a nested composition.",
+      "Compare documented complex crosses and layered shields.",
+      "Defend proportion choices without inventing universal ratios."
     ],
     "example": {
       "field": "vert",
@@ -490,6 +528,16 @@
         "label": "Mortimer History Society — Teach Yourself Heraldry",
         "url": "https://mortimerhistorysociety.org.uk/heraldry/teach-yourself-heraldry/",
         "note": "Independent step-by-step educational course."
+      },
+      {
+        "label": "Canadian Public Register — Miller",
+        "url": "https://www.gg.ca/en/heraldry/public-register/project/2821",
+        "note": "Read voiding, counterchanging, and field division as separate operations."
+      },
+      {
+        "label": "Canadian Public Register — Hinshelwood",
+        "url": "https://www.gg.ca/en/heraldry/public-register/project/2977",
+        "note": "A charged ordinary within a dated registration record."
       }
     ]
   },
@@ -499,11 +547,13 @@
     "title": "The world of charges",
     "eyebrow": "Animals, stars & imagination",
     "minutes": 27,
-    "description": "Lions, martlets, fleurs-de-lis and the specialized vocabulary of recognizable figures.",
+    "description": "Identify a figure through its morphology, attitude, attributes, arrangement, and source-language conventions.",
     "objectives": [
-      "Explain what a charge is.",
-      "Distinguish several common animal attitudes.",
-      "Understand why identifying the charge alone may not identify the arms."
+      "Describe attitude, orientation, head position, and attributes separately.",
+      "Recognize named bird conventions and documented Canadian variants.",
+      "Distinguish whole figures, parts, plants, tools, and hybrids.",
+      "Compare French and English animal terms without literal substitution.",
+      "Attribute symbolism to its actual source and test an uncertain identification."
     ],
     "example": {
       "field": "azure",
@@ -583,6 +633,16 @@
         "label": "The Heraldry Society — educational guides",
         "url": "https://www.theheraldrysociety.com/education/",
         "note": "Practical illustrations and introductory terminology."
+      },
+      {
+        "label": "Canadian Public Register — Cairns",
+        "url": "https://www.gg.ca/en/heraldry/public-register/project/539",
+        "note": "A specifically named Canadian bird form, with bilingual records."
+      },
+      {
+        "label": "IRHT — heraldic figures",
+        "url": "https://lorfevre.irht.cnrs.fr/heraldique.php",
+        "note": "French vocabulary supplies a comparison for animal designation."
       }
     ]
   },
@@ -592,11 +652,14 @@
     "title": "Reading a blazon",
     "eyebrow": "A design written in words",
     "minutes": 32,
-    "description": "Learn to turn a formal armorial description into an image—and back again.",
+    "description": "Read compact armorial descriptions through scope, reference, nesting, and a traceable textual witness.",
     "objectives": [
-      "Parse simple English-language blazons.",
-      "Explain why blazon takes precedence over a particular rendering in many traditions.",
-      "Recognize what a simplified generator does not yet capture."
+      "Parse a blazon into fields, figures, attributes, and layers.",
+      "Resolve back-references and modifier scope.",
+      "Distinguish formal description from symbolism and commentary.",
+      "Translate a documented term while preserving editorial choices.",
+      "Explain what a limited parser can and cannot establish.",
+      "Repair an ambiguous teaching description and justify the revision."
     ],
     "example": {
       "field": "gules",
@@ -676,6 +739,16 @@
         "label": "College of Arms — Granting of Arms",
         "url": "https://www.college-of-arms.gov.uk/About/11.htm",
         "note": "How a formal blazon relates to an artistic representation."
+      },
+      {
+        "label": "Lord Lyon — blazoning",
+        "url": "https://courtofthelordlyon.scot/blazoning.htm",
+        "note": "A located institutional teaching example for scope and back-reference."
+      },
+      {
+        "label": "BOE — Spain’s national arms",
+        "url": "https://www.boe.es/eli/es/l/1981/10/05/33",
+        "note": "A statutory composite with a separately specified dynastic shield."
       }
     ]
   },
@@ -685,11 +758,13 @@
     "title": "Cadency & difference",
     "eyebrow": "Identity across generations",
     "minutes": 28,
-    "description": "How descendants distinguish their arms, and why English and Scottish traditions should not be conflated.",
+    "description": "Trace armorial transmission through particular records rather than treating a birth-order chart as a pedigree.",
     "objectives": [
-      "Define cadency and differencing.",
-      "Recognize common marks in an English cadency sequence.",
-      "Explain why Scottish matriculation operates differently."
+      "Separate genealogy, inheritance, and displayed difference.",
+      "Compare the stated English, Scottish, and Canadian mechanisms.",
+      "Interpret actual cadet shields and future-heir provisions.",
+      "Distinguish court reasoning from submissions and procedural summaries.",
+      "Build parallel genealogical and armorial transmission graphs."
     ],
     "example": {
       "field": "or",
@@ -773,6 +848,16 @@
         "label": "Court of the Lord Lyon — Coats of Arms",
         "url": "https://www.courtofthelordlyon.scot/coats%20of%20arms.htm",
         "note": "Scottish grants, matriculations, and registers."
+      },
+      {
+        "label": "Canadian Public Register — Boles",
+        "url": "https://www.gg.ca/en/heraldry/public-register/project/2083",
+        "note": "Individualized differences and a future-heir provision."
+      },
+      {
+        "label": "Lyon Court — Irving of Bonshaw",
+        "url": "https://www.courtofthelordlyon.scot/index_htm_files/irvingofbonshawinterlocutor.pdf",
+        "note": "Read the decision’s dated reasoning separately from submissions."
       }
     ]
   },
@@ -782,11 +867,14 @@
     "title": "Marshalling & quartering",
     "eyebrow": "Combining armorial identities",
     "minutes": 29,
-    "description": "The discipline behind impalement, quartering, and the elaborate shields of dynastic history.",
+    "description": "Read composite shields as structured assertions about marriage, descent, office, dynasty, and territory.",
     "objectives": [
-      "Define marshalling.",
-      "Distinguish impalement from quartering.",
-      "Explain the role of heraldic inheritance in legitimate quarterings."
+      "Distinguish impalement, dimidiation, and quartering.",
+      "Map repeated and nested component coats.",
+      "Separate a displayed claim from proof of its underlying relationship.",
+      "Compare the Halewyn–Van Ghistele enamel with statutory national composites.",
+      "Explain why an inescutcheon has no single universal meaning.",
+      "Construct a documented chronology for a composite display."
     ],
     "example": {
       "field": "gules",
@@ -865,6 +953,16 @@
         "label": "College of Arms — Law of Arms",
         "url": "https://www.college-of-arms.gov.uk/resources/the-law-of-arms",
         "note": "Official treatment of heiresses, quarterings, and descent."
+      },
+      {
+        "label": "Met — Halewyn impaling Van Ghistele",
+        "url": "https://www.metmuseum.org/art/collection/search/210213",
+        "note": "A material impalement with qualified attribution and ensemble reconstruction."
+      },
+      {
+        "label": "BOE — Spain’s national arms",
+        "url": "https://www.boe.es/eli/es/l/1981/10/05/33",
+        "note": "Compare component nesting and the treatment of older architectural displays."
       }
     ]
   },
@@ -874,11 +972,14 @@
     "title": "Law, custom & authority",
     "eyebrow": "Who gets to say?",
     "minutes": 33,
-    "description": "England, Scotland, Canada, the United States, and the danger of universal rules.",
+    "description": "Compare the actors, acts, records, and historically specific mechanisms behind armorial authority.",
     "objectives": [
-      "Identify major official armorial authorities.",
-      "Distinguish a grant, matriculation, registration and assumed arms.",
-      "Avoid treating one jurisdiction's rules as universal."
+      "Distinguish grant, registration, confirmation, matriculation, and assumption.",
+      "Map advisers, decision-makers, recorders, and review bodies.",
+      "Compare dated primary sources across European and non-European frameworks.",
+      "Separate personal, corporate, municipal, and state-emblem questions.",
+      "Read source versions and operational notices without treating them as timeless.",
+      "Follow one claimed power to an underlying instrument and a particular act."
     ],
     "example": {
       "field": "sable",
@@ -967,6 +1068,16 @@
         "label": "Canadian Public Register",
         "url": "https://gg.ca/en/heraldry/public-register",
         "note": "Canadian registered heraldic emblems and search."
+      },
+      {
+        "label": "Hoge Raad van Adel — public-body regulations",
+        "url": "https://www.hogeraadvanadel.nl/heraldiek/overheidswapens/regelgeving",
+        "note": "Dated changes in remit and the public-body framework."
+      },
+      {
+        "label": "Flemish decree of 3 February 1998",
+        "url": "https://codex.vlaanderen.be/Portals/Codex/documenten/1006070.html",
+        "note": "Read definitions, eligibility, and amendment dates in the original Dutch."
       }
     ]
   },
@@ -976,11 +1087,14 @@
     "title": "Heraldry in public life",
     "eyebrow": "Beyond the knight",
     "minutes": 24,
-    "description": "How civic, educational, military, ecclesiastical, and corporate bodies use a medieval language today.",
+    "description": "Follow public emblems through authentication, representation, changing institutions, and different materials.",
     "objectives": [
-      "Recognize non-personal armorial uses.",
-      "Analyze a corporate or civic achievement as a communication system.",
-      "Distinguish arms, badges, seals, flags, and logos."
+      "Distinguish arms, seal devices, authenticating acts, flags, badges, and logos.",
+      "Compare the Great Seal’s specification, realization, and custody.",
+      "Explain the changing Garter ensemble at Saint George’s Chapel.",
+      "Separate official symbolism from evidence of reception.",
+      "Trace an emblem through cloth, glass, stone, and digital use.",
+      "Keep image rights and asserted institutional authority separate."
     ],
     "example": {
       "field": "argent",
@@ -1059,6 +1173,16 @@
         "label": "College of Arms — Granting of Arms",
         "url": "https://www.college-of-arms.gov.uk/About/11.htm",
         "note": "Official treatment of arms for corporations and other bodies."
+      },
+      {
+        "label": "College of St George — heraldry in the chapel",
+        "url": "https://www.stgeorges-windsor.org/featured_articles/heraldry-st-georges-chapel/",
+        "note": "A changing ensemble with different kinds of sign and material witness."
+      },
+      {
+        "label": "South African Government — national arms",
+        "url": "https://www.gov.za/about-sa/national-coat-arms",
+        "note": "A dated public adoption and attributed official symbolism."
       }
     ]
   },
@@ -1068,11 +1192,14 @@
     "title": "The armiger's workshop",
     "eyebrow": "Research & capstone",
     "minutes": 36,
-    "description": "Synthesize history, design, blazon, and evidence into a responsible heraldic project.",
+    "description": "Develop a reproducible study through source control, competing explanations, critical editions, and controlled design.",
     "objectives": [
-      "Apply a defensible source hierarchy to armorial research.",
-      "Design a legible original teaching shield and describe it.",
-      "State clearly the legal limits of a self-made design."
+      "Frame an answerable question and a testable proposition.",
+      "Build witness inventories, claim ledgers, and dependency maps.",
+      "Separate object, design, alteration, publication, and access dates.",
+      "Define corpus inclusion rules and defensible counting units.",
+      "Develop material, institutional, editorial, or controlled-design capstones.",
+      "Review consequential claims and publish traceable corrections."
     ],
     "example": {
       "field": "or",
@@ -1157,6 +1284,16 @@
         "label": "Scotland's People — Coats of Arms",
         "url": "https://www.scotlandspeople.gov.uk/guides/coats-arms",
         "note": "Government record guidance for researching Scottish armorial evidence."
+      },
+      {
+        "label": "Met — seal matrix 1981.291",
+        "url": "https://www.metmuseum.org/art/collection/search/466069",
+        "note": "Separate manufacture, style, matrix, and accompanying impression."
+      },
+      {
+        "label": "Getty — armorial leaf, folio 2v",
+        "url": "https://www.getty.edu/art/collection/object/103S0G",
+        "note": "A located manuscript witness with a reported later intervention."
       }
     ]
   }

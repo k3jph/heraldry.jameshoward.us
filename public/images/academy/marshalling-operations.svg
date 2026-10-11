@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="390" viewBox="0 0 720 390" role="img" aria-labelledby="title desc">
+<title id="title">Compartment and component</title>
+<desc id="desc">Original constructed teaching comparison. Each panel has a shield and its structural description.</desc>
+<rect width="720" height="390" fill="#f5eee3"/>
+<g fill="#3a1726" font-family="DejaVu Sans, sans-serif" text-anchor="middle">
+<text x="360.0" y="34" font-size="21" font-weight="700">Compartment and component</text>
+<g transform="translate(45 86)"><defs><clipPath id="clip-marshalling-0"><path d="M 0 0 H 150 V 80 C 150 130 115 162 75 188 C 35 162 0 130 0 80 Z"/></clipPath></defs><path d="M 0 0 H 150 V 80 C 150 130 115 162 75 188 C 35 162 0 130 0 80 Z" fill="#fffdf8"/><g clip-path="url(#clip-marshalling-0)"><rect width="75" height="200" fill="#235580"/><polygon points="38.00,53.00 43.68,68.18 59.87,68.89 47.19,78.99 51.52,94.61 38.00,85.66 24.48,94.61 28.81,78.99 16.13,68.89 32.32,68.18" fill="#e9bc57"/><circle cx="112" cy="77" r="22" fill="#a83543"/></g><path d="M 0 0 H 150 V 80 C 150 130 115 162 75 188 C 35 162 0 130 0 80 Z" fill="none" stroke="#3a1726" stroke-width="2"/></g>
+<text x="120" y="308" font-size="18" font-weight="700">Impalement</text>
+<text x="120" y="335" font-size="13">Two complete designs</text>
+<g transform="translate(285 86)"><defs><clipPath id="clip-marshalling-1"><path d="M 0 0 H 150 V 80 C 150 130 115 162 75 188 C 35 162 0 130 0 80 Z"/></clipPath></defs><path d="M 0 0 H 150 V 80 C 150 130 115 162 75 188 C 35 162 0 130 0 80 Z" fill="#fffdf8"/><g clip-path="url(#clip-marshalling-1)"><rect width="75" height="94" fill="#235580"/><rect x="75" y="94" width="75" height="94" fill="#235580"/><polygon points="38.00,28.00 42.44,39.88 55.12,40.44 45.19,48.34 48.58,60.56 38.00,53.56 27.42,60.56 30.81,48.34 20.88,40.44 33.56,39.88" fill="#e9bc57"/><polygon points="112.00,111.00 116.44,122.88 129.12,123.44 119.19,131.34 122.58,143.56 112.00,136.56 101.42,143.56 104.81,131.34 94.88,123.44 107.56,122.88" fill="#e9bc57"/><circle cx="112" cy="46" r="17" fill="#a83543"/><circle cx="38" cy="129" r="17" fill="#a83543"/></g><path d="M 0 0 H 150 V 80 C 150 130 115 162 75 188 C 35 162 0 130 0 80 Z" fill="none" stroke="#3a1726" stroke-width="2"/></g>
+<text x="360" y="308" font-size="18" font-weight="700">Quartering</text>
+<text x="360" y="335" font-size="13">Two designs repeated</text>
+<g transform="translate(525 86)"><defs><clipPath id="clip-marshalling-2"><path d="M 0 0 H 150 V 80 C 150 130 115 162 75 188 C 35 162 0 130 0 80 Z"/></clipPath></defs><path d="M 0 0 H 150 V 80 C 150 130 115 162 75 188 C 35 162 0 130 0 80 Z" fill="#fffdf8"/><g clip-path="url(#clip-marshalling-2)"><rect width="75" height="94" fill="#235580"/><rect x="75" y="94" width="75" height="94" fill="#235580"/></g><path d="M 0 0 H 150 V 80 C 150 130 115 162 75 188 C 35 162 0 130 0 80 Z" fill="none" stroke="#3a1726" stroke-width="2"/></g>
+<text x="600" y="308" font-size="18" font-weight="700">Quarterly field</text>
+<text x="600" y="335" font-size="13">One divided design</text>
+</g></svg>

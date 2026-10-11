@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="390" viewBox="0 0 720 390" role="img" aria-labelledby="title desc">
+<title id="title">Three horizontal operations</title>
+<desc id="desc">Original constructed teaching comparison. Each panel has a shield and its structural description.</desc>
+<rect width="720" height="390" fill="#f5eee3"/>
+<g fill="#3a1726" font-family="DejaVu Sans, sans-serif" text-anchor="middle">
+<text x="360.0" y="34" font-size="21" font-weight="700">Three horizontal operations</text>
+<g transform="translate(45 86)"><defs><clipPath id="clip-geometry-0"><path d="M 0 0 H 150 V 80 C 150 130 115 162 75 188 C 35 162 0 130 0 80 Z"/></clipPath></defs><path d="M 0 0 H 150 V 80 C 150 130 115 162 75 188 C 35 162 0 130 0 80 Z" fill="#fffdf8"/><g clip-path="url(#clip-geometry-0)"><rect x="0" y="92" width="150" height="110" fill="#a83543"/></g><path d="M 0 0 H 150 V 80 C 150 130 115 162 75 188 C 35 162 0 130 0 80 Z" fill="none" stroke="#3a1726" stroke-width="2"/></g>
+<text x="120" y="308" font-size="18" font-weight="700">Per fess</text>
+<text x="120" y="335" font-size="13">Divide the field</text>
+<g transform="translate(285 86)"><defs><clipPath id="clip-geometry-1"><path d="M 0 0 H 150 V 80 C 150 130 115 162 75 188 C 35 162 0 130 0 80 Z"/></clipPath></defs><path d="M 0 0 H 150 V 80 C 150 130 115 162 75 188 C 35 162 0 130 0 80 Z" fill="#fffdf8"/><g clip-path="url(#clip-geometry-1)"><rect x="0" y="67" width="150" height="48" fill="#a83543"/></g><path d="M 0 0 H 150 V 80 C 150 130 115 162 75 188 C 35 162 0 130 0 80 Z" fill="none" stroke="#3a1726" stroke-width="2"/></g>
+<text x="360" y="308" font-size="18" font-weight="700">A fess</text>
+<text x="360" y="335" font-size="13">Place one band</text>
+<g transform="translate(525 86)"><defs><clipPath id="clip-geometry-2"><path d="M 0 0 H 150 V 80 C 150 130 115 162 75 188 C 35 162 0 130 0 80 Z"/></clipPath></defs><path d="M 0 0 H 150 V 80 C 150 130 115 162 75 188 C 35 162 0 130 0 80 Z" fill="#fffdf8"/><polygon points="30.00,69.00 34.20,80.22 46.17,80.75 36.79,88.21 39.99,99.75 30.00,93.14 20.01,99.75 23.21,88.21 13.83,80.75 25.80,80.22" fill="#235580"/><polygon points="75.00,69.00 79.20,80.22 91.17,80.75 81.79,88.21 84.99,99.75 75.00,93.14 65.01,99.75 68.21,88.21 58.83,80.75 70.80,80.22" fill="#235580"/><polygon points="120.00,69.00 124.20,80.22 136.17,80.75 126.79,88.21 129.99,99.75 120.00,93.14 110.01,99.75 113.21,88.21 103.83,80.75 115.80,80.22" fill="#235580"/><path d="M 0 0 H 150 V 80 C 150 130 115 162 75 188 C 35 162 0 130 0 80 Z" fill="none" stroke="#3a1726" stroke-width="2"/></g>
+<text x="600" y="308" font-size="18" font-weight="700">In fess</text>
+<text x="600" y="335" font-size="13">Arrange three figures</text>
+</g></svg>

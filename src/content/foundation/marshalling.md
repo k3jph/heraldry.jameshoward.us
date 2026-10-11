@@ -1,7 +1,7 @@
 ---
 title: Marshalling and quartering
 unit: 9
-updated: '2026-10-08'
+updated: '2026-10-10'
 status: 'Expanded teaching draft; specialist review pending'
 ---
 
@@ -63,6 +63,140 @@ Your observation should state what survives. Your report of the guide should att
 
 What could help? An earlier photograph, antiquarian drawing, inscription, original commission, or a documented comparable display. Each has its own limitations: an antiquarian could have regularized the arrangement; a restored stone could differ from the original; a guide could depend on that restoration. Reconstruct the chain of witnesses before choosing a final image.
 
+## Read the composition at two scales
+
+A composite shield has an outer organization and an inner organization. At the outer scale, ask how its compartments relate: side by side, numbered around a cross, placed on an underlying shield, or nested inside larger quarters. At the inner scale, read the design within each compartment as a local composition. A bend inside a quarter does not run from the top of the whole shield to its bottom. Its coordinate system belongs to that quarter. Failing to change scales can make a perfectly ordinary component look like a collection of disconnected fragments.
+
+This is easiest to see by drawing two fictional coats separately before combining them. Give A a gold star on blue and B a red roundel on white. In an impalement, both complete designs have narrower spaces. In a quartered arrangement, each has shorter spaces, and each may recur. In a single quarterly field, the blue and white regions instead belong to one background. All three compositions divide a shield, but they do different work. The geometry gives us the containers; the documentary account gives us the relationships.
+
+<figure class="academy-figure">
+<picture><source media="(max-width: 600px)" srcset="/images/academy/marshalling-operations-mobile.svg" /><img src="/images/academy/marshalling-operations.svg" width="720" height="390" loading="lazy" alt="Fictional coats combined by impalement and repeated quartering, compared with one shield whose field is simply quarterly." /></picture>
+<figcaption>Two fictional coats can occupy two halves or four quarters. A quarterly field, by itself, supplies neither two bearers nor four ancestors. Original teaching diagram.</figcaption>
+</figure>
+
+The outer organization should therefore be recorded independently of the component identifications. A useful inventory might say that the shield is quarterly, that quarters 1 and 4 match one another, and that quarters 2 and 3 match one another. An additional column can identify the two designs from named witnesses. A third can record the proposed relationship between their bearers. Keeping those columns separate means that a revised family attribution need not destroy an otherwise accurate description of the object.
+
+This also helps when a display includes a coat that is itself quartered. Think of the larger quarter as a container holding its own numbered sequence. “First grand quarter, subquarters 1 and 4” is clumsy enough to make a person appreciate a diagram, but it is considerably better than silently flattening eight occurrences into eight unrelated coats. The nesting is part of the statement. Preserve it even when a simplified database would prefer a tidy list.
+
+## A real impalement in enamel
+
+The Metropolitan Museum's Limoges plaque, object **14.40.697d**, offers an unusually good place to move between those scales. Its catalogue identifies the impalement as Halewyn with Van Ghistele, dates the object to the first quarter of the sixteenth century, and attributes its manufacture to the workshop of Nardon Pénicaud. Those are museum attributions attached to a specific surviving object. They are not all conclusions that a viewer can derive independently from the photograph.[^enamel-composite]
+
+<figure class="academy-figure academy-object">
+<img src="/images/objects/halewyn-ghistele-enamel.jpg" width="680" height="234" loading="lazy" alt="A long blue enamel plaque with angels presenting a shield divided vertically, with dark animal figures on one side and a chevron and stars on the other." />
+<figcaption>Angels presenting the arms of Halewyn impaling Van Ghistele, attributed to the workshop of Nardon Pénicaud, first quarter of the sixteenth century. The Metropolitan Museum of Art, 14.40.697d. Bequest of Benjamin Altman, 1913. Public-domain image, Met Open Access.</figcaption>
+</figure>
+
+At the shield's scale, compare the two halves as compositions fitted into narrow spaces. At the plaque's scale, the shield participates in a scene with angels. At the lost ensemble's scale, there may have been another image to which the figures' gazes related. The museum proposes that the plaque could have belonged to a triptych with a devotional scene below. That proposal is valuable because it explains observable relationships, but the catalogue itself leaves it tentative. We should not replace a possible reconstruction with an imaginary photograph of the whole triptych.
+
+The angels introduce another distinction. Figures presenting an armorial shield within a narrative scene are not automatically the bearer's authorized heraldic supporters. They may belong to the artwork's religious or ceremonial composition. To establish supporters as components of an achievement, we would need relevant armorial evidence. Calling every shield-holding angel a granted supporter would turn an art-historical observation into an administrative conclusion without passing through any administration.
+
+The family names do not, by themselves, identify a particular marriage or commissioner either. A more ambitious attribution would need dates, genealogy, patronage records, related objects, or a sufficiently distinctive documented achievement. The museum title gives a strong starting point. The research question is what further propositions follow from it, and which still require evidence. A small enamel can support a surprisingly large argument, provided we do not make it carry a whole undocumented wedding party.
+
+## Why impalement and dimidiation need different reconstructions
+
+Suppose a band crosses the original coat from edge to edge. Fitting the complete coat into half a shield preserves the band's relationship to its local field, although its visible length changes. Cutting away half of the original coat instead preserves only a portion of the band. The resulting shapes might resemble each other when the original design is symmetrical. With an asymmetrical charge or a complex arrangement, the difference becomes much easier to detect.
+
+For that reason, reconstruct the proposed original coats before naming the operation. If the combined display retains all three charges from each source coat in compressed positions, impalement is a better account than an operation that removes some of them. If it retains portions severed at the common boundary, dimidiation may explain the evidence. The image alone can sometimes support one operation over another, but a damaged boundary or a heavily stylized rendering can leave the choice unresolved.
+
+A modern redrawing can obscure the distinction by repairing truncated figures into complete ones. That may make an attractive emblem, but it changes the evidence. A critical edition should show the surviving witness before supplying a reconstruction and should label the reconstruction as such. Otherwise the reader sees the editor's interpretation where the original object's awkwardness ought to be. Awkwardness is often precisely the clue that tells us how the composition was made.
+
+Do not reverse the inference and treat every joined creature as a dimidiated accident. An explicitly specified hybrid charge can be a single figure from the beginning. Compare source designs, dated descriptions, and repeated witnesses. The question is not whether an ingenious story can account for the silhouette. Heraldry supplies almost unlimited opportunities for ingenious stories. The useful story is the one whose steps are supported.
+
+## Quarterings require a transmission argument
+
+There are at least three different questions in a genealogical quartering study. Does the displayed component match a named person's arms? Is the later bearer descended from that person? Does the applicable system transmit those arms through the demonstrated line in the manner claimed? A match, a pedigree, and a transmission rule answer different questions. None can quietly substitute for the others.
+
+In the English comparison already introduced, the College of Arms explains a defined category of heraldic heiress and the conditions under which her paternal arms pass as a quartering to children of a marriage to an armiger. The resulting research is more specific than finding a distinguished ancestor somewhere in a large family tree. Identify each relevant generation, the status of the transmitting person under the described conditions, and the authority for the arms being transmitted. If a crucial condition depends on the absence of surviving male issue, a pedigree containing only the favorable line is not enough evidence.[^heiress]
+
+This is a good place to distinguish the genealogical record from the display record. A dated monument can show that a bearer used a quartering. A pedigree can explain the claimed descent. A recorded instrument or institutional finding may establish the entitlement within a particular system. Where those sources disagree, retain the disagreement. The monument remains evidence of the display even if its legal or genealogical justification cannot be established. The purpose of research is to explain the relationship among the records, not to rescue the monument from embarrassment.
+
+Repeated coats also need careful counting. A shield of sixteen visible compartments might repeat four components several times, contain nested composites, or give different versions of a related coat. Report the number of compartments, distinct component designs, and identified bearers separately. “Sixteen quarters” is a spatial statement. “Sixteen ancestors” is a genealogical statement. A diagram can make the first obvious while leaving the second entirely unproved.
+
+Nor is an ancestral display necessarily the same thing as a transmitted quartered coat. A pedigree may present the arms of numerous forebears as evidence of ancestry without combining every one into the descendant's personal arms. Read the arrangement, labels, and purpose of the source. A set of shields around a portrait, a quartered shield, and a manuscript pedigree can use similar ingredients while asserting different relationships.
+
+## An inescutcheon can have several jobs
+
+The small shield in an English marital composition may be explained as an inescutcheon of pretence in a source that supplies the relevant circumstances. A small shield in a sovereign composition may identify a dynasty. A small shield in an otherwise indivisible coat may simply be a charge. These uses share a shape without sharing an institutional mechanism. The word *inescutcheon* tells us what kind of figure we are looking at before it tells us why the figure is there.
+
+The placement can make a claim especially prominent. A central shield covers the intersection of larger compartments and draws attention to the design that unites or qualifies them. That compositional prominence is observable. Its political explanation must still come from dated evidence. It is tempting to say that the small shield is the “real” coat while the surrounding quarters are merely background, but that hierarchy may be our preference rather than the source's organization.
+
+Use explicit descriptions for the relationship. Does the small shield lie over an underlying cross? Does it have its own border? Is the border part of its component coat or an independent framing feature? Does the written source describe it separately? Those questions help an artist reproduce the layers and help a historian avoid assigning the wrong design to the wrong actor. A few square centimeters can contain a whole second coordinate system.
+
+## Spain: a national composite specified in two articles
+
+Spain's **Law 33/1981**, dated 5 October and published on 19 October 1981, gives a particularly clear documentary exercise. Article 1 specifies the principal composite, including the four main quarters, the pomegranate in the pointed base, the external columns, and the crown. Article 2 adds a smaller shield identified with the reigning dynasty. Article 3 provides for an official model.[^spain-composite]
+
+Read that structure before attempting a family-tree interpretation. The law is defining a state emblem, not proving a private person's descent. Its separate treatment of the dynastic shield makes the nesting visible in the text as well as in the image. One description can therefore contain different kinds of identity: historical territorial components, a state composition, and a dynastic component. Their combination is meaningful, but it is not reducible to the number of ancestors someone can name.
+
+The two columns also illustrate why external objects deserve their own inventory. Their crowns differ from one another. Those differences are specified features, not accidental artistic inconsistency. An artist who regularizes both columns to the same crown may produce a pleasing symmetry while losing information. The model's symmetry of placement does not entail identity of every paired object.
+
+The law's transitional provisions make a second, less obvious point. They address replacing official uses while retaining certain arms on monuments or buildings. A historically older display can therefore remain on a building after the governing description changes. Its survival is not, by itself, evidence that the old version remains the current official emblem. Material continuity and administrative continuity can follow different rules, and the statute gives us a concrete reason to keep them separate.
+
+## Sweden: a composite can survive a simplified display
+
+Sweden's **1982 law on the national arms** distinguishes the greater and lesser arms. In the greater arms, a cross organizes the principal quarters and a central dynastic shield has its own divided composition. The statute also allows the greater arms to be used without specified external elements, including supporters and mantle.[^sweden-composite]
+
+This provides a controlled test of what we mean by a complete achievement. A simpler approved display is not necessarily a damaged or carelessly cropped version of the fuller one. It can be an expressly permitted form. Conversely, the option to omit external ornaments does not authorize an editor to swap an internal quarter for something more fashionable. The documentary allowance concerns particular components, not an unrestricted invitation to redesign the whole emblem.
+
+Compare the Swedish text with the Spanish one by making a component tree for each. Put the main shield at the top of the tree, its compartments below, and the smaller shield's compartments on a separate branch. Place supporters, crowns, columns, and mantle outside the shield branch. The comparison will reveal both similar operations and different institutional descriptions. That is more useful than forcing both into an English marital vocabulary they were never intended to obey.
+
+## Political claims need political evidence
+
+A territorial coat in a sovereign display does not prove that the bearer effectively governed that territory at the object's date. It may express a dynastic claim, an inherited title, an institutional memory, or a political program. The correct next source is therefore often a treaty, constitutional document, dated royal instrument, or administrative record, rather than another decorative picture. The armorial display shows the assertion; those documents help establish its circumstances.
+
+Changes can nevertheless provide dating evidence when they are documented precisely. If a component entered an official design at a known time, its presence may supply a lower bound for that version's creation. But consider later copying, restoration, and deliberate historical reproduction before using the bound to date the physical object. A modern painting of an earlier sovereign's arms belongs to the modern painting's material history and the earlier design's representational history. One date cannot do both jobs.
+
+An absence is harder to interpret. A component might be omitted because the support is small, because a simplified form is authorized, because the object predates its adoption, or because the artist made an error. Look for a series of comparable objects and a dated description. When the evidence permits several explanations, reporting the alternatives is more informative than manufacturing a precise year from a tiny corner of a damaged shield.
+
+## Four problems in composite evidence
+
+### 1. Four quarters, two designs
+
+**Constructed problem:** a catalogue calls a shield “the arms of four ancestral houses.” Quarters 1 and 4 depict A; quarters 2 and 3 depict B. No pedigree is cited. Write a correction that preserves everything the image actually establishes.
+
+<details><summary>Answer discussion</summary>
+
+Describe four compartments containing two repeated designs, with their positions recorded. Attribute any proposed family identification to its source. A later pedigree might explain the combination, but the visual repetition does not establish four distinct houses. The correction should improve the catalogue's precision without pretending that two unidentified designs have suddenly become two securely identified ancestors.
+
+</details>
+
+### 2. A cropped bend
+
+**Constructed problem:** one half of a combined shield retains only a truncated diagonal band. A modern drawing extends it into a complete band fitted within the half. Which witness should a critical edition reproduce?
+
+<details><summary>Answer discussion</summary>
+
+Reproduce or document the original visible truncation first. Present the modern drawing as a later interpretation. Compare the proposed source coat and the boundary to test dimidiation against impalement. The extension might be a useful reconstruction, but it cannot become evidence for the very operation it assumes.
+
+</details>
+
+### 3. Angels on an enamel
+
+Use the Halewyn–Van Ghistele plaque. Separate three statements: figures hold a shield; the museum identifies the impaled families; the commissioner possessed those angels as heraldic supporters. Which statements have evidence in the present source?
+
+<details><summary>Answer discussion</summary>
+
+The photograph supports the visual observation, and the museum record supports an attributed identification. The third statement needs additional evidence. The tentative reconstruction of a devotional ensemble helps explain why narrative figures might present arms, but it neither establishes the original whole nor supplies a grant of supporters.
+
+</details>
+
+### 4. The old emblem remains on a building
+
+Read Spain's 1981 law, including its transitional provisions. Explain why the survival of an earlier carved emblem cannot, by itself, establish the current official design.
+
+<details><summary>Answer discussion</summary>
+
+The text distinguishes replacement of official uses from retention in specified architectural circumstances. Record the carving's material date, the design it represents, and the later legal treatment as separate facts. The retained carving can be historically authentic and administratively superseded at the same time.
+
+</details>
+
+## Research project: the life of a composite
+
+Choose one composite with at least two independently documented components and two dated witnesses. Produce a nested component map, a table of source descriptions, and a chronology of use. For each component, distinguish identification, asserted relationship, and evidence for that relationship. If a design repeats, retain every position but count the component once in your inventory of distinct designs.
+
+Then write an argument about one change or apparent continuity. Perhaps an impaled display moved from a personal commission to a later family memorial. Perhaps a national emblem changed while older stonework remained. Perhaps the same component was compressed differently on a seal and a banner. The question should be narrow enough that the sources can answer it. Finish by identifying the evidence that would most seriously challenge your interpretation. A composite is a proposition in pictures; a good study explains how that proposition was made and how much of it we can verify.
+
 ## Workshop and answer discussion
 
 Select a documented composite display and produce a **component map**. Number the compartments, give each component a source, and distinguish observations from attributed identifications. Then write 500 words on what relationship the composition appears to assert and what evidence supports that reading.
@@ -82,3 +216,6 @@ For a design exercise, marshal two explicitly fictional coats by impalement and 
 [^quartering]: Fox-Davies, chapter VIII for descriptive order and chapter XXXIII for quartering. Geometry does not establish documentary entitlement.
 [^heiress]: College of Arms, *The Law of Arms*, “Heraldic Heiress,” [institutional summary](https://www.college-of-arms.gov.uk/resources/the-law-of-arms). This is the defined English comparison, not a statement of worldwide transmission.
 [^inescutcheon]: Fox-Davies, chapter XXXIII; compare the College of Arms discussion of an inescutcheon of pretence in the identified English context.
+[^enamel-composite]: The Metropolitan Museum of Art, [*Angels presenting the arms of Halewyn impaling Van Ghistele*, 14.40.697d](https://www.metmuseum.org/art/collection/search/210213). Catalogue attribution, material and dating information, and explicitly tentative reconstruction of a larger ensemble; consulted 10 October 2026. Image reused under Met Open Access.
+[^spain-composite]: Agencia Estatal Boletín Oficial del Estado, [Law 33/1981 of 5 October, on the arms of Spain](https://www.boe.es/eli/es/l/1981/10/05/33), articles 1–3 and transitional provisions. Original statutory text; the discussion is an original structural analysis, not a full translation.
+[^sweden-composite]: Sveriges riksdag, [*Lag (1982:268) om Sveriges riksvapen*](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-1982268-om-sveriges-riksvapen_sfs-1982-268/), sections 1–3; consulted 10 October 2026. Read the statutory component descriptions and permitted omissions together.

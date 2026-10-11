@@ -204,6 +204,10 @@ button:focus-visible, a:focus-visible, input:focus-visible, textarea:focus-visib
 .foundation-chapter .tincture-figure img { display: block; width: 100%; height: auto; }
 .foundation-chapter .tincture-figure figcaption { margin-top: 1rem; color: var(--ink-2); font-size: .83rem; font-weight: 500; line-height: 1.65; }
 .foundation-chapter .tincture-object img { max-width: 420px; margin-inline: auto; }
+.foundation-chapter .academy-figure { margin: 2rem 0; padding: clamp(12px, 2vw, 22px); background: var(--paper); border: 1px solid var(--line); }
+.foundation-chapter .academy-figure img { display: block; width: 100%; height: auto; }
+.foundation-chapter .academy-figure figcaption { margin-top: 1rem; color: var(--ink-2); font-size: .83rem; font-weight: 500; line-height: 1.65; }
+.foundation-chapter .academy-object img { max-width: 560px; margin-inline: auto; }
 @media (max-width: 600px) {
   .chapter-toc { padding: 18px; }
   .foundation-chapter th, .foundation-chapter td { padding: .5rem .3rem; font-size: .78rem; }
