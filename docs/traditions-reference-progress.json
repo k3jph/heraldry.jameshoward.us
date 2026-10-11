@@ -1,8 +1,8 @@
 {
   "status": "in progress; remaining chapters not yet expanded",
   "targetChapters": 70,
-  "expandedDrafts": 47,
-  "addedWords": 94065,
+  "expandedDrafts": 56,
+  "addedWords": 108204,
   "chapters": [
     {
       "slug": "japan-kamon",
@@ -866,8 +866,8 @@
     {
       "slug": "hungary",
       "before": 1629,
-      "after": 3665,
-      "added": 2036,
+      "after": 3666,
+      "added": 2037,
       "sections": 14,
       "sourceIds": [
         "hu-armalis-db",
@@ -1248,6 +1248,254 @@
         "Sacred attributes are not a universal episcopal rank code",
         "Imperial afterlives require a chain of witnesses",
         "Graduate investigation: classify before constructing a rank table"
+      ]
+    },
+    {
+      "slug": "order-of-malta",
+      "before": 1612,
+      "after": 3103,
+      "added": 1491,
+      "sections": 16,
+      "sourceIds": [
+        "smom-constitution-2022",
+        "smom-flags-emblems",
+        "smom-faq",
+        "mt-tombs",
+        "smom-langues",
+        "smom-eight-points",
+        "smom-history",
+        "smom-perellos-tapestries",
+        "smom-related-orders",
+        "smom-dalla-torre-2020"
+      ],
+      "expansionHeads": [
+        "Jerusalem, Rhodes, Malta and Rome are different historical settings",
+        "The eight points carry several explanations",
+        "Langues explain an administrative geography",
+        "Quartering joins an office to a particular person",
+        "Perellos's tapestries carry patronage and manufacture together",
+        "Related Orders share history without becoming one bearer",
+        "Advanced laboratory: four identities on one object record"
+      ]
+    },
+    {
+      "slug": "teutonic-order",
+      "before": 1055,
+      "after": 2565,
+      "added": 1510,
+      "sections": 14,
+      "sourceIds": [
+        "teut-cross",
+        "teut-seals",
+        "teut-ewers",
+        "at-targe",
+        "teut-history",
+        "teut-rule-1929",
+        "teut-bayard-arms",
+        "teut-office-titles"
+      ],
+      "expansionHeads": [
+        "A hospital foundation became a knightly institution",
+        "Territorial loss changed the title without ending the office",
+        "The published Bayard achievement can be read in layers",
+        "A mitre, crozier and sword require different explanations",
+        "The 1929 rule gives the modern cross a new setting",
+        "Wearing a cross and controlling a matrix are different acts",
+        "Advanced workshop: explain a modern achievement historically"
+      ]
+    },
+    {
+      "slug": "micronations",
+      "before": 1714,
+      "after": 3434,
+      "added": 1720,
+      "sections": 17,
+      "sourceIds": [
+        "micro-sealand-story",
+        "micro-sealand-fco",
+        "micro-molossia-symbols",
+        "micro-molossia-coins",
+        "micro-ladonia-about",
+        "micro-talossa-grants",
+        "micro-talossa-armorial",
+        "micro-talossa-government",
+        "micro-talossa-gentry",
+        "micro-talossa-rules",
+        "micro-talossa-restricted",
+        "micro-aerica-symbols",
+        "micro-aerica-history"
+      ],
+      "expansionHeads": [
+        "Talossa publishes a working heraldic apparatus",
+        "A petition process can be studied as a sequence of decisions",
+        "Ministry arms use a shared field to distinguish offices",
+        "Personal grants allow an actual close reading",
+        "Design rules turn preferences into reviewable criteria",
+        "Restricted devices expose a community's boundary choices",
+        "Aerica gives the smile a documented armorial home",
+        "Advanced laboratory: audit one contemporary grant"
+      ]
+    },
+    {
+      "slug": "argentina",
+      "before": 619,
+      "after": 2402,
+      "added": 1783,
+      "sections": 13,
+      "sourceIds": [
+        "ar-escudo",
+        "ar-1944-original",
+        "ar-buenos-aires",
+        "ar-cordoba",
+        "ar-museum-revolution",
+        "ar-bcra-bicentenary"
+      ],
+      "expansionHeads": [
+        "The 1944 decree distinguishes arms from the Great Seal",
+        "Buenos Aires province is a close relative, not a duplicate",
+        "Córdoba carries a colonial tower through political change",
+        "Award shields complicate the word escudo",
+        "A 2013 coin reproduces an 1813 monetary image",
+        "The sun should be compared by object, not counted once for every use",
+        "A federal comparison needs several levels of identity",
+        "Workshop: national seal, province, award and coin"
+      ]
+    },
+    {
+      "slug": "mexico",
+      "before": 1022,
+      "after": 2450,
+      "added": 1428,
+      "sections": 14,
+      "sourceIds": [
+        "mx-archive",
+        "mx-law",
+        "mx-military",
+        "mx-puebla-provision",
+        "mx-puebla-modern-award",
+        "mx-republic-coins",
+        "mx-gold-law-coin"
+      ],
+      "expansionHeads": [
+        "Puebla's grant survives as an illuminated object",
+        "Giving a copy does not give the recipient the city's identity",
+        "Republican coins paired the eagle with the liberty cap",
+        "A hand, a law code and a cap make another republican composition",
+        "Colonial civic arms and national arms answer different political questions",
+        "Read the eagle's action before assigning a period",
+        "Advanced workshop: grant, presentation and monetary quotation"
+      ]
+    },
+    {
+      "slug": "latin-america-caribbean",
+      "before": 1087,
+      "after": 2577,
+      "added": 1490,
+      "sections": 14,
+      "sourceIds": [
+        "cl-1834",
+        "pe-atlas",
+        "pe-2025",
+        "co-symbols",
+        "jm-arms",
+        "jm-report",
+        "cl-model-1920",
+        "cl-emblems-1967",
+        "co-sandstone-arms",
+        "jm-library-symbols"
+      ],
+      "expansionHeads": [
+        "Chile's chronology separates creation from a fixed model",
+        "Peru's vocabulary assigns different surrounding forms",
+        "New Granada survives in stone as well as in a pomegranate",
+        "Jamaica's grant date needs a calendar note",
+        "An independent motto can change the achievement's argument",
+        "Native species and minerals complicate imported color categories",
+        "Advanced laboratory: one statute, one carving and one retained achievement"
+      ]
+    },
+    {
+      "slug": "australia",
+      "before": 932,
+      "after": 2402,
+      "added": 1470,
+      "sections": 13,
+      "sourceIds": [
+        "au-commonwealth",
+        "au-symbols",
+        "au-guidelines",
+        "au-nsw-arms",
+        "au-nsw-flag",
+        "au-irish-grants",
+        "au-war-memorial-symbols",
+        "au-sydney-arms",
+        "au-melbourne-seal-arms"
+      ],
+      "expansionHeads": [
+        "New South Wales has arms beyond its federal compartment",
+        "A flag badge and a shield can share a cross without being identical",
+        "Sydney's arms locate learning under changed stars",
+        "Melbourne's Victory connects a seal, a shield and a name",
+        "Australian private arms have documentary routes beyond London",
+        "Federation-era symbols form a material constellation",
+        "Advanced laboratory: three corporate bodies and two kinds of patent"
+      ]
+    },
+    {
+      "slug": "new-zealand",
+      "before": 990,
+      "after": 2496,
+      "added": 1506,
+      "sections": 15,
+      "sourceIds": [
+        "nz-arms",
+        "nz-1911",
+        "nz-protection",
+        "nz-carved-series",
+        "nz-personal-elements",
+        "nz-reeves-tangi",
+        "nz-wars-flags",
+        "nz-auckland-calendar-1993",
+        "nz-auckland-current-arms",
+        "nz-tizard-eulogy",
+        "au-irish-grants"
+      ],
+      "expansionHeads": [
+        "The Government House entrance is a material armorial sequence",
+        "Paul Reeves's identity reaches into crest, supporters and motto",
+        "Catherine Tizard puts a joke into a formal achievement",
+        "Auckland's book and kiwis give a corporate close reading",
+        "Technical terminology survives imperfect official explanations",
+        "Māori flags establish other forms of authority",
+        "The national and personal corpora need connected histories",
+        "Advanced laboratory: compare a national revision with a personal panel"
+      ]
+    },
+    {
+      "slug": "south-africa",
+      "before": 838,
+      "after": 2578,
+      "added": 1740,
+      "sections": 14,
+      "sourceIds": [
+        "za-coat",
+        "za-act-original",
+        "za-bureau-faq",
+        "za-linton-panel",
+        "za-wits-exhibition",
+        "za-national-registration-2000",
+        "za-national-register-old",
+        "za-wits-arms"
+      ],
+      "expansionHeads": [
+        "The old achievement represented a different political union",
+        "A statutory bureau makes armorial acts public",
+        "Design, objection and registration are distinct stages",
+        "The 2000 notice is a technical specification, not only a symbol list",
+        "Red ochre, Orange and Brunatre extend the working palette",
+        "The Linton Panel has a history before the national arms",
+        "Wits links learning, industry and a particular landscape",
+        "Advanced laboratory: register, palette and source image"
       ]
     }
   ]

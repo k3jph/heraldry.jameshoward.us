@@ -138,7 +138,7 @@ Read this case alongside the [Bayeux Tapestry](/objects/bayeux-tapestry/). Both 
 
 ## A crown can represent statehood in a republic
 
-The crownless form commonly called the Kossuth arms has its own political history. Ferenc Maruzsa's study follows its importance during the 1956 revolution, its brief continuation as a state symbol afterward and the later debate over the restored national form. The choice of the Holy Crown above the shield expressed a claim to historical statehood within a republic.[^hu-kossuth-study]
+The crownless form commonly called the Kossuth arms has its own political history. Zoltán Máté Albert's study follows its importance during the 1956 revolution, its brief continuation as a state symbol afterward and the later debate over the restored national form. The choice of the Holy Crown above the shield expressed a claim to historical statehood within a republic.[^hu-kossuth-study]
 
 The resulting lesson is more precise than “crowns mean monarchy.” A crown can refer to a particular institution, an inherited constitutional idea or a remembered political order. A republic may adopt such a reference without installing a reigning king. Equally, a crownless form can acquire associations with a specific revolution that exceed the literal removal of an ornament.
 
@@ -192,4 +192,4 @@ Finish with a caption for the 1031 mantle that identifies its patronage and late
 
 [^hu-illuminated-chronicle-study]: András Hegedűs, Ars Hungarica 39 (2013), academy repository, [The Coats of Arms of the Hungarian Kingdom and its Dynasties as Depicted in the Illuminated Chronicle](https://real-j.mtak.hu/4968/1/Ars%20Hungarica%202013.pdf). Consulted 11 October 2026. Original English editorial synthesis; consult the linked record for close reading.
 
-[^hu-kossuth-study]: Hungarian Research Institute; Ferenc Maruzsa, 2023, [Short History of the so-called Kossuth Coat of Arms after 1956](https://mki.gov.hu/hu/ephemeris-2023/short-history-of-the-so-called-kossuth-coat-of-arms-after-1956). Consulted 11 October 2026. Original English editorial synthesis; consult the linked record for close reading.
+[^hu-kossuth-study]: Hungarian Research Institute; Zoltán Máté Albert, 2023, [Short History of the so-called Kossuth Coat of Arms after 1956](https://mki.gov.hu/hu/ephemeris-2023/short-history-of-the-so-called-kossuth-coat-of-arms-after-1956). Consulted 11 October 2026. Original English editorial synthesis; consult the linked record for close reading.

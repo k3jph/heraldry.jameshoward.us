@@ -9989,7 +9989,7 @@
     "id": "hu-kossuth-study",
     "area": "Hungary",
     "language": "en",
-    "holding": "Hungarian Research Institute; Ferenc Maruzsa, 2023",
+    "holding": "Hungarian Research Institute; Zoltán Máté Albert, 2023",
     "titleOriginal": "Short History of the so-called Kossuth Coat of Arms after 1956",
     "titleEnglish": "The Kossuth arms after 1956",
     "url": "https://mki.gov.hu/hu/ephemeris-2023/short-history-of-the-so-called-kossuth-coat-of-arms-after-1956",
@@ -11344,6 +11344,1281 @@
       {
         "term": "diakonia",
         "english": "service in the stated theological interpretation"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "smom-langues",
+    "area": "Order of Malta",
+    "language": "en",
+    "holding": "Sovereign Military Order of Malta",
+    "titleOriginal": "The Ancient Languages of the Order",
+    "titleEnglish": "The ancient langues",
+    "url": "https://www.orderofmalta.int/history/the-ancient-languages-of-the-order/",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Institutional account of the langues, their organization in 1319, the creation of an eighth division in 1462, and later national associations. Useful for separating administrative geography from modern national borders.",
+    "glossary": [
+      {
+        "term": "langue",
+        "english": "historical organizational division"
+      },
+      {
+        "term": "auberge",
+        "english": "communal house"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "smom-eight-points",
+    "area": "Order of Malta",
+    "language": "en",
+    "holding": "Sovereign Military Order of Malta",
+    "titleOriginal": "The eight-pointed cross",
+    "titleEnglish": "The eight-pointed cross",
+    "url": "https://www.orderofmalta.int/history/the-eight-pointed-cross/",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "The Order explains the eight points through religious virtues, Beatitudes and historical langues, and advances an origin narrative. Interpretations are attributed to the institution; an origin claim still requires dated material witnesses.",
+    "glossary": [
+      {
+        "term": "Beatitudes",
+        "english": "Christian blessings invoked in interpretation"
+      },
+      {
+        "term": "cross of St John",
+        "english": "historical designation"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "smom-history",
+    "area": "Order of Malta",
+    "language": "en",
+    "holding": "Sovereign Military Order of Malta",
+    "titleOriginal": "From the 11th century to the present day",
+    "titleEnglish": "Historical itinerary of the Order",
+    "url": "https://www.orderofmalta.int/history/11-century-to-the-present-day/",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Institutional chronology following the hospital, Mediterranean relocations, the loss of Malta and subsequent reconstruction. Provides historical context for the full name without making every later emblem contemporary with the foundation.",
+    "glossary": [
+      {
+        "term": "Convent",
+        "english": "central community of the Order"
+      },
+      {
+        "term": "Grand Master",
+        "english": "head of the Order"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "smom-perellos-tapestries",
+    "area": "Order of Malta",
+    "language": "en",
+    "holding": "St John’s Co-Cathedral Foundation",
+    "titleOriginal": "The Tapestries of St John’s Co-Cathedral",
+    "titleEnglish": "Perellos tapestry commission",
+    "url": "https://www.stjohnscocathedral.com/the-co-cathedral/the-tapestries-of-st-johns-co-cathedral/",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Custodial account of Perellos’s tapestry gift, ordered in Brussels in 1698 and reaching Malta in 1702. Identifies donor arms, city mark and weaver name, allowing patronage and manufacture to be read together.",
+    "glossary": [
+      {
+        "term": "Gioia",
+        "english": "obligatory gift by a newly elected Grand Master"
+      },
+      {
+        "term": "city mark",
+        "english": "manufacturing identification"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "smom-related-orders",
+    "area": "Order of Malta",
+    "language": "en",
+    "holding": "Sovereign Military Order of Malta",
+    "titleOriginal": "Orders of St John",
+    "titleEnglish": "Related Orders of St John",
+    "url": "https://www.orderofmalta.int/history/orders-of-st-john/",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "The Order identifies four related non-Catholic Orders and their historical relationships. An institutional guide to comparison, rather than a universal legal judgment about every use of an eight-pointed cross.",
+    "glossary": [
+      {
+        "term": "Alliance",
+        "english": "association of related Orders"
+      },
+      {
+        "term": "Bailiwick",
+        "english": "territorial institution"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "teut-history",
+    "area": "Teutonic Order",
+    "language": "de",
+    "holding": "Deutscher Orden",
+    "titleOriginal": "Geschichtlicher Überblick",
+    "titleEnglish": "Historical overview",
+    "url": "https://www.deutscher-orden.at/site/geschichte/ueberblick",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "The Order’s historical account distinguishes the hospital foundation, knightly development, territorial changes and modern clerical organization. Supports a chronology in which continued emblem use accompanies changing institutional functions.",
+    "glossary": [
+      {
+        "term": "Spitalbruderschaft",
+        "english": "hospital brotherhood"
+      },
+      {
+        "term": "Familiaren",
+        "english": "affiliated lay participants"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "teut-rule-1929",
+    "area": "Teutonic Order",
+    "language": "de",
+    "holding": "Deutscher Orden",
+    "titleOriginal": "Die Regel",
+    "titleEnglish": "The Rule",
+    "url": "https://www.deutscher-orden.at/site/spiritualitaet/regel",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Institutional explanation of the rules approved in 1929 and implementation in 1930, identifying a clerical institute excluding military elements. Relevant to the meaning of modern office insignia and the historical sword.",
+    "glossary": [
+      {
+        "term": "klerikales Institut",
+        "english": "clerical institute"
+      },
+      {
+        "term": "Ordensregel",
+        "english": "rule of the religious order"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "teut-bayard-arms",
+    "area": "Teutonic Order",
+    "language": "de",
+    "holding": "Hochmeisteramt, Deutscher Orden",
+    "titleOriginal": "Hochmeisteramt — Das Wappen",
+    "titleEnglish": "Grand Master’s office: the arms",
+    "url": "https://deutscher-orden.com/hochmeisteramt-2/",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Published description of Frank Bayard’s quartered achievement, connecting personal arms with Köllerbach and explaining mitre, crozier, sword and hat. Retains its dated web context rather than presenting a universal ecclesiastical pattern.",
+    "glossary": [
+      {
+        "term": "Herzschild",
+        "english": "central inescutcheon"
+      },
+      {
+        "term": "Velum",
+        "english": "cloth attached to the crozier"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "teut-office-titles",
+    "area": "Teutonic Order",
+    "language": "de",
+    "holding": "Deutscher Orden",
+    "titleOriginal": "Die Hochmeister",
+    "titleEnglish": "The Grand Masters",
+    "url": "https://deutscher-orden.at/site/geschichte/hochmeister",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Institutional sequence of office titles and holders, including the post-1525 administration and twentieth-century clerical leadership. Useful for identifying what an office seal or inscription actually calls its bearer.",
+    "glossary": [
+      {
+        "term": "Hoch- und Deutschmeister",
+        "english": "combined historical title"
+      },
+      {
+        "term": "Supremus Magister",
+        "english": "Latin title of the superior"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "micro-talossa-grants",
+    "area": "Micronations",
+    "language": "en",
+    "holding": "Kingdom of Talossa, College of Arms",
+    "titleOriginal": "Getting a Talossan Coat of Arms",
+    "titleEnglish": "Talossan petition and recognition procedures",
+    "url": "https://talossa.com/getting-a-talossan-coat-of-arms/",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Issuer’s published account of extraordinary grants, ordinary petitions and recognition of existing arms. Evidence of internal process; officeholder references and recognition policy must be read within the page’s historical context.",
+    "glossary": [
+      {
+        "term": "Squirrel King of Arms",
+        "english": "Talossan heraldic office"
+      },
+      {
+        "term": "recognition",
+        "english": "acceptance within the issuer’s system"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "micro-talossa-armorial",
+    "area": "Micronations",
+    "language": "en",
+    "holding": "Kingdom of Talossa, College of Arms",
+    "titleOriginal": "Armorial of the Kingdom",
+    "titleEnglish": "Talossan armorial categories",
+    "url": "https://talossa.com/royal-civil-service/college-of-arms/armorial-of-the-kingdom/",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "The issuer’s catalogue distinguishes state, corporate, personal and other recognized arms, including returned arms. Its subdivisions reveal an internally articulated heraldic system without demonstrating external recognition of sovereignty.",
+    "glossary": [
+      {
+        "term": "gentry",
+        "english": "category available to the citizenry"
+      },
+      {
+        "term": "abandoned arms",
+        "english": "returned arms retained in the catalogue"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "micro-talossa-government",
+    "area": "Micronations",
+    "language": "en",
+    "holding": "Kingdom of Talossa, College of Arms",
+    "titleOriginal": "Arms of the Government",
+    "titleEnglish": "Government ministry arms",
+    "url": "https://talossa.com/royal-civil-service/college-of-arms/arms-of-the-government/",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Official internal armorial page supplies distinct ministry designs sharing national colors. A primary witness for studying corporate differentiation, identifiable charges and the relationship between a common field and an office.",
+    "glossary": [
+      {
+        "term": "caltrop",
+        "english": "four-pointed defensive obstacle"
+      },
+      {
+        "term": "per fess",
+        "english": "divided horizontally"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "micro-talossa-gentry",
+    "area": "Micronations",
+    "language": "en",
+    "holding": "Kingdom of Talossa, College of Arms",
+    "titleOriginal": "Arms of the Gentry",
+    "titleEnglish": "Named personal grants",
+    "url": "https://talossa.com/royal-civil-service/college-of-arms/arms-of-the-gentry/",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Personal armorial catalogue pairs named bearers, drawings, blazons and grant occasions. Enables close comparison of particular designs, including religious and educational charges, while leaving their symbolism to separately documented explanations.",
+    "glossary": [
+      {
+        "term": "grant occasion",
+        "english": "named date or honours event"
+      },
+      {
+        "term": "dancetty",
+        "english": "zigzag partition line"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "micro-talossa-rules",
+    "area": "Micronations",
+    "language": "en",
+    "holding": "Kingdom of Talossa, College of Arms",
+    "titleOriginal": "Rules of Heraldry",
+    "titleEnglish": "Talossan design rules",
+    "url": "https://talossa.com/royal-civil-service/college-of-arms/rules-of-heraldry/",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Issuer’s rules address recognizability, reconstruction, apparent marshalling, complexity and contrast. Read as this community’s published design policy rather than a code binding all heraldic traditions.",
+    "glossary": [
+      {
+        "term": "complexity metric",
+        "english": "issuer’s numerical design guideline"
+      },
+      {
+        "term": "marshalling",
+        "english": "combination of separate armorial identities"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "micro-talossa-restricted",
+    "area": "Micronations",
+    "language": "en",
+    "holding": "Kingdom of Talossa, College of Arms",
+    "titleOriginal": "Restricted Charges",
+    "titleEnglish": "Talossan restricted-charge list, 2005",
+    "url": "https://talossa.com/royal-civil-service/college-of-arms/restricted-charges/",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "List explicitly dated 7 November 2005 restricts charges associated with status, institutions and offensive movements. Evidence of a historical local policy, whose cultural classifications require critical reading rather than automatic endorsement.",
+    "glossary": [
+      {
+        "term": "reserved charge",
+        "english": "device restricted within this system"
+      },
+      {
+        "term": "presumption",
+        "english": "unsupported claim of entitlement"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "micro-aerica-symbols",
+    "area": "Micronations",
+    "language": "en",
+    "holding": "Aerican Empire",
+    "titleOriginal": "Symbols of the Empire",
+    "titleEnglish": "Aerican flag and coat of arms",
+    "url": "https://www.aericanempire.com/flag.html",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Issuer distinguishes flag variants and the formal coat of arms, retaining a smiling face as a recognisable motif. The page states an attribution-and-link reproduction permission; no artwork is reproduced in this chapter.",
+    "glossary": [
+      {
+        "term": "Imperial seal",
+        "english": "issuer’s institutional identification"
+      },
+      {
+        "term": "ceremonial flag",
+        "english": "elaborate formal version"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "micro-aerica-history",
+    "area": "Micronations",
+    "language": "en",
+    "holding": "Aerican Empire",
+    "titleOriginal": "History of the Empire",
+    "titleEnglish": "Aerican historical chronology",
+    "url": "https://www.aericanempire.com/history.html",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "The issuer’s chronology records adoption of formal arms in May 2015, alongside anniversary activities. Establishes an internal adoption account rather than backdating the coat to the community’s founding.",
+    "glossary": [
+      {
+        "term": "adoption",
+        "english": "issuer’s recorded institutional decision"
+      },
+      {
+        "term": "Solari",
+        "english": "issuer’s currency denomination"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "smom-dalla-torre-2020",
+    "area": "Order of Malta",
+    "language": "en",
+    "holding": "Order of Malta, Australian Hospitaller 2020",
+    "titleOriginal": "Heraldry of the Order of Malta: Arms & Emblems",
+    "titleEnglish": "Dalla Torre armorial example, 2020",
+    "url": "https://www.orderofmalta.int/wp-content/uploads/2022/02/Australian-Hospitaller-2020.pdf",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Dated institutional publication describes the quartered arms of Giacomo Dalla Torre and the Order’s related emblems. Use its personal achievement as a historical example; constitutional article numbering belongs to its earlier edition.",
+    "glossary": [
+      {
+        "term": "quartering",
+        "english": "combination of corporate and personal arms"
+      },
+      {
+        "term": "rosary",
+        "english": "devotional external component"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ar-1944-original",
+    "area": "Argentina",
+    "language": "es",
+    "holding": "Argentina, national legislation portal",
+    "titleOriginal": "Decreto 10.302/1944 — Texto original",
+    "titleEnglish": "Original national-symbol decree, 1944",
+    "url": "https://www.argentina.gob.ar/normativa/nacional/decreto-10302-1944-59311/texto",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Article 5 defines the adopted Argentine escudo through the Assembly seal and separately preserves the annular region for the Great Seal. This original text offers a more precise comparison than a later summary alone.",
+    "glossary": [
+      {
+        "term": "Gran Sello",
+        "english": "Great Seal"
+      },
+      {
+        "term": "región coronaria",
+        "english": "annular region between the ellipses"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ar-buenos-aires",
+    "area": "Argentina",
+    "language": "es",
+    "holding": "Argentina, provincial-symbol information",
+    "titleOriginal": "Símbolos provinciales bonaerenses",
+    "titleEnglish": "Buenos Aires provincial symbols",
+    "url": "https://www.argentina.gob.ar/node/216040",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Official account differentiates Buenos Aires province from national arms through olive and laurel branches and gold fringe. It also describes the 1997 flag process, distinguishing a later flag from the province’s earlier arms.",
+    "glossary": [
+      {
+        "term": "bonaerense",
+        "english": "of Buenos Aires province"
+      },
+      {
+        "term": "flecos",
+        "english": "fringe"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ar-cordoba",
+    "area": "Argentina",
+    "language": "es",
+    "holding": "Argentina, provincial-symbol information",
+    "titleOriginal": "Símbolos provinciales cordobeses",
+    "titleEnglish": "Córdoba provincial symbols",
+    "url": "https://www.argentina.gob.ar/cordoba/simbolos",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Official history traces the provincial arms to the colonial city and notes replacement of flags and a 1925 restoration of form. Retains qualified attribution of authorship rather than turning it into a verified grant transcription.",
+    "glossary": [
+      {
+        "term": "torreón",
+        "english": "fortified tower"
+      },
+      {
+        "term": "coselete",
+        "english": "breastplate-like shield form"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ar-museum-revolution",
+    "area": "Argentina",
+    "language": "es",
+    "holding": "Museo Histórico Nacional",
+    "titleOriginal": "Símbolos — Recorrido autónomo Tiempo de Revolución",
+    "titleEnglish": "Revolutionary symbols in the museum collection",
+    "url": "https://museohistoriconacional.cultura.gob.ar/noticia/simbolos-recorrido-autonomo-tiempo-de-revolucion/",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Museum object account places the Assembly emblem alongside award shields, revolutionary currency and hostile reuse of the liberty cap. Gives a material route into republican symbolism and the ambiguity of escudo as an object term.",
+    "glossary": [
+      {
+        "term": "escudo de premio",
+        "english": "award shield or badge"
+      },
+      {
+        "term": "gorro de la libertad",
+        "english": "liberty cap"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ar-bcra-bicentenary",
+    "area": "Argentina",
+    "language": "es",
+    "holding": "Banco Central de la República Argentina",
+    "titleOriginal": "Bicentenario de la primera moneda patria",
+    "titleEnglish": "First national coin bicentenary",
+    "url": "https://www.bcra.gob.ar/bicentenario-de-la-primera-moneda-patria/",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Issuer’s 2013 commemorative account explains reuse of the 1813 coin, including historical denomination, Potosí mint mark and assayer initial. Allows two dates and two monetary functions to be preserved in one object record.",
+    "glossary": [
+      {
+        "term": "ceca",
+        "english": "mint"
+      },
+      {
+        "term": "ensayador",
+        "english": "assayer"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "mx-puebla-provision",
+    "area": "Mexico",
+    "language": "es",
+    "holding": "Archivo General Municipal de Puebla",
+    "titleOriginal": "Real Provisión de 1538 — Memoria del Mundo México",
+    "titleEnglish": "Puebla armorial provision, 1538",
+    "url": "https://memorias.pueblacapital.gob.mx/component/flexicontent/215-memoria-del-mundo-mexico/2115-proceso-para-la-aprobacion-e-inscripcion-en-el-registro-memoria-del-mundo-mexico",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Custodian describes the illuminated parchment granting Puebla arms on 20 July 1538, its dimensions, text and decorated borders. The palette of the entire document is distinct from the tinctures of the shield itself.",
+    "glossary": [
+      {
+        "term": "Real Provisión",
+        "english": "formal royal instrument"
+      },
+      {
+        "term": "orla",
+        "english": "decorative or enclosing border"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "mx-puebla-modern-award",
+    "area": "Mexico",
+    "language": "es",
+    "holding": "Archivo General Municipal de Puebla",
+    "titleOriginal": "Entrega del Escudo de Armas a Ciudadanos Distinguidos",
+    "titleEnglish": "Modern presentation of the city arms",
+    "url": "https://memorias.pueblacapital.gob.mx/archivo-municipal/item/2121-entrega-del-escudo-de-armas",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Municipal account describes the original provision and the later practice of presenting a copy as a civic distinction. Receiving the object commemorates an honor; it is not automatically a hereditary grant of the city’s arms.",
+    "glossary": [
+      {
+        "term": "copia",
+        "english": "copy"
+      },
+      {
+        "term": "cabildo",
+        "english": "municipal governing council"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "mx-republic-coins",
+    "area": "Mexico",
+    "language": "es",
+    "holding": "Banco de México",
+    "titleOriginal": "Herencia Numismática de México — Serie I",
+    "titleEnglish": "Mexican numismatic heritage, series one",
+    "url": "https://www.banxico.org.mx/billetes-y-monedas/herencia-numismatica-mexico-s.html",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Issuer’s commemorative collection describes an 1824 republican eight-real coin and the 1823 decision pairing national arms with a radiant liberty cap. Distinguish the historical prototype from the modern commemorative denomination.",
+    "glossary": [
+      {
+        "term": "resplandor",
+        "english": "radiance"
+      },
+      {
+        "term": "troquel",
+        "english": "coin die"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "mx-gold-law-coin",
+    "area": "Mexico",
+    "language": "es",
+    "holding": "Banco de México",
+    "titleOriginal": "Herencia Numismática de México — Serie II",
+    "titleEnglish": "Mexican numismatic heritage, series two",
+    "url": "https://www.banxico.org.mx/billetes-y-monedas/herencia-numismatica-mexico-s001.html",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Issuer describes republican gold coins bearing national arms and a hand holding a liberty cap above an open law code. A concrete material case of political symbolism paired with denomination, mint and metal specification.",
+    "glossary": [
+      {
+        "term": "manita",
+        "english": "popular name referring to the small hand"
+      },
+      {
+        "term": "fineza",
+        "english": "fineness of precious metal"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "cl-model-1920",
+    "area": "Chile",
+    "language": "es",
+    "holding": "Biblioteca del Congreso Nacional",
+    "titleOriginal": "Decreto 2271 de 1920",
+    "titleEnglish": "Official model of the Chilean arms, 1920",
+    "url": "https://www.bcn.cl/leychile/navegar?idNorma=1016221",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Original decree makes the General Staff’s submitted design the official model and identifies its archival custody. Provides an act of standardization distinct from the 1834 establishment of the arms.",
+    "glossary": [
+      {
+        "term": "modelo oficial",
+        "english": "official model"
+      },
+      {
+        "term": "Estado Mayor General",
+        "english": "General Staff"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "cl-emblems-1967",
+    "area": "Chile",
+    "language": "es",
+    "holding": "Biblioteca del Congreso Nacional",
+    "titleOriginal": "Decreto 1534 de 1967",
+    "titleEnglish": "National emblems and use regulation",
+    "url": "https://www.bcn.cl/leychile/navegar?idNorma=18035",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Legal text collects emblem provisions and describes the arms with the motto and the 1920 model reference. Its stated motive of consolidating scattered rules is itself evidence of administrative standardization.",
+    "glossary": [
+      {
+        "term": "encaracolado",
+        "english": "ornamental scrollwork base"
+      },
+      {
+        "term": "corona naval",
+        "english": "naval crown"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "co-sandstone-arms",
+    "area": "Colombia",
+    "language": "es",
+    "holding": "Museo Nacional de Colombia",
+    "titleOriginal": "Escudo de la Nueva Granada — Pieza del mes, octubre 2010",
+    "titleEnglish": "New Granada arms in sandstone",
+    "url": "https://www.museonacional.gov.co/colecciones/Pieza_del_mes/pieza-del-mes-2010/Paginas/Pieza%20mes%20octubre%202010.aspx",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Museum collection record identifies an anonymous sandstone carving dated approximately 1834, registration 1102. Its object metadata supports a material study; broader historical claims should be compared with statutory witnesses.",
+    "glossary": [
+      {
+        "term": "talla",
+        "english": "carving"
+      },
+      {
+        "term": "arenisca",
+        "english": "sandstone"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "jm-library-symbols",
+    "area": "Jamaica",
+    "language": "en",
+    "holding": "National Library of Jamaica",
+    "titleOriginal": "Jamaican National Symbols",
+    "titleEnglish": "Jamaican arms and historical dating",
+    "url": "https://nlj.gov.jm/jamaican-national-symbols/",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Library account discusses the February 1661/1662 dating issue, official changes and details specified in a color sketch beyond the word proper. Useful for comparing verbal specification, image and chronological convention.",
+    "glossary": [
+      {
+        "term": "Old Style",
+        "english": "historical dating convention"
+      },
+      {
+        "term": "proper",
+        "english": "natural colors, interpreted with an approved model"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "au-nsw-arms",
+    "area": "Australia",
+    "language": "en",
+    "holding": "Parliament of New South Wales",
+    "titleOriginal": "Coat of Arms",
+    "titleEnglish": "New South Wales achievement",
+    "url": "https://education.parliament.nsw.gov.au/history-article/coat-of-arms/",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Parliament’s account describes the state’s cross, fleece, wheat, rising sun and supporters and records its later installation in the Legislative Council chamber. Distinguishes an early grant from a much later change of public display.",
+    "glossary": [
+      {
+        "term": "voided",
+        "english": "interior removed or differently colored"
+      },
+      {
+        "term": "garb",
+        "english": "wheat sheaf"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "au-nsw-flag",
+    "area": "Australia",
+    "language": "en",
+    "holding": "New South Wales Government",
+    "titleOriginal": "State flag",
+    "titleEnglish": "NSW flag badge and state arms",
+    "url": "https://www.nsw.gov.au/about-nsw/nsw-protocol/state-flag",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Official page supplies descriptions of the state flag badge and full state achievement, allowing their differences to be compared. Contains the historical warrant wording; it is not a new warrant for every modern reproduction.",
+    "glossary": [
+      {
+        "term": "passant guardant",
+        "english": "walking with head turned to the viewer"
+      },
+      {
+        "term": "mullet",
+        "english": "heraldic star"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "au-irish-grants",
+    "area": "Australia and New Zealand",
+    "language": "en",
+    "holding": "State Library of New South Wales, Australian Joint Copying Project M984",
+    "titleOriginal": "Genealogical Office — Grants and confirmations of arms, 1854–1940",
+    "titleEnglish": "Irish grant records concerning Australasia",
+    "url": "https://archival.sl.nsw.gov.au/Details/archive/110323116",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Archival catalogue identifies microfilmed Dublin grants and confirmations concerning named Australians and New Zealanders. A concrete research route into private armory, distinct from national and state public devices.",
+    "glossary": [
+      {
+        "term": "confirmation",
+        "english": "recorded recognition of an armorial claim"
+      },
+      {
+        "term": "microfilm",
+        "english": "copying medium for the archival witnesses"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "au-war-memorial-symbols",
+    "area": "Australia",
+    "language": "en",
+    "holding": "Australian War Memorial",
+    "titleOriginal": "Forging the Nation — Symbols",
+    "titleEnglish": "Federation-era national symbols",
+    "url": "https://www.awm.gov.au/visit/exhibitions/forging/identity/symbols",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Museum account situates the Commonwealth arms alongside flags, money and stamps, and notes the altered emu pose in 1912. Provides a material and institutional comparison without collapsing all national symbols into arms.",
+    "glossary": [
+      {
+        "term": "supporter",
+        "english": "figure flanking and supporting the shield"
+      },
+      {
+        "term": "federation",
+        "english": "union represented by Commonwealth symbols"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "nz-carved-series",
+    "area": "New Zealand",
+    "language": "en",
+    "holding": "Government House, Governor-General of New Zealand",
+    "titleOriginal": "Carved coats of arms",
+    "titleEnglish": "Government House carved armorial series",
+    "url": "https://gg.govt.nz/government-house/government-house-wellington/artwork-and-artifacts/carved-coats-arms",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Custodial description of carved personal achievements displayed in the entrance hall beside Taranaki-style carved pou. A material series connecting individual officeholders with a shared institutional setting.",
+    "glossary": [
+      {
+        "term": "Taupaepae",
+        "english": "entrance hall named in this setting"
+      },
+      {
+        "term": "pou",
+        "english": "carved pillars or posts"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "nz-personal-elements",
+    "area": "New Zealand",
+    "language": "en",
+    "holding": "Government House, Governor-General of New Zealand",
+    "titleOriginal": "New Zealand elements",
+    "titleEnglish": "Local references in personal achievements",
+    "url": "https://gg.govt.nz/government-house/government-house-wellington/artwork-and-artifacts/carved-coats-arms/nz-elements",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Institutional interpretations of selected Governors-General’s personal arms, including Māori affiliations, careers and local fauna. Claims of priority should be understood within the displayed series rather than extended to all heraldry worldwide.",
+    "glossary": [
+      {
+        "term": "pīwakawaka",
+        "english": "fantail"
+      },
+      {
+        "term": "kōtuku",
+        "english": "white heron"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "nz-reeves-tangi",
+    "area": "New Zealand",
+    "language": "en",
+    "holding": "Governor-General of New Zealand, address of 2011",
+    "titleOriginal": "Sir Paul Reeves tangi",
+    "titleEnglish": "Tribute to Sir Paul Reeves",
+    "url": "https://gg.govt.nz/publications/sir-paul-reeves-tangi",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Dated tribute explains Reeves’s motto Whakarongo and the carved pou at Government House through listening and Māori presence. Supplies an additional institutional interpretation of personal identity and public setting.",
+    "glossary": [
+      {
+        "term": "Whakarongo",
+        "english": "listen"
+      },
+      {
+        "term": "tangi",
+        "english": "funerary mourning gathering"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "nz-wars-flags",
+    "area": "New Zealand",
+    "language": "en",
+    "holding": "Manatū Taonga, NZHistory",
+    "titleOriginal": "NZ Wars flags",
+    "titleEnglish": "Flags in the nineteenth-century wars",
+    "url": "https://nzhistory.govt.nz/war/nzwars/flags",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Government historical account distinguishes King Movement, Pai Mārire and Te Kooti flag practices and flags presented to government allies. Demonstrates several Indigenous forms of authority rather than one generic Māori emblem.",
+    "glossary": [
+      {
+        "term": "mana",
+        "english": "authority or prestige in the account’s context"
+      },
+      {
+        "term": "tapu",
+        "english": "sacred or restricted status"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "za-act-original",
+    "area": "South Africa",
+    "language": "en",
+    "holding": "South African Government, original Gazette act",
+    "titleOriginal": "Heraldry Act 18 of 1962",
+    "titleEnglish": "Original Heraldry Act",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/201505/act-18-1962.pdf",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Original enactment establishes a bureau and council and defines coats, badges and other emblems. Its historical geographical and administrative language must be read with later amendments, not treated as a current consolidated text.",
+    "glossary": [
+      {
+        "term": "State Herald",
+        "english": "statutory officer"
+      },
+      {
+        "term": "other emblem",
+        "english": "statutory category beyond coats and badges"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "za-bureau-faq",
+    "area": "South Africa",
+    "language": "en",
+    "holding": "National Archives and Records Service of South Africa",
+    "titleOriginal": "Frequently Asked Questions — Heraldry",
+    "titleEnglish": "Heraldic registration guidance",
+    "url": "https://www.nationalarchives.gov.za/frequently-asked-questions",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Institutional guidance describes design, publication, objections and registration, and reports a temporary suspension for foreign nationals. Administrative status and fees can change; the chapter dates this observation and does not offer application advice.",
+    "glossary": [
+      {
+        "term": "notice of application",
+        "english": "published proposed registration"
+      },
+      {
+        "term": "Heraldry Council",
+        "english": "body receiving appeals"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "za-linton-panel",
+    "area": "South Africa",
+    "language": "en",
+    "holding": "Iziko Museums of South Africa",
+    "titleOriginal": "Archaeology — Linton Panel",
+    "titleEnglish": "Linton Panel in the museum collection",
+    "url": "https://www.iziko.org.za/collection/archaeology/",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Custodian describes the San rock-art panel and the incorporation of a figure into the national arms. The archaeological object and the modern state composition have different contexts and interpretive purposes.",
+    "glossary": [
+      {
+        "term": "San rock art",
+        "english": "source material for the selected figure"
+      },
+      {
+        "term": "panel",
+        "english": "surviving painted rock surface"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "za-wits-exhibition",
+    "area": "South Africa",
+    "language": "en",
+    "holding": "University of the Witwatersrand, Rock Art Research Institute",
+    "titleOriginal": "Diverse people unite exhibition hosted at Wits",
+    "titleEnglish": "Exhibition on the national arms and rock art, 2021",
+    "url": "https://www.wits.ac.za/news/latest-news/general-news/2021/2021-12/diverse-people-unite-exhibition-hosted-at-wits.html",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Research institution’s exhibition account links the Linton Panel, the 2000 coat and the motto. Provides a contemporary scholarly public interpretation rather than assigning the modern national meaning to the original painting.",
+    "glossary": [
+      {
+        "term": "Rock Art Research Institute",
+        "english": "research body interpreting the panel"
+      },
+      {
+        "term": "recontextualization",
+        "english": "new use in the state emblem"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "au-sydney-arms",
+    "area": "Australia",
+    "language": "en",
+    "holding": "University of Sydney",
+    "titleOriginal": "Our motto and coat of arms",
+    "titleEnglish": "University of Sydney arms",
+    "url": "https://www.sydney.edu.au/about-us/our-story/our-motto-and-coat-of-arms.html",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "University account identifies the 1857 grant, modernized 2010 rendering and connections with English university imagery. The blue-cross origin is qualified as probable and should remain so in historical interpretation.",
+    "glossary": [
+      {
+        "term": "Sidere mens eadem mutato",
+        "english": "Latin motto with several translations"
+      },
+      {
+        "term": "open book",
+        "english": "charge associated with learning"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "au-melbourne-seal-arms",
+    "area": "Australia",
+    "language": "en",
+    "holding": "University of Melbourne Archives",
+    "titleOriginal": "Key 4: The University Seal / Grant of Arms / Letters Patent / Ceremonial Mace",
+    "titleEnglish": "Melbourne seal and corporate arms",
+    "url": "https://library.unimelb.edu.au/asc/collections/archives/resources/research-guides/keys-to-the-past/keys/key-4",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Archive history distinguishes early seals, the armorial parchment received in 1863 and degree-recognition letters patent of 1859. The winged Victory and stars provide a concrete corporate design whose legal acts should not be conflated.",
+    "glossary": [
+      {
+        "term": "Victory",
+        "english": "winged personification used in the arms"
+      },
+      {
+        "term": "letters patent",
+        "english": "formal instrument whose particular purpose must be identified"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "nz-auckland-calendar-1993",
+    "area": "New Zealand",
+    "language": "en",
+    "holding": "University of Auckland, Calendar 1993",
+    "titleOriginal": "Arms of the University of Auckland",
+    "titleEnglish": "University armorial record in the 1993 calendar",
+    "url": "https://www.auckland.ac.nz/assets/about-us/about-the-university/the-university/official-publications/university-calendar/archive/1990-1999/1993-calendar.pdf",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Dated institutional calendar transcribes the 1962 grant and describes the open book, stars and kiwi-bearing wavy chief. Retains a particular published witness of the grant rather than claiming direct inspection of the original patent.",
+    "glossary": [
+      {
+        "term": "chief wavy",
+        "english": "upper strip with an undulating lower edge"
+      },
+      {
+        "term": "Ingenio et Labore",
+        "english": "by natural ability and hard work"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "nz-auckland-current-arms",
+    "area": "New Zealand",
+    "language": "en",
+    "holding": "University of Auckland",
+    "titleOriginal": "Arms of the University of Auckland",
+    "titleEnglish": "Present university explanation and logo relationship",
+    "url": "https://www.auckland.ac.nz/en/about-us/about-the-university/the-university/official-publications/university-calendar/current-calendar/general-information/arms.html",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Institution explains the shield’s components and its incorporation into a logo with wordmark and graphic elements. Loose use of crest in the page should not override the structural distinction between shield, motto and crest.",
+    "glossary": [
+      {
+        "term": "proper",
+        "english": "natural colors"
+      },
+      {
+        "term": "wordmark",
+        "english": "typographic identifying element"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "nz-tizard-eulogy",
+    "area": "New Zealand",
+    "language": "en",
+    "holding": "Governor-General of New Zealand",
+    "titleOriginal": "Eulogy for Dame Cath Tizard",
+    "titleEnglish": "Institutional reading of Tizard’s humorous achievement",
+    "url": "https://gg.govt.nz/publications/eulogy-dame-cath-tizard",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "The eulogy interprets the cat-among-pigeons carving through Tizard’s role as the first female Governor-General and readiness to question tradition. Provides a dated reception witness distinct from the original armorial grant.",
+    "glossary": [
+      {
+        "term": "cat among the pigeons",
+        "english": "idiom realized through crest and supporters"
+      },
+      {
+        "term": "eulogy",
+        "english": "later commemorative interpretation"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "za-national-registration-2000",
+    "area": "South Africa",
+    "language": "en",
+    "holding": "Bureau of Heraldry, Government Gazette 21131, Notice 425, 28 April 2000",
+    "titleOriginal": "Notice of registration / Kennisgewing van registrasie",
+    "titleEnglish": "National arms registration notice, 2000",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/201409/21131.pdf",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Original bilingual Gazette notice registers the national arms and specifies red ochre, Orange and Brunatre alongside standard tinctures. PDF image inspected to check forms obscured by OCR, including the motto’s click notation.",
+    "glossary": [
+      {
+        "term": "Brunatre",
+        "english": "brown"
+      },
+      {
+        "term": "red ochre",
+        "english": "specified color of the San figures"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "za-national-register-old",
+    "area": "South Africa",
+    "language": "af",
+    "holding": "National Archives, Bureau of Heraldry, ZA HER #_#_152_#",
+    "titleOriginal": "Republiek van Suid-Afrika / Republic of South Africa — earlier arms",
+    "titleEnglish": "Earlier national achievement in the register",
+    "url": "https://www.nationalarchives.gov.za/node/8450654",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Bilingual register record identifies the 1910 royal warrant, 1932 embellished achievement and 1968 registration certificate, with the four-part shield and supporters. It preserves successive acts rather than one undifferentiated national-arms date.",
+    "glossary": [
+      {
+        "term": "wapen",
+        "english": "coat of arms"
+      },
+      {
+        "term": "helmteken",
+        "english": "crest"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "za-wits-arms",
+    "area": "South Africa",
+    "language": "en",
+    "holding": "University of the Witwatersrand",
+    "titleOriginal": "Coat of Arms",
+    "titleEnglish": "Wits corporate arms and mining-school ancestry",
+    "url": "https://www.wits.ac.za/about-wits/history-and-heritage/coat-of-arms/",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "University account follows mining-school devices into the book, cogwheel, river bars and kudu crest and dates State Herald acceptance to 1972. A named corporate case connecting institutional transformation with revised heraldic composition.",
+    "glossary": [
+      {
+        "term": "bars wavy",
+        "english": "horizontal undulating bands"
+      },
+      {
+        "term": "kudu",
+        "english": "antelope represented in the crest"
       }
     ],
     "accessed": "2026-10-11",
