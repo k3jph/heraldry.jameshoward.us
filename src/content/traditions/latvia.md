@@ -169,8 +169,6 @@ Add an invented private-association example, explicitly labelled as hypothetical
 
 <details class="research-answer"><summary>What makes the audit useful?</summary><p>It resolves specific claims with appropriate witnesses. It does not treat every official English sentence as a controlling blazon, every armorial picture as a registration, or every shared motif as a shared bearer. The final account preserves the national, civic and private categories while explaining the common visual grammar through concrete designs.</p></details>
 
-
-
 <aside class="editorial-notice" aria-label="Editorial note">
 <p><strong>Scholarly status:</strong> An initial comparative chapter based on original Latvian legislation, not a definitive account of all private and civic heraldry across Latvian history. Specialist translation and legal review remain open.</p>
 </aside>

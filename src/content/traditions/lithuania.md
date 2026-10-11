@@ -167,8 +167,6 @@ Then write an argument about continuity. Which features support identification o
 
 <details class="research-answer"><summary>What should the argument preserve?</summary><p>Vytis remains a historically identified mounted-knight emblem while particular standards have dates, colours and forms. Kaunas city arms must be distinguished from a guberniya achievement used in the city. Vilnius’s sacred figure represents a civic bearer. The corrected English synthesis uses the original descriptions and models to preserve those relationships, rather than allowing mistranslated nouns to invent new charges.</p></details>
 
-
-
 <aside class="editorial-notice" aria-label="Editorial note">
 <p><strong>Status:</strong> Original research introduction based on official legislative material. It does not claim to be a specialist critical history of Lithuanian medieval armory. Primary artifact cataloguing and Lithuanian-language scholarly review remain future tasks.</p>
 </aside>

@@ -170,8 +170,6 @@ Add one material witness, such as a seal or documented object. Record whether it
 
 <details class="research-answer"><summary>What should the graph make visible?</summary><p>A shared armorial identity can connect several lines through documented affiliation while their pedigrees remain separate. A seal can depict a founder’s arms yet function as a city’s authenticating object. A later edition can report older material while adding its own interpretation. Each relationship has a source and a type, so the database does not turn visual similarity or name matching into undocumented descent.</p></details>
 
-
-
 <aside class="editorial-notice" aria-label="Editorial note">
 <p><strong>Editorial status:</strong> Original English synthesis supported by linked sources. Scope and interpretive assumptions are explicit. Specialist and, where relevant, community review remain to be completed.</p>
 </aside>

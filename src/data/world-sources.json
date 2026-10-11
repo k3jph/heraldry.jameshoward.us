@@ -9502,5 +9502,1207 @@
     "accessed": "2026-10-11",
     "reviewStatus": "editorially synthesized; independent specialist review pending",
     "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ru-titulyarnik-edition",
+    "area": "Russia",
+    "language": "ru",
+    "holding": "Президентская библиотека имени Б. Н. Ельцина",
+    "titleOriginal": "Портреты, гербы и печати Большой государственной книги 1672 г.",
+    "titleEnglish": "1903 edition of portraits, arms and seals from the 1672 state book",
+    "url": "https://www.prlib.ru/item/744201",
+    "kind": "catalogue of a historical edition",
+    "authority": "national presidential library",
+    "englishSynopsis": "The catalogue records a Saint Petersburg Archaeological Institute publication of 1903 concerning the 1672 state book, with 97 illustrated leaves. The printing, the older manuscript material and present reading-room access are separate facts; no unrestricted online full-text access is implied.",
+    "glossary": [
+      {
+        "term": "Большая государственная книга",
+        "english": "Great State Book"
+      },
+      {
+        "term": "лист",
+        "english": "leaf"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ru-titulyarnik-research",
+    "area": "Russia",
+    "language": "ru",
+    "holding": "Е. В. Пчелов / Вестник архивиста, 2021, № 3, с. 665–674",
+    "titleOriginal": "Территориальная геральдика Московского царства в «Титулярнике» 1672 г.",
+    "titleEnglish": "Territorial heraldry in the 1672 Titulyarnik",
+    "url": "https://gerboved.ru/pdf/Pchelov-2021-Titulyarnik.pdf",
+    "kind": "research article",
+    "authority": "specialist historical research",
+    "englishSynopsis": "Pchelov analyses the territorial emblems organized through the ruler’s title, comparing the Titulyarnik with earlier state-seal representation and subsequent changes. The argument treats the book as a structured political compilation with several surviving copies, rather than an undifferentiated national armorial.",
+    "glossary": [
+      {
+        "term": "титульная геральдика",
+        "english": "titular heraldry"
+      },
+      {
+        "term": "территориальный титул",
+        "english": "territorial title"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ru-beaker",
+    "area": "Russia / Austria",
+    "language": "en",
+    "holding": "The Metropolitan Museum of Art",
+    "titleOriginal": "Beaker with Imperial Russian Arms",
+    "titleEnglish": "Viennese porcelain with Russian armorial panels",
+    "url": "https://www.metmuseum.org/art/collection/search/207127",
+    "kind": "museum object record",
+    "authority": "museum collection catalogue",
+    "englishSynopsis": "The Met identifies Viennese hard-paste porcelain, circa 1735, accession 1982.60.240, with six Russian city arms. Its proposed gift from Charles VI to Anna Ivanovna remains qualified as probable, demonstrating how provenance interpretation differs from visible armorial content.",
+    "glossary": [
+      {
+        "term": "armorial panel",
+        "english": "compartment displaying arms"
+      },
+      {
+        "term": "hard-paste porcelain",
+        "english": "a ceramic material"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ru-state-law",
+    "area": "Russia",
+    "language": "ru",
+    "holding": "Федеральный конституционный закон, текст в базе КонсультантПлюс",
+    "titleOriginal": "О Государственном гербе Российской Федерации, 25.12.2000, № 2-ФКЗ",
+    "titleEnglish": "State-arms law of 2000, with amendments",
+    "url": "https://www.consultant.ru/document/cons_doc_LAW_29674/",
+    "kind": "statutory text",
+    "authority": "enacted legislation reproduced in a legal database",
+    "englishSynopsis": "The reproduced statutory text specifies the gold double eagle, crowns, sceptre, orb and breast shield with a mounted dragon-slayer. The text has amendments, including December 2025. This is the law reproduced in a commercial legal database, not the database’s independent authority to define arms.",
+    "glossary": [
+      {
+        "term": "держава",
+        "english": "orb"
+      },
+      {
+        "term": "всадник",
+        "english": "rider"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ru-crosses-2025",
+    "area": "Russia",
+    "language": "ru",
+    "holding": "Федеральный конституционный закон № 7-ФКЗ, 29.12.2025",
+    "titleOriginal": "О внесении изменения в статью 1 закона «О Государственном гербе Российской Федерации»",
+    "titleEnglish": "2025 amendment specifying the crosses",
+    "url": "https://storage.consultant.ru/site20/202512/29/fkz_291225-7.pdf",
+    "kind": "legislative amendment",
+    "authority": "published enacted statutory text",
+    "englishSynopsis": "The published legislative text adds an explicit description of equal-armed four-ended crosses with expanding ends above the small crowns, large crown and orb. It is a dated amendment to the wording, not evidence that the graphic motif first appeared in 2025.",
+    "glossary": [
+      {
+        "term": "равноконечный",
+        "english": "equal-armed"
+      },
+      {
+        "term": "расширяющиеся концы",
+        "english": "expanding ends"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ru-moscow-law",
+    "area": "Russia",
+    "language": "ru",
+    "holding": "Москва, Закон города № 39 от 11.06.2003",
+    "titleOriginal": "О гербе города Москвы",
+    "titleEnglish": "Moscow’s civic arms law",
+    "url": "https://www.mos.ru/upload/documents/files/3808/ZakongorodaMoskviogerbe39ot11062003g.pdf",
+    "kind": "city law",
+    "authority": "official municipal publication",
+    "englishSynopsis": "The city-law witness explicitly identifies Saint George, his silver armour, blue cloak, silver horse and gold spear on a dark-red shield. Its named saint and spear tincture permit a precise comparison with the mounted figure described in the federal state arms.",
+    "glossary": [
+      {
+        "term": "Святой Георгий Победоносец",
+        "english": "Saint George the Victorious"
+      },
+      {
+        "term": "копьё",
+        "english": "spear"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ru-moscow-register",
+    "area": "Russia",
+    "language": "ru",
+    "holding": "Правительство Москвы",
+    "titleOriginal": "Положение о Геральдическом реестре города Москвы",
+    "titleEnglish": "Moscow heraldic register framework",
+    "url": "https://www.mos.ru/upload/documents/files/1376/PPM1095OGeraldicheskomreestre.pdf",
+    "kind": "registration framework",
+    "authority": "official municipal publication",
+    "englishSynopsis": "The published framework distinguishes Moscow state symbols, municipal emblems and official insignia, with registration connected to the Russian Federation’s state heraldic register. It concerns public symbols; it is not a modern grant register for every private family shield.",
+    "glossary": [
+      {
+        "term": "реестр",
+        "english": "register"
+      },
+      {
+        "term": "муниципальное образование",
+        "english": "municipal formation"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "cz-state-symbols",
+    "area": "Czech Republic",
+    "language": "cs",
+    "holding": "Office of the President of the Czech Republic",
+    "titleOriginal": "Státní symboly",
+    "titleEnglish": "State symbols",
+    "url": "https://www.hrad.cz/cs/ceska-republika/statni-symboly",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Presidential explanation distinguishes the greater quartered arms, the lesser Bohemian lion, national flag, presidential standard and state seal. Its descriptions specify the tails, eagle checkering and Silesian crescent; territorial composition and different official formats can be studied without treating every national symbol as an identical drawing.",
+    "glossary": [
+      {
+        "term": "velký státní znak",
+        "english": "greater state arms"
+      },
+      {
+        "term": "malý státní znak",
+        "english": "lesser state arms"
+      },
+      {
+        "term": "orlice",
+        "english": "heraldic eagle"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "cz-moravian-colours",
+    "area": "Czech Republic",
+    "language": "cs",
+    "holding": "Ministry of the Interior of the Czech Republic",
+    "titleOriginal": "Historie, moravské barvy a moravská vlajka",
+    "titleEnglish": "History, Moravian colours and the Moravian flag",
+    "url": "https://mv.gov.cz/volby/clanek/historie-moravske-barvy-a-moravska-vlajka.aspx",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Institutional historical argument distinguishes the contested 1462 privilege, later estate usage, the 1915 authorization for Moravian self-government and the territorial arms. Its legal interpretation should be attributed rather than silently universalized; it supplies evidence for studying why red-and-gold and red-and-silver eagles occur in different contexts.",
+    "glossary": [
+      {
+        "term": "zemský znak",
+        "english": "territorial arms"
+      },
+      {
+        "term": "stavové",
+        "english": "estates"
+      },
+      {
+        "term": "polepšení",
+        "english": "augmentation"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "cz-brno-statute",
+    "area": "Czech Republic",
+    "language": "cs",
+    "holding": "City of Brno",
+    "titleOriginal": "Statut pro užívání znaku, vlajky a loga města Brna",
+    "titleEnglish": "Statute governing the use of Brno’s arms, flag and logo",
+    "url": "https://www.brno.cz/documents/20121/282475/Statut%20pro%20u%C5%BE%C3%ADv%C3%A1n%C3%AD%20znaku%20vlajky%20a%20loga%20m%C4%9Bsta%20Brna%20znak%C5%AF%20a%20vlajek%20m%C4%9Bstsk%C3%BDch%20%C4%8D%C3%A1st%C3%AD.pdf/06638232-2cb2-8591-d1d2-749c42c5bcb2",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Municipal statute defines the silver-and-red divided shield, unequal stripe proportions and several authorized colour and monochrome treatments. It explicitly distinguishes graphical outlines from heraldic content, making Brno a precise case for comparing a blazon with a modern construction specification.",
+    "glossary": [
+      {
+        "term": "šrafování",
+        "english": "hatching"
+      },
+      {
+        "term": "blason",
+        "english": "blazon"
+      },
+      {
+        "term": "pruh",
+        "english": "stripe"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "cz-brno-history",
+    "area": "Czech Republic",
+    "language": "cs",
+    "holding": "Brněnský metropolitan, City of Brno, January 2012",
+    "titleOriginal": "Znak — Brněnský metropolitan",
+    "titleEnglish": "Brno’s coat of arms: historical explanation",
+    "url": "https://cosedeje.brno.cz/documents/317111/790752/BM_1201.pdf/e10758d9-1798-fb6c-9d76-c83304c94a44?t=1671363847264",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Municipal periodical traces the 1315 seal, Ferdinand III’s 1646 augmentation and an inversion of colours in the painted privilege, followed by twentieth-century returns to different forms. It also labels the rivers explanation as a legend with an unidentified origin. The article is a civic historical account, not the original grant.",
+    "glossary": [
+      {
+        "term": "pečeť",
+        "english": "seal"
+      },
+      {
+        "term": "znakové privilegium",
+        "english": "armorial privilege"
+      },
+      {
+        "term": "pověst",
+        "english": "legend"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "cz-moravian-silesian-region",
+    "area": "Czech Republic",
+    "language": "cs",
+    "holding": "Chamber of Deputies, REKOS",
+    "titleOriginal": "Symboly Moravskoslezského kraje",
+    "titleEnglish": "Symbols of the Moravian-Silesian Region",
+    "url": "https://www.rekos.psp.cz/symboly-moravskoslezskeho-kraje",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Official register supplies separate descriptions of the region’s arms and flag, with decision number 13 dated 13 November 2002. The quartered regional device combines territorial eagles, the Ostrava horse and rose, and an additional divided field. Flag geometry is specified independently rather than assumed from a cropped shield.",
+    "glossary": [
+      {
+        "term": "čtvrcený",
+        "english": "quartered"
+      },
+      {
+        "term": "žerďový",
+        "english": "at the hoist"
+      },
+      {
+        "term": "vlající",
+        "english": "at the fly"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "sk-government-symbols",
+    "area": "Slovakia",
+    "language": "sk",
+    "holding": "Office of the Government of the Slovak Republic",
+    "titleOriginal": "Štátny znak",
+    "titleEnglish": "State coat of arms",
+    "url": "https://www.vlada.gov.sk/slovensko/statny-znak/",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Government explanation connects the sign with the revolutionary period of 1848–1849 and interprets the triple mount and double cross in national and Christian terms. It repeats statutory graphic requirements and supplies downloadable models. The historical interpretation and the binding description are related but should be cited as different types of statement.",
+    "glossary": [
+      {
+        "term": "trojvršie",
+        "english": "triple mount"
+      },
+      {
+        "term": "dvojkríž",
+        "english": "double cross"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "sk-bratislava",
+    "area": "Slovakia",
+    "language": "sk",
+    "holding": "City of Bratislava",
+    "titleOriginal": "Symboly mesta",
+    "titleEnglish": "Symbols of the city",
+    "url": "https://bratislava.sk/mesto-bratislava/sprava-mesta/vizualna-identita/symboly-mesta",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "City describes its silver three-towered fortification on red with a partly raised gold portcullis and explicitly rejects a literal identification with Bratislava Castle or three named city gates. It explains civic uses and distinguishes the arms, swallow-tailed banner and bilingual seal.",
+    "glossary": [
+      {
+        "term": "opevnenie",
+        "english": "fortification"
+      },
+      {
+        "term": "mreže",
+        "english": "portcullis or bars in this description"
+      },
+      {
+        "term": "zástava",
+        "english": "banner"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "sk-kosice-1369",
+    "area": "Slovakia",
+    "language": "sk",
+    "holding": "City of Košice",
+    "titleOriginal": "Erb mesta Košice — Prvá erbová listina",
+    "titleEnglish": "Košice’s first armorial charter",
+    "url": "https://www.mapa.kosice.sk/mesto/erb-mesta-kosice-prva-erbova-listina",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "City publishes the Latin text and Slovak translation of Louis I’s charter of 7 May 1369. The transcription’s colour term in the upper band should be compared with the translated reading and surviving witness rather than silently corrected. The civic privileges concern specified seals and a banner, providing an unusually concrete medieval corporate grant.",
+    "glossary": [
+      {
+        "term": "erbová listina",
+        "english": "armorial charter"
+      },
+      {
+        "term": "ľalia",
+        "english": "lily or fleur-de-lis"
+      },
+      {
+        "term": "privilégium",
+        "english": "privilege"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "sk-kosice-1502",
+    "area": "Slovakia",
+    "language": "sk",
+    "holding": "City of Košice",
+    "titleOriginal": "Erb mesta Košice — Štvrtá erbová listina",
+    "titleEnglish": "Košice’s fourth armorial charter",
+    "url": "https://www.kosice.sk/mesto/erb-mesta-kosice-stvrta-erbova-listina",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Civic account identifies Vladislaus II’s charter of 8 December 1502, alterations to the shield and a fuller achievement with helmet, crest and mantling. It distinguishes use by custom from use by privilege and notes the subsequent 1504 seal matrix. A sequence of civic grants can be investigated without projecting today’s borders onto the medieval kingdom.",
+    "glossary": [
+      {
+        "term": "klenot",
+        "english": "crest"
+      },
+      {
+        "term": "prikrývadlá",
+        "english": "mantling"
+      },
+      {
+        "term": "obyčaj",
+        "english": "custom"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "hu-fundamental-law-2020",
+    "area": "Hungary",
+    "language": "en",
+    "holding": "Hungarian National Assembly, English version dated 23 December 2020",
+    "titleOriginal": "The Fundamental Law of Hungary",
+    "titleEnglish": "The Fundamental Law of Hungary, dated English witness",
+    "url": "https://www.parlament.hu/documents/125505/138409/Fundamental%2Blaw/73811993-c377-428d-9808-ee03d6fb8178",
+    "kind": "dated constitutional translation",
+    "authority": "official institution",
+    "englishSynopsis": "Dated parliamentary English translation states the pointed divided shield, eight red-and-silver horizontal bars, silver patriarchal cross issuing from a crown on a green triple mount and the Holy Crown above the shield. Use the version date when citing it; the English left/right wording should be reconciled with heraldic orientation.",
+    "glossary": [
+      {
+        "term": "coat of arms",
+        "english": "formal national armorial device"
+      },
+      {
+        "term": "Holy Crown",
+        "english": "specific Hungarian regalia represented above the shield"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "hu-coronation-mantle",
+    "area": "Hungary",
+    "language": "en",
+    "holding": "Hungarian National Museum",
+    "titleOriginal": "Coronation Mantle",
+    "titleEnglish": "Coronation mantle: object history",
+    "url": "https://mnm.hu/en/exhibitions/coronation-mantle-currently-closed-visitors",
+    "kind": "museum object interpretation",
+    "authority": "official institution",
+    "englishSynopsis": "Museum records the mantle’s origin as a chasuble commissioned by Stephen and Gisela in 1031, its Byzantine silk and gold embroidery, and later conversion for coronation use. The dedicatory inscription and Christian pictorial programme establish royal devotional patronage before mature hereditary armory; they should not be relabelled a modern national achievement.",
+    "glossary": [
+      {
+        "term": "chasuble",
+        "english": "liturgical vestment"
+      },
+      {
+        "term": "regalia",
+        "english": "objects of royal ceremony"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "hu-kossuth-study",
+    "area": "Hungary",
+    "language": "en",
+    "holding": "Hungarian Research Institute; Ferenc Maruzsa, 2023",
+    "titleOriginal": "Short History of the so-called Kossuth Coat of Arms after 1956",
+    "titleEnglish": "The Kossuth arms after 1956",
+    "url": "https://mki.gov.hu/hu/ephemeris-2023/short-history-of-the-so-called-kossuth-coat-of-arms-after-1956",
+    "kind": "original historical research",
+    "authority": "research institution",
+    "englishSynopsis": "Research abstract traces the crownless Kossuth arms through the 1956 revolution, their brief official continuation and the later choice of crowned arms during the political transition. Its argument concerns changing political meanings of recognizable armorial forms, not a timeless equation of crowns with monarchy.",
+    "glossary": [
+      {
+        "term": "Kossuth coat of arms",
+        "english": "crownless historical form in this study"
+      },
+      {
+        "term": "statehood",
+        "english": "political continuity claimed through the emblem"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "hu-illuminated-chronicle-study",
+    "area": "Hungary",
+    "language": "en",
+    "holding": "András Hegedűs, Ars Hungarica 39 (2013), academy repository",
+    "titleOriginal": "The Coats of Arms of the Hungarian Kingdom and its Dynasties as Depicted in the Illuminated Chronicle",
+    "titleEnglish": "Armorial readings of the Illuminated Chronicle",
+    "url": "https://real-j.mtak.hu/4968/1/Ars%20Hungarica%202013.pdf",
+    "kind": "original historical research",
+    "authority": "scholarly author",
+    "englishSynopsis": "Author studies the striped shield and double cross in the Illuminated Chronicle, National Széchényi Library Cod. Lat. 404, and questions a simple identification of stripes exclusively with the Árpád dynasty. The article’s interpretation distinguishes royal power, kingdom and retrospective manuscript representation; it is scholarly argument about a medieval witness.",
+    "glossary": [
+      {
+        "term": "Illuminated Chronicle",
+        "english": "medieval manuscript, Cod. Lat. 404"
+      },
+      {
+        "term": "dynastic arms",
+        "english": "arms interpreted as identifying a ruling family"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "hr-state-design",
+    "area": "Croatia",
+    "language": "hr",
+    "holding": "Croatian Parliament",
+    "titleOriginal": "Obilježja državnosti",
+    "titleEnglish": "Symbols of statehood",
+    "url": "https://sabor.hr/index.php/hr/o-saboru/obiljezja-drzavnosti",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Parliament provides state-symbol legislation references and approved digital artwork, distinguishing Miroslav Šutej’s design from Božo Kokan’s digital processing. The page supports study of official reproduction and creative roles; the current downloadable model is not a facsimile of every earlier Croatian shield.",
+    "glossary": [
+      {
+        "term": "državna znamenja",
+        "english": "state symbols"
+      },
+      {
+        "term": "grafički standardi",
+        "english": "graphic standards"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "hr-state-description",
+    "area": "Croatia",
+    "language": "hr",
+    "holding": "Ministry of Justice, Public Administration and Digital Transformation",
+    "titleOriginal": "Ustavno uređenje — 51. Kako izgleda grb Republike Hrvatske?",
+    "titleEnglish": "Constitutional organization: description of the national coat",
+    "url": "https://mpudt.gov.hr/ustavno-uredjenje-23132/23132?lang=hr",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Official instructional page specifies the twenty-five red-and-silver squares, beginning with red, and the five small historical shields above. It describes the star and crescent, Dubrovnik bars, Dalmatian heads, Istrian goat and Slavonian marten. Its historical naming supplies official interpretation rather than an independent demonstration of earliest medieval use.",
+    "glossary": [
+      {
+        "term": "kuna",
+        "english": "marten"
+      },
+      {
+        "term": "šesterokraka zvijezda",
+        "english": "six-pointed star"
+      },
+      {
+        "term": "greda",
+        "english": "bar or fess"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "hr-zagreb-identity-2026",
+    "area": "Croatia",
+    "language": "hr",
+    "holding": "City of Zagreb, announcement of 2026 identity system",
+    "titleOriginal": "Grad Zagreb definirao grafički standard vizualnog identiteta",
+    "titleEnglish": "Zagreb defines its graphic identity standard",
+    "url": "https://www.zagreb.hr/en/grad-zagreb-definirao-graficki-standard-vizualnog-/221827",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Municipality reports the identity system presented on 21 July 2026 after a design competition. It retains the historical arms and blue colour while introducing a separate open shield-line mark with wording. The case distinguishes continuity of civic arms from a new communications system; the URL’s English path does not make its displayed Croatian text English.",
+    "glossary": [
+      {
+        "term": "vizualni identitet",
+        "english": "visual identity"
+      },
+      {
+        "term": "knjiga grafičkih standarda",
+        "english": "graphic standards manual"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "sl-national-symbols",
+    "area": "Slovenia",
+    "language": "sl",
+    "holding": "Government of the Republic of Slovenia",
+    "titleOriginal": "Državni simboli",
+    "titleEnglish": "National symbols",
+    "url": "https://www.gov.si/teme/drzavni-simboli",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Government describes the Triglav figure, two blue waves, three gold six-pointed stars and partial red border, with geometric and colour rules. It also specifies how a three-dimensional version relates to the graphic form. The prescribed construction supplies a modern national case beside municipal statutory devices.",
+    "glossary": [
+      {
+        "term": "ščit",
+        "english": "shield"
+      },
+      {
+        "term": "šesterokraka zvezda",
+        "english": "six-pointed star"
+      },
+      {
+        "term": "geometrijsko pravilo",
+        "english": "geometric rule"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "sl-symbols-designer",
+    "area": "Slovenia",
+    "language": "en",
+    "holding": "Government of the Republic of Slovenia, 20 December 2020",
+    "titleOriginal": "Symbols of Slovenia",
+    "titleEnglish": "Symbols of Slovenia: design interpretation",
+    "url": "https://www.gov.si/en/news/2020-12-20-symbols-of-slovenia/",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Official explanation identifies sculptor Marko Pogačnik as designer and presents his description of the arms as a cosmogram. It connects the composition with Slovenian landscape and historical colours. The designer’s interpretive programme should be distinguished from the formal geometric prescription and from any proposed medieval genealogy of the charges.",
+    "glossary": [
+      {
+        "term": "cosmogram",
+        "english": "designer’s interpretive term"
+      },
+      {
+        "term": "Triglav",
+        "english": "mountain represented in the state device"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "sl-ljubljana",
+    "area": "Slovenia",
+    "language": "sl",
+    "holding": "Municipality of Ljubljana",
+    "titleOriginal": "Mestni simboli in mestni praznik",
+    "titleEnglish": "City symbols and civic holiday",
+    "url": "https://www.ljubljana.si/sl/mestna-obcina/o-ljubljani/mestni-simboli-in-mestni-praznik",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Detailed municipal description specifies red field, green triple mount, silver walls and tower, raised gold portcullis and a green dragon with bat-like wings. It expressly treats the gold edge as decorative and accepts several media of reproduction. A separate dragon symbol can be compared with the complete civic coat.",
+    "glossary": [
+      {
+        "term": "lintver",
+        "english": "dragon in this description"
+      },
+      {
+        "term": "cina",
+        "english": "merlon"
+      },
+      {
+        "term": "zaporna rešetka",
+        "english": "portcullis"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "sl-dragon-history",
+    "area": "Slovenia",
+    "language": "sl",
+    "holding": "Ljubljana Castle; Marko Frelih",
+    "titleOriginal": "Zmaj vseh zmajev",
+    "titleEnglish": "The dragon of dragons",
+    "url": "https://www.ljubljanskigrad.si/assets/Uploads/Zmaj-vseh-zmajev-web-zlozenka.pdf",
+    "kind": "institutional object and history interpretation",
+    "authority": "official institution",
+    "englishSynopsis": "Castle’s bilingual interpretive leaflet distinguishes thirteenth-century fortified-city seals from the dragon’s later appearance, and cites Valvasor’s 1689 description of a green crocodile-like dragon on a white tower. The sequence is useful for studying changes in a civic motif without treating a founding legend as contemporary evidence.",
+    "glossary": [
+      {
+        "term": "zmaj",
+        "english": "dragon"
+      },
+      {
+        "term": "pečat",
+        "english": "seal"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "sl-public-symbols-register",
+    "area": "Slovenia",
+    "language": "sl",
+    "holding": "Archives of the Republic of Slovenia",
+    "titleOriginal": "Evidenca javnih simbolov, grbov, zastav, pečatov, žigov in štampiljk",
+    "titleEnglish": "Record of public symbols, arms, flags and seals",
+    "url": "https://www.gov.si/zbirke/storitve/evidenca-javnih-simbolov-grbov-zastav-pecatov-zigov-in-stampiljk/",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "National archive describes a record organized by the legal bodies prescribing public symbols and including registration and instrument dates and numbers, with supporting documentation. It is an archival record of public identity; its stated scope does not establish a universal register of private-family armorial rights.",
+    "glossary": [
+      {
+        "term": "evidenca",
+        "english": "record or register"
+      },
+      {
+        "term": "predpis",
+        "english": "regulation or prescribing instrument"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "sl-kranj-2022",
+    "area": "Slovenia",
+    "language": "sl",
+    "holding": "PISRS, official legal information system",
+    "titleOriginal": "Odlok o simbolih Mestne občine Kranj",
+    "titleEnglish": "Ordinance on the symbols of Kranj",
+    "url": "https://pisrs.si/pregledPredpisa?sop=2022-01-0407",
+    "kind": "dated municipal ordinance",
+    "authority": "official institution",
+    "englishSynopsis": "Dated 2022 ordinance specifies a red displayed eagle on silver, the shield form and permitted rendering media, and identifies the 1530 seal matrix as its historical model. It shows how a modern regulation selects and defines an older civic witness without claiming that the ordinance itself was enacted in the sixteenth century.",
+    "glossary": [
+      {
+        "term": "pečatnik",
+        "english": "seal matrix"
+      },
+      {
+        "term": "orel",
+        "english": "eagle"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "rs-presidential-symbols",
+    "area": "Serbia",
+    "language": "en",
+    "holding": "President of the Republic of Serbia",
+    "titleOriginal": "National Symbols",
+    "titleEnglish": "National symbols: law and official formats",
+    "url": "https://www.predsednik.rs/en/documents/national-symbols",
+    "kind": "institutional record",
+    "authority": "official institution",
+    "englishSynopsis": "Presidential explanation identifies the 2009 law, its reference to the 1882 Kingdom of Serbia arms, and separate greater, lesser and flag formats. It dates the legislative connection rather than treating the republic’s use of a crowned device as evidence of a restored monarchy.",
+    "glossary": [
+      {
+        "term": "large coat-of-arms",
+        "english": "greater arms"
+      },
+      {
+        "term": "small coat-of-arms",
+        "english": "lesser arms"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "rs-radoslav-ring",
+    "area": "Serbia",
+    "language": "en",
+    "holding": "Austrian Academy of Sciences, Tabula Imperii Byzantini Balkan exploration database",
+    "titleOriginal": "National Museum in Belgrade — King Radoslav’s Ring",
+    "titleEnglish": "King Radoslav’s ring",
+    "url": "https://tib.oeaw.ac.at/balkan/explore/entity/132749",
+    "kind": "scholarly object record",
+    "authority": "research institution",
+    "englishSynopsis": "Scholarly object entry identifies the engagement ring’s Greek verse and dynastic names, with a probable Thessalonican manufacture in Byzantine style. It provides a concrete object for studying Serbian and Byzantine elite relationships without claiming that every royal identifier on the ring is a coat of arms.",
+    "glossary": [
+      {
+        "term": "engagement ring",
+        "english": "object marking a dynastic marriage"
+      },
+      {
+        "term": "inscription",
+        "english": "engraved text"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "rs-belgrade-armorial",
+    "area": "Serbia",
+    "language": "en",
+    "holding": "Museum of Applied Art, Belgrade, anniversary catalogue 1950–2005",
+    "titleOriginal": "55 Years of the Museum of Applied Art",
+    "titleEnglish": "Museum of Applied Art anniversary collection catalogue",
+    "url": "https://mpu.rs/wp-content/uploads/2017/03/55-Years-of-the-Museum-of-Applied-Art-1950-2005-English-edition.pdf",
+    "kind": "museum collection catalogue",
+    "authority": "official institution",
+    "englishSynopsis": "Museum catalogue identifies Belgrade Armorial II as an early copy of the lost armorial associated with Petar Grgurić Ohmučević around 1590. The surviving museum object and the lost prototype have different dates and evidential status; institutional attribution supplies a route for close material study.",
+    "glossary": [
+      {
+        "term": "armorial",
+        "english": "organized collection of arms"
+      },
+      {
+        "term": "copy",
+        "english": "surviving witness distinct from a lost prototype"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ro-steel-crown",
+    "area": "Romania",
+    "language": "ro",
+    "holding": "National History Museum of Romania",
+    "titleOriginal": "Coroana de Oțel",
+    "titleEnglish": "The Steel Crown",
+    "url": "https://www.mnir.ro/coroana-de-otel/",
+    "kind": "museum object interpretation",
+    "authority": "official institution",
+    "englishSynopsis": "Museum traces the steel crown made for Carol I in 1881 from a captured gun associated with the independence war, and its later use by Ferdinand. The physical regalia and the crown represented in arms require distinct object descriptions; the material supports a specific political narrative rather than a general heraldic meaning of steel.",
+    "glossary": [
+      {
+        "term": "coroană",
+        "english": "crown"
+      },
+      {
+        "term": "oțel",
+        "english": "steel"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ro-money-history",
+    "area": "Romania",
+    "language": "ro",
+    "holding": "National Bank of Romania, museum publication",
+    "titleOriginal": "Istoria leului",
+    "titleEnglish": "History of the leu",
+    "url": "https://www.bnr.ro/files/muzeu/2016/resurse/BNR_Istoria_Leului_ro.pdf",
+    "kind": "institutional numismatic history",
+    "authority": "official institution",
+    "englishSynopsis": "Bank museum publication explains the national monetary system and political imagery on coins and notes. It describes diplomatic objections to Carol’s 1868 portrait coin and the altered title on the 1870 issue. Coin imagery and legends provide dated evidence for sovereignty claims alongside armorial legislation.",
+    "glossary": [
+      {
+        "term": "efigie",
+        "english": "effigy or portrait"
+      },
+      {
+        "term": "legendă",
+        "english": "coin inscription"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ro-cuza-objects",
+    "area": "Romania",
+    "language": "ro",
+    "holding": "National History Museum of Romania",
+    "titleOriginal": "Unirea Principatelor Române celebrată la Muzeul Național de Istorie a României",
+    "titleEnglish": "Union of the principalities: Cuza-era armorial objects",
+    "url": "https://www.mnir.ro/unirea-principatelor-romane-celebrata-la-muzeul-national-de-istorie-a-romaniei-1/",
+    "kind": "museum object interpretation",
+    "authority": "official institution",
+    "englishSynopsis": "Museum identifies silver and porcelain objects carrying three armorial forms associated with Cuza’s period: paired shields, a subsequent united composition and a more elaborate princely-court version. The objects show how changes in political representation survive across material witnesses without assuming one unchanging coat throughout the reign.",
+    "glossary": [
+      {
+        "term": "scuturi acolate",
+        "english": "shields set side by side"
+      },
+      {
+        "term": "bour",
+        "english": "aurochs"
+      },
+      {
+        "term": "deviză",
+        "english": "motto"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "ro-brasov-2024",
+    "area": "Romania",
+    "language": "ro",
+    "holding": "Romanian Government, official legislative portal",
+    "titleOriginal": "Hotărârea nr. 902 din 25 iulie 2024",
+    "titleEnglish": "Decision approving Brașov’s arms, 2024",
+    "url": "https://legislatie.just.ro/public/DetaliiDocument/287113",
+    "kind": "dated civic approval law",
+    "authority": "official institution",
+    "englishSynopsis": "Enacted decision specifies a gold crown with a silver rooted trunk of thirteen tips on blue and a silver seven-towered mural crown. Its explanation calls the thirteen-community story a legend and identifies the internal crown as canting on Corona and Kronstadt. The act supplies a dated civic approval distinct from earlier proposed annexes.",
+    "glossary": [
+      {
+        "term": "stemă vorbitoare",
+        "english": "canting arms"
+      },
+      {
+        "term": "trunchi rădăcinos",
+        "english": "rooted trunk"
+      },
+      {
+        "term": "coroană murală",
+        "english": "mural crown"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "gr-heraldic-monuments",
+    "area": "Greece",
+    "language": "el",
+    "holding": "National Hellenic Research Foundation, Leonidas Kallivretakis, 2007",
+    "titleOriginal": "Αρχείο Εραλδικών Μνημείων του Ελλαδικού Χώρου",
+    "titleEnglish": "Heraldic Database of Greece",
+    "url": "https://helios.eie.gr/helios/handle/10442/8785",
+    "kind": "research repository record",
+    "authority": "research institution",
+    "englishSynopsis": "Repository identifies a Greek research introduction to heraldic monuments from the thirteenth to nineteenth centuries, covering several Greek regions and connections with Venice and Genoa. The metadata supports a research route beyond the present state emblem; specific monuments still need their own inspected records.",
+    "glossary": [
+      {
+        "term": "οικόσημο",
+        "english": "coat of arms"
+      },
+      {
+        "term": "εραλδικό μνημείο",
+        "english": "heraldic monument"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "gr-rhodes-ensemble",
+    "area": "Greece",
+    "language": "en",
+    "holding": "National Hellenic Research Foundation, Pandektis",
+    "titleOriginal": "Εραλδικό σύνολο: Βασίλειο της Γαλλίας, Ρωμαιοκαθολική Εκκλησία και Βασίλειο της Αγγλίας",
+    "titleEnglish": "Rhodes ensemble: France, the Roman Church and England",
+    "url": "https://pandektis.ekt.gr/pandektis/handle/10442/163603",
+    "kind": "research monument record",
+    "authority": "research institution",
+    "englishSynopsis": "Research record identifies a heraldic ensemble at Agia Triada in Rhodes, dated 1346–1353, with French and English arms flanking those of the Roman See. The photograph is separately credited and rights are retained by the research institution. A Greek location does not make every represented bearer the Greek state.",
+    "glossary": [
+      {
+        "term": "heraldic ensemble",
+        "english": "several related armorial displays"
+      },
+      {
+        "term": "See",
+        "english": "ecclesiastical institutional bearer"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "gr-phoenix-museum",
+    "area": "Greece",
+    "language": "en",
+    "holding": "Capodistrias Museum, collection object MK395",
+    "titleOriginal": "Phoenix",
+    "titleEnglish": "The silver phoenix coin",
+    "url": "https://www.capodistriasmuseum.gr/en/collections-archive/collection/",
+    "kind": "museum object record",
+    "authority": "official institution",
+    "englishSynopsis": "Museum identifies the phoenix coin, its republican legend, mythical bird and denomination, with an issue date distinct from the remembered 1821 independence date. Its account connects monetary production with the early Greek state and distinguishes the surviving object from later commemorative representations.",
+    "glossary": [
+      {
+        "term": "phoenix",
+        "english": "mythical bird and monetary unit"
+      },
+      {
+        "term": "legend",
+        "english": "inscription on the coin"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "gr-coins-2021",
+    "area": "Greece",
+    "language": "en",
+    "holding": "Hellenic Mint, Bank of Greece",
+    "titleOriginal": "The 200th anniversary of the Revolution",
+    "titleEnglish": "2021 revolutionary bicentenary coin programme",
+    "url": "https://mint.bankofgreece.gr/en/numismatic-programmes-collections/the-200th-anniversary-of-the-revolution/",
+    "kind": "official issue programme",
+    "authority": "official institution",
+    "englishSynopsis": "Mint’s programme includes commemorative depictions of the 1828 phoenix and 1833 drachma, territorial expansions and historic flag forms. These are dated 2021 commemorations rather than original nineteenth-century coins; the programme documents a contemporary selection and presentation of national symbolic history.",
+    "glossary": [
+      {
+        "term": "commemorative coin",
+        "english": "later coin celebrating an earlier subject"
+      },
+      {
+        "term": "numismatic programme",
+        "english": "organized set of coin issues"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "mt-register-volume",
+    "area": "Malta",
+    "language": "en",
+    "holding": "Heritage Malta, press release 15 October 2025",
+    "titleOriginal": "Malta’s Heraldry Documented in First-Ever Register of Arms Volume",
+    "titleEnglish": "Register of Arms volume 1, 2019–2024",
+    "url": "https://heritagemalta.mt/news/maltas-heraldry-documented-in-first-ever-register-of-arms-volume/",
+    "kind": "official publication announcement",
+    "authority": "official institution",
+    "englishSynopsis": "Institutional announcement describes the first published volume of the Chief Herald’s register, compiled by Charles Gauci and Raymond Cassar. It distinguishes illustrated personal arms, additional blazons, entity arms, standards, badges and pedigrees. Its coverage dates and counts should not be misread as the total historical armory of Malta.",
+    "glossary": [
+      {
+        "term": "armiger",
+        "english": "bearer of arms"
+      },
+      {
+        "term": "register",
+        "english": "record organized by the heraldic office"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "mt-gazette-applications-2025",
+    "area": "Malta",
+    "language": "en",
+    "holding": "Government Gazette No. 21,385, notice 181, 31 January 2025",
+    "titleOriginal": "Office of the Chief Herald of Arms of Malta — Heraldry and Genealogy Regulations",
+    "titleEnglish": "Public notice of armorial applications",
+    "url": "https://www.gov.mt/en/Government/DOI/Government%20Gazette/Government%20Notices/Pages/2025/01/GovNotices3101.aspx",
+    "kind": "dated government procedural notice",
+    "authority": "official institution",
+    "englishSynopsis": "Notice publishes applications and invites representations under the regulations, with named files and proposed blazons. It is a procedural notice rather than proof that each application subsequently resulted in a completed grant. The public description gives a concrete modern case for examining nonstandard compositions and the stages of authorization.",
+    "glossary": [
+      {
+        "term": "application",
+        "english": "request awaiting the relevant procedure"
+      },
+      {
+        "term": "representation",
+        "english": "submission for or against an application"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "byz-boilas-seal",
+    "area": "Byzantium",
+    "language": "en",
+    "holding": "Walters Art Museum, object 55.65",
+    "titleOriginal": "Seal of the Sebastos Michael Boilas",
+    "titleEnglish": "Seal of Michael Boilas",
+    "url": "https://art.thewalters.org/object/55.65/",
+    "kind": "museum object record",
+    "authority": "official institution",
+    "englishSynopsis": "Museum dates the lead seal to the eleventh century and identifies an inscription naming Michael Boilas with an honorific title, alongside his namesake Archangel Michael. Text, rank and sacred patronage jointly identify the bearer; they should not be repackaged as a hereditary shield.",
+    "glossary": [
+      {
+        "term": "sebastos",
+        "english": "honorific title"
+      },
+      {
+        "term": "obverse",
+        "english": "one face of the seal"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "byz-alexios-seal",
+    "area": "Byzantium",
+    "language": "en",
+    "holding": "British Library, Seal XLIV 9",
+    "titleOriginal": "Seal of Emperor Alexius I Comnenus",
+    "titleEnglish": "Seal of Alexios I Komnenos",
+    "url": "https://searcharchives.bl.uk/catalog/040-002209391",
+    "kind": "archival object catalogue",
+    "authority": "official institution",
+    "englishSynopsis": "Catalogue dates the lead seal to 1081–1118 and describes Christ enthroned on one face and the named emperor with regalia on the other, with Greek inscriptions. This imperial witness uses portrait, sacred imagery and text rather than the presumed universal double-eagle state coat.",
+    "glossary": [
+      {
+        "term": "loros",
+        "english": "ceremonial imperial garment"
+      },
+      {
+        "term": "despotes",
+        "english": "lord or master in the inscription"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "byz-zorianos-ring",
+    "area": "Byzantium",
+    "language": "en",
+    "holding": "Metropolitan Museum of Art, object 18.145.42",
+    "titleOriginal": "Gold Signet Ring of Michael Zorianos",
+    "titleEnglish": "Gold signet ring of Michael Zorianos",
+    "url": "https://www.metmuseum.org/art/collection/search/465925",
+    "kind": "museum object record",
+    "authority": "official institution",
+    "englishSynopsis": "Museum dates the gold signet around 1300 and tentatively connects it with an officer of the despot of Epiros and a church founder at Mokista. The proposed identity and use remain qualified; a name match alone cannot conclusively identify the owner of every signet.",
+    "glossary": [
+      {
+        "term": "signet",
+        "english": "sealing instrument"
+      },
+      {
+        "term": "Epiros",
+        "english": "regional political context of the proposed owner"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+  },
+  {
+    "id": "byz-seal-copy",
+    "area": "Byzantium",
+    "language": "en",
+    "holding": "Metropolitan Museum of Art, object 1999.519.12",
+    "titleOriginal": "Seal — modern copy of a Byzantine original",
+    "titleEnglish": "Modern copy of a Byzantine seal",
+    "url": "https://www.metmuseum.org/art/collection/search/472759",
+    "kind": "museum object record",
+    "authority": "official institution",
+    "englishSynopsis": "Museum explicitly dates its lead object to the twentieth century as a copy of a late-thirteenth- or early-fourteenth-century original. The distinction makes the record useful for teaching object date versus represented model date; the restricted image should not be downloaded or treated as Open Access.",
+    "glossary": [
+      {
+        "term": "copy",
+        "english": "later object reproducing an earlier model"
+      },
+      {
+        "term": "lead",
+        "english": "material of the surviving object"
+      }
+    ],
+    "accessed": "2026-10-11",
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
   }
 ]

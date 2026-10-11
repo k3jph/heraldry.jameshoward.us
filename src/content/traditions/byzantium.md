@@ -5,11 +5,11 @@ region: "Byzantium"
 languages: ["en"]
 track: "Comparative traditions"
 period: "Twelfth–fifteenth centuries, with later interpretations"
-sourceIds: ["byz-podea", "byz-conservation", "byz-nerezi", "byz-agency"]
+sourceIds: ["byz-podea", "byz-conservation", "byz-nerezi", "byz-agency", "byz-boilas-seal", "byz-alexios-seal", "byz-zorianos-ring", "byz-seal-copy"]
 level: "Advanced undergraduate / graduate"
 ---
 
-<nav class="chapter-toc" aria-label="Byzantium chapter contents">
+<nav class="chapter-toc" aria-label="In this chapter">
   <strong>In this chapter</strong>
   <ol>
     <li><a href="#an-eagle-with-a-changing-job">An eagle with a changing job</a></li>
@@ -17,6 +17,13 @@ level: "Advanced undergraduate / graduate"
     <li><a href="#the-cloth-is-evidence-too">The cloth is evidence too</a></li>
     <li><a href="#names-and-patrons-change-the-reading">Names and patrons change the reading</a></li>
     <li><a href="#greece-and-the-later-lives-of-imperial-imagery">Greece and the later lives of imperial imagery</a></li>
+    <li><a href="#an-imperial-seal-can-identify-power-without-a-heraldic-eagle">An imperial seal can identify power without a heraldic eagle</a></li>
+    <li><a href="#michael-boilas-combines-a-name-a-title-and-a-sacred-patron">Michael Boilas combines a name, a title and a sacred patron</a></li>
+    <li><a href="#a-signet-ring-raises-a-different-attribution-problem">A signet ring raises a different attribution problem</a></li>
+    <li><a href="#modern-copies-must-carry-both-their-dates">Modern copies must carry both their dates</a></li>
+    <li><a href="#patronage-at-mystras-joins-arms-with-greek-inscriptions">Patronage at Mystras joins arms with Greek inscriptions</a></li>
+    <li><a href="#the-category-depends-on-the-question-being-asked">The category depends on the question being asked</a></li>
+    <li><a href="#graduate-investigation-compare-five-forms-of-identification">Graduate investigation: compare five forms of identification</a></li>
     <li><a href="#workshop-test-the-imperial-flag-claim">Workshop: test the imperial-flag claim</a></li>
   </ol>
 </nav>
@@ -59,6 +66,84 @@ The [Greece chapter](/traditions/greece/) follows a later national tradition rat
 
 A claim to Byzantine inheritance can itself be an important historical act. Record who made it, when, and for which audience. The claim may help legitimize a church office, dynasty or state even where direct continuity of a particular design remains uncertain. Its political usefulness does not settle its documentary truth.
 
+## An imperial seal can identify power without a heraldic eagle
+
+The British Library's lead seal of Alexios I Komnenos, Seal XLIV 9, is dated to his reign, 1081–1118. The catalogue describes Christ enthroned on one face and the emperor with regalia on the other, with Greek inscriptions identifying the figures.[^byz-alexios-seal] This is an actual imperial identifying object whose structure differs from a modern state coat featuring a double-headed eagle.
+
+Read the two faces together. The sacred figure and the imperial portrait establish a relationship between religious and political authority; the inscription supplies a named bearer. The regalia identify an imperial presentation through garment, crown, sceptre and orb. None of those operations requires a shield divided into hereditary quarters. The object has a precise visual grammar that should be studied on its own terms.
+
+The emperor's name is especially important. A crowned figure can be a conventional type rather than a likeness sufficient to identify an individual. The legend makes a more specific claim. A description that removes the text and labels the remaining image “Byzantine coat of arms” loses the object's actual mechanism of identification while introducing a category the witness does not supply.
+
+Seals also belong to documents and acts. A detached seal in a collection can preserve its faces while losing its original attachment and documentary context. The catalogue's identification is valuable, but a claim about the particular letter once authenticated by that specimen would need more evidence. The surviving object tells us how an imperial seal was represented, not necessarily what every document bearing it concerned.
+
+The example belongs beside, rather than beneath, late Byzantine eagle imagery. A history organized only around the eagle would omit a major way emperors presented authority in earlier periods. The change of identifying vocabulary is part of the subject. The historian need not decide that one system was defective because it lacked the forms familiar from later heraldry.
+
+## Michael Boilas combines a name, a title and a sacred patron
+
+The Walters Art Museum's eleventh-century lead seal of Michael Boilas, accession 55.65, places his namesake Archangel Michael on one face and a versified identifying inscription on the other. The title *sebastos* accompanies the owner's identification.[^byz-boilas-seal] The seal connects individual, status and heavenly patron through coordinated signs.
+
+A namesake saint can create an association without functioning as a hereditary family charge. The image supplies religious patronage; the text identifies the person and his title. A later person named Michael might choose a similar saint for an entirely separate seal. Resemblance would then arise through naming and devotion rather than descent from Boilas.
+
+The title also needs a dated reading. Court titles can change in rank and distribution over time. A modern English equivalent such as “noble” may obscure the specific Byzantine category. Retain *sebastos* with an explanation appropriate to the witness before comparing it with western baronial or comital titles. Formal equivalence should be demonstrated, not assumed from both words sounding prestigious.
+
+The verse format adds another dimension of self-presentation. It compresses identification into a small surface while allowing literary expression. A transcription and translation can therefore reveal something that a charge list cannot: how the bearer chooses to name and characterize himself. The seal's visual and textual sides are complementary sources.
+
+For a comparative exercise, set the Boilas seal beside the imperial seal of Alexios. Both combine sacred reference with named authority, but the represented rank and imagery differ. Identify the shared operations and the distinct forms. This offers a more useful account of Byzantine identification than a list of eagle silhouettes classified by head count.
+
+## A signet ring raises a different attribution problem
+
+The Met's gold signet of Michael Zorianos, accession 18.145.42, is dated around 1300. The museum tentatively connects it with an officer of the despot of Epiros who was also associated with church foundation at Mokista, and suggests official sealing use.[^byz-zorianos-ring] The connection is qualified; the object does not come with a modern identity card proving every proposed biographical link.
+
+The ring's name offers a route into prosopography, the study of persons through combined historical evidence. A name can be compared with records of offices, patronage and relationships. A plausible match becomes stronger when date and context also align. It remains a proposed identification if the evidence does not exclude another person of the same name.
+
+The distinction resembles the descent problem in armorial research. A genuine sign or name associated with one person does not automatically establish the identity of another claimant. Here the issue is matching an object to its owner; in a family-arms case it may be connecting a descendant to a grantee. Both require an argument beyond visual or nominal resemblance.
+
+The sealing function also needs its own evidence. An engraved signet is designed for making an impression, but the specific class of documents it authenticated may remain unknown. The museum's suggestion of official use should retain its stated uncertainty. A possible administrative function is not proof that the ring marked every act of a particular office.
+
+Study the tool and its proposed impressions as separate objects. The signet's intaglio is reversed so that the impression can read correctly. A photograph of the ring and a reconstructed positive impression should be labelled distinctly. Otherwise a reversed inscription can look like a mysterious variant when it is simply the expected relationship between matrix and result.
+
+## Modern copies must carry both their dates
+
+The Met's seal accession 1999.519.12 is explicitly a twentieth-century copy of a late-thirteenth- or early-fourteenth-century original.[^byz-seal-copy] Its modern material existence and medieval model are separate facts. The copy can teach a form without becoming the medieval specimen through an abbreviated caption.
+
+This distinction matters in collections because catalogue culture labels often describe the represented tradition as well as the object's actual manufacture. A search result may show “Byzantine” prominently and place the copy information farther down the record. Read the full date and object note before selecting an illustration for a historical argument. The longest line is not always the most decisive one.
+
+A modern copy can preserve features of a lost or inaccessible original. To assess its value, investigate how it was made: direct cast, photograph-based reconstruction or artistic imitation. Those processes have different capacities to preserve dimensions, surface detail and inscription. The catalogue entry establishes that this object is a copy; its precise evidentiary use depends on the reproduction history.
+
+The same principle applies to a modern flag reconstruction. A twentieth-century drawing of a late Byzantine banner can be an informed scholarly proposal, but it needs a cited historical model and a reconstruction credit. Attractive aged texture does not move the drawing into the fourteenth century. The date belongs beside the image, where the reader can see it.
+
+This particular museum record restricts its image, so it is a linked teaching source rather than an image asset for the gallery. A modern copy may have image permissions different from those attached to a medieval object. Rights assessment follows the specific photograph and record, not the cultural period assigned in a search filter.
+
+## Patronage at Mystras joins arms with Greek inscriptions
+
+The study of female agency cited earlier examines Isabelle de Lusignan's identifying material at Mystras. An architectural member combines Latin armorial vocabulary with Greek inscriptional evidence, making lineage and patronage visible within a local setting.[^byz-agency] The important question is who acts through that combination, rather than which modern country can claim the entire image.
+
+The pairing of a family sign and a local-language inscription can address more than one audience. The arms can locate a patron within a dynastic network; the words can make a name or title legible to the setting's Greek readers. The two forms of communication need not compete. Their coordination can reveal how an individual presents both inherited standing and a local role.
+
+That is particularly significant when reconstructing women's agency. A woman's armorial identity may reflect her birth lineage, marriage and political position, while the commission remains her own act. Treating every shield as evidence of a husband's patronage removes the very participant the inscription can identify. Read names and material together before assigning responsibility.
+
+Architectural fragments also require caution about original placement. A surviving member in a museum may no longer occupy the doorway or screen for which it was made. Its recovered location, joins and construction marks can support a reconstruction, but an assembled modern display is not automatically the original arrangement. The proposed setting should carry the same qualification as the evidence on which it rests.
+
+The [Greek monuments chapter](/traditions/greece/) extends this inquiry into later and neighbouring settings. Its Rhodes ensemble shows several represented bearers in one place. The comparison connects cultural encounter through specific objects instead of drawing a single arrow labelled “western heraldry arrived.”
+
+## The category depends on the question being asked
+
+The cases now give us several mechanisms: imperial portrait and regalia, sacred patron and title, named signet, dynastic armorial display and eagle embroidery with ecclesiastical interpretation. They can all identify persons or authority. It does not follow that they are all hereditary armory in the same sense.
+
+For a broad study of identifying signs, include them and explain their functions. For a narrowly defined investigation of inherited coats, require evidence of stable design, named bearer and transmission or repeated family identification. An object may enter the first corpus and remain uncertain in the second. That is a methodological result rather than a verdict on its historical importance.
+
+The Nerezi shield study challenges a simple chronology by arguing for a heraldic reading of particular pre-1204 figures. Its claim should be considered alongside these other kinds of identification. It does not require every earlier seal to become armorial, nor does the presence of non-armorial imperial seals disprove the possibility of some aristocratic heraldic practices. Different mechanisms can coexist in the same society.
+
+Likewise, the late eagle embroidery can carry a claim to distinguished imperial ancestry within an ecclesiastical setting. A claim is an act by a particular bearer; it may be historically important whether or not the lineage is fully established. Separating the claim from its verification allows us to explain the object's ambition without endorsing every part of it.
+
+## Graduate investigation: compare five forms of identification
+
+Use the Alexios seal, Boilas seal, Zorianos ring, modern seal copy and Met eagle embroidery. For each, record manufacture date, represented-model date if different, bearer identification, inscription, image and proposed function. Mark museum attributions as certain or qualified according to the actual wording, rather than according to how plausible you find them.
+
+Then classify each witness twice: first for a corpus of Byzantine identifying signs, and second for a corpus of demonstrably hereditary armory. Explain every difference between the two results. Identify the additional evidence that would change an uncertain classification, such as a second generation's repeated sign or a securely attributed family commission.
+
+Finish with a short account of the empire's visual plurality. Use the objects to explain how named authority could operate without a shield, how sacred patronage could identify an individual, and how later dynastic claims could use armorial forms. The strongest answer avoids both extremes: inventing one timeless imperial coat and declaring every non-western form historically irrelevant to heraldry.
+
 ## Workshop: test the imperial-flag claim
 
 A fictional catalogue labels the Met eagle “the official Byzantine battle flag.” Assess each component separately: official status, Byzantine manufacture, military function and identification as a flag. List what kind of evidence would establish each. Compare the catalogue and conservation study before writing a replacement caption of no more than eighty words.
@@ -74,3 +159,11 @@ For graduate work, construct a corpus of ten dated devices with named bearers or
 [^byz-nerezi]: Carlo Berardi, Gesta 63.1 (2024), pp. 1–23, [Brave as a Lion, Fierce like a Griffin: Heraldic Devices and Aristocratic Identity in the Frescoes of St. Panteleimon, Nerezi](https://www.journals.uchicago.edu/doi/abs/10.1086/728464). Consulted 11 October 2026. Original English editorial synthesis; consult the linked witness for close reading.
 
 [^byz-agency]: Byzantine and Modern Greek Studies (2024), [Art and female agency in late Byzantium: three methodological case studies](https://www.cambridge.org/core/journals/byzantine-and-modern-greek-studies/article/art-and-female-agency-in-late-byzantium-three-methodological-case-studies/4997799D713DA62FE1D2DE99B50A3443). Consulted 11 October 2026. Original English editorial synthesis; consult the linked witness for close reading.
+
+[^byz-alexios-seal]: British Library, Seal XLIV 9, [Seal of Emperor Alexius I Comnenus](https://searcharchives.bl.uk/catalog/040-002209391). Consulted 11 October 2026. Original English editorial synthesis; consult the linked record for close reading.
+
+[^byz-boilas-seal]: Walters Art Museum, object 55.65, [Seal of the Sebastos Michael Boilas](https://art.thewalters.org/object/55.65/). Consulted 11 October 2026. Original English editorial synthesis; consult the linked record for close reading.
+
+[^byz-seal-copy]: Metropolitan Museum of Art, object 1999.519.12, [Seal — modern copy of a Byzantine original](https://www.metmuseum.org/art/collection/search/472759). Consulted 11 October 2026. Original English editorial synthesis; consult the linked record for close reading.
+
+[^byz-zorianos-ring]: Metropolitan Museum of Art, object 18.145.42, [Gold Signet Ring of Michael Zorianos](https://www.metmuseum.org/art/collection/search/465925). Consulted 11 October 2026. Original English editorial synthesis; consult the linked record for close reading.
