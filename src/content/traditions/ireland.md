@@ -42,7 +42,7 @@ Ireland merits a separate chapter for exactly this reason. It cannot be folded i
 
 ## Ulster, independence, and the Chief Herald
 
-The NLI dates the formal creation of the Ulster King of Arms to 1552. The office worked with the administration at Dublin Castle and dealt with arms, precedence, and ceremonial. The last Crown appointee, Neville Wilkinson, remained in office after Irish independence until his death in 1941; the transfer to Irish State control followed in 1943.[^office] Institutional change did not occur in one simple moment marked by a new flag.
+The NLI dates the formal creation of the Ulster King of Arms to 1552. The office worked with the administration at Dublin Castle and dealt with arms, precedence, and ceremonial. The last Crown appointee, Sir Nevile Wilkinson, remained in office after Irish independence until his death on 22 December 1940; the transfer to Irish State control followed in 1943.[^office] Institutional change did not occur in one simple moment marked by a new flag.
 
 The mechanism matters to archival research. A collection can retain records generated under an earlier authority while acquiring new material under a successor arrangement. A modern catalogue may place both within one collection. That is useful for finding them, but the collection’s present custodian is not necessarily the issuer of every document it holds. Identify the act’s date and issuing authority alongside the current repository.
 
