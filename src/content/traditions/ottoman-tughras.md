@@ -41,11 +41,11 @@ A tughra is therefore studied here as an Ottoman calligraphic insignia with its 
 ## Look at the whole surface
 
 <figure class="tradition-object">
-  <img src="/images/traditions/suleiman-tughra.jpg" width="600" height="510" loading="lazy" decoding="async" alt="An Ottoman calligraphic insignia on pale paper, with two large loops at left, three tall shafts, long horizontal strokes, and gold and blue floral ornament." />
+  <img src="/images/traditions/suleiman-tughra.jpg" width="600" height="510" loading="lazy" decoding="async" alt="An Ottoman calligraphic tughra with two large loops, three tall shafts, horizontal strokes and blue-and-gold ornament; additional lines of writing appear above and below the principal insignia." />
   <figcaption>Tughra of Sultan Süleiman, approximately 1555–1560; attributed to Istanbul. The Met, 38.149.2, Rogers Fund, 1938. Museum photograph, Public Domain under the <a href="https://www.metmuseum.org/hubs/open-access">CC0 Open Access policy</a>, downloaded unchanged. This accession is distinct from the related 38.149.1. <a href="https://www.metmuseum.org/art/collection/search/449534">Object record ↗</a></figcaption>
 </figure>
 
-The image shows ornament within the calligraphic configuration, not merely a plain signature with decoration pasted beside it. Gold and blue shapes occupy the interior spaces while the larger outline remains legible as a configuration. That observation gives us a design question: how much internal elaboration can a recognizable form carry before its defining structure becomes difficult to perceive?
+The sheet includes **additional writing above and below** the principal tughra, so the whole photograph cannot be reduced to the central insignia alone. Within that configuration we also see floral ornament, not merely a plain signature with decoration pasted beside it. Gold and blue shapes occupy the interior spaces while the larger outline remains legible as a configuration. That observation gives us a design question: how much internal elaboration can a recognizable form carry before its defining structure becomes difficult to perceive?
 
 A reduction experiment can answer part of that question. View the reproduced image at a small size, then at full width. Record which large components remain recognizable and which floral details become indistinct. The exercise examines this photograph’s visual behavior. It cannot establish every historical viewer’s literacy or viewing distance, but it can make the distinction between overall recognition and detailed reading tangible.
 
