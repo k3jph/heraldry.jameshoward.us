@@ -31,7 +31,7 @@
     "reading": [
       "Start with the support, then the painted achievement. The outer object is a shield; the small shield in its decoration is the armorial field; the ornament above the helmet is the crest. Calling every part a crest would discard the relationships that make the composition intelligible.",
       "A digital redrawing could make the small shield perfectly symmetrical and turn its surface into flat yellow and black. That might help a beginner see the composition. It would also remove the irregular contour, aging, background figure, and evidence of the object’s material construction. Keep the photograph alongside any diagram, and explain which question each image answers.",
-      "The catalogue’s alternative family attribution is part of the evidence. A confident-looking animal head cannot choose between the two families for us. The useful next question is what dated records or comparative objects would distinguish those possibilities."
+      "The catalogue’s alternative family attribution is part of the evidence. A confident-looking demi-beast cannot choose between the two families for us. The useful next question is what dated records or comparative objects would distinguish those possibilities."
     ],
     "claims": [
       {
@@ -51,7 +51,7 @@
       }
     ],
     "exercise": "Write two descriptions: one of the physical object, one of the painted achievement. Then make a claim ledger with three columns: visible in this photograph, reported by the catalogue, and still to be established. Place the family attribution and reverse decoration in the appropriate columns.",
-    "discussion": "A strong answer separates the targe’s outline from the painted shield and identifies the crest by its position above the helmet. It keeps both family names and does not claim to have inspected the reverse. To resolve the attribution, propose a dated comparative witness rather than a surname search.",
+    "discussion": "A strong answer separates the targe’s outline from the painted shield and identifies the crested demi-beast above the helmet and its raised forelegs. It keeps both family names and does not claim to have inspected the reverse. To resolve the attribution, propose a dated comparative witness rather than a surname search.",
     "research": "Follow the collection record to its additional reverse photograph. Compare what can actually be seen there with the museum’s description. Record the image identifier and viewing conditions before arguing that a damaged painted trace represents a particular saint.",
     "periods": [
       "Medieval"
@@ -82,8 +82,8 @@
     "lesson": "heraldry-in-public-life",
     "question": "Is that line heraldry, or construction?",
     "observations": [
-      "The photograph shows red and yellow areas, with a pale five-pointed star in the upper-left area as we view it. Dark lines divide the image into large regions and also cross individual pieces irregularly.",
-      "Some dark lines might seem to describe armorial divisions; others follow the joins of the glass. The photograph alone does not establish which pieces or joins are original."
+      "The shield is **quarterly gules and or**, with red and gold areas alternating in four principal regions. A pale five-pointed mullet occupies the **first quarter**. These are structural elements visible in the photograph, not hypothetical shapes inferred from random lead joins.",
+      "Lead lines and restoration may complicate the treatment of details, but they do not make the main quartering unreadable. The illustration can be compared cautiously with arms attributed to the Vere earls of Oxford; identifying a particular bearer still requires documentary or provenance evidence."
     ],
     "catalogue": "The Met catalogues this object as British stained glass dated 1300–20, accession 12.137.2, acquired through the Rogers Fund in 1912. Its dimensions are 29.2 by 24.8 cm. The consulted overview does not supply a named armiger or an original architectural location. Those omissions should remain omissions in our account. [1]",
     "reading": [
@@ -93,7 +93,7 @@
     ],
     "claims": [
       {
-        "claim": "A pale five-pointed star is visible at the viewer’s upper left.",
+        "claim": "The photograph shows a quarterly red-and-gold shield with a pale mullet in the first quarter.",
         "basis": "Object photograph",
         "limit": "A visual description, not a complete blazon."
       },
@@ -109,7 +109,7 @@
       }
     ],
     "exercise": "Annotate five features using only visual language. For each, say whether you think it is armorial design, material construction, or uncertain. Then write a short research request for the information you would need to distinguish original glass from later interventions.",
-    "discussion": "A strong answer describes the star and the visible colour areas without inventing a bearer. It recognizes that a dark join is not automatically an ordinary. Useful further evidence includes conservation documentation, earlier photographs, acquisition records, and evidence of the panel’s former architectural setting.",
+    "discussion": "A good answer begins with the visible quartering, **quarterly gules and or, a mullet argent in the first quarter**. It may then test the Vere comparison against heraldic and provenance witnesses without assigning a definite historical owner from the image alone. Lead joins or photographic lighting remain relevant to conservation, not an excuse to ignore a large readable division.",
     "research": "Compare this photograph with a second image made under different illumination, if one can be located. Record the photographer or repository, date, and lighting where available. Which proposed tincture readings survive the comparison, and which become less secure?",
     "periods": [
       "Medieval"
@@ -677,12 +677,12 @@
     "lesson": "heraldry-in-public-life",
     "question": "What does the hierarchy of shields tell us?",
     "observations": [
-      "A central eagle shield, a crown, and paired lions occupy the largest area. Smaller shields form a ring around them, enclosed by lettering and a coloured border.",
+      "A crowned central imperial eagle dominates the roundel. **Two small shields of Zürich, per bend argent and azure, appear at the base**; the pair of lions flanking the central composition hold **swords and a crown**, not shields. Smaller armorial shields form an outer ring.",
       "Scale and position create a visible hierarchy. The little shields remain individual compositions; their surrounding circle is not one quartered coat."
     ],
     "reading": [
-      "The roundel gives some shields more space than others. Before explaining that as a political hierarchy, we should establish what the arrangement actually contains: a central eagle shield, animals beside it, and a ring of smaller compositions. Putting those devices in one window lets them be seen together, but does not merge them into one quartered coat. The arrangement therefore gives us a model of association to investigate. Documentary evidence is still needed to establish the legal or administrative relationships between the represented bodies.",
-      "Counting is a small act of scholarship. Decide whether the central eagle shield, the city's own shields, the central eagle shield, and every peripheral compartment belong in your total. Then compare the result with the museum’s texts. Differences can arise from counting conventions, interpretation, or editorial error. A source conflict should become a research question, not disappear in a rewritten caption."
+      "The imperial eagle, Zürich's two civic shields at the base, and the ring of additional arms occupy distinct positions. The lions hold swords and the crown, not another pair of shields. Their grouping presents a civic and imperial ensemble without combining every device into one quartered coat. The dated cartouche, orb and outer inscription deserve independent transcription before a political hierarchy is inferred from scale alone.",
+      "Counting is a small act of scholarship. Decide whether the central eagle shield, the two small Zürich shields in base, the central eagle shield, and every peripheral compartment belong in your total. Then compare the result with the museum’s texts. Differences can arise from counting conventions, interpretation, or editorial error. A source conflict should become a research question, not disappear in a rewritten caption."
     ],
     "exercise": "Number the distinct shield-shaped fields on a copy of the image, keeping the central group and outer ring separate. State your counting rule. Then write a paragraph showing how the arrangement connects a civic community with a larger political vocabulary.",
     "discussion": "A strong answer gives a reproducible count rather than repeating one attractive number. It retains the workshop qualification, distinguishes the ring from marshalling within a single shield, and explains which political statements come from the catalogue and which remain interpretive.",
@@ -1144,7 +1144,7 @@
     ],
     "reading": [
       "The city named in an armorial title and the place attributed to a glassmaker answer different questions. A customer can obtain an object from a workshop elsewhere, and a workshop can reproduce another community's devices. Cleveland's Swiss attribution and its title naming Überlingen are therefore information to keep together while investigating the commission. They need not be forced into one national label. A payment, inscription, or documented gift could explain the connection; the difference between the two place names gives us a reason to look for it.",
-      "Keep the central eagle, the upper lion, and the surrounding people distinct before deciding how they relate heraldically. A lion placed above an achievement might be a crest, another emblem, or part of a narrative. Its role needs comparison with the full arrangement and documentary descriptions, rather than identification from animal shape alone."
+      "The helmet is surmounted by a visibly distinct crest: a crowned red demi-lion holding a sword, framed by mantling. The lion's position above the helm is meaningful evidence of a crest rather than merely a second unidentified animal in the surrounding narrative. The eagle remains on the large shield below. Transcribing the inscription **“Die Statt Uberlingen 1559”** supplies a named and dated link to the depicted city, while the museum's Swiss workshop attribution concerns the maker's location."
     ],
     "exercise": "Make separate catalogue fields for represented identity, attributed manufacture, inscription, and provenance. Fill only what the museum or image supports. Then explain what evidence could connect the Swiss attribution with the commission of a panel bearing another city’s arms.",
     "discussion": "A strong answer preserves the distinction between the Swiss workshop attribution and the named city of Überlingen. It transcribes **“Die Statt Uberlingen 1559”** from the museum record, locates the visible date, and records the crest and upper lion without assuming every surrounding figure is a supporter.",
@@ -1197,14 +1197,14 @@
     "question": "What exactly has become a flag?",
     "observations": [
       "A green rectangular textile with a broad red border hangs from a pole. An embroidered achievement occupies the centre, with flanking figures and scrolling elements around the shield.",
-      "Cords and tassels extend beyond the fabric. The outer flag is therefore not shaped like the small shield displayed within it."
+      "Within the green cloth and red border, the embroidered royal achievement shows arms consistent with the **post-1801** British royal arrangement: England in the first and fourth quarters, Scotland in the second, Ireland in the third, and a **crowned electoral inescutcheon**. Those details must be compared with the catalogue's broader **1700s** dating before the manufacture and history of this textile are asserted."
     ],
     "reading": [
       "The green cloth carries an image of a royal achievement. Compare that arrangement with a banner of arms, in which the shield's design extends across the rectangular cloth itself. The difference affects what a description should include: here we have the textile support and an achievement placed upon it. Describing those two levels gives another reader a way to follow the object even before we settle its technical classification. It also prevents the colour of the surrounding cloth from silently becoming a tincture inside the royal shield.",
-      "A museum title identifying royal arms does not date every component to one sovereign or occasion. The arms, textile, pole, embroidery, and accessories each need their own evidence. The visible green ground is also the colour of the banner support, not necessarily a tincture of the shield inside the central composition."
+      "The royal arms visible on the cloth provide a chronological test independent of the catalogue's broad description. The post-1801 quartering and electoral inescutcheon are not consistent with an unaltered eighteenth-century armorial composition; the object might have been produced or altered later, or the catalogue's date may refer to another feature. That discrepancy should be investigated rather than silently resolved. The pole, embroidery and surrounding textile still require their own dating evidence."
     ],
     "exercise": "Write one description of the complete flag and another of its central achievement. Explain which colours belong to the support and which appear within the arms. Then list the evidence needed to argue for a particular ceremonial use.",
-    "discussion": "A strong answer distinguishes the cloth’s outer field from the armorial field and preserves the probable origin. It avoids treating fringe, pole, tassels, and embroidered arms as interchangeable components of a blazon, while recognizing their importance to the object’s use.",
+    "discussion": "A strong answer separates the cloth's green outer field from the heraldic quarterings and explicitly records their post-1801 visual structure. It treats the tension with the catalogue's '1700s' dating as an unresolved chronology problem, not proof that the museum or image is necessarily wrong.",
     "research": "Compare a documented royal standard with this embroidered display. Record whether each reproduces a shield’s divisions across the entire cloth or places an achievement within another field. Use dated inventories or images to test functional names rather than choosing them by appearance alone.",
     "catalogueTitle": "Banner with Royal Coat of Arms of Great Britain",
     "date": "1700s",
@@ -1712,7 +1712,7 @@
     "question": "Is a shield-shaped cartouche enough?",
     "observations": [
       "Blue-and-gold ornament frames a shield-shaped cartouche on the teapot. The museum catalogues the intertwined initials as **“JS”**, which identifies the lettering without identifying its owner.",
-      "The central letters are not a conventional field of ordinary shapes and charges. The surrounding frame borrows the visual language of an achievement without supplying a securely identified coat."
+      "A **bird-shaped device above the cartouche** resembles the position of a heraldic crest, but the object's monogram **JS** and its decorative frame do not independently establish an armorial grant or the name of a customer. The shield-like frame and bird require description as separate visual elements."
     ],
     "reading": [
       "The shield-shaped frame makes the initials look like an established identifying device. But the contents still matter: initials can mark a customer's identity without forming a hereditary coat of arms. That gives us two tasks. Record the museum's reading of the initials as **JS** and describe the surrounding armorial-style frame, then seek the service or commission that could connect them to a purchaser. The catalogue's Chinese production and possible English or American market describe the route the object may have taken. Expanding the monogram into a familiar name would supply the missing destination by guesswork.",
@@ -1742,7 +1742,7 @@
       "Early modern",
       "Modern"
     ],
-    "alt": "A cylindrical white teapot carries a blue-and-gold shield-shaped cartouche containing intertwined letters. A small ornament sits above, while blue patterns encircle the lid and upper body.",
+    "alt": "A cylindrical white teapot carries a blue-and-gold shield-shaped cartouche containing intertwined letters. A bird-shaped, crest-like ornament stands above, while blue patterns encircle the lid and upper body.",
     "catalogue": "The museum titles the object Teapot, dates it around 1775–1800, and catalogues it as Chinese export porcelain for English or American markets. The consulted record does not name a patron or identify the letters. This study therefore treats the decoration as monogrammed and armorial in style rather than assigning an invented bearer. [1]",
     "claims": [
       {
@@ -2113,9 +2113,9 @@
   },
   {
     "id": "stowe-armorial",
-    "title": "726 armorial bearings, one ceiling",
+    "title": "726 armorial bearings in a library",
     "catalogueTitle": "The Heraldic Achievements of the Grenville, Temple Nugent, and Chandos Families",
-    "summary": "The Stowe Armorial turns accumulated ancestry into an architectural spectacle. The catalogue's **726 armorial bearings** invite study of whether and how individual devices are marshalled, and what it would take to substantiate the relationships.",
+    "summary": "The Stowe Armorial turns accumulated ancestry into an architectural-scale display. The catalogue's **726 armorial bearings** invite study of whether and how individual devices are marshalled, and what it would take to substantiate the relationships.",
     "date": "Painting: 1806; Photograph: undated reproduction",
     "culture": "British · Stowe House",
     "material": "Architectural display",
