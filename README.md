@@ -7,6 +7,7 @@ Built with [Astro](https://astro.build/) and published using **GitHub Pages**.
 ## Learn, draw, research
 
 - **Academy:** 12 expanded self-paced readings in `src/content/foundation/`, covering visual identity, tinctures, geometry, charges, blazon, cadency, marshalling, institutions and documentary research. Footnotes, chapter navigation, worked problems, answer discussions, and a capstone are rendered as static HTML. First teaching drafts await specialist review and further expansion.
+- **Beyond the Shield:** Eight comparative readings in `src/content/achievement/`, a cited source shelf, and a switchable anatomy lab at `/achievement/laboratory/`. The course separates the depiction of crests, supporters, mottos, badges and insignia from recognition and jurisdiction-specific entitlement. Editorial status: advanced teaching drafts awaiting specialist review.
 - **Guided lectures:** 12 shorter introductory presentations with readable scripts and optional browser-native narration, linked to the expanded chapters.
 - **Atelier:** Design original vector shields using field divisions, tinctures, ordinaries and charges. Switch to engraved hatching, view an introductory blazon, export SVG or PNG, and share a design by URL.
 - **Blazon decoder:** Write a supported simple blazon to generate an illustration; the parser declines unsupported constructions rather than guessing.

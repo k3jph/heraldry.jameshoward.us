@@ -1,0 +1,83 @@
+[
+  {
+    "id": "college",
+    "label": "College of Arms — Granting of Arms",
+    "jurisdiction": "England and related jurisdictions",
+    "language": "en",
+    "kind": "Current official procedure",
+    "url": "https://www.college-of-arms.gov.uk/About/11.htm",
+    "caution": "An account of modern College practice, not a rule governing all European heraldry."
+  },
+  {
+    "id": "lyon",
+    "label": "Court of the Lord Lyon — Crests",
+    "jurisdiction": "Scotland",
+    "language": "en",
+    "kind": "Current official guidance",
+    "url": "https://www.courtofthelordlyon.scot/crests.htm",
+    "caution": "Separates a personal crest, a chief's badge, clan allegiance and feather conventions."
+  },
+  {
+    "id": "canada",
+    "label": "Canadian Heraldic Authority — Parts of a Coat of Arms",
+    "jurisdiction": "Canada",
+    "language": "en",
+    "kind": "Current official teaching guide",
+    "url": "https://gg.ca/en/heraldry/parts-coat-arms",
+    "caution": "Anatomy and supporter eligibility are described in Canadian institutional practice."
+  },
+  {
+    "id": "herold",
+    "label": "HEROLD — Berliner Erklärung über heraldische Gestaltungsgrundsätze",
+    "jurisdiction": "German-speaking heraldic art",
+    "language": "de",
+    "kind": "Association design guidance, 24 April 2009",
+    "url": "https://herold-verein.de/wp-content/uploads/2018/01/Berliner-Erkl%C3%A4rung-%C3%BCber-heraldische-Gestaltungsgrunds%C3%A4tze.pdf",
+    "caution": "Normative artistic recommendations, not a general statute."
+  },
+  {
+    "id": "catalan",
+    "label": "Gran Enciclopèdia Catalana — Cimera",
+    "jurisdiction": "Historical Crown of Aragon",
+    "language": "ca",
+    "kind": "Specialist reference encyclopedia",
+    "url": "https://www.enciclopedia.cat/gran-enciclopedia-catalana/cimera",
+    "caution": "Explains the surviving royal dragon-crest tradition; claims about individual artifacts should be checked with collection catalogues."
+  },
+  {
+    "id": "poland",
+    "label": "The Heraldry Project — Poland–Lithuania",
+    "jurisdiction": "Poland and Lithuania",
+    "language": "pl / la / en",
+    "kind": "Our source-linked comparative study",
+    "url": "/traditions/poland-lithuania/",
+    "caution": "Follow that chapter's original source locators for a specific historical claim."
+  },
+  {
+    "id": "dutch",
+    "label": "Hoge Raad van Adel — Noble and municipal arms",
+    "jurisdiction": "Netherlands",
+    "language": "nl",
+    "kind": "Official administrative portal",
+    "url": "https://www.hogeraadvanadel.nl/",
+    "caution": "The Council's noble and public functions should not be taken to regulate every Dutch burgher family's arms."
+  },
+  {
+    "id": "italy",
+    "label": "Archivio Centrale dello Stato — Libro d'oro della nobiltà",
+    "jurisdiction": "Italy",
+    "language": "it",
+    "kind": "State archival interpretation",
+    "url": "https://acs.cultura.gov.it/libro-doro-della-nobilta-italiana/",
+    "caution": "Distinguishes historical records under the Kingdom from constitutional status under the Republic."
+  },
+  {
+    "id": "bnf",
+    "label": "BnF Catalogue général des manuscrits — Armorial treatise",
+    "jurisdiction": "France / Franche-Comté",
+    "language": "fr",
+    "kind": "Manuscript catalogue entry",
+    "url": "https://ccfr.bnf.fr/portailccfr/jsp/index_view_direct_anonymous.jsp?record=eadcgm%3AEADC%3Aa80308535",
+    "caution": "Catalogue descriptions distinguish observed illustrations from possible author attribution."
+  }
+]

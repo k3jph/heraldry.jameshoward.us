@@ -12,6 +12,16 @@ const traditionSchema = z.object({
   level: z.string(),
 });
 
+
+const achievementSchema = z.object({
+  title: z.string(),
+  description: z.string(),
+  order: z.number().int().positive(),
+  focus: z.string(),
+  period: z.string(),
+  sources: z.array(z.string()).min(1),
+});
+
 const seminarSchema = z.object({
   title: z.string(),
   description: z.string(),
@@ -30,6 +40,10 @@ export const collections = {
       updated: z.string(),
       status: z.literal('Expanded teaching draft; specialist review pending'),
     }),
+  }),
+  achievement: defineCollection({
+    loader: glob({ pattern: '**/*.md', base: './src/content/achievement' }),
+    schema: achievementSchema,
   }),
   seminars: defineCollection({
     loader: glob({ pattern: '**/*.md', base: './src/content/seminars' }),

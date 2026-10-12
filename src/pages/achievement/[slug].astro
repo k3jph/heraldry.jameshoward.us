@@ -1,0 +1,53 @@
+---
+import Base from '../../layouts/Base.astro';
+import {getCollection,render} from 'astro:content';
+import {chapterReadMinutes,chapterWordCount} from '../../lib/foundation.js';
+import sources from '../../data/achievement-sources.json';
+export async function getStaticPaths(){
+  const chapters=(await getCollection('achievement')).sort((a,b)=>a.data.order-b.data.order);
+  return chapters.map((chapter,index)=>({params:{slug:chapter.id},props:{chapter,previous:chapters[index-1]||null,next:chapters[index+1]||null,chapters}}));
+}
+const {chapter,previous,next,chapters}=Astro.props;
+const {Content,headings}=await render(chapter);
+const selectedSources=sources.filter(source=>chapter.data.sources.includes(source.id));
+const readingMinutes=chapterReadMinutes(chapter.body);
+const schema={'@context':'https://schema.org','@type':'LearningResource',name:chapter.data.title,description:chapter.data.description,inLanguage:'en',educationalLevel:'Advanced undergraduate / graduate',learningResourceType:'Comparative heraldic research chapter',isAccessibleForFree:true,author:{'@type':'Person',name:'James P. Howard, II'},citation:selectedSources.map(item=>item.url)};
+---
+<Base title={chapter.data.title} description={chapter.data.description}>
+  <script type="application/ld+json" set:html={JSON.stringify(schema)}/>
+  <section class="page-intro">
+    <div class="wrap page-intro-inner">
+      <nav class="breadcrumbs" aria-label="Breadcrumbs"><a href="/">Home</a><span>›</span><a href="/achievement/">Beyond the shield</a><span>›</span>Study {String(chapter.data.order).padStart(2,'0')}</nav>
+      <p class="eyebrow"><span class="star">✦</span> {chapter.data.focus} · Study {String(chapter.data.order).padStart(2,'0')} of {chapters.length}</p>
+      <h1 class="display-serif" style="max-width:1100px">{chapter.data.title}</h1>
+      <p class="page-intro-description">{chapter.data.description}</p>
+      <p class="caption" style="margin-top:16px">{chapterWordCount(chapter.body).toLocaleString('en-US')} words · About {readingMinutes} minutes plus source study · {chapter.data.period}</p>
+    </div>
+  </section>
+  <div class="wrap world-article-shell">
+    <article class="world-article">
+      <div class="notice-box" style="margin-bottom:26px"><strong>Read the image before the rule.</strong><p>A displayed ornament, a recognized bearing and a proven right to use it are distinct claims. Ask which one each source can actually establish.</p></div>
+      <nav class="chapter-toc" aria-label="In this chapter"><strong>In this study</strong><ol>{headings.filter(h=>h.depth===2).map(h=><li><a href={'#'+h.slug}>{h.text}</a></li>)}</ol></nav>
+      <Content/>
+      <div class="notice-box" style="margin-top:48px"><strong>Advanced teaching draft; specialist review pending.</strong><p>These English-language syntheses cite institutional and historical sources but have not been independently reviewed by all relevant regional specialists. Current guidance, historical practice and enforceable law must be distinguished.</p></div>
+      <nav aria-label="Achievement study navigation" class="achievement-pagination">
+        {previous?<a class="btn btn-line" href={'/achievement/'+previous.id+'/'}>← {previous.data.title}</a>:<a class="btn btn-line" href="/achievement/">← Course overview</a>}
+        {next?<a class="btn btn-dark" href={'/achievement/'+next.id+'/'}>{next.data.title} →</a>:<a class="btn btn-dark" href="/achievement/laboratory/">Open the anatomy laboratory →</a>}
+      </nav>
+    </article>
+    <aside class="world-sidebar">
+      <div class="world-sidebar-box">
+        <p class="eyebrow"><span class="star">✦</span> Documentary shelf</p>
+        <h2 class="small-title">Test the source.</h2>
+        <p>Find the institution, date, region and type of claim before borrowing a rule.</p>
+        {selectedSources.map(source=><a class="world-source-mini" href={source.url}><span class="smallcaps">{source.language.toUpperCase()} · {source.kind}</span><strong>{source.label}</strong><small>{source.caution}</small><span class="mini-arrow">Consult the source ↗</span></a>)}
+      </div>
+      <div class="world-sidebar-box world-sidebar-dark"><p class="eyebrow eyebrow-on-dark"><span class="star">✦</span> Compare the cultures</p><h2 class="small-title">No universal checklist.</h2><p>A crest in Scottish clan practice, German helmet art, and Catalan dynastic display may look similar but communicate different relationships.</p><a class="btn btn-gold" href="/achievement/laboratory/">Try the anatomy lab ↗</a></div>
+    </aside>
+  </div>
+</Base>
+<style>
+.achievement-pagination{margin:30px 0 70px;display:flex;flex-wrap:wrap;gap:12px;align-items:stretch}
+.achievement-pagination .btn{max-width:100%;white-space:normal}
+@media(max-width:620px){.achievement-pagination .btn{width:100%}}
+</style>

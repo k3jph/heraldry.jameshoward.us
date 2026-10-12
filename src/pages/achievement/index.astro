@@ -1,0 +1,74 @@
+---
+import Base from '../../layouts/Base.astro';
+import {getCollection} from 'astro:content';
+import {chapterReadMinutes} from '../../lib/foundation.js';
+import sources from '../../data/achievement-sources.json';
+const chapters=(await getCollection('achievement')).sort((a,b)=>a.data.order-b.data.order);
+const comparisons=[
+ {name:'England and Wales',detail:'A crest may be individually granted with arms. Supporters are an additional entitlement for eligible grantees; badges and standards have distinct functions.',link:'/traditions/england/',source:'college'},
+ {name:'Scotland',detail:'Personal arms, crests and chiefly crest badges must be distinguished. The buckle-and-strap badge expresses allegiance; the wearer does not acquire the chief\'s arms.',link:'/traditions/scotland/',source:'lyon'},
+ {name:'German-speaking Europe',detail:'The Oberwappen is a central compositional unit. Repeated shield imagery in the Helmzier is prized in some practices; depicted shield-holders require source-specific interpretation.',link:'/traditions/germany/',source:'herold'},
+ {name:'Spain and Aragon',detail:'Many armorial presentations emphasize the shield and external insignia. The medieval winged-dragon cimera of the Crown of Aragon is a major exception to any crestless stereotype.',link:'/traditions/spain/',source:'catalan'},
+ {name:'Poland–Lithuania',detail:'A named herb may be shared by distinct families. Investigate a klejnot or zawołanie in its original armorial context before substituting western terminology.',link:'/traditions/poland-lithuania/',source:'poland'},
+ {name:'Canada',detail:'A modern grant may describe shield, crest, motto, badges, flags and, for specified categories, supporters. The present official eligibility system is not retroactive European law.',link:'/traditions/canada/',source:'canada'}
+];
+const sourceById=Object.fromEntries(sources.map(source=>[source.id,source]));
+const schema={'@context':'https://schema.org','@type':'Course',name:'Beyond the Shield: Anatomy of the Heraldic Achievement',description:'Eight source-linked chapters about crests, external ornaments, legal status and material evidence.',inLanguage:'en',isAccessibleForFree:true,provider:{'@type':'Person',name:'James P. Howard, II'},educationalLevel:'Advanced undergraduate / graduate',hasCourseInstance:{'@type':'CourseInstance',courseMode:'online',courseWorkload:'Self-paced'}};
+---
+<Base title="Beyond the Shield: The Heraldic Achievement" description="An eight-chapter illustrated and documentary course on heraldic crests, helmets, supporters, badges, mottos, office insignia and material evidence.">
+  <script type="application/ld+json" set:html={JSON.stringify(schema)}/>
+  <section class="page-intro">
+    <div class="wrap page-intro-inner">
+      <nav class="breadcrumbs" aria-label="Breadcrumbs"><a href="/">Home</a><span>›</span>Beyond the shield</nav>
+      <p class="eyebrow"><span class="star">✦</span> The achievement and its other languages</p>
+      <h1 class="display-serif">Beyond the<br/>shield.</h1>
+      <p class="page-intro-description">A crest is not a shield. A supporter in a carving is not necessarily a granted supporter. The parts outside a shield have their own histories, conventions, and legal meanings. Learn to read them without treating one national tradition as the rule for everyone else.</p>
+      <div class="achievement-actions"><a class="btn btn-dark" href="/achievement/what-is-an-achievement/">Begin with the achievement ↗</a><a class="btn btn-line" href="/achievement/laboratory/">Open the anatomy laboratory ↗</a></div>
+    </div>
+  </section>
+  <section class="section">
+    <div class="wrap">
+      <div class="rule-heading"><div><p class="eyebrow"><span class="star">✦</span> Eight research readings</p><h2 class="section-title">Anatomy, meaning,<br/>and authority.</h2></div><p>Each reading works from what can be observed to what can be established. Regional chapters supply the institutional history; these chapters compare particular elements across boundaries.</p></div>
+      <div class="achievement-grid">{chapters.map(chapter=><a class="card achievement-card" href={'/achievement/'+chapter.id+'/'}><div class="achievement-kicker"><span>{String(chapter.data.order).padStart(2,'0')} / {String(chapters.length).padStart(2,'0')}</span><span>{chapter.data.focus}</span></div><h3>{chapter.data.title}</h3><p>{chapter.data.description}</p><div class="achievement-foot"><span>{chapter.data.sources.length} linked readings · about {chapterReadMinutes(chapter.body)} min</span><span aria-hidden="true">↗</span></div></a>)}</div>
+    </div>
+  </section>
+  <section class="section section-toned">
+    <div class="wrap">
+      <div class="rule-heading"><div><p class="eyebrow"><span class="star">✦</span> Six different starting assumptions</p><h2 class="section-title">The same motif,<br/>different claims.</h2></div><p>These are carefully qualified teaching orientations, not statements that every armiger in a territory followed identical rules. Follow the linked regional studies and institutions for the actual period and jurisdiction.</p></div>
+      <div class="achievement-comparison">{comparisons.map(item=><article class="achievement-region"><div><h3><a href={item.link}>{item.name} ↗</a></h3><p>{item.detail}</p></div><a href={sourceById[item.source].url} class="text-link">{sourceById[item.source].kind} ↗</a></article>)}</div>
+      <div class="notice-box" style="margin-top:32px"><strong>Do not turn comparative tendencies into universal rules.</strong><p>There are exceptions in both directions: southern European achievements can have crests and supporters; German achievements may contain formally established ornaments; present-day legal treatments can differ from older artistic practices. Ask first what the dated evidence actually says.</p></div>
+    </div>
+  </section>
+  <section class="section">
+    <div class="wrap split" style="align-items:center"><div><p class="eyebrow"><span class="star">✦</span> Experiment, then investigate</p><h2 class="section-title">Remove an ornament.<br/>Keep the question.</h2></div><div><p>Our interactive laboratory lets you show and hide a crest, mantling, supporters, motto and order insignia, then compare the result against five regional interpretive lenses. This is a conceptual diagram, not a legal eligibility calculator or heraldic grant.</p><a class="btn btn-dark" href="/achievement/laboratory/">Explore the anatomy ↗</a></div></div>
+  </section>
+  <section class="section section-toned">
+    <div class="wrap">
+      <div class="rule-heading"><div><p class="eyebrow"><span class="star">✦</span> Follow the evidence</p><h2 class="section-title">A comparative<br/>reading shelf.</h2></div><p>Official institutional guidance, an association's published artistic principles, and specialist reference scholarship must not be treated as equivalent kinds of authority.</p></div>
+      <div class="achievement-source-grid">{sources.map(source=><article class="achievement-source"><span class="smallcaps">{source.language.toUpperCase()} · {source.kind}</span><h3><a href={source.url}>{source.label} ↗</a></h3><p>{source.caution}</p></article>)}</div>
+      <div class="notice-box" style="margin-top:35px"><strong>Editorial status: advanced teaching draft.</strong><p>This original course has source-linked comparisons and documentary exercises, but it has not yet received independent specialist review. Verify historically consequential claims against the underlying evidence. The Heraldry Project does not determine anyone's heraldic entitlement.</p></div>
+    </div>
+  </section>
+</Base>
+<style>
+.achievement-actions{display:flex;flex-wrap:wrap;gap:12px;margin-top:30px}
+.achievement-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:19px}
+.achievement-card{display:flex;flex-direction:column;gap:14px;padding:30px;min-width:0;transition:border-color .2s,transform .2s}
+.achievement-card:hover{border-color:var(--gold);transform:translateY(-3px)}
+.achievement-kicker{display:flex;align-items:start;gap:16px;justify-content:space-between;color:var(--red);font-size:.7rem;font-weight:750;letter-spacing:.06em;text-transform:uppercase}
+.achievement-card h3{font:500 clamp(1.5rem,2.4vw,2.15rem)/1.15 var(--serif);margin:0}
+.achievement-card p{color:var(--muted);margin:0;flex:1}
+.achievement-foot{display:flex;justify-content:space-between;align-items:center;border-top:1px solid var(--line);padding-top:14px;gap:10px;font-size:.73rem;color:var(--muted)}
+.achievement-region{display:flex;align-items:start;justify-content:space-between;gap:25px;padding:22px 0;border-bottom:1px solid var(--line)}
+.achievement-region>div{display:grid;grid-template-columns:minmax(190px,.35fr) 1fr;gap:26px;align-items:start;flex:1}
+.achievement-region h3{font:500 1.5rem/1.2 var(--serif);margin:0}
+.achievement-region p{max-width:690px;color:var(--ink-2);margin:0}
+.achievement-region .text-link{flex:0 0 180px;font-size:.67rem}
+.achievement-source-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
+.achievement-source{background:var(--white);border:1px solid var(--line);padding:21px;min-width:0}
+.achievement-source .smallcaps{color:var(--red)}
+.achievement-source h3{font:500 1.35rem/1.2 var(--serif);margin:12px 0}
+.achievement-source p{margin:0;color:var(--muted);font-size:.87rem}
+@media(max-width:920px){.achievement-region,.achievement-region>div{display:block}.achievement-region p{margin:9px 0 16px}.achievement-source-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:620px){.achievement-grid,.achievement-source-grid{grid-template-columns:1fr}.achievement-card{padding:22px}.achievement-actions .btn{width:100%}}
+</style>
