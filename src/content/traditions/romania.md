@@ -33,11 +33,11 @@ level: "Advanced undergraduate / graduate"
 
 A black-and-white reproduction of Romania’s state arms has to communicate tinctures that the ink cannot show directly. The familiar heraldic solution is to substitute dots and lines for colours. Here, however, the choice of patterns also appears in national legislation. We can investigate how a visual convention becomes a prescribed method for reproducing one official emblem, and what that prescription leaves an artist or software system still to resolve.
 
-Romania's [Law 102 of 21 September 1992](https://legislatie.just.ro/Public/DetaliiDocument/2381) defines the state coat of arms and state seal. It does so using formal visual language. The central shield is borne by an eagle, and that eagle carries a smaller shield partitioned into historical territorial components. The law names the charges and tinctures in text, and an annex gives an official graphic model.
+Romania's [Law 102 of 21 September 1992](https://legislatie.just.ro/Public/DetaliiDocument/2381) defines the state coat of arms and state seal. It does so using formal visual language. On the large blue shield stands a golden eagle, and the eagle bears a smaller quartered shield on its breast representing historical territories. The law names the charges and tinctures in text, and an annex gives an official graphic model.
 
 Article 2 states explicitly how the coat of arms is to be reproduced without colour. It prescribes the familiar heraldic hatching convention: dots for gold, blank surface for silver, vertical lines for red, horizontal lines for blue, and superimposed vertical and horizontal lines for black. Even the relative thickness of some lines in simplified renderings is addressed.
 
-This is very different from simply saying that artists in a particular country 'usually follow' the *rule of tincture*. An English manual may present hatching as an artistic convention. A Romanian statute directs its use for reproducing a defined state emblem. The same technique can occupy quite different places in law, education and craft across jurisdictions.
+This is very different from simply saying that artists in a particular country 'usually follow' *heraldic hatching conventions*. An English manual may present hatching as an artistic convention. A Romanian statute directs its use for reproducing a defined state emblem. The same technique can occupy quite different places in law, education and craft across jurisdictions.
 
 ## A political geography inside the inner shield
 
