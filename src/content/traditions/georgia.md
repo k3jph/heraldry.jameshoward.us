@@ -22,7 +22,7 @@ level: "Advanced undergraduate / graduate"
     <li><a href="#a-vine-ornament-is-part-of-a-local-visual-vocabulary">A vine ornament is part of a local visual vocabulary</a></li>
     <li><a href="#three-english-colour-labels-do-not-resolve-one-georgian-field">Three English colour labels do not resolve one Georgian field</a></li>
     <li><a href="#kutaisi-combines-an-older-charge-with-a-new-companion">Kutaisi combines an older charge with a new companion</a></li>
-    <li><a href="#oni-retains-an-animal-suited-to-its-setting">Oni retains an animal suited to its setting</a></li>
+    <li><a href="#onis-rams-horns-belong-to-the-dated-civic-design">Oni's ram's horns belong to the dated civic design</a></li>
     <li><a href="#an-imperial-civic-coat-belongs-to-an-administrative-history">An imperial civic coat belongs to an administrative history</a></li>
     <li><a href="#the-departments-separate-collections-support-separate-questions">The department&#x27;s separate collections support separate questions</a></li>
     <li><a href="#graduate-investigation-compare-three-kinds-of-adaptation">Graduate investigation: compare three kinds of adaptation</a></li>
@@ -118,13 +118,13 @@ This is a different operation from restoring an old coat unchanged. An earlier c
 
 For a close comparison, place the earlier civic witness and approved modern model side by side. Identify the field, the fleece's form, the added ship and the external elements. Use Asatiani's account to guide the inquiry, then cite the specific records for the actual adoption and historical image. A published synthesis is a research map rather than a substitute for every underlying instrument.
 
-## Oni retains an animal suited to its setting
+## Oni's ram's horns belong to the dated civic design
 
-Asatiani similarly describes Oni's modern use of a tur's head and horns, a cross and mountain peaks, retaining an animal reference from the older civic arms.[^ge-history-2023] The tur is a mountain goat associated with the region; it should not be converted into a stag merely because both animals have impressive headgear.
+Oni Municipality Sakrebulo's [resolution No. 19 of 23 July 2015](https://matsne.gov.ge/ka/document/view/2921500) specifies **stylized golden ram's horns** (*ვერძის რქები*) above a silver three-peaked mountain, with a golden cross above the horns. The species and placement come from the operative municipal act, rather than from an analogy with wildlife inhabiting the Caucasus. Asatiani's account of the city's older armorial imagery remains useful for investigating continuity, but an historical motif and the adopted 2015 design must be identified separately.[^ge-history-2023]
 
-The head and horns form an extracted charge, distinct from a complete animal. Their position relative to the cross and mountain peaks needs to be specified. A picture can preserve all three motifs while rearranging them enough to change the composition. Count and relationship matter before an explanation of local geography can be attached.
+The charge is **a pair of ram's horns**, not a tur's head, a stag or a complete animal. The mountain lies below the horns and the cross above them. An illustration that substitutes an animal's head changes what the municipality specified, even if the landscape remains recognizable. The operative text supplies a practical test of the composition: identify each charge and then check its position relative to the others.
 
-The geographic reading also has a different evidential basis from a canting pun. An animal suited to a region's environment can be selected as a local identifier without playing on the place name. Compare Oni with [Brașov's crown](/traditions/romania/), whose official explanation explicitly refers to names. Both relate a charge to a place, but through different mechanisms.
+A geographic reading is still possible, but it needs an explanation grounded in the municipality's history or stated symbolism. Ram's horns should not be presented as a zoological survey of the region. Compare Oni with [Brașov's crown](/traditions/romania/), whose official explanation explicitly refers to names. The comparison works only once each city's actual charge has been established.
 
 Retaining an older animal reference can make a modern design familiar while revising its style and accompanying signs. That process should be documented as adaptation. The older witness establishes prior use of a motif; the modern act establishes the new composition. Neither record should be asked to supply the other's date.
 
