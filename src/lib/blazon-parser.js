@@ -35,11 +35,11 @@ export function parseBlazon(value) {
       d.ordinaryTincture=match[3];
       remaining=(match[4]||'').trim();
       if(match[1]==='on a '&&!remaining)return {ok:false,error:'After “on a”, describe the supported charge placed on the ordinary, such as three mullets Gules.'};
-      if(match[1]==='a '&&remaining)return {ok:false,error:'For charges placed on an ordinary, use “on a fess Or three mullets Gules,” for example.'};
+      if(match[1]==='a '&&remaining)return {ok:false,error:remaining.startsWith('between ')?'“Between” places charges beside an ordinary, not on it. This introductory decoder does not yet support that arrangement; do not replace “between” with “on”.':'This decoder cannot represent the additional construction after the ordinary. It supports charges placed directly on an ordinary only when specified with “on a”.'};
     }
   }
   if(remaining){
-    remaining=remaining.replace(/^overall\s+/,'');
+    if(/^overall\s+/.test(remaining))return {ok:false,error:'“Overall” means a charge lies over another part of the design. This decoder cannot represent superimposition; omit “overall” only when it is not part of the actual blazon.'};
     let found=false;
     for(const [charge,phrases] of Object.entries(CHARGE_NAMES)){
       for(let i=0;i<phrases.length;i++){
