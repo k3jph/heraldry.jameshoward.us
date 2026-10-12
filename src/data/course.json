@@ -1213,31 +1213,31 @@
     },
     "sections": [
       {
-        "heading": "Define the question before collecting images",
+        "heading": "Select the evidence before the presentation",
         "paragraphs": [
-          "Good heraldic research begins by deciding exactly what you are trying to establish. Are you identifying the arms shown on a seal? Checking whether a person inherited arms? Explaining symbolism in a public institution's grant? Those are separate questions. Write the question down before you begin collecting attractive shields.",
-          "Search first for primary grants, registers, seals, original charters, official institutional records, and dated visual sources. Record the repository, catalogue reference, date, language, and whether you saw an original or a later copy. A commercial image with a surname attached is not a substitute for any of these."
+          "The capstone permits two routes. The documentary route examines an existing, securely located heraldic witness; the design route develops an original educational proposal under a researched jurisdictional framework. Both routes require a defined question, documented sources, a witness inventory, a claim ledger and a candid account of the limits of the conclusion. Neither route establishes a grant of arms.",
+          "For the documentary route, choose an identifiable object, a manuscript entry or an institutional record, then distinguish what is depicted from what a catalogue or instrument says. For the design route, identify a fictional bearer, explain the proposed blazon and composition, and compare it against appropriate authoritative sources. Only the second route requires making a new design; the first must not be penalized for declining to invent one."
         ]
       },
       {
-        "heading": "Design like a herald, explain like a historian",
+        "heading": "Produce a 1,200–1,800-word argument",
         "paragraphs": [
-          "Start your original exercise shield with a small palette, a simple partition or ordinary, and one clear class of charge. Ask whether it remains recognizable when small. Write its blazon. Now render it in a deliberately different style and see whether the essential identity has survived.",
-          "Choose the symbolism intentionally, then test whether each additional idea earns its place in the drawing. A charge that works clearly on its own may become difficult to distinguish among several unrelated figures. Try removing one element and compare the blazon, silhouette, and intended meaning. This gives you a reasoned way to simplify the proposal while keeping the idea you most want it to communicate."
+          "The expanded capstone requires a 1,200–1,800-word study, a source list, a witness inventory, and a claim ledger. Include a named source or design framework, explain your reasoning and identify what remains uncertain. A drawing or an SVG export may accompany the design route, but neither route can be completed merely by handing in an image.",
+          "The written argument should make its chain of inference inspectable. Distinguish dates of objects from those of later reproductions; distinguish an institution's identification from a historical fact you have independently established. Revise claims when evidence does not support them. The longer project is an exercise in historical reasoning, not a certificate of heraldic entitlement."
         ]
       },
       {
-        "heading": "Make the limitations explicit",
+        "heading": "Make a conclusion with stated limits",
         "paragraphs": [
-          "Your Atelier export is an original classroom design, not a granted coat of arms. It has not been checked for prior use or registrability. If you want legally recognized arms, consult the competent heraldic authority where one exists and understand its eligibility and procedures.",
-          "For the capstone, submit four things to yourself: a design, a written blazon, a short account of its symbolism and how you made it legible, and a source note explaining the laws and practices of the jurisdiction you researched. That is an honest small piece of heraldic scholarship. It is also a solid foundation for the much harder work of real armorial history."
+          "A reader should be able to tell whether your conclusion concerns a visual identification, historical attribution, institutional authority or artistic design choice. A documentary study may end with unresolved authorship or entitlement; the value lies in stating which source supports each proposition. A design proposal may explain intended symbolism while explicitly declining claims of registration, uniqueness or inherited right.",
+          "Use the full rubric and optional extended routes in the written [Academy capstone](/academy/reading-the-evidence/). In particular, do not substitute an old 300–500-word design exercise for the two-route study. The terms are shared; the evidence and resulting artifacts depend on the route you chose."
         ]
       }
     ],
     "exercise": {
-      "title": "Capstone: an original teaching coat",
-      "prompt": "Using the Atelier, create and export a shield. Produce a blazon, a 300–500 word historical or symbolic rationale, and a jurisdictional research memo citing at least two primary authorities. Identify what you cannot claim.",
-      "link": "/atelier/"
+      "title": "Capstone study with two research routes",
+      "prompt": "Choose either a documented armorial witness or an original teaching design informed by a named jurisdiction. Produce a 1,200–1,800-word study with a witness inventory, claim ledger, sources and a statement of unresolved claims. A design and blazon are required only for the design route; the documentary route analyzes its actual historical witness.",
+      "link": "/academy/reading-the-evidence/"
     },
     "quiz": [
       {
@@ -1263,15 +1263,15 @@
         "explanation": "The design tool is educational, not a heraldic authority."
       },
       {
-        "question": "What should a capstone include?",
+        "question": "Which deliverables belong to both capstone routes?",
         "choices": [
-          "Only an attractive image",
-          "A design, blazon, rationale and source-aware jurisdictional note",
-          "A purchased surname certificate",
-          "As many charges as possible"
+          "A new shield and personal crest, whether or not one is in the evidence",
+          "A located source or documented design framework, a witness inventory, a claim ledger and explicit limitations",
+          "Proof that the applicant has inherited the arms",
+          "An SVG exported from the Atelier"
         ],
         "correct": 1,
-        "explanation": "The full capstone tests design, reading, historical reasoning and evidentiary discipline."
+        "explanation": "Both routes demand a source-grounded 1,200–1,800-word argument, witness inventory, claim ledger and limitations. Only the design route requires creating a new armorial proposal."
       }
     ],
     "reading": [
