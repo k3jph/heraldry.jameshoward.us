@@ -28,6 +28,12 @@ level: "Advanced undergraduate / graduate"
   </ol>
 </nav>
 
+## Australian armorial jurisdiction is a real dispute
+
+Australia's Commonwealth and state symbols are the result of named royal instruments, and private armory has a different administrative history. The [College of Arms](https://www.college-of-arms.gov.uk/About/11.htm) in London has historically granted arms to Australian applicants under its jurisdiction. It is misleading to describe that activity as though Australia possessed its own continuously functioning college of arms. Nor is it adequate to infer the extent of the College's **present** remit from the nationality of the applicant alone. Competing accounts of inherited Crown heraldic authority, post-Federation sovereignty and the legal force of English armorial procedure need to be attributed to their proponents and examined against actual Australian instruments.
+
+The practical evidence comes from dated grants and recognitions. A university's royal letters patent record an act; the College's process tells us who issued the instrument; the Commonwealth government's rules concern the public use of federal symbols. These documents solve separate problems. For private Australian arms, a learner should record the grant's issuing authority and date, distinguish that from voluntary armorial registration, and identify the legal basis claimed for recognition in Australia. The chapter's Sydney and Melbourne examples give the inquiry identifiable corporate bearers rather than an imagined family. A general assertion that the College's jurisdiction is universally settled would go further than those examples warrant.
+
 ## A federal design contains several identities
 
 Australia’s present Commonwealth arms were granted in 1912, following an earlier 1908 design. The Department of the Prime Minister and Cabinet identifies the warrants and explains that the later shield incorporated the states’ symbols.[^au-commonwealth] The result provides a concrete model of federation expressed through armorial composition.
