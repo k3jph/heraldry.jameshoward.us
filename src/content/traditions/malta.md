@@ -30,6 +30,12 @@ level: "Advanced undergraduate / graduate"
   </ol>
 </nav>
 
+## The Chief Herald's authority depends on its enabling legislation
+
+Malta's Chief Herald operates within the statutory heritage system rather than through a continuously surviving medieval court of arms. The parent law is the **Cultural Heritage Act, Chapter 445**, under which the modern regulations were made. Heritage Malta describes an office established in **2019**; the heraldry regulations became operative on **21 January 2022**. Those are not interchangeable dates. A notice or register entry from the intervening years needs examination of its stated legal basis, not the assumption that the 2022 framework automatically existed in its later form in 2019.
+
+The published **2019–2024 register** is therefore more than a gallery of recent achievement designs. Its first years straddle a change in the legal machinery through which grants, recordings or confirmations were organized. Research should classify each entry by the instrument and rule actually invoked at the time. The [current Heritage Malta heraldry service](https://heritagemalta.mt/subsidiaries/heraldry/) and [the published subsidiary legislation](https://legislation.mt/getpdf/61ee60a7f7066b1f6c7b0f11) are complementary witnesses, one describing the administering office and the other defining the contemporary legal procedure.
+
 ## A cathedral floor is an armorial landscape
 
 St John’s Co-Cathedral describes its inlaid marble tombstones as individually designed monuments dating from the early seventeenth through late eighteenth centuries. Shields share their surfaces with coronets, weapons, skeletons, and other figures of memory and mortality. Its inventory identifies named deceased people and locations.[^tombs] Heraldry is embedded in a religious and commemorative space, rather than isolated in a book of shield drawings.
