@@ -30,6 +30,12 @@ level: "Advanced undergraduate / graduate"
   </ol>
 </nav>
 
+## A royal register has a chronological boundary
+
+The Italian state archive's treatment of the *Libro d'oro della Nobiltà Italiana* gives historical recognition a defined legal setting. The **28 October 1922** cutoff applied to specified hereditary predicates in the transitional arrangements following the 1948 Constitution, which refused legal recognition of noble titles. This does not mean the state retrospectively erased medieval arms or that families ceased to keep historical armorial objects. It means a later assertion of official noble privilege cannot be inferred solely from a royal-era record.
+
+The date has to be identified at its proper level. A coat might be physically depicted in an eighteenth-century church, recorded by a nineteenth-century royal nobiliary authority, and shown in a modern family photograph. Those are three witnesses. The Constitution's provisions govern a different question from whether the earlier depiction existed. The [Archivio Centrale dello Stato](https://acs.cultura.gov.it/libro-doro-della-nobilta-italiana/) explains the surviving official records and the constitutional distinction.
+
 ## Italian heraldry cannot be reduced to a kingdom
 
 Before nineteenth-century unification, the Italian peninsula contained republics, duchies, kingdoms, ecclesiastical territories and city-states. Heraldry developed within these varied institutions. Italian civic coats of arms often reflect a political and urban history markedly different from English personal succession. Papal and ecclesiastical usage also deserves attention separate from secular noble arms.
