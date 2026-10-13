@@ -28,6 +28,12 @@ level: "Advanced undergraduate / graduate"
   </ol>
 </nav>
 
+## The decree specifies real proportions and real positions
+
+**Decree No. 35 of 17 June 1944**, effective **1 December 1944**, does not merely authorize a blue field and a pair of crosses. Its [Icelandic text](https://www.althingi.is/lagas/154c/1944035.html) specifies a **silver cross 2/9 of the shield's width**, containing a **red cross 1/9 of that width**. Both extend to the four shield edges. The upper blue sections are squares, while the lower sections have the same width but are **one-third longer**. An arbitrary digital illustration that uses equal rectangles or a narrower silver border may be attractive but would not follow this official geometry.
+
+The same decree locates the four guardian supporters: the **bull to the shield's right** and **giant to the left**, with the **bird above the bull** and **dragon above the giant**. The shield rests on a slab of columnar basalt. These are not generic creatures to distribute freely. The point of reading the measurements and positions is that a statue, banner or government reproduction can be compared against a known specification, without guessing what the law intended.
+
 ## Four supporters with a literary history
 
 Iceland’s arms combine a cross-bearing shield with four landvættir, guardian spirits of the land, and a basalt compartment. The 1944 decree specifies the composition and dimensional relationships.[^is-decree] This is a particularly useful case because the identifying system includes both a regulated graphic arrangement and figures connected with a literary account of the country.
