@@ -31,6 +31,12 @@ level: "Advanced undergraduate / graduate"
   </ol>
 </nav>
 
+## English schedule and Catholic directive are different authorities
+
+The **College of Arms' 1967 schedule of ecclesiastical hats** is evidence of **English heraldic administrative practice**, not a decree governing the entire Roman Catholic Church. The Holy See's separate instruction ***Ut sive sollicite*** of **31 March 1969**, published in *Acta Apostolicae Sedis* 61 (1969), deals with clerical garments, titles and insignia, including simplification of external ornaments. Its relevant provisions need to be read as ecclesiastical norms within their own authority and historical context.
+
+This removes an easy but serious category error. A London herald's recommendation and a Roman Secretariat of State instruction may influence the same visual subject without enjoying the same jurisdiction. Their relationship is a history of overlapping artistic conventions and distinct institutional rules. The text should say whose normative source is being quoted before using it to explain the mitre, pastoral staff or galero in another country's achievement.
+
 ## Begin with a named pope’s shield
 
 The Holy See Press Office’s explanation of Leo XIV’s arms, published on 14 May 2025, identifies a Marian fleur-de-lis and an Augustinian flaming heart pierced by an arrow with a book. The achievement also includes a mitre and crossed Petrine keys.[^leo] Several kinds of identity are being presented together: a person’s chosen design, a religious affiliation, and the office he holds.
