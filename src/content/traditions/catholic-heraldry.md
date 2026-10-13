@@ -4,7 +4,7 @@ description: "Read papal arms, hats and tassels, the 1969 instruction, and Vatic
 region: "Catholic heraldry"
 languages: ["en", "la", "it"]
 track: "Ecclesiastical heraldry"
-period: "Medieval period–present"
+period: "Medieval ecclesiastical display to the 2026 Vatican law"
 sourceIds: ["cath-leo-xiv", "cath-benedict-xvi", "cath-ut-sive", "cath-1967-schedule", "cath-vatican-law-2026", "cath-vatican-law-2023", "cath-cupich", "cath-swiss-guard-flag", "cath-vacant-see-coin-2026"]
 level: "Advanced undergraduate / graduate"
 ---
