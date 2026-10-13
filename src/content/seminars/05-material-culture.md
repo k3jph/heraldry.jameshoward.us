@@ -7,6 +7,17 @@ sourceIds: ["pt-vasco","es-boe-burgos","ar-escudo","za-coat","jp-ndl-kamon"]
 level: "Graduate methods"
 ---
 
+## Material histories are arguments about objects
+
+Michael Andersen, “Archaeology and Sigillography in Northern Europe,” *The Medieval Globe* 4, no. 1 (2018), [article 9](https://scholarworks.wmich.edu/tmg/vol4/iss1/9/). Seals and matrices are not merely carriers of heraldic drawings; their findspots, materials and uses change what they can prove.
+
+David A. Hinton, “Symbols of Power,” in *The Oxford Handbook of Later Medieval Archaeology in Britain*, ed. Christopher Gerrard and Alejandra Gutiérrez (Oxford University Press, 2018), 418–432, [doi:10.1093/oxfordhb/9780198744719.013.59](https://doi.org/10.1093/oxfordhb/9780198744719.013.59). Objects, regalia, costume and seals permit an account of power that is broader than a list of arms.
+
+For a viable first dossier, compare the [Halewyn enamel](/objects/halewyn-ghistele-enamel/), [Franconian tournament targe](/objects/franconian-targe/) and [Überlingen glass](/objects/ueberlingen-glass/). Identify the physical support and the armorial depiction separately. A museum photograph may establish visible detail, while the attribution and conservation history need their own cited record. Explain why one object's material history cannot be copied from another.
+
+**Language expectations.** English museum records suffice for the initial source inventory. Original inscriptions in French, German or Latin require an actual working translation with uncertain readings indicated; a learner without the language should not produce a purported definitive transcription.
+
+
 ## A shield is always also an object
 
 The blazon is an abstract specification and that abstraction is a major strength of heraldry. The historical witnesses themselves, however, are physical or digital artifacts. Wax seals, parchment armorials, carved stone, ceramic tiles, stained glass, flags, tomb monuments, book illustrations and modern vector files all present differing forms of evidence.
