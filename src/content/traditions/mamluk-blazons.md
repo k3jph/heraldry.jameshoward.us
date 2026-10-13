@@ -29,6 +29,12 @@ level: "Advanced undergraduate / graduate"
   </ol>
 </nav>
 
+## The founding literature and the Arabic vocabulary
+
+L. A. Mayer's ***Saracenic Heraldry*** (Oxford, **1933**) remains a foundational work on armorial devices and identifying signs in Mamluk and related Islamic material. Its classification and historical premises need critical reassessment alongside current object scholarship, but it cannot simply be absent from a chapter proposing to explain the field. The Arabic ***rank*** (رنك), used for heraldic or office insignia in this context, is the vocabulary from which English scholarship often begins. Epigraphic versions can identify a ruler or official directly through writing, while other *runūk* use cups, polo sticks and other devices.
+
+The substantive classification matters more than imposing a single genealogical model. A Mamluk cup may be an official's device, can remain associated with a family, and may appear on different material supports. Inscriptions can name an office or patron where a pictorial device does not. The [Metropolitan Museum's Mamluk objects](https://www.metmuseum.org/art/collection/search/446502) provide dated examples, while Mayer offers an influential historiographical model to test, rather than a substitute for a catalogue or modern specialist analysis.
+
 ## A cup on a stand identifies more than a drink
 
 The Met’s tray stand 91.1.601, dated after 1342, carries an inlaid cup emblem and an inscription naming Husain, son of Qawsun. The museum connects the cup with Qawsun’s office as cupbearer and explains its continued use by his sons.[^stand] One object therefore brings office and family into the same account. The cup’s function as an emblem cannot be explained solely by the practical use of the vessel it depicts.
