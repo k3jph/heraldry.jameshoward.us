@@ -4,7 +4,7 @@ description: "Follow Portuguese heraldry from the 1509 armorial through historic
 region: "Portugal"
 languages: ["pt"]
 track: "Comparative traditions"
-period: "Late medieval and early sixteenth century"
+period: "Medieval and sixteenth-century manuscripts through contemporary public arms"
 sourceIds: ["pt-armeiro", "pt-vasco", "pt-national-symbols", "pt-civic-law", "pt-lisbon-arms", "pt-sintra-arms", "pt-evora-stone", "pt-lumiar", "pt-lagos-police"]
 level: "Advanced undergraduate / graduate"
 ---
