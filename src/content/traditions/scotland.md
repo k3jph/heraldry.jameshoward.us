@@ -32,6 +32,12 @@ level: "Advanced undergraduate / graduate"
   </ol>
 </nav>
 
+## A dated Scottish register entry as the controlling example
+
+The Scottish system is best demonstrated through an actual entry in the **Public Register of All Arms and Bearings in Scotland**, beginning in **1672**, not by assuming that three fictional descendants automatically receive predictable borders. The [National Records of Scotland](https://www.nrscotland.gov.uk/research/guides/coat-of-arms/) explains the register's genealogical and institutional use. A matriculation identifies a named bearer, an entered blazon and its branch relationship through a documented act, while an imagined gold bordure cannot establish those facts.
+
+The constructed Rowan and Mira family is still useful as a drawing exercise, but its function should be explicit: it demonstrates how a bordure alters a visual composition, not the Court of the Lord Lyon's actual decision for any historical family. The meaningful contrast is between **a source-controlled matriculation** and **a proposed didactic variation**. A student cannot transfer the latter into an entitlement simply because the geometric pattern looks plausible.
+
 ## A coat of arms has a recorded bearer
 
 The Public Register of All Arms and Bearings in Scotland begins in 1672 and continues as a record maintained by the Court of the Lord Lyon. Scotland’s People describes entries containing arms and genealogical information, with later records often supplying fuller pedigrees than early ones.[^register] The register lets us study a relationship between a design and an identified bearer through dated institutional acts.
