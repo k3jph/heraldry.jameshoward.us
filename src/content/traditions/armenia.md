@@ -29,6 +29,12 @@ level: "Advanced undergraduate / graduate"
   </ol>
 </nav>
 
+## The four dynasties represented in the quarters
+
+The present Armenian state arms explicitly refer to historical polities represented by the **Artaxiad**, **Arsacid**, **Bagratid**, and **Rubenid** dynasties. The modern quartered shield, supporting eagle and lion, and Mount Ararat with Noah's Ark at the centre assemble these historical references in a new republican composition. The bearers of the historical signs and the state adopting them in **1992** are not the same institution or even the same kind of armiger.
+
+Students comparing quarters should name the four dynasties before turning the composition into a general claim that it “evokes the Armenian past.” The [Armenian government's constitutional symbolism account](https://www.gov.am/en/official/) should be compared with the legislative text and published state model. The formal historic assignment of an emblem to a particular dynasty is a proposition requiring its own medieval or modern historical source, not a consequence of its position in the contemporary shield.
+
 ## A modern shield presents a long past
 
 Armenia’s presidential account connects the present arms with the First Republic design by Alexander Tamanian and Hakob Kojoyan and identifies the later 1992 and 2006 legislation.[^am-symbols] The composition therefore has a documented modern history even while its components present an account of much older kingdoms and cultural memory.
