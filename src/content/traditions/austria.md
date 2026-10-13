@@ -27,6 +27,12 @@ level: "Advanced undergraduate / graduate"
   </ol>
 </nav>
 
+## What abolition left in place
+
+The Austrian **Adelsaufhebungsgesetz of 3 April 1919** and its implementing rules removed formal privileges of nobility and addressed the use of family armorial bearings, including arms termed *bürgerliche Wappen*. These provisions should be read in contrast with the republic's continuing **public heraldry**. The [1984 Wappengesetz](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000782) defines federal arms and their official use; municipal and provincial symbols also survived the constitutional break.
+
+The result is not that heraldic objects suddenly ceased to exist in 1919. Historical coats remained in archives, on buildings, in museums and as evidence of their bearers' past identities. The legal restrictions upon present use, the preservation of inherited objects, and state authorization of public emblems are distinct questions. An old armorial drawing is still evidence of an older practice, even when it is no longer a contemporary entitlement under republican law.
+
 ## A provision that cannot be waved away
 
 Austria’s 1919 abolition of nobility requires its own heraldic discussion. The implementing provision expressly includes the right to bear family arms, including arms it characterizes as incorrectly called bourgeois.[^at-1919][^at-implementation] An account borrowed from a neighboring country’s voluntary family-armorial practice would miss an unusually consequential part of the Austrian settlement.
