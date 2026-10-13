@@ -27,6 +27,12 @@ level: "Advanced undergraduate / graduate"
   </ol>
 </nav>
 
+## Municipal arms belong to a recorded public system
+
+Slovak municipalities may adopt their symbols through the municipal self-government framework, principally **Act No. 369/1990 on Municipal Establishment**, with the local council acting for the municipality. Approved public symbols are recorded in the **Heraldic Register of the Slovak Republic**, administered through the Ministry of the Interior. A municipality's resolution and the state register therefore document different steps in the administrative life of its arms.
+
+This does not amount to a state grant of hereditary family arms. A local symbol is the arms of a specified public corporation, and the appearance of an older family charge within that shield is not an automatic entitlement to the whole civic design. The [Slovak Interior Ministry's heraldry material](https://www.minv.sk/?heraldicky-register) is the appropriate institutional starting point.
+
 ## A defined cross in a defined shield
 
 The consulted state-symbol law describes a silver double cross on the central raised part of a blue triple mount in a red early-Gothic shield. It specifies the treatment of the cross ends and rounded mounts, and includes digital representation within its scope.[^sk-state] These details make the device more precise than an instruction to draw any white cross on three blue hills.
