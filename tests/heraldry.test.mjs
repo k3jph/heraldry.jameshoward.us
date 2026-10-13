@@ -354,5 +354,6 @@ test('the full bibliography links to a unique stable identifier for each source'
   const sources=read('world-sources');
   const bib=source=>makeBibtex(source);
   assert.equal(new Set(sources.map(citationKey)).size,sources.length);
-  assert.ok(sources.every(s=>bib(s).includes('howpublished = {\\url{')));
+  assert.ok(sources.every(s=>bib(s).includes('  url = {'+s.url+'},')));
+  assert.ok(sources.every(s=>!s.authors||bib(s).includes('  author = {')));
 });
