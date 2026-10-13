@@ -30,6 +30,12 @@ level: "Advanced undergraduate / graduate"
   </ol>
 </nav>
 
+## The Herald of Arms and the London College
+
+The institutional relationship can be dated. The [New Zealand Department of the Prime Minister and Cabinet](https://www.dpmc.govt.nz/our-programmes/new-zealand-royal-honours/new-zealand-royal-honours-system/new-zealand-herald-arms) records that the office of **New Zealand Herald of Arms Extraordinary** was created by royal warrant on **6 February 1978**. Phillip O'Shea was its first appointee. The Herald serves as the formal New Zealand channel to the **College of Arms in London**, advises the Crown and government on armorial questions and New Zealand motifs, and liaises over grants and confirmations of personal and corporate arms. The appointment does not make the Herald an independent New Zealand college with sole authority to grant arms.
+
+This makes the 1962 Auckland university arms, transcribed in a **1993** institutional calendar, a useful test of chronology. Their earlier grant and later documentary witness do not become products of the office established in 1978. The calendar identifies the College of Arms in London as the issuing institution, while the 1978 warrant explains the later mechanism of local advice and liaison. Students can therefore distinguish three dates and acts: a grant, an officer's creation, and a retrospective published description. Māori symbols within later grants raise a further question of representation and consultation, but they do not erase this documented institutional sequence.
+
 ## A national design can vary too much
 
 Manatū Taonga’s account explains that New Zealand received arms by a 1911 warrant, yet at least twenty versions were in use by the mid-1940s. A later committee standardized the design, with a revised version approved in 1956.[^nz-arms] The case demonstrates a real administrative problem: a description can preserve identity while still permitting or accumulating variation that an institution later wants to control.
