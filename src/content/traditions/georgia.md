@@ -30,6 +30,12 @@ level: "Advanced undergraduate / graduate"
   </ol>
 </nav>
 
+## The Georgian state colour cannot be deferred indefinitely
+
+The state-symbol law's English rendering names the field as **purple**. The Department of State Symbols and Heraldry's English account instead calls it **Sanguine**. The two English labels describe what appears to be one state's official historical and heraldic choice, but the terms are not automatically interchangeable technical tinctures. The [statutory text](https://new.matsne.gov.ge/ka/document/view/4368486?impose=translateEn) and the [departmental description](https://heraldika.ge/index.php?arms_id=838&lng=eng&m=85) should both be cited when explaining the English-language discrepancy. The precise Georgian wording and authorized model determine what the institution adopted.
+
+A researcher may translate the relevant Georgian word, then compare that translation with the red-purple printed model, without pretending an English paint swatch can adjudicate the vocabulary. This is a useful example of uncertainty that must be *specified*: we know the rival English terms; the unresolved task is to decide how they relate to the operative Georgian source and reproducible design.
+
 ## A rider within a modern legal design
 
 Georgia’s consulted state-symbol law describes Saint George on horseback overcoming a dragon and distinguishes full and small state arms. The surrounding crown, supporters, base and motto are specified at different levels of the composition.[^ge-symbol-law] A familiar saint therefore participates in a defined contemporary public device, not simply an undated religious illustration.
