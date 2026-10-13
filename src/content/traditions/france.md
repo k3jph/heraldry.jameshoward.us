@@ -30,6 +30,12 @@ level: "Advanced undergraduate / graduate"
   </ol>
 </nav>
 
+## Charles d'Hozier and a register created by an edict
+
+The register has an identifiable compiler and legal occasion. The [Bibliothèque nationale de France catalogue](https://catalogue.bnf.fr/ark:/12148/cb30621509j) names **Charles-René d'Hozier** and the **royal edict of 20 November 1696** behind the *Armorial général de France*. The Crown ordered a vast registration project that included noble families, non-noble users and communities. Its records had an administrative and fiscal setting. The existence of an armorial entry therefore establishes neither universal nobility nor the equivalent of an English grant of arms. A compulsory registration programme could record historically used arms and arms assigned during administration; the evidentiary distinction is fundamental.
+
+The later regime cannot be treated as a continuation of the same office. The Revolution abolished the old legal privileges of nobility and altered the position of traditional armorial display. Under Napoleon, a new imperial heraldic scheme classified offices, dignities and municipal identities through distinctive elements. The law and decrees of the early Empire, especially the imperial nobility arrangements of **1808**, belong to that separate government and should be read through the relevant registers and instruments. Present-day France does not have an English-style national heraldic college generally granting hereditary private arms. Public emblems and private armorial practice must instead be located in their applicable institutional and legal contexts. The BnF's volumes document past administrative acts; they do not function as a single national authority for granting arms today.
+
 ## A registry is not the whole history of a practice
 
 A French armorial image might survive in a seal, a manuscript, or a building. Each object places the design in a different activity: authentication, compilation, or architectural display. Medieval French armory circulated through courts, warfare, noble and urban society, and literature as well. To explain a particular use, we need its date, bearer, and source history. Those connections let us investigate local and royal interests without making one later register stand for the whole practice.
