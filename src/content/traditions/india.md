@@ -28,6 +28,12 @@ level: "Advanced undergraduate / graduate"
   </ol>
 </nav>
 
+## Robert Taylor and the Imperial Assemblage
+
+The colonial designer is identifiable. For the **Imperial Assemblage at Delhi on 1 January 1877**, the British Indian administration arranged armorial devices for princely rulers in a British heraldic idiom. **Robert Taylor**, an English officer of the Bengal Civil Service, designed the collection, subsequently published under the title ***The Princely Armoury***. David F. Phillips, [*Emblems of the Indian States*](https://www.flagheritagefoundation.org/pdfs/emblems-of-the-indian-states.pdf) (2011), pp. 9–10, identifies Taylor and the government publication. These facts change the analysis. The designs may incorporate locally meaningful devices and regional emblems, but the formal system of assembly and publication was explicitly shaped by imperial administration.
+
+Receiving or displaying a banner within that ceremonial setting was interpreted as an act of allegiance to the British imperial order. That political asymmetry belongs in the explanation before we ask how individual rulers and artisans participated. The British Library's surviving watercolours, catalogued broadly to **1875–1900**, are visual documents associated with the programme; they are not automatically surviving silk flags carried on the day. The source must establish which particular objects were printed, painted or physically displayed. A reconstruction that begins and ends with the visible supporters risks overlooking precisely who chose the visual grammar.
+
 ## An 1880s photograph contains an earlier banner
 
 The British Library catalogues Photo 209(27), showing the Maharajah of Dhar in durbar, to the 1880s. Its description identifies a state-armorial banner in the background as one presented at Delhi’s Imperial Assemblage in 1877.[^in-dhar] The photograph and the banner therefore have different relevant dates.
