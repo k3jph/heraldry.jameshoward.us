@@ -1,0 +1,22 @@
+---
+import Base from '../../layouts/Base.astro';
+import CommonsExamples from '../../components/CommonsExamples.astro';
+import examples from '../../data/commons-examples.json';
+---
+<Base title="Illustrated Heraldic Examples from Wikimedia Commons" description="Source-identified coats of arms, crests, badges, supporters, banners and other heraldic illustrations with individual artist credit and reuse licensing.">
+  <section class="page-intro">
+    <div class="wrap page-intro-inner">
+      <nav class="breadcrumbs" aria-label="Breadcrumbs"><a href="/">Home</a><span>›</span><a href="/achievement/">Beyond the shield</a><span>›</span>Illustrations</nav>
+      <p class="eyebrow"><span class="star">✦</span> The illustrated evidence</p>
+      <h1 class="display-serif">Not just<br/>drawn examples.</h1>
+      <p class="page-intro-description">{examples.length} individually identified files from Wikimedia Commons, selected to show how upper achievements, supporters, mottos and flags actually appear in armorial illustrations. Each has an artist or original creator, Commons source page, licence, and a statement of what the illustration does or does not establish.</p>
+    </div>
+  </section>
+  <section class="section">
+    <div class="wrap">
+      <div class="notice-box"><strong>The date of an illustration is not necessarily the date of the arms.</strong><p>The Becke example reproduces historical armorial artwork; several Scottish, Canadian and Aragonese images are modern artistic renderings of much older designs or current public arms. The file's licence governs reuse of the illustration, while the meaning or authorized use of the represented arms must be researched separately.</p></div>
+      <CommonsExamples all={true} title="The documented image shelf"/>
+    </div>
+  </section>
+  <section class="section section-toned"><div class="wrap split"><div><p class="eyebrow"><span class="star">✦</span> Extend the collection</p><h2 class="section-title">Find the real<br/>object first.</h2></div><div><p>We prioritize Commons files that help identify an actual heraldic element, a dated historical depiction, or a meaningful regional difference. New images should have a working source page, an identifiable creator or defensible public-domain status, a licence with its URL, descriptive alt text, and a caption explaining the point the image establishes. The Commons file page is part of the evidence, not merely a place to get pixels.</p><p>The historical <a href="/objects/">object studies</a> supply related museum evidence with independent accession and image-rights records. The <a href="/editorial-policy/">editorial policy</a> explains our treatment of copyright and source criticism.</p><a class="btn btn-dark" href="/achievement/">Return to the achievement course ↗</a></div></div></section>
+</Base>
