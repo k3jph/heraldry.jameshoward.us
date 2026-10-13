@@ -26,6 +26,12 @@ level: "Advanced undergraduate / graduate"
   </ol>
 </nav>
 
+## Statutory powers and a proposed reform
+
+Kenya's statutory heraldic organization rests on the **College of Arms Act, Cap. 98**, which creates the relevant public procedures for the design and registration of coats of arms. This **Kenyan College of Arms** is institutionally distinct from the London College of Arms despite sharing a name. The coexistence of these institutions is a useful warning against a lexicon that gives one English definition of 'College of Arms' and treats it as exhaustive.
+
+A **Heraldry Bill was introduced in 2021** proposing to repeal and replace Cap. 98. A proposal is not by itself proof that the existing Act was repealed or that the College's powers ceased. A sound present-tense description must identify the bill's eventual legislative status from the Kenyan parliamentary or official legal record. The comparison therefore requires three entries in a chronology: the operative Act, the proposed reform, and any actually enacted successor. Without the final step, a student should not describe the 2021 bill as law.
+
 ## The name belongs to a Kenyan institution
 
 Kenya’s College of Arms Act commenced in 1968 and establishes a College with grant and registration functions.[^ke-college] The institution deserves a separate chapter. “College of Arms” here does not identify the English college operating under another label; it names a Kenyan statutory body with its own framework.
