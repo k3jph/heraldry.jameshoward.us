@@ -3,7 +3,7 @@ import Base from '../../layouts/Base.astro';
 import PageIntro from '../../components/PageIntro.astro';
 import readings from '../../data/parallel-readings.json';
 
-const languageNames:Record<string,string>={fr:'French',de:'German',nl:'Dutch',es:'Spanish',it:'Italian',ja:'Japanese',lv:'Latvian',lt:'Lithuanian',fi:'Finnish',ro:'Romanian'};
+const languageNames:Record<string,string>={fr:'French',de:'German',nl:'Dutch',es:'Spanish',it:'Italian',ja:'Japanese',lv:'Latvian',lt:'Lithuanian',fi:'Finnish',ro:'Romanian',hr:'Croatian',hu:'Hungarian',sl:'Slovenian'};
 const keys=[...new Set(readings.map(r=>r.language))];
 ---
 <Base title="Parallel Text Translation Laboratory" description="Study short verified original-language heraldic law and history passages from European and Japanese sources, with annotated English translations and source context.">
@@ -16,14 +16,14 @@ const keys=[...new Set(readings.map(r=>r.language))];
         <div><p class="eyebrow"><span class="star">✦</span> The document set</p><h2 class="small-title">{readings.length} primary-source reading exercises.</h2></div>
         <div class="lab-controls">
           <label for="reading-language">Filter by source language</label>
-          <select id="reading-language" class="select"><option value="">All {keys.length} languages</option>{keys.map(l=><option value={l}>{languageNames[l]} · {l.toUpperCase()}</option>)}</select>
+          <select id="reading-language" class="select"><option value="">All {keys.length} languages</option>{keys.map(l=><option value={l}>{languageNames[l]||l.toUpperCase()} · {l.toUpperCase()}</option>)}</select>
           <button class="btn btn-line" type="button" id="reveal-all">Reveal all translations</button>
         </div>
       </div>
       <div id="translation-count" class="caption" role="status" aria-live="polite">{readings.length} records</div>
       <div class="parallel-list">
         {readings.map((r,i)=><article class="parallel-record" data-lang={r.language} id={'translation-'+r.id}>
-          <div class="record-heading"><span class="record-number">{String(i+1).padStart(2,'0')}</span><div><p class="eyebrow"><span class="star">✦</span> {r.region} · {languageNames[r.language]}</p><h2>{r.sourceTitle}</h2><p class="caption">{r.locator}</p></div></div>
+          <div class="record-heading"><span class="record-number">{String(i+1).padStart(2,'0')}</span><div><p class="eyebrow"><span class="star">✦</span> {r.region} · {languageNames[r.language]||r.language.toUpperCase()}</p><h2>{r.sourceTitle}</h2><p class="caption">{r.locator}</p></div></div>
           <div class="parallel-panes">
             <div class="source-pane"><span class="smallcaps">Original-language excerpt · {r.language.toUpperCase()}</span><blockquote lang={r.language}>{r.original}</blockquote><p class="caption">{r.sourceType}. Brief, attributed quotation; see full source linked below.</p></div>
             <div class="translation-pane" data-english-pane>
