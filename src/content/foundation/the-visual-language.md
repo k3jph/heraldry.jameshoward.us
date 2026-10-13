@@ -199,7 +199,7 @@ The component dates are separate catalogue assertions. Neither automatically sup
 
 ### Exercise 4: a translation changes one number
 
-Compare the German and English e-codices summaries for AG 2760. Record the conflicting ordinal for the missing part, with each language and access date. Write a provisional note that informs the reader without deciding which wording is correct. Identify the physical or documentary evidence that would settle the numbering.
+Compare the German and English e-codices summaries for AG 2760. Record the conflicting ordinal for the missing part, with each language and access date. The English e-codices summary's own internal sequence supports a **provisional preference** for one of its ordinal readings; readers should state which reading agrees with the other numbered sections and which leaves an unexplained gap. This is an internal-consistency test, not a decision that the German description is necessarily wrong. Write a provisional note that identifies that evidence and also states that the actual codicological arrangement or earlier catalogue description would be needed to resolve the discrepancy definitively. Identify the physical or documentary evidence that would settle the numbering.
 
 <details>
 <summary>Answer discussion: uncertainty should have an address</summary>
