@@ -4,7 +4,7 @@ description: "Compare Canadian synod arms, the Province of Wales banner, the 197
 region: "Anglican heraldry"
 languages: ["en"]
 track: "Ecclesiastical heraldry"
-period: "Early modern period–present"
+period: "Reformation-era armorial customs to contemporary church grants"
 sourceIds: ["ang-canadian-synod", "ang-church-flags", "ang-1976-hats", "ang-compass-2016", "eng-college-law", "ang-ottawa-cathedral", "ang-hamilton-cathedral", "ang-vancouver-cathedral", "ang-province-canada"]
 level: "Advanced undergraduate / graduate"
 ---
