@@ -32,6 +32,12 @@ level: "Advanced undergraduate / graduate"
   </ol>
 </nav>
 
+## Stanyhurst replaces an invented council file
+
+The National Library of Ireland's [Nicholas Stanyhurst letters patent](https://www.nli.ie/news-stories/stories/new-acquisition-grant-arms-belonging-nicholas-stanyhurst) provide an actual Tudor grant and its visible production history. The decoration, textual language, identification of the recipient and heraldic office belong to the same documentary object, though they support different kinds of statements. This is more useful for explaining what an act records than a new invented council that vanishes through a merger.
+
+A later researcher could compare the Tudor instrument against the Library's cataloguing and the changes in Irish heraldic administration after **1943**. These are distinct witnesses and dates, not one continuing grant event. The factual sequence demonstrates institutional succession with the same object that the chapter already studies, without needing to rename imaginary councils in every jurisdiction.
+
 ## The succession of the office has dates and a disputed interval
 
 The Ulster King of Arms exercised Crown heraldic functions in Ireland until the reorganization of **1943**, when the office of Chief Herald of Ireland took over functions within the Irish State and the College of Arms in London received the former Ulster office's Northern Ireland work. The office and archive had survived independence in a way that cannot be compressed into a single transfer on the date of the new flag. That institutional succession is relevant when a modern researcher's evidence includes a nineteenth-century Ulster grant and a later Irish confirmation.
