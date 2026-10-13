@@ -7,6 +7,18 @@ sourceIds: ["fr-bnf-armorial","pt-armeiro","pl-herbarze"]
 level: "Graduate methods"
 ---
 
+## Research literature and an accessible starting corpus
+
+The scholarship below is not another collection of institutional homepages. It supplies arguments about the use, transmission and interpretation of heraldic and material evidence. Read the work's thesis and method before building an argument against or with it. Some publishers limit full-text access; the linked bibliographic record remains an identifiable citation, not a claim that we have supplied the entire book.
+
+1. Marcus Meer, *Heraldry in Urban Society — Visual Culture and Communication in Late Medieval England and Germany* (Oxford University Press, 2024), [doi:10.1093/oso/9780198910275.001.0001](https://doi.org/10.1093/oso/9780198910275.001.0001).
+2. Michael Andersen, “Archaeology and Sigillography in Northern Europe,” *The Medieval Globe* 4, no. 1 (2018), [article 9](https://scholarworks.wmich.edu/tmg/vol4/iss1/9/).
+
+Start from the [Dering Roll case](/traditions/england/) and a located [object-study seal](/objects/lowlands-wax-seal/). The task is to decide which features each source establishes, not merely to collect attractive heraldic illustrations. The manuscript or object catalogue supplies the witness; Meer and Andersen supply competing ways to interpret urban display and the material sealing act.
+
+**Language expectations.** English suffices for the first comparison. If the study uses German civic inscriptions, French blazons or Latin legends, record the original and use a working translation whose uncertainty is visible.
+
+
 ## The difference between seeing and knowing
 
 Heraldry is unusually attractive to researchers because many of its most important documents are pictures. A shield can be recognised before a sentence is understood. The danger is that **visual recognition feels like proof**. It is possible to identify a coat of arms correctly and still be completely wrong about its bearer, legal significance, date, genealogy or place of origin.
