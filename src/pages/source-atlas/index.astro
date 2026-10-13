@@ -6,9 +6,10 @@ import readings from '../../data/parallel-readings.json';
 const sorted=[...sources].sort((a,b)=>a.area.localeCompare(b.area)||a.titleOriginal.localeCompare(b.titleOriginal));
 const regions=[...new Set(sorted.map(s=>s.area))].sort();
 const languageLabels:Record<string,string>={fr:'French',de:'German',nl:'Dutch',sv:'Swedish',es:'Spanish',pt:'Portuguese',it:'Italian',pl:'Polish',cs:'Czech',ja:'Japanese',en:'English',lv:'Latvian',lt:'Lithuanian',fi:'Finnish',ro:'Romanian',hr:'Croatian',hu:'Hungarian',sl:'Slovenian',ru:'Russian',tr:'Turkish',la:'Latin',da:'Danish',el:'Greek',uk:'Ukrainian',nb:'Norwegian (Bokmål)',is:'Icelandic',et:'Estonian',sk:'Slovak',bg:'Bulgarian',sq:'Albanian',ca:'Catalan',bs:'Bosnian',af:'Afrikaans',zh:'Chinese'};
+const nonEnglish=sorted.filter(s=>s.language!=='en').length;
 const languages=[...new Set(sorted.map(s=>s.language))].sort((a,b)=>(languageLabels[a]||a).localeCompare(languageLabels[b]||b,'en'));
 ---
-<Base title="International Source Atlas" description="A searchable, source-provenanced atlas of heraldic archives, registers, legal records and specialist institutions in more than a dozen source languages, with original English synopses and bilingual terminology.">
+<Base title="International Source Atlas" description="A searchable atlas of mixed primary documents, institutional portals and secondary scholarship, with English and non-English entries, with original English synopses and bilingual terminology.">
   <PageIntro eyebrow="Read the world in its own words" title="The source atlas." description="Original-language documents, archival guides, statutes and research literature from around the world. Every entry links to its source, gives an English analysis, and preserves vocabulary you would otherwise have to guess."/>
   <section class="section">
     <div class="wrap">
@@ -29,7 +30,7 @@ const languages=[...new Set(sorted.map(s=>s.language))].sort((a,b)=>(languageLab
       </div>
       <p class="caption" style="margin:0 0 15px">Want to read verified original-language excerpts beside English? <a href="/translation-lab/" style="color:var(--red);text-decoration:underline">Visit the parallel translation laboratory ↗</a></p>
       <p class="caption">For folio-level work, try the <a href="/transcription-desk/" class="text-link">manuscript transcription desk ↗</a> and its French and Portuguese witness dossiers.</p>
-      <div class="atlas-resultbar"><p id="atlas-results" role="status" aria-live="polite">{sources.length} source dossiers</p><button id="atlas-reset" class="chip" type="button">Clear filters ↺</button></div>
+      <div class="atlas-resultbar"><p id="atlas-results" role="status" aria-live="polite">{sources.length} source dossiers, including {nonEnglish} not catalogued as English-language records</p><button id="atlas-reset" class="chip" type="button">Clear filters ↺</button></div>
       <div class="atlas-grid">
         {sorted.map(source=><article class="atlas-card" id={'source-'+source.id} data-lang={source.language} data-region={source.area} data-text={(source.titleOriginal+' '+source.titleEnglish+' '+source.holding+' '+source.englishSynopsis+' '+source.glossary.map(t=>t.term+' '+t.english).join(' ')).toLowerCase()}>
           <div class="atlas-top"><span class="atlas-language">{source.language.toUpperCase()}</span><span class="smallcaps">{source.area}</span></div>
