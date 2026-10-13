@@ -1,5 +1,6 @@
 ---
 import Base from '../../layouts/Base.astro';
+import CommonsExamples from '../../components/CommonsExamples.astro';
 import {getCollection,render} from 'astro:content';
 import {chapterReadMinutes,chapterWordCount} from '../../lib/foundation.js';
 import sources from '../../data/achievement-sources.json';
@@ -28,6 +29,7 @@ const schema={'@context':'https://schema.org','@type':'LearningResource',name:ch
     <article class="world-article">
       <div class="notice-box" style="margin-bottom:26px"><strong>Read the image before the rule.</strong><p>A displayed ornament, a recognized bearing and a proven right to use it are distinct claims. Ask which one each source can actually establish.</p></div>
       <nav class="chapter-toc" aria-label="In this chapter"><strong>In this study</strong><ol>{headings.filter(h=>h.depth===2).map(h=><li><a href={'#'+h.slug}>{h.text}</a></li>)}</ol></nav>
+      <CommonsExamples studyId={chapter.id} limit={3} title="A pictured point of comparison"/>
       <Content/>
       <div class="notice-box" style="margin-top:48px"><strong>Advanced teaching draft; specialist review pending.</strong><p>These English-language syntheses cite institutional and historical sources but have not been independently reviewed by all relevant regional specialists. Current guidance, historical practice and enforceable law must be distinguished.</p></div>
       <nav aria-label="Achievement study navigation" class="achievement-pagination">
