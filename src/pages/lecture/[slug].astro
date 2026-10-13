@@ -28,7 +28,7 @@ const next=lessons[lesson.number]||null;
             <span class="smallcaps" style="color:var(--gold-light)">The Heraldry Project · Illustrated lecture</span>
             <div class="lecture-decoration" aria-hidden="true">✣</div>
             <div id="lecture-art" class="shield-illustration">{lesson.slug==='anatomy-of-arms'?<AchievementDiagram />:<Shield design={lesson.example} id={'lecture-'+lesson.slug}/>}</div>
-            <div class="lecture-art-footer"><span id="lecture-art-label">Shield study · {blazon(lesson.example)}</span><span>{String(lesson.number).padStart(2,'0')} / 12</span></div>
+            <div class="lecture-art-footer"><span id="lecture-art-label">{lesson.slug==='anatomy-of-arms'?'Constructed full achievement · labelled components':lesson.slug==='marshalling'?'One quartered design · not evidence of marshalling':'Shield study · '+blazon(lesson.example)}</span><span>{String(lesson.number).padStart(2,'0')} / 12</span></div>
           </div>
           <div class="lecture-text">
             <div class="lecture-progressbar"><span id="lecture-progress-fill"></span></div>
@@ -63,7 +63,7 @@ const next=lessons[lesson.number]||null;
     import lessons from '../../data/course.json';
     const slug=location.pathname.split('/').filter(Boolean).pop()||'';
     const lesson=lessons.find(l=>l.slug===slug);
-    const chapters=lesson?[{name:'Orientation',heading:lesson.title,body:[lesson.description,'In the next few chapters we will learn the vocabulary and history, explore the example shield, and then turn the knowledge into practical work.']},...lesson.sections.map(s=>({name:s.heading,heading:s.heading,body:s.paragraphs})),{name:'Try it yourself',heading:lesson.exercise.title,body:[lesson.exercise.prompt,'Continue to the full lesson for readings and the knowledge check.']}]:[];
+    const chapters=lesson?[{name:'Orientation',heading:lesson.title,body:[lesson.description,'This is an introductory presentation. The detailed documentary cases and additional terminology belong to the linked written chapter. The illustrated shield is a teaching composition, not a source object.']},...lesson.sections.map(s=>({name:s.heading,heading:s.heading,body:s.paragraphs})),{name:'Try it yourself',heading:lesson.exercise.title,body:[lesson.exercise.prompt,'Continue to the full lesson for readings and the knowledge check.']}]:[];
     const KEY='heraldry-lecture-v1-'+slug;
     const getNumber=()=>{try{return Number(localStorage.getItem(KEY)||0);}catch{return 0;}};
     let index=Math.max(0,Math.min(chapters.length-1,getNumber()||0));
