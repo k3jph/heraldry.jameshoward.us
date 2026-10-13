@@ -32,6 +32,20 @@ level: "Advanced undergraduate / graduate"
   </ol>
 </nav>
 
+## Stanyhurst replaces an invented council file
+
+The National Library of Ireland's [Nicholas Stanyhurst letters patent](https://www.nli.ie/news-stories/stories/new-acquisition-grant-arms-belonging-nicholas-stanyhurst) provide an actual Tudor grant and its visible production history. The decoration, textual language, identification of the recipient and heraldic office belong to the same documentary object, though they support different kinds of statements. This is more useful for explaining what an act records than a new invented council that vanishes through a merger.
+
+A later researcher could compare the Tudor instrument against the Library's cataloguing and the changes in Irish heraldic administration after **1943**. These are distinct witnesses and dates, not one continuing grant event. The factual sequence demonstrates institutional succession with the same object that the chapter already studies, without needing to rename imaginary councils in every jurisdiction.
+
+## The succession of the office has dates and a disputed interval
+
+The Ulster King of Arms exercised Crown heraldic functions in Ireland until the reorganization of **1943**, when the office of Chief Herald of Ireland took over functions within the Irish State and the College of Arms in London received the former Ulster office's Northern Ireland work. The office and archive had survived independence in a way that cannot be compressed into a single transfer on the date of the new flag. That institutional succession is relevant when a modern researcher's evidence includes a nineteenth-century Ulster grant and a later Irish confirmation.
+
+The statutory question needs an equally exact date. **Section 13 of the National Cultural Institutions Act 1997** provides an express framework for the Chief Herald's functions, but the order commencing the relevant Part II provisions is [S.I. No. 218/2005](https://www.irishstatutebook.ie/eli/2005/si/218/made/en/print), effective **3 May 2005**. Legal historian [Noel Cox](https://cambrianchambers.com/wp-content/uploads/2015/11/the-law-of-arms-of-ireland-e28093-a-lingering-question-of-authority.pdf) has questioned the statutory basis for heraldic grants made between **1943 and 2005**. That is an attributed argument about authority, not a judicial finding that every grant in the interval was void. It belongs beside the statutory chronology because it explains why the commencement date is more than clerical trivia.
+
+The Chief Herald's past courtesy recognition of some **Chiefs of the Name** is another practice whose administrative history must be separated from modern armorial grants. An identified register entry may show that a claim was considered or recorded; the source must still establish what recognition meant and whether it remains operative.
+
 ## A register continues across a change of government
 
 The National Library of Ireland’s register catalogue for *Grants and Confirmations of Arms*, volume Q, begins in 1943. Its first folio concerns descendants of John H. McCaffrey, including Robert R. McCaffrey in Boston. Another early entry records arms for County Dublin County Council.[^register] Within a single volume, we encounter family descent, the diaspora, and a public corporate bearer. This is a useful introduction to the range of work hidden by the phrase “Irish family crest.”
@@ -42,7 +56,7 @@ Ireland merits a separate chapter for exactly this reason. It cannot be folded i
 
 ## Ulster, independence, and the Chief Herald
 
-The NLI dates the formal creation of the Ulster King of Arms to 1552. The office worked with the administration at Dublin Castle and dealt with arms, precedence, and ceremonial. The last Crown appointee, Neville Wilkinson, remained in office after Irish independence until his death in 1941; the transfer to Irish State control followed in 1943.[^office] Institutional change did not occur in one simple moment marked by a new flag.
+The NLI dates the formal creation of the Ulster King of Arms to 1552. The office worked with the administration at Dublin Castle and dealt with arms, precedence, and ceremonial. The last Crown appointee, Sir Nevile Wilkinson, remained in office after Irish independence until his death on 22 December 1940; the transfer to Irish State control followed in 1943.[^office] Institutional change did not occur in one simple moment marked by a new flag.
 
 The mechanism matters to archival research. A collection can retain records generated under an earlier authority while acquiring new material under a successor arrangement. A modern catalogue may place both within one collection. That is useful for finding them, but the collection’s present custodian is not necessarily the issuer of every document it holds. Identify the act’s date and issuing authority alongside the current repository.
 

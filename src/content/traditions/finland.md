@@ -4,7 +4,7 @@ description: "Finnish heraldry through the national lion’s exact anatomy, post
 region: "Finland"
 languages: ["fi", "en"]
 track: "Comparative traditions"
-period: "Municipal legislation of 1995 and 2015; older Nordic setting"
+period: "Swedish-rule and Russian-period heraldry to modern Finnish institutions"
 sourceIds: ["fi-kuntalaki", "fi-national-law", "fi-national-history", "fi-heraldic-model", "fi-helsinki-brand", "fi-society", "fi-lempiainen"]
 level: "Advanced undergraduate / graduate"
 ---

@@ -110,10 +110,6 @@
         "english": "principles of design"
       },
       {
-        "term": "Wappenannahme",
-        "english": "adoption of arms"
-      },
-      {
         "term": "Satzung",
         "english": "statute"
       }
@@ -370,8 +366,8 @@
         "english": "quarters/sections"
       },
       {
-        "term": "mazornado",
-        "english": "masoned (variant spelling in blazon)"
+        "term": "mazonado",
+        "english": "masoned, as used in the cited Spanish blazon"
       },
       {
         "term": "sinople",
@@ -416,16 +412,16 @@
     "area": "Portugal",
     "language": "pt",
     "holding": "Arquivo Nacional Torre do Tombo",
-    "titleOriginal": "Livro do Armeiro-Mor — registos e descrição histórica (Vasco da Gama)",
-    "titleEnglish": "Armourer King's Book — archival descriptions, including Vasco da Gama",
+    "titleOriginal": "Vasco da Gama. Mais alguns documentos da Torre do Tombo",
+    "titleEnglish": "Vasco da Gama. Additional documents from the Torre do Tombo",
     "url": "https://antt.dglab.gov.pt/wp-content/uploads/sites/17/2025/02/vasco-da-gama-doc.pdf",
     "kind": "national archival exhibition/catalogue",
     "authority": "national archive",
-    "englishSynopsis": "The Torre do Tombo's Portuguese-language archival list identifies the 1509 Livro do Armeiro-Mor, commissioned by Manuel I and illuminated by João do Cró (du Cros), within the royal archives. The archive's own material offers folio-level examples, including Vasco da Gama's arms. This is a well-dated witness to early-sixteenth-century Portuguese armorial culture; the individual manuscript folio, later explanatory note, and any modern reproduction are separate evidence objects. Avoid relying on a commercial facsimile's picture as the sole citation.",
+    "englishSynopsis": "The Torre do Tombo's documentary list, pp. 13–14, locates the 1509 Livro do Armeiro-Mor, commissioned under Manuel I, and identifies João do Cró (du Cros) as armeiro-mor, with his arms beside his signature. António Caetano de Sousa attributed the illuminations to Mestre Arryet; that remains an attributed artistic identification, not a signed one. The entry says the book was formerly in King D. Carlos's private library and records its present archive location as Casa Real, Cartório da Nobreza, livro 19; Vasco da Gama's arms appear on folio 87. The title here is the archive document's actual heading, not a fabricated title of the manuscript entry.",
     "glossary": [
       {
         "term": "Livro do Armeiro-Mor",
-        "english": "Book of the Chief Armourer/King of Arms (title retained)"
+        "english": "Book of the Chief King of Arms (retain historical Portuguese title)"
       },
       {
         "term": "brasão de armas",
@@ -439,7 +435,8 @@
         "term": "Cartório da Nobreza",
         "english": "nobility papers"
       }
-    ]
+    ],
+    "titleStatus": "archive document's printed heading, distinct from title of manuscript described"
   },
   {
     "reviewStatus": "editorially synthesized; independent specialist review pending",
@@ -2666,7 +2663,7 @@
     "url": "https://www.vatican.va/content/francesco/it/motu_proprio/documents/20230513-legge-fond-scv.html",
     "kind": "State fundamental law",
     "authority": "official legislation",
-    "englishSynopsis": "Article 23 distinguishes the Vatican State’s flag, arms, and seal and refers to their annexed models. Article 24 replaces the 2000 Fundamental Law and supplies the 2023 commencement. The source identifies State emblems separately from a pope’s personal arms; the updated web text also carries later amendment information elsewhere in the law.",
+    "englishSynopsis": "Historical, superseded text. Article 23 of the 2023 Fundamental Law described Vatican City's flag, coat of arms and seal with annexes, and article 24 replaced the 2000 law. It was **replaced in full** by the Fundamental Law of 31 July 2026, article 25; the operative provision is now article 24 of the 2026 law. Preserve this as a dated legal witness rather than current authority.",
     "glossary": [
       {
         "term": "stemma",
@@ -2675,6 +2672,35 @@
       {
         "term": "sigillo",
         "english": "seal"
+      }
+    ]
+  },
+  {
+    "reviewStatus": "editorially synthesized; independent specialist review pending",
+    "reproductionPolicy": "Link and original English synopsis only; no reproduction of annex models.",
+    "accessed": "2026-10-12",
+    "id": "cath-vatican-law-2026",
+    "area": "Catholic heraldry",
+    "language": "it",
+    "holding": "Holy See",
+    "titleOriginal": "Legge Fondamentale dello Stato della Città del Vaticano, 31 luglio 2026",
+    "titleEnglish": "Fundamental Law of Vatican City State, 31 July 2026",
+    "url": "https://www.vatican.va/content/leo-xiv/it/motu_proprio/documents/20260731-legge-fondamentale-scv.html",
+    "kind": "State fundamental law",
+    "authority": "official legislation",
+    "englishSynopsis": "The operative 2026 Fundamental Law's article 24 describes Vatican City's flag, coat of arms and seal, with binding graphic models in annexes A–C. Article 25 wholly replaces the 13 May 2023 law and takes effect immediately. The State emblems are distinct from papal personal arms; the statute does not silently change a pontiff's personal achievement.",
+    "glossary": [
+      {
+        "term": "stemma",
+        "english": "coat of arms"
+      },
+      {
+        "term": "sigillo",
+        "english": "seal"
+      },
+      {
+        "term": "sostituisce integralmente",
+        "english": "replaces in full"
       }
     ]
   },
@@ -3451,7 +3477,17 @@
     ],
     "accessed": "2026-10-11",
     "reviewStatus": "editorially synthesized; independent specialist review pending",
-    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied.",
+    "authors": [
+      "Andrea Mattiello"
+    ],
+    "containerTitle": "Byzantine and Modern Greek Studies",
+    "publicationYear": 2024,
+    "volume": "48",
+    "issue": "1",
+    "pages": "100–119",
+    "doi": "10.1017/byz.2023.25",
+    "recordType": "journal-article"
   },
   {
     "id": "gr-emblem",
@@ -3982,7 +4018,7 @@
     "id": "is-decree",
     "area": "Iceland",
     "language": "is",
-    "holding": "Alþingi, decree no. 35 of 17 June 1944",
+    "holding": "President of Iceland; decree published in the Alþingi statutory database",
     "titleOriginal": "Forsetaúrskurður um skjaldarmerki Íslands",
     "titleEnglish": "Presidential decree on the coat of arms of Iceland",
     "url": "https://www.althingi.is/lagas/154c/1944035.html",
@@ -8064,16 +8100,7 @@
     "kind": "association registration procedure",
     "authority": "heraldic association",
     "englishSynopsis": "Association describes registration of private arms following review and public announcement, distinguishes preliminary from final approval, and expressly states that it records rather than grants arms. It excludes official public arms and claimed noble arms from this process. This provides a separate contemporary setting alongside state heraldry and noble collections.",
-    "glossary": [
-      {
-        "term": "kungörelse",
-        "english": "public announcement"
-      },
-      {
-        "term": "registerintyg",
-        "english": "registration certificate"
-      }
-    ],
+    "glossary": [],
     "accessed": "2026-10-11",
     "reviewStatus": "editorially synthesized; independent specialist review pending",
     "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
@@ -9276,7 +9303,8 @@
     ],
     "accessed": "2026-10-11",
     "reviewStatus": "editorially synthesized; independent specialist review pending",
-    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied.",
+    "titleStatus": "institutional webpage heading; verify against page heading before treating as bibliographic title"
   },
   {
     "id": "pl-tarnow-history",
@@ -9501,7 +9529,13 @@
     ],
     "accessed": "2026-10-11",
     "reviewStatus": "editorially synthesized; independent specialist review pending",
-    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied.",
+    "authors": [
+      "Георгій Шаповалов",
+      "Олександр Бєлов"
+    ],
+    "containerTitle": "Zaporizhzhia Historical Review",
+    "recordType": "journal-article"
   },
   {
     "id": "ru-titulyarnik-edition",
@@ -9551,7 +9585,15 @@
     ],
     "accessed": "2026-10-11",
     "reviewStatus": "editorially synthesized; independent specialist review pending",
-    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied.",
+    "authors": [
+      "Е. В. Пчелов"
+    ],
+    "containerTitle": "Вестник архивиста",
+    "publicationYear": 2021,
+    "issue": "3",
+    "pages": "665–674",
+    "recordType": "journal-article"
   },
   {
     "id": "ru-beaker",
@@ -9711,7 +9753,7 @@
     "id": "cz-moravian-colours",
     "area": "Czech Republic",
     "language": "cs",
-    "holding": "Ministry of the Interior of the Czech Republic",
+    "holding": "Ministry of the Interior, archived 2013 article by Ivan Štarha",
     "titleOriginal": "Historie, moravské barvy a moravská vlajka",
     "titleEnglish": "History, Moravian colours and the Moravian flag",
     "url": "https://mv.gov.cz/volby/clanek/historie-moravske-barvy-a-moravska-vlajka.aspx",
@@ -9726,15 +9768,14 @@
       {
         "term": "stavové",
         "english": "estates"
-      },
-      {
-        "term": "polepšení",
-        "english": "augmentation"
       }
     ],
     "accessed": "2026-10-11",
     "reviewStatus": "editorially synthesized; independent specialist review pending",
-    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied.",
+    "authors": [
+      "Ivan Štarha"
+    ]
   },
   {
     "id": "cz-brno-statute",
@@ -10715,15 +10756,15 @@
     "url": "https://www.heraldika.ge/uploads/The_Story_of_Georgian_Heraldry-compressed_compressed.pdf",
     "kind": "institutionally published historical synthesis",
     "authority": "scholarly author",
-    "englishSynopsis": "Institutionally published historical synthesis discusses imperial civic arms, modern Georgian revisions and local examples including Kutaisi and Oni. Its interpretations are attributed historical arguments, distinct from the legal acts defining present devices. Image rights remain reserved; the chapter links and summarizes selected cases.",
+    "englishSynopsis": "Institutionally published historical synthesis discusses imperial civic arms, modern Georgian revisions and local examples including Kutaisi and Oni. Its interpretations are attributed historical arguments, distinct from the legal acts defining present devices. Image rights remain reserved; the chapter links and summarizes selected cases. The operative Oni Sakrebulo resolution No. 19 of 23 July 2015 (https://matsne.gov.ge/ka/document/view/2921500) prescribes stylized golden ram's horns, not a tur's head. Keep the modern decision separate from any historically attributed animal.",
     "glossary": [
       {
         "term": "golden fleece",
         "english": "charge associated with the Argonaut tradition"
       },
       {
-        "term": "tur",
-        "english": "mountain goat in the Oni discussion"
+        "term": "ვერძის რქები",
+        "english": "ram's horns, named in Oni resolution No. 19 of 23 July 2015; distinct from descriptions of older imagery"
       }
     ],
     "accessed": "2026-10-11",
@@ -12773,7 +12814,8 @@
     ],
     "accessed": "2026-10-11",
     "reviewStatus": "editorially synthesized; independent specialist review pending",
-    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied.",
+    "titleStatus": "editorial descriptive catalogue label; accession and collection record are authoritative"
   },
   {
     "id": "adinkra-anagnost-2025",
@@ -13477,7 +13519,8 @@
     ],
     "accessed": "2026-10-11",
     "reviewStatus": "editorially synthesized; independent specialist review pending",
-    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied.",
+    "titleStatus": "editorial descriptive catalogue label, not verified as original manuscript title"
   },
   {
     "id": "ott-jewish-firman",

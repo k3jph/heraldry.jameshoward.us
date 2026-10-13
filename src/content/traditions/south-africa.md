@@ -29,6 +29,12 @@ level: "Advanced undergraduate / graduate"
   </ol>
 </nav>
 
+## The motto, designer and adoption date are part of the record
+
+South Africa's present coat of arms was introduced on **Freedom Day, 27 April 2000**. The [government's official account](https://www.gov.za/about-sa/national-coat-arms) identifies **Iaan Bekker** as the designer selected from finalists and gives the motto in the /Xam language as **!ke e: /xarra //ke**, which the government explains as “diverse people unite.” The symbols are arranged as two intersecting oval structures, with the human figures derived from the Linton stone, the secretary bird, a rising sun, wheat, elephant tusks, and crossed spear and knobkierie.
+
+The original /Xam wording matters here. Its click notation cannot be replaced by ordinary Roman letters without altering the textual witness, and the modern government's translated explanation should not be mistaken for a full linguistic analysis of /Xam. The designer's identity belongs to the history of a **modern adopted public emblem**; it does not establish that the Linton stone figures themselves were created for heraldic use. The acts of historical borrowing and modern commissioning have separate authors and dates.
+
 ## A coat that is making an argument
 
 South Africa's present national coat of arms was launched on **Freedom Day, 27 April 2000**, according to the [South African government's official account](https://www.gov.za/about-sa/national-coat-arms). It was adopted within a society remaking its public identity after apartheid. That historical circumstance is not a decorative preface to the shield: it is central to understanding why the new emblem was designed and what claims the state intended it to make.

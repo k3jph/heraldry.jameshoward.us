@@ -31,6 +31,12 @@ level: "Advanced undergraduate / graduate"
   </ol>
 </nav>
 
+## Two princely compositions must not be fused
+
+The traditional arms attributed to **Llywelyn the Great** are commonly rendered **Quarterly Or and Gules, four lions passant guardant counterchanged**. The arms frequently associated with **Owain Glyndŵr** instead show **four lions rampant** in an alternating red-and-gold quartered arrangement. Both associations need dating and particular witnesses; the difference between a lion **walking and looking outward** and a lion **rearing upright** is not mere decoration.
+
+The **2008 royal Welsh badge** uses a crowned shield of the four passant guardant counterchanged lions, with its own floral and motto surroundings. It is a modern, authorized emblem related to the earlier princely visual grammar but not a photograph of Glyndŵr's armorial seal. A strong Welsh comparison records **bearer, animal attitude, tincture arrangement, object and date** independently. Merging the rampant and passant forms would turn an interesting history of quotation and changed political meaning into an incorrect generic statement about four lions.
+
 ## Four lions on a small fitting
 
 Museum Wales catalogues a gilt copper-alloy armorial mount associated with Owain Glyndŵr, found at Harlech Castle. It may have belonged to a belt or harness. The record connects the arms with Glyndŵr’s assumption of the title Prince of Wales in 1400 and notes his control of the castle in 1404–1408/9.[^mount] A small fitting therefore opens onto a large political claim. Its portability is part of the interest: authority could be presented on an object that travelled with a person or horse.

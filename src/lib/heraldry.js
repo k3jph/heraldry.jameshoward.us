@@ -150,7 +150,7 @@ export function chargeSVG(kind,color,x,y,size=40,monochrome=false,uid='') {
     case "escallop":shape='<path d="M0-25Q8-22 13-11Q21-18 26-5Q17 4 10 18L0 25-10 18Q-17 4-26-5Q-21-18-13-11Q-8-22 0-25Z"/><path d="M0-23V20M-12-11L-2 21M12-11L2 21M-21-3L-6 20M21-3L6 20" fill="none" stroke="#1b2d32" stroke-width="1.4"/>';break;
     case "roundel":shape='<circle r="21" />';break;
     case "annulet":shape='<circle r="19" fill="none" stroke="'+fill+'" stroke-width="9"/>';break;
-    case "crosslet":shape='<path d="M-7-22h14v15h15V7H7v15H-7V7h-15V-7h15Z" />';break;
+    case "crosslet":shape='<path d="M15 -22L6 -22L6 -26L-6 -26L-6 -22L-15 -22L-15 -16L-6 -16L-6 -6L-16 -6L-16 -15L-22 -15L-22 -6L-26 -6L-26 6L-22 6L-22 15L-16 15L-16 6L-6 6L-6 16L-15 16L-15 22L-6 22L-6 26L6 26L6 22L15 22L15 16L6 16L6 6L16 6L16 15L22 15L22 6L26 6L26 -6L22 -6L22 -15L16 -15L16 -6L6 -6L6 -16L15 -16Z" />';break;
     default: return "";
   }
   const bounds=CHARGE_BOUNDS[kind];
@@ -250,7 +250,7 @@ export function blazon(input={}) {
   const charges={mullet:["mullet","mullets"],fleur:["fleur-de-lis","fleurs-de-lis"],martlet:["martlet","martlets"],rose:["rose","roses"],escallop:["escallop","escallops"],roundel:["roundel","roundels"],annulet:["annulet","annulets"],crosslet:["cross crosslet","crosses crosslet"]};
   const field=d.division==="none"?word(d.field):divisions[d.division]+" "+word(d.field)+" and "+word(d.secondary);
   const chargeText=d.charge==="none"?"":(d.count===1?(/^[aeiou]/i.test(charges[d.charge][0])?"an ":"a ")+charges[d.charge][0]:"three "+charges[d.charge][1])+" "+word(d.chargeTincture);
-  if(d.ordinary==="none") return field+(chargeText?", "+(d.division==="none"?"":"overall ")+chargeText:"")+".";
+  if(d.ordinary==="none") return field+(chargeText?", "+chargeText:"")+".";
   const ordinary="a "+ordinaries[d.ordinary]+" "+word(d.ordinaryTincture);
   return field+", "+(chargeText?"on "+ordinary+" "+chargeText:ordinary)+".";
 }

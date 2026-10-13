@@ -4,7 +4,7 @@ description: "Read armorial grants through the Hungarian National Archives: Huny
 region: "Hungary"
 languages: ["hu", "en"]
 track: "Comparative traditions"
-period: "1326–1918, with detailed cases from 1453 and 1634–1815"
+period: "Medieval kingdom through contemporary republic"
 sourceIds: ["hu-armalis-db", "hu-hunyadi-1453", "hu-arany-1634", "hu-fundamental-law-2020", "hu-coronation-mantle", "hu-kossuth-study", "hu-illuminated-chronicle-study"]
 level: "Advanced undergraduate / graduate"
 ---
@@ -28,6 +28,12 @@ level: "Advanced undergraduate / graduate"
     <li><a href="#original-language-institutional-and-archival-sources">Original-language institutional and archival sources</a></li>
   </ol>
 </nav>
+
+## Armalist nobility and county publication
+
+A charter granting nobility or a coat of arms could be issued under the Hungarian Crown and recorded in the administration of a **county**. Such **armalist** grants (*armális*, from Latin *litterae armales*) often conveyed noble standing and a specified coat while requiring examination of local publication, verification and descendants' status. The grant's text, public proclamation or county record, and later use of the arms are not simply three copies of one administrative act.
+
+The [Hungarian National Archives' study of John Hunyadi's 1453 augmentation](https://mnl.gov.hu/mnl/ol/hirek/hunyadi_janos_cimerbovitese) shows why a dated charter is stronger evidence than a modern image. The royal instrument altered a specific armorial design, while later editions and family histories may transmit its imagery. The reader should distinguish a medieval augmentation, the administrative procedure governing a different early modern armorial grant, and the constitutional status of nobility after the end of the monarchy.
 
 ## A kingdom of charters, not just illustrations
 

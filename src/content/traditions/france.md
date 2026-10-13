@@ -4,7 +4,7 @@ description: "French armory in practice: blazon, dynastic difference, the 1696 r
 region: "France"
 languages: ["fr"]
 track: "Comparative traditions"
-period: "Medieval period–French Revolution, with archival afterlives"
+period: "Medieval origins to contemporary republican and historical records"
 sourceIds: ["fr-bnf-armorial", "fr-bnf-catalogue", "fr-imperial-registers", "fr-dupuch", "fr-simon-1812", "fr-seal", "fr-fasces"]
 level: "Advanced undergraduate / graduate"
 ---
@@ -29,6 +29,18 @@ level: "Advanced undergraduate / graduate"
     <li><a href="#essential-original-language-sources">Essential original-language sources</a></li>
   </ol>
 </nav>
+
+## A real sword and stars before the invented chevron
+
+The French chapter's [Dupuch documentary example](/traditions/france/#dupuch-the-words-constrain-the-drawing) already gives the reader a genuine source-led composition. The example describes a **sword placed in relation to stars and divisions of the field**. Its value is not that an artist could invent a pleasing arrangement with the same elements, but that a dated French text requires them in particular positions. Read the actual original description before working through the exercise about moving a star onto the sword. This makes the exercise a test of how an existing blazon constrains a rendering, not an unsupported lesson about an imagined French bearer.
+
+French *chargé* identifies a figure carrying charges; *accompagné* describes other figures accompanying it. A student can compare the relation expressed in Dupuch's actual source with a clearly labelled **invented variation**, keeping the act of historical transcription distinct from the didactic operation of deliberately changing the design.
+
+## Charles d'Hozier and a register created by an edict
+
+The register has an identifiable compiler and legal occasion. The [Bibliothèque nationale de France catalogue](https://catalogue.bnf.fr/ark:/12148/cb30621509j) names **Charles-René d'Hozier** and the **royal edict of 20 November 1696** behind the *Armorial général de France*. The Crown ordered a vast registration project that included noble families, non-noble users and communities. Its records had an administrative and fiscal setting. The existence of an armorial entry therefore establishes neither universal nobility nor the equivalent of an English grant of arms. A compulsory registration programme could record historically used arms and arms assigned during administration; the evidentiary distinction is fundamental.
+
+The later regime cannot be treated as a continuation of the same office. The Revolution abolished the old legal privileges of nobility and altered the position of traditional armorial display. Under Napoleon, a new imperial heraldic scheme classified offices, dignities and municipal identities through distinctive elements. The law and decrees of the early Empire, especially the imperial nobility arrangements of **1808**, belong to that separate government and should be read through the relevant registers and instruments. Present-day France does not have an English-style national heraldic college generally granting hereditary private arms. Public emblems and private armorial practice must instead be located in their applicable institutional and legal contexts. The BnF's volumes document past administrative acts; they do not function as a single national authority for granting arms today.
 
 ## A registry is not the whole history of a practice
 

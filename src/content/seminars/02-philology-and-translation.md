@@ -7,6 +7,17 @@ sourceIds: ["de-dwr","nl-hra-adellijk","es-boe-burgos","jp-ndl-kamon"]
 level: "Graduate methods"
 ---
 
+## Scholarly readings and a workable translation corpus
+
+Gérard J. Brault, *Early Blazon — Heraldic Terminology in the Twelfth and Thirteenth Centuries, with Special Reference to Arthurian Literature* (Oxford University Press, 1972), [contemporary scholarly review](https://www.persee.fr/doc/ccmed_0007-9731_1973_num_16_61_1940_t1_0064_0000_3). Brault reconstructs an evolving technical vocabulary from dated language and imagery rather than assuming today's definitions existed intact in 1200.
+
+Andrea Mattiello, “Art and female agency in late Byzantium,” *Byzantine and Modern Greek Studies* 48, no. 1 (2024): 100–119, [doi:10.1017/byz.2023.25](https://doi.org/10.1017/byz.2023.25). His treatment of Latin coats of arms and Greek inscriptions provides a useful counterexample to the assumption that translation can be detached from the object.
+
+Use the [parallel text translation laboratory](/translation-lab/) as the first source corpus, with the [Getty transcription witness](/transcription-desk/) for a manuscript exercise. The German passage on the non-constitutive nature of registration can be read in the [Deutsche Wappenrolle statute, §13](https://herold-verein.de/heraldik/die-deutsche-wappenrolle-dwr/); it is accessible without asking the student to locate an unspecified individual DWR entry. An original-language reading should preserve the actual text, then place a clearly marked editorial translation beside it.
+
+**Language expectations.** French, German or the selected source language is necessary to certify a source-specific translation. Students without the relevant language can complete the witness-comparison and editorial-apparatus exercise while explicitly treating the translation as not independently verified.
+
+
 ## Literal equivalence is a research hypothesis
 
 A translator encounters *Wappenrolle*, *armorial*, *wapenregister*, and *herbarz* and puts “register of arms” into each English record. The resulting table is easy to read, but it may have made unlike documents appear equivalent. Each term can concern a collection of arms while carrying a different relationship to compilation, recording, and institutional authority. We have to establish those relationships before deciding how much the English label can safely compress. Fluency is useful only if the distinctions survive it.

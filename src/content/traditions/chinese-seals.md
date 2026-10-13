@@ -42,7 +42,7 @@ The Metropolitan Museum’s exhibition on Xie Zhiliu treats seal carving as part
 The matrix is the object that carries the printing surface. The impression is the mark it leaves. They are related witnesses, but they need separate descriptions. A damaged corner on a matrix might help identify its impressions; a beautiful carved handle might tell us nothing about the letters that were printed beneath it.
 
 <figure class="tradition-object">
-  <img src="/images/traditions/qing-bamboo-seal.jpg" alt="A carved bamboo seal body with figures and landscape details; the printing face is not visible." width="561" height="625" loading="lazy" />
+  <img src="/images/traditions/qing-bamboo-seal.jpg" alt="A vertical bamboo seal with carved and incised ornament on its body, photographed from the side; the seal’s printing face and any inscription are not visible." width="561" height="625" loading="lazy" />
   <figcaption>China, Qing dynasty, Qianlong period (1736–1795). Bamboo seal, Met 58.64.16, gift of A. W. Bahr, 1958. The photograph shows the carved body, not a readable seal face. Museum Public Domain image, CC0; <a href="https://www.metmuseum.org/art/collection/search/41059">collection record</a>.</figcaption>
 </figure>
 

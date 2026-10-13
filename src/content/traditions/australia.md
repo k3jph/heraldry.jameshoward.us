@@ -28,6 +28,18 @@ level: "Advanced undergraduate / graduate"
   </ol>
 </nav>
 
+## Sydney's Latin motto belongs in the reading
+
+The University of Sydney's [institutional account](https://www.sydney.edu.au/about-us/our-story/our-motto-and-coat-of-arms.html) records arms granted on **14 May 1857**, negotiated through the Kings of Arms in London, and the motto ***Sidere mens eadem mutato***. The university renders it, among other possibilities, as **“The stars change, the mind remains the same.”** The point of quoting the Latin is not that it has an incontestable one-to-one English translation. The institution itself offers alternative renderings, including “The same learning under new stars.” The syntax and historical context deserve discussion rather than a single unmarked paraphrase.
+
+The shield's formal design also does real work. In its arms an open book is placed upon a blue cross charged with eight-pointed gold stars, with a golden lion passant guardant in a red chief. The correspondence between familiar European academic charges and a southern-sky allusion is part of the armorial commission. The motto's claim of intellectual continuity under changed stars gives the designer's cross and stars a verbal counterpart without proving that the stars were adopted for one exclusive symbolic reason.
+
+## Australian armorial jurisdiction is a real dispute
+
+Australia's Commonwealth and state symbols are the result of named royal instruments, and private armory has a different administrative history. The [College of Arms](https://www.college-of-arms.gov.uk/About/11.htm) in London has historically granted arms to Australian applicants under its jurisdiction. It is misleading to describe that activity as though Australia possessed its own continuously functioning college of arms. Nor is it adequate to infer the extent of the College's **present** remit from the nationality of the applicant alone. Competing accounts of inherited Crown heraldic authority, post-Federation sovereignty and the legal force of English armorial procedure need to be attributed to their proponents and examined against actual Australian instruments.
+
+The practical evidence comes from dated grants and recognitions. A university's royal letters patent record an act; the College's process tells us who issued the instrument; the Commonwealth government's rules concern the public use of federal symbols. These documents solve separate problems. For private Australian arms, a learner should record the grant's issuing authority and date, distinguish that from voluntary armorial registration, and identify the legal basis claimed for recognition in Australia. The chapter's Sydney and Melbourne examples give the inquiry identifiable corporate bearers rather than an imagined family. A general assertion that the College's jurisdiction is universally settled would go further than those examples warrant.
+
 ## A federal design contains several identities
 
 Australia’s present Commonwealth arms were granted in 1912, following an earlier 1908 design. The Department of the Prime Minister and Cabinet identifies the warrants and explains that the later shield incorporated the states’ symbols.[^au-commonwealth] The result provides a concrete model of federation expressed through armorial composition.

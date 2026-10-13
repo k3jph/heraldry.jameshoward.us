@@ -28,6 +28,12 @@ level: "Advanced undergraduate / graduate"
   </ol>
 </nav>
 
+## The modern Greek emblem has a statutory adoption
+
+The Greek state emblem is a **white cross on a blue shield enclosed by laurel branches**. The present republican composition was adopted following the restoration of the republic, under **Law 48/1975**, which prescribed the national coat of arms and its public representation. An explanation of Greek royal heraldry, Byzantine signs or the cross in earlier flags is historical context, not the act creating the present state device.
+
+The operative law and its approved model should be treated as the source of the present design. The laurel surrounding the shield is not simply another charge upon the blue field, and a modern government reproduction can vary artistically without converting an earlier monarchy's crowned arms into the republican achievement. The scholar's task is to identify which object or act the description represents.
+
 ## A cross that does not require an eagle
 
 The Hellenic Republic’s emblem places a white cross on a blue shield within laurel branches. The Presidency’s Greek account describes the device and traces earlier national symbols through changes of government.[^gr-emblem] Starting with that actual emblem prevents a common shortcut: assuming that modern Greece must simply use a Byzantine double-headed eagle because Byzantine history is important to Greek identity.

@@ -29,15 +29,21 @@ level: "Advanced undergraduate / graduate"
   </ol>
 </nav>
 
+## Article 10 and the approval of local arms
+
+Romania's framework does more than prescribe hatching of the national emblem. **Article 10 of Law No. 102/1992** provides for the arms of counties, municipalities, towns and communes through a specific approval mechanism. A local proposal and design are not themselves national legislation; the formal approval occurs by **government decision** on the proper local-administrative route, with the competent specialist heraldic review described in implementing practice.
+
+The category of bearer matters. The national golden eagle is governed by the statute and its annex, while a county device has its own record and official approval. Even a shared motif such as the aurochs head cannot substitute for tracing the particular act that established the local emblem. The same source may illustrate two very different public authority relationships.
+
 ## This is a blazon with the force of a statute
 
 A black-and-white reproduction of Romania’s state arms has to communicate tinctures that the ink cannot show directly. The familiar heraldic solution is to substitute dots and lines for colours. Here, however, the choice of patterns also appears in national legislation. We can investigate how a visual convention becomes a prescribed method for reproducing one official emblem, and what that prescription leaves an artist or software system still to resolve.
 
-Romania's [Law 102 of 21 September 1992](https://legislatie.just.ro/Public/DetaliiDocument/2381) defines the state coat of arms and state seal. It does so using formal visual language. The central shield is borne by an eagle, and that eagle carries a smaller shield partitioned into historical territorial components. The law names the charges and tinctures in text, and an annex gives an official graphic model.
+Romania's [Law 102 of 21 September 1992](https://legislatie.just.ro/Public/DetaliiDocument/2381) defines the state coat of arms and state seal. It does so using formal visual language. On the large blue shield stands a golden eagle, and the eagle bears a smaller quartered shield on its breast representing historical territories. The law names the charges and tinctures in text, and an annex gives an official graphic model.
 
 Article 2 states explicitly how the coat of arms is to be reproduced without colour. It prescribes the familiar heraldic hatching convention: dots for gold, blank surface for silver, vertical lines for red, horizontal lines for blue, and superimposed vertical and horizontal lines for black. Even the relative thickness of some lines in simplified renderings is addressed.
 
-This is very different from simply saying that artists in a particular country 'usually follow' the *rule of tincture*. An English manual may present hatching as an artistic convention. A Romanian statute directs its use for reproducing a defined state emblem. The same technique can occupy quite different places in law, education and craft across jurisdictions.
+This is very different from simply saying that artists in a particular country 'usually follow' *heraldic hatching conventions*. An English manual may present hatching as an artistic convention. A Romanian statute directs its use for reproducing a defined state emblem. The same technique can occupy quite different places in law, education and craft across jurisdictions.
 
 ## A political geography inside the inner shield
 

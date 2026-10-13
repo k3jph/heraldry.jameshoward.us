@@ -1,5 +1,6 @@
 ---
 import Base from '../../layouts/Base.astro';
+import CommonsExamples from '../../components/CommonsExamples.astro';
 import {getCollection} from 'astro:content';
 import {chapterReadMinutes} from '../../lib/foundation.js';
 import sources from '../../data/achievement-sources.json';
@@ -23,7 +24,7 @@ const schema={'@context':'https://schema.org','@type':'Course',name:'Beyond the 
       <p class="eyebrow"><span class="star">✦</span> The achievement and its other languages</p>
       <h1 class="display-serif">Beyond the<br/>shield.</h1>
       <p class="page-intro-description">A crest is not a shield. A supporter in a carving is not necessarily a granted supporter. The parts outside a shield have their own histories, conventions, and legal meanings. Learn to read them without treating one national tradition as the rule for everyone else.</p>
-      <div class="achievement-actions"><a class="btn btn-dark" href="/achievement/what-is-an-achievement/">Begin with the achievement ↗</a><a class="btn btn-line" href="/achievement/laboratory/">Open the anatomy laboratory ↗</a></div>
+      <div class="achievement-actions"><a class="btn btn-line" href="/achievement/gallery/">See illustrated examples and image credits ↗</a><a class="btn btn-dark" href="/achievement/what-is-an-achievement/">Begin with the achievement ↗</a><a class="btn btn-line" href="/achievement/laboratory/">Open the anatomy laboratory ↗</a></div>
     </div>
   </section>
   <section class="section">

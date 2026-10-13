@@ -4,7 +4,7 @@ description: "Study Canadian authority, children’s succession and differences,
 region: "Canada"
 languages: ["en"]
 track: "Global and postcolonial heraldry"
-period: "Seventeenth century–present"
+period: "Colonial armory and pre-1988 grants to contemporary Canadian authority"
 sourceIds: ["ca-authority", "ca-authority-arms", "ca-irniq", "ca-whitehorse", "ca-correctional-buff", "ca-cadency-society", "ca-register-portal", "ca-authority-faq", "ca-crabtree", "ca-metlej", "ca-pride-citation", "ca-supreme-court-badges", "ca-william-rose-registration"]
 level: "Advanced undergraduate / graduate"
 ---
@@ -32,6 +32,12 @@ level: "Advanced undergraduate / graduate"
     <li><a href="#graduate-project-an-adaptation-with-a-documented-history">Graduate project: an adaptation with a documented history</a></li>
   </ol>
 </nav>
+
+## A dated Canadian founding act
+
+The Canadian Heraldic Authority was established by **letters patent issued on 4 June 1988** under the authority of the Governor General acting for the Crown. This was an institutional change, not the beginning of heraldry in Canada. Before 1988 Canadians obtained or inherited arms through other heraldic authorities, notably the College of Arms and the Court of the Lord Lyon, and armorial traditions were also expressed outside those grant systems. The [Canadian Heraldic Authority](https://www.gg.ca/en/heraldry/canadian-heraldic-authority) now provides an official Canadian procedure for granting, registering and recording arms, flags and badges.
+
+The distinction improves the interpretation of a **Canadian registration** of an older grant. The new Canadian record may document the continued use of an already established armorial identity without pretending that the 1988 office issued the original letters patent. The founder's date, the date of a family grant, and the date of its Canadian registration can all be different, and each tells us something different about the authority of the record.
 
 ## A blank shield on a maple leaf
 

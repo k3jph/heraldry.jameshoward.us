@@ -28,6 +28,14 @@ level: "Advanced undergraduate / graduate"
   </ol>
 </nav>
 
+## Three public mottos and two independence settings
+
+The Ghanaian coat of arms carries the motto **“Freedom and Justice”**, described by the [Ghana Permanent Mission to the United Nations](https://www.ghanamissionun.org/ghana-flag/). **Nii Amon Kotei** designed the arms adopted in **1957**, the year of Ghana's independence. The motto belongs to the official national composition. It does not automatically explain the private meaning of every black star or eagle in Ghanaian armorial design.
+
+Namibia adopted its national arms at independence in **1990**. Its motto is **“Unity, Liberty, Justice”**, and the current formal description appears in **Schedule 1 of the National Symbols of the Republic of Namibia Act 17 of 2018**, which replaced the 1990 legislation. The [Namibian Permanent Mission to the United Nations](https://www.un.int/namibia/namibia/symbols) gives the government's explanatory context. The fish eagle, two oryx, head-ring, Namib dune and Welwitschia make the achievement distinctive. A reading that supplies the motto but omits the act's date and actual named animals cannot fully explain its public identity.
+
+Kenya's national achievement places **“Harambee”** on its motto scroll, a Swahili expression commonly glossed as pulling together. The arms were adopted with independence in **1963** and are described in the [National Flag, Emblems and Names Act](https://kenyalaw.org/kl/fileadmin/pdfdownloads/Acts/NationalFlagEmblems_Names.pdf). The cock with an axe, paired lions and crossed spears must be read alongside the named motto rather than reduced to a universal chart assigning the same meaning to all African supporters.
+
 ## African state heraldry needs named cases
 
 African heraldry cannot be adequately represented by one South African chapter and a handful of national thumbnails. [Kenya](/traditions/kenya/) supplies a distinct grant-and-registration system. Ghana and Namibia add two public achievements in which familiar heraldic positions carry locally specific objects, species and political references.

@@ -5,6 +5,14 @@ updated: '2026-10-10'
 status: 'Expanded teaching draft; specialist review pending'
 ---
 
+## The conventional English arrangements in one place
+
+There is a specific convention behind the marital impalement mentioned below. In the familiar English practice, a husband bears his own arms on the **dexter** (bearer's right, viewer's left) half of the shield and his wife's arms on the **sinister** half. The resulting design need not preserve the proportions of two independent shield drawings. These rules identify the intended relationship only when the source supplies the necessary marital context; a vertically divided shield can have other meanings. An officeholder, notably a bishop, can also impale personal arms with arms of office or see, following the applicable ecclesiastical tradition. That is not itself a marriage.
+
+An **escutcheon of pretence** is a small shield placed over the husband's arms in certain English marital arrangements when the wife is a heraldic heiress; its function differs from placing her entire coat on the sinister half. Children entitled through an heiress might later combine arms by quartering, typically placing the paternal arms in the first and fourth quarters and the maternal arms in the second and third in a simple two-coat case. The order of quarters expresses pedigree and precedence, but actual complex achievements demand verification against the descent and the arms' applicable law. Arms displayed on a **lozenge** also require their own visual reading: the outer shape does not make the contents an ordinary heater shield. Our [Halewyn object study](/objects/halewyn-ghistele-enamel/) makes the distinction visible.
+
+These are English teaching conventions rather than a single law of armorial descent for every jurisdiction. The [College of Arms' official guidance](https://www.college-of-arms.gov.uk/resources/the-law-of-arms) is the relevant starting point for its particular legal framework. A modern Canadian grant, a Scottish matriculation and a continental historical panel can embody different inheritance and display practices.
+
 ## Several designs can make one statement
 
 **Marshalling** brings armorial bearings together in a display. It can express relationships involving marriage, descent, office, sovereignty, or other claims. The composition is therefore not just a decorative arrangement of attractive shields. Its structure can make a statement that needs documentary interpretation.[^marshalling]
@@ -83,13 +91,13 @@ This also helps when a display includes a coat that is itself quartered. Think o
 The Metropolitan Museum's Limoges plaque, object **14.40.697d**, offers an unusually good place to move between those scales. Its catalogue identifies the impalement as Halewyn with Van Ghistele, dates the object to the first quarter of the sixteenth century, and attributes its manufacture to the workshop of Nardon Pénicaud. Those are museum attributions attached to a specific surviving object. They are not all conclusions that a viewer can derive independently from the photograph.[^enamel-composite]
 
 <figure class="academy-figure academy-object">
-<img src="/images/objects/halewyn-ghistele-enamel.jpg" width="680" height="234" loading="lazy" alt="A long blue enamel plaque with angels presenting a shield divided vertically, with dark animal figures on one side and a chevron and stars on the other." />
-<figcaption>Angels presenting the arms of Halewyn impaling Van Ghistele, attributed to the workshop of Nardon Pénicaud, first quarter of the sixteenth century. The Metropolitan Museum of Art, 14.40.697d. Bequest of Benjamin Altman, 1913. Public-domain image, Met Open Access.</figcaption>
+<img src="/images/objects/halewyn-ghistele-enamel.jpg" width="680" height="234" loading="lazy" alt="Two angels presenting a vertically impaled armorial lozenge; a small inescutcheon appears on the Halewyn half, while the other half includes a chevron and star-shaped charges." />
+<figcaption>Two angels presenting arms displayed on a lozenge with a small inescutcheon on the Halewyn side; the Met attributes the work to the workshop of Nardon Pénicaud, first quarter of the sixteenth century. The Metropolitan Museum of Art, 14.40.697d. Bequest of Benjamin Altman, 1913. Public-domain image, Met Open Access.</figcaption>
 </figure>
 
-At the shield's scale, compare the two halves as compositions fitted into narrow spaces. At the plaque's scale, the shield participates in a scene with angels. At the lost ensemble's scale, there may have been another image to which the figures' gazes related. The museum proposes that the plaque could have belonged to a triptych with a devotional scene below. That proposal is valuable because it explains observable relationships, but the catalogue itself leaves it tentative. We should not replace a possible reconstruction with an imaginary photograph of the whole triptych.
+At the lozenge's scale, compare the two impaled halves as compositions fitted into tapered spaces. The small inescutcheon on the Halewyn half is a further heraldic feature, not part of the blue enamel background. At the plaque's scale, two angels present the lozenge within a larger scene. At the lost ensemble's scale, there may have been another image to which the figures' gazes related. The museum proposes that the plaque could have belonged to a triptych with a devotional scene below. That proposal is valuable because it explains observable relationships, but the catalogue itself leaves it tentative. We should not replace a possible reconstruction with an imaginary photograph of the whole triptych.
 
-The angels introduce another distinction. Figures presenting an armorial shield within a narrative scene are not automatically the bearer's authorized heraldic supporters. They may belong to the artwork's religious or ceremonial composition. To establish supporters as components of an achievement, we would need relevant armorial evidence. Calling every shield-holding angel a granted supporter would turn an art-historical observation into an administrative conclusion without passing through any administration.
+The angels introduce another distinction. Figures presenting an armorial lozenge within a narrative scene are not automatically the bearer's authorized heraldic supporters. They may belong to the artwork's religious or ceremonial composition. To establish supporters as components of an achievement, we would need relevant armorial evidence. Calling every armorial-device-holding angel a granted supporter would turn an art-historical observation into an administrative conclusion without passing through any administration.
 
 The family names do not, by themselves, identify a particular marriage or commissioner either. A more ambitious attribution would need dates, genealogy, patronage records, related objects, or a sufficiently distinctive documented achievement. The museum title gives a strong starting point. The research question is what further propositions follow from it, and which still require evidence. A small enamel can support a surprisingly large argument, provided we do not make it carry a whole undocumented wedding party.
 
@@ -173,7 +181,7 @@ Reproduce or document the original visible truncation first. Present the modern 
 
 ### 3. Angels on an enamel
 
-Use the Halewyn–Van Ghistele plaque. Separate three statements: figures hold a shield; the museum identifies the impaled families; the commissioner possessed those angels as heraldic supporters. Which statements have evidence in the present source?
+Use the Halewyn–Van Ghistele plaque. Separate four statements: two angels present a lozenge with impaled arms; the Halewyn side includes a small inescutcheon; the museum identifies the impaled families; the commissioner possessed those angels as hereditary heraldic supporters. The first two are observations of the photograph, the third is a museum attribution, and the fourth requires evidence not supplied by the photograph. Which statements have evidence in the present source?
 
 <details><summary>Answer discussion</summary>
 

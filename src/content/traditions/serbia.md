@@ -28,6 +28,12 @@ level: "Advanced undergraduate / graduate"
   </ol>
 </nav>
 
+## The 2009 statute defines a silver eagle and a red shield
+
+**Article 11 of Serbia's Law on the Appearance and Use of the Coat of Arms, Flag and Anthem**, published as *Službeni glasnik RS* **36/2009** (as amended), states the great arms' arrangement. On the **red outer shield** is a **silver double-headed eagle** with golden beaks, tongues and legs, between **two gold fleurs-de-lis in base**. Upon its breast is another **red shield** bearing a **silver cross between four silver firesteels**, their striking edges turned toward the vertical member of the cross. The whole is crowned and enclosed in a mantle in the great version. The [official Serbian legal text](https://pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/skupstina/zakon/2009/36/1/reg) distinguishes the forms.
+
+The double-headed eagle and firesteels have older historical associations, but the operative law is a modern legislative description of the public symbol. A medieval seal bearing an eagle might be evidence of an older dynasty, not direct evidence that every detail of the 2009 composition existed at that date. The fixed red outer field and **silver**, not gold, eagle are important because otherwise the chapter teaches its namesake charges without showing their authorized present arrangement.
+
 ## The eagle is a beginning, not the whole chapter
 
 Serbia’s 2004 parliamentary notice describes a white double-headed eagle, a shield with a cross and four firesteels, and a crown.[^rs-2004] That composition already gives us several questions: the eagle’s historical associations, the cross-bearing shield’s identity, the crown’s role and the act by which a republic adopted the arrangement. Calling all of it “Byzantine” leaves most of the work undone.

@@ -28,6 +28,12 @@ level: "Advanced undergraduate / graduate"
   </ol>
 </nav>
 
+## A socialist emblem could still be a shield
+
+The familiar Soviet emblem with globe, harvest wreath, star and radiating sun is not a representative sample of **all** state symbolism under socialism. **Czechoslovakia's 1960 state coat of arms** was designed in the shape of a **pavise-like shield** and placed the Czech lion above the Slovak mountain and fire. The [Czech government's symbols publication](https://vlada.gov.cz/assets/urad-vlady/udalosti/symboly-skladacka.pdf) calls the form *ve tvaru pavézy*. The shield did not disappear simply because the state adopted a socialist political identity.
+
+The comparison narrows the chapter's thesis. Socialist governments frequently developed emblematic programmes that departed from hereditary western shield-and-helm armory, but some retained shields and inherited charges within new compositions. The correct historical claim concerns **a political repertoire of public symbolism**, not an absolute morphological ban on shield outlines. The Czechoslovak example lets students identify both what continued and what the 1960 regime changed.
+
 ## A state device can have another grammar
 
 The DDR Museum catalogues a 1980 poster centered on the German Democratic Republic’s hammer, compasses and grain-wreath emblem, inventory 1023517.[^socialist-ddr] Its identifying function is clear even though the arrangement does not follow the familiar shield, helm and crest diagram of Western family armory.

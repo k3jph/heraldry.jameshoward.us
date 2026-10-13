@@ -27,6 +27,12 @@ level: "Advanced undergraduate / graduate"
   </ol>
 </nav>
 
+## Municipal arms and a specific parliamentary officer
+
+**Section 34a of Act No. 128/2000 Sb., on municipalities**, specifies the approval mechanism. The **Speaker of the Chamber of Deputies** may grant or change a municipal coat of arms or flag on a municipality's application. The operative [Czech legislation in the e-Sbírka](https://e-sbirka.gov.cz/sb/2000/128) is the appropriate authority, while the parliamentary [REKOS register](https://www.rekos.psp.cz/) records the results. The application, Speaker's act and database record are distinguishable documentary events.
+
+Czechoslovakia's republic abolished noble titles and the inherited legal privileges associated with the previous state in **1918**. A historical armorial patent nevertheless remains an archival source rather than disappearing with the nobiliary status it once reflected. Modern Czech municipal grants have their own statutory basis; they must not be explained as a continuation of the Habsburg personal nobility system. The separate Slovak municipal and register regime is covered in the [Slovakia study](/traditions/slovakia/), not a missing territory awaiting a Czech administrator.
+
 ## The ordinary municipal coat is historically interesting
 
 A municipal coat identifies a public body whose elected officers can change while the institution continues. That makes the [Czech Parliament's REKOS register](https://www.rekos.psp.cz/) useful for studying both visual identity and administration. Its records connect coats and flags to named municipalities and, where applicable, dated authorizations. We can follow a design into the procedure that established its official use, then ask how that act relates to older local imagery. The picture becomes an entry into an institutional history.
@@ -77,7 +83,7 @@ A useful drawing exercise begins with the lesser arms and then constructs the gr
 
 ## The Moravian eagle has a contested colour history
 
-Both silver-and-red and gold-and-red checkered Moravian eagles occur in historical discussion. Their coexistence cannot be explained by declaring one illustrator careless. The Ministry of the Interior's account distinguishes Frederick III's 1462 privilege, later estate usage and a 1915 authorization concerning Moravian self-government. It argues that the privilege did not become the universally effective territorial change sometimes claimed for it. That is the ministry's historical and legal interpretation, which should remain attributed when the dispute is discussed.[^cz-moravian-colours]
+Both silver-and-red and gold-and-red checkered Moravian eagles occur in historical discussion. Their coexistence cannot be explained by declaring one illustrator careless. A historical article by **PhDr. Ivan Štarha**, archived on the Czech Ministry of the Interior's website, examines Frederick III's 1462 privilege, later estate usage and a 1915 authorization concerning Moravian self-government. **Štarha argues that the 1462 privilege was invalid from the outset**, rather than merely treating its later effectiveness as a vaguely contested matter. His argument is attributed scholarship hosted by the ministry, not an anonymous ministry decision or an unqualified judicial holding.[^cz-moravian-colours]
 
 The distinction between an estate body and a territory is doing real work here. An institution representing a land can have its own authorized practices without every such practice redefining the land's position in the larger state's arms. Likewise, evidence that members wore particular colours establishes something about their uniform. It does not, without another step, establish the formal tinctures of every eagle representing Moravia.
 
@@ -136,7 +142,7 @@ Finally, write a short account explaining how an error could become established 
 1. [Poslanecká sněmovna, REKOS](https://www.rekos.psp.cz/) — parliamentary overview and administrative procedure.
 2. [REKOS, *Vyhledání symbolu*](https://rekos.psp.cz/vyhledani-symbolu) — searchable database.
 
-**Research frontier:** the Bohemian Crown lands, Moravian and Silesian armorial traditions, noble and urban heraldry before 1918, the interwar Czechoslovak state and differences within contemporary Slovakia.
+**Further comparative work:** the Bohemian Crown lands, Moravian and Silesian armorial traditions, noble and urban heraldry before 1918, the interwar Czechoslovak state, and the separately governed Slovak public-armorial tradition, already introduced in the [Slovakia chapter](/traditions/slovakia/).
 
 <aside class="editorial-notice" aria-label="Editorial note">
 <p><strong>Editorial status:</strong> Original English synthesis supported by linked sources. Scope and interpretive assumptions are explicit. Specialist and, where relevant, community review remain to be completed.</p>

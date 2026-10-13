@@ -28,6 +28,12 @@ level: "Advanced undergraduate / graduate"
   </ol>
 </nav>
 
+## The Lievegem example can carry the method
+
+Flanders supplies a real modern public case rather than requiring another fictitious municipal applicant. **Lievegem** resulted from a merger of municipalities and adopted officially documented public symbols through the Flemish procedure. The relevant [Flemish government records](https://www.vlaanderen.be/lokaal-bestuur/besturen-in-vlaanderen) and the city's armorial instrument should establish which predecessor motifs were retained or revised. A new municipal bearer is constituted by an administrative act; recognition of an individual family's old coat is governed under another framework.
+
+The real Lievegem flag-and-shield comparison is a suitable model for the design exercise later in this chapter. It lets the student inspect what was formally adopted and then propose a different teaching design only as a controlled counterfactual. This removes the need to multiply speculative applicant stories simply to demonstrate the difference between public adoption and private registration.
+
 ## Private arms in a dated legal framework
 
 An applicant seeking recognition of older arms and an applicant requesting a new design have different things to establish. The Flemish [decree of 3 February 1998](https://codex.vlaanderen.be/Portals/Codex/documenten/1006070.html) gives those differences a statutory form for private persons and institutions. It defines categories of arms, sets conditions for recognition and grants, and establishes an administrative review process. We can therefore ask which claim an application makes, what evidence that claim requires, and which act concludes the procedure.

@@ -15,7 +15,7 @@
     "url": "https://www.metmuseum.org/art/collection/search/22876",
     "imageSource": "https://images.metmuseum.org/CRDImages/aa/original/DP-46315-001.jpg",
     "image": "/images/objects/franconian-targe.jpg",
-    "alt": "A scalloped tournament shield painted with a woman, a yellow armorial shield bearing a black animal head, and a helmet with a matching crest above it.",
+    "alt": "A scalloped tournament shield painted with a woman, a yellow armorial shield bearing a black demi-beast with raised forelegs, and a helmet with a demi-beast crest with raised forelegs above it.",
     "width": 1206,
     "height": 1600,
     "accessed": "2026-10-09",
@@ -25,13 +25,13 @@
     "question": "Which shield are you describing?",
     "observations": [
       "The physical support has a scalloped outline and a deep notch on the viewer’s left. A smaller painted armorial shield appears within it. These are two different outlines, doing two different jobs.",
-      "Above the painted shield is a helmet and a separate animal-head ornament. A female figure and scrolling inscription occupy the surrounding space. A description of the field alone would omit much of this object."
+      "Above the painted armorial shield, the helmet supports a crest representing a demi-beast, with the front legs raised. The armorial shield itself likewise shows more of the creature than an isolated head. A female figure and a scrolling inscription fill the surrounding painted surface."
     ],
     "catalogue": "The Met dates this German targe to about 1450 and associates the arms with either the Gottsmann or the related Türriegel family of Franconia. Its curatorial account explains that later overpainting helped preserve the decoration beneath it. The museum also reports traces of Saint Christopher on the leather-lined reverse. That reverse is not the photograph reproduced here. [1]",
     "reading": [
       "Start with the support, then the painted achievement. The outer object is a shield; the small shield in its decoration is the armorial field; the ornament above the helmet is the crest. Calling every part a crest would discard the relationships that make the composition intelligible.",
       "A digital redrawing could make the small shield perfectly symmetrical and turn its surface into flat yellow and black. That might help a beginner see the composition. It would also remove the irregular contour, aging, background figure, and evidence of the object’s material construction. Keep the photograph alongside any diagram, and explain which question each image answers.",
-      "The catalogue’s alternative family attribution is part of the evidence. A confident-looking animal head cannot choose between the two families for us. The useful next question is what dated records or comparative objects would distinguish those possibilities."
+      "The catalogue’s alternative family attribution is part of the evidence. A confident-looking demi-beast cannot choose between the two families for us. The useful next question is what dated records or comparative objects would distinguish those possibilities."
     ],
     "claims": [
       {
@@ -51,7 +51,7 @@
       }
     ],
     "exercise": "Write two descriptions: one of the physical object, one of the painted achievement. Then make a claim ledger with three columns: visible in this photograph, reported by the catalogue, and still to be established. Place the family attribution and reverse decoration in the appropriate columns.",
-    "discussion": "A strong answer separates the targe’s outline from the painted shield and identifies the crest by its position above the helmet. It keeps both family names and does not claim to have inspected the reverse. To resolve the attribution, propose a dated comparative witness rather than a surname search.",
+    "discussion": "A strong answer separates the targe’s outline from the painted shield and identifies the crested demi-beast above the helmet and its raised forelegs. It keeps both family names and does not claim to have inspected the reverse. To resolve the attribution, propose a dated comparative witness rather than a surname search.",
     "research": "Follow the collection record to its additional reverse photograph. Compare what can actually be seen there with the museum’s description. Record the image identifier and viewing conditions before arguing that a damaged painted trace represents a particular saint.",
     "periods": [
       "Medieval"
@@ -82,8 +82,8 @@
     "lesson": "heraldry-in-public-life",
     "question": "Is that line heraldry, or construction?",
     "observations": [
-      "The photograph shows red and yellow areas, with a pale five-pointed star in the upper-left area as we view it. Dark lines divide the image into large regions and also cross individual pieces irregularly.",
-      "Some dark lines might seem to describe armorial divisions; others follow the joins of the glass. The photograph alone does not establish which pieces or joins are original."
+      "The shield is quarterly gules and or, with red and gold areas alternating in four principal regions. A pale five-pointed mullet occupies the first quarter. These are structural elements visible in the photograph, not hypothetical shapes inferred from random lead joins.",
+      "Lead lines and restoration may complicate the treatment of details, but they do not make the main quartering unreadable. The illustration can be compared cautiously with arms attributed to the Vere earls of Oxford; identifying a particular bearer still requires documentary or provenance evidence."
     ],
     "catalogue": "The Met catalogues this object as British stained glass dated 1300–20, accession 12.137.2, acquired through the Rogers Fund in 1912. Its dimensions are 29.2 by 24.8 cm. The consulted overview does not supply a named armiger or an original architectural location. Those omissions should remain omissions in our account. [1]",
     "reading": [
@@ -93,7 +93,7 @@
     ],
     "claims": [
       {
-        "claim": "A pale five-pointed star is visible at the viewer’s upper left.",
+        "claim": "The photograph shows a quarterly red-and-gold shield with a pale mullet in the first quarter.",
         "basis": "Object photograph",
         "limit": "A visual description, not a complete blazon."
       },
@@ -109,7 +109,7 @@
       }
     ],
     "exercise": "Annotate five features using only visual language. For each, say whether you think it is armorial design, material construction, or uncertain. Then write a short research request for the information you would need to distinguish original glass from later interventions.",
-    "discussion": "A strong answer describes the star and the visible colour areas without inventing a bearer. It recognizes that a dark join is not automatically an ordinary. Useful further evidence includes conservation documentation, earlier photographs, acquisition records, and evidence of the panel’s former architectural setting.",
+    "discussion": "A good answer begins with the visible quartering, quarterly gules and or, a mullet argent in the first quarter. It may then test the Vere comparison against heraldic and provenance witnesses without assigning a definite historical owner from the image alone. Lead joins or photographic lighting remain relevant to conservation, not an excuse to ignore a large readable division.",
     "research": "Compare this photograph with a second image made under different illumination, if one can be located. Record the photographer or repository, date, and lighting where available. Which proposed tincture readings survive the comparison, and which become less secure?",
     "periods": [
       "Medieval"
@@ -117,7 +117,7 @@
   },
   {
     "id": "halewyn-ghistele-enamel",
-    "title": "Two coats, one painted shield",
+    "title": "Two impaled coats on a lozenge",
     "catalogueTitle": "Angels presenting the arms of Halewyn impaling Van Ghistele",
     "summary": "An enamel plaque joins two armorial compositions while leaving its original larger setting uncertain.",
     "date": "First quarter of the sixteenth century",
@@ -131,27 +131,27 @@
     "url": "https://www.metmuseum.org/art/collection/search/210213",
     "imageSource": "https://images.metmuseum.org/CRDImages/es/original/ES339.jpg",
     "image": "/images/objects/halewyn-ghistele-enamel.jpg",
-    "alt": "A long blue enamel plaque with winged angels holding a central shield divided vertically: dark animal forms on the viewer’s left, and a chevron with three stars on red at right.",
+    "alt": "Two winged angels presenting a vertically divided armorial lozenge; a smaller inescutcheon lies on the Halewyn side, and the Van Ghistele half shows a chevron and star-shaped charges.",
     "width": 680,
     "height": 234,
     "accessed": "2026-10-09",
     "imageRights": "CC0",
     "rightsUrl": "https://www.metmuseum.org/hubs/open-access",
     "lesson": "marshalling",
-    "question": "What does joining arms actually establish?",
+    "question": "What do impalement and a smaller inescutcheon establish separately?",
     "observations": [
-      "A vertical boundary divides the central shield. The viewer’s right half contains a chevron and three star-shaped charges; the left half contains dark animal forms. Angels hold the shield against a blue background.",
-      "The composition extends far beyond the armorial field. Describe the angels and surrounding blue area as part of the plaque before deciding whether they belong in an armorial description."
+      "Two angels flank a lozenge, not a heater-shaped shield. The lozenge is vertically divided, and a small inescutcheon sits within the Halewyn half. The opposing half shows a chevron and star-like charges.",
+      "The enamel's blue background and the figures presenting the arms are part of the surrounding scene. They cannot be called hereditary heraldic supporters merely because the angels flank the lozenge."
     ],
-    "catalogue": "The Met identifies the arms as Halewyn impaling Van Ghistele and attributes the enamel to the workshop of Nardon Pénicaud. It dates the French, Limoges object to the first quarter of the sixteenth century. The curatorial note suggests the angels may once have accompanied a scene on a lower plaque in a triptych; that proposed setting is not certain. [1]",
+    "catalogue": "The Met identifies the arms as Halewyn impaling Van Ghistele and attributes the enamel to the workshop of Nardon Pénicaud. It dates the French, Limoges object to the first quarter of the sixteenth century. The curatorial note suggests the curatorial note discusses angels in a proposed larger devotional arrangement; the two visible on this plaque may once have accompanied a scene on a lower plaque in a triptych; that proposed setting is not certain. [1]",
     "reading": [
-      "The vertical division offers a concrete example for studying impalement. Compare the two halves as compositions, not as two unrelated decorations. Each half has its own arrangement; joining them changes the space in which the charges must fit.",
+      "Impalement brings two armorial identities into one lozenge, rather than placing two separate shields side by side. The tapered geometry changes the room available to each half. The smaller inescutcheon on the Halewyn side is an additional layer that should not be lost when summarizing the main vertical division.",
       "The catalogue provides the family names. The photograph provides the arrangement we can inspect. Those sources work together, but neither supplies a complete account of why this particular commission joined these particular arms. To identify a marriage or an individual patron, follow a documentary chain rather than treating the division itself as a marriage certificate.",
       "The workshop attribution and the proposed triptych setting require different qualifications. Attributed to a workshop is not the same as signed by its master. A possible larger setting is not a surviving complete ensemble. Keep those distinctions visible when using the object in an argument about patronage or devotional display."
     ],
     "claims": [
       {
-        "claim": "The shield is divided vertically into two armorial compositions.",
+        "claim": "Two angels present a vertically impaled lozenge with a smaller inescutcheon on the Halewyn side.",
         "basis": "Object photograph",
         "limit": "Visible arrangement does not identify a particular marriage."
       },
@@ -167,7 +167,7 @@
       }
     ],
     "exercise": "Make a two-part account: an image description without family names, then a catalogue-based identification with the appropriate qualifications. List the evidence you would seek before naming the people who commissioned it or the occasion it commemorated.",
-    "discussion": "A strong answer recognizes the vertical joining of arms and separates the family identification from a claim about specific people. It preserves the workshop attribution and the museum’s tentative account of the original setting. Genealogical records might establish a relevant union, but a documented link to this object would still be needed.",
+    "discussion": "A strong analysis calls the central form a lozenge, records the smaller inescutcheon, and distinguishes two depicted angels from formally established supporters. The museum's family identification does not alone prove a specific marriage or grant.",
     "research": "Compare the catalogue’s title, attribution, and provenance information with a dated publication or inventory. Track whether the identification changes between records. A research note should state which version supports each claim rather than silently treating all versions as interchangeable.",
     "periods": [
       "Early modern"
@@ -502,7 +502,7 @@
     "summary": "Repeated arms connect the rider’s equipment with the horse’s armour. Establishing who used it and which pieces began together takes more than matching decoration.",
     "material": "Armour",
     "lesson": "marshalling",
-    "question": "How many witnesses does one suit contain?",
+    "question": "Which arms can actually be seen in this particular photograph?",
     "observations": [
       "A fully armoured rider sits above an armoured horse. Red fabric, etched metal, and the museum’s supporting mount make this a much larger display than a single painted shield.",
       "The photograph presents one side of the ensemble. It cannot show every decorated surface on the breastplate, backplate, shoulders, or horse defence at once."
@@ -511,8 +511,8 @@
       "The repeated arms make the rider and horse look like a coordinated display. That is a useful observation, but coordination in a museum installation is not yet evidence that every piece was made together. We need to compare the decoration, manufacture, and documented history of the components. If the same workshop and commission can be established, the repeated design helps explain the ensemble's intended identity. If the pieces were assembled later, the repetition explains the collector's arrangement instead. The photograph alone cannot choose between those histories.",
       "The catalogue recognizes Colonna arms in one quarter and leaves the other family unidentified. Finding the same unresolved combination in seven places does not give us seven independent confirmations of a bearer's name: the repetitions may all belong to one programme of decoration. They help us investigate the design's use across the equipment, while the bearer still needs a documentary connection. The display's horse, feathers, fittings, and mounting arrangement also have to be distinguished from the catalogued steel."
     ],
-    "exercise": "Make a diagram of the visible rider and horse. Mark every armorial location you can actually inspect, then add the catalogue’s remaining locations using a different symbol. Write a separate sentence about what would establish that two pieces belong to the same original commission.",
-    "discussion": "A strong answer distinguishes a photographed surface from a reported one. It preserves the unidentified quarter and proposed family connection. Matching decoration supports a question about an ensemble; a dated inventory, technical study, or documented provenance is needed to argue that particular components were made and used together.",
+    "exercise": "First list the details genuinely legible in this gallery view: rider, horse, etched metal and textile. Then distinguish those observations from the Met catalogue's account of repeated arms on the equipment. The supplied photograph is not sufficiently close to verify the individual armorial quarterings; find a detail image or catalogue illustration before attempting that operation.",
+    "discussion": "A strong answer distinguishes a photographed surface from a reported one. This image documents the mounted ensemble but does not let the student read all its small armorial quarterings. Preserve the unidentified quarter and the catalogue's proposed family connection, and request a detailed image or documented inventory for stronger attribution.",
     "research": "Use the museum’s additional views and component records. Choose two locations with the same arms and compare their engraving, borders, wear, and attachment. Record the image identifiers and ask whether the differences suggest manufacture, repair, photography, or later assembly.",
     "catalogueTitle": "Armor for Man and Horse with Völs-Colonna Arms",
     "date": "c. 1575",
@@ -620,7 +620,7 @@
     "lesson": "reading-the-evidence",
     "question": "Which part of the object dates the claim?",
     "observations": [
-      "Two circular armorial displays interrupt a dense field of flowers. A narrow border encloses the horizontal textile, while repeated plant forms continue between the shields.",
+      "Two shield-shaped escutcheons sit within the field of small flowers. The Medici *palle*, or roundels, are visible in the heraldic designs; these are devices inside the shields, not a reason to call the shields circular.",
       "At gallery scale the arms and surrounding field appear to form one composition. A photograph at this scale cannot establish the exact structure of joins, inserted panels, or repaired threads."
     ],
     "reading": [
@@ -649,11 +649,11 @@
     "periods": [
       "Early modern"
     ],
-    "alt": "Two circular armorial displays interrupt a dense field of flowers. A narrow border encloses the horizontal textile, while repeated plant forms continue between the shields.",
+    "alt": "Two shield-shaped armorial escutcheons interrupt a dense field of flowers. A narrow border encloses the horizontal textile, while repeated plant forms continue between the shields.",
     "catalogue": "Cleveland dates the Netherlandish, Hainault tapestry to the 1520s. Its description states that the original arms were replaced with those of the Medici. That reported alteration is central to this study: the current armorial display and the first weaving are not necessarily one historical event. [1]",
     "claims": [
       {
-        "claim": "Two circular armorial displays interrupt a dense field of flowers. A narrow border encloses the horizontal textile, while repeated plant forms continue between the shields.",
+        "claim": "Two shield-shaped armorial escutcheons with Medici roundels interrupt the millefleurs field.",
         "basis": "Object photograph",
         "limit": "Photographed arrangement; not a new dating or bearer identification."
       },
@@ -677,12 +677,12 @@
     "lesson": "heraldry-in-public-life",
     "question": "What does the hierarchy of shields tell us?",
     "observations": [
-      "A central eagle shield, a crown, and paired lions occupy the largest area. Smaller shields form a ring around them, enclosed by lettering and a coloured border.",
+      "A crowned central imperial eagle dominates the roundel. Two small shields of Zürich, per bend argent and azure, appear at the base; the pair of lions flanking the central composition hold swords and a crown, not shields. Smaller armorial shields form an outer ring.",
       "Scale and position create a visible hierarchy. The little shields remain individual compositions; their surrounding circle is not one quartered coat."
     ],
     "reading": [
-      "The roundel gives some shields more space than others. Before explaining that as a political hierarchy, we should establish what the arrangement actually contains: a central eagle shield, animals beside it, and a ring of smaller compositions. Putting those devices in one window lets them be seen together, but does not merge them into one quartered coat. The arrangement therefore gives us a model of association to investigate. Documentary evidence is still needed to establish the legal or administrative relationships between the represented bodies.",
-      "Counting is a small act of scholarship. Decide whether the central eagle shield, shields held by the lions, and every peripheral compartment belong in your total. Then compare the result with the museum’s texts. Differences can arise from counting conventions, interpretation, or editorial error. A source conflict should become a research question, not disappear in a rewritten caption."
+      "The imperial eagle, Zürich's two civic shields at the base, and the ring of additional arms occupy distinct positions. The lions hold swords and the crown, not another pair of shields. Their grouping presents a civic and imperial ensemble without combining every device into one quartered coat. The dated cartouche, orb and outer inscription deserve independent transcription before a political hierarchy is inferred from scale alone.",
+      "Counting is a small act of scholarship. Decide whether the central eagle shield, the two small Zürich shields in base, the central eagle shield, and every peripheral compartment belong in your total. Then compare the result with the museum’s texts. Differences can arise from counting conventions, interpretation, or editorial error. A source conflict should become a research question, not disappear in a rewritten caption."
     ],
     "exercise": "Number the distinct shield-shaped fields on a copy of the image, keeping the central group and outer ring separate. State your counting rule. Then write a paragraph showing how the arrangement connects a civic community with a larger political vocabulary.",
     "discussion": "A strong answer gives a reproducible count rather than repeating one attractive number. It retains the workshop qualification, distinguishes the ring from marshalling within a single shield, and explains which political statements come from the catalogue and which remain interpretive.",
@@ -1140,14 +1140,14 @@
     "question": "Which place does a catalogue place-name describe?",
     "observations": [
       "A large yellow shield with a dark eagle occupies the lower centre beneath a helmet and curling ornament. A red lion with a sword appears above, framed by columns and a populated arch.",
-      "Figures, lettering, and architectural decoration surround the achievement. The date visible at the base belongs to the depicted panel’s inscription; its interpretation still needs transcription."
+      "Below the armorial composition, the visible date 1559 accompanies an inscription which the Cleveland catalogue transcribes as “Die Statt Uberlingen 1559.” The helmet's crest and the upper red sword-bearing lion should be inventoried separately before assigning either an armorial role."
     ],
     "reading": [
       "The city named in an armorial title and the place attributed to a glassmaker answer different questions. A customer can obtain an object from a workshop elsewhere, and a workshop can reproduce another community's devices. Cleveland's Swiss attribution and its title naming Überlingen are therefore information to keep together while investigating the commission. They need not be forced into one national label. A payment, inscription, or documented gift could explain the connection; the difference between the two place names gives us a reason to look for it.",
-      "Keep the central eagle, the upper lion, and the surrounding people distinct before deciding how they relate heraldically. A lion placed above an achievement might be a crest, another emblem, or part of a narrative. Its role needs comparison with the full arrangement and documentary descriptions, rather than identification from animal shape alone."
+      "The helmet is surmounted by a visibly distinct crest: a crowned red demi-lion holding a sword, framed by mantling. The lion's position above the helm is meaningful evidence of a crest rather than merely a second unidentified animal in the surrounding narrative. The eagle remains on the large shield below. Transcribing the inscription “Die Statt Uberlingen 1559” supplies a named and dated link to the depicted city, while the museum's Swiss workshop attribution concerns the maker's location."
     ],
     "exercise": "Make separate catalogue fields for represented identity, attributed manufacture, inscription, and provenance. Fill only what the museum or image supports. Then explain what evidence could connect the Swiss attribution with the commission of a panel bearing another city’s arms.",
-    "discussion": "A strong answer preserves both place references and asks what each means. It avoids turning catalogue culture into the bearer’s nationality, records the date’s visual location, and leaves the functions of surrounding figures open until they can be compared with stronger sources.",
+    "discussion": "A strong answer preserves the distinction between the Swiss workshop attribution and the named city of Überlingen. It transcribes “Die Statt Uberlingen 1559” from the museum record, locates the visible date, and records the crest and upper lion without assuming every surrounding figure is a supporter.",
     "research": "Consult a specialist glass catalogue for the panel’s attribution and provenance. Look for workshop parallels, inscriptions, and evidence of exchange between civic bodies. Record whether a proposed origin relies on style, an archival payment, a maker’s mark, or later acquisition.",
     "catalogueTitle": "Arms of Ueberlingen",
     "date": "1559",
@@ -1197,14 +1197,14 @@
     "question": "What exactly has become a flag?",
     "observations": [
       "A green rectangular textile with a broad red border hangs from a pole. An embroidered achievement occupies the centre, with flanking figures and scrolling elements around the shield.",
-      "Cords and tassels extend beyond the fabric. The outer flag is therefore not shaped like the small shield displayed within it."
+      "Within the green cloth and red border, the embroidered royal achievement shows arms consistent with the post-1801 British royal arrangement: England in the first and fourth quarters, Scotland in the second, Ireland in the third, and a crowned electoral inescutcheon. Those details must be compared with the catalogue's broader 1700s dating before the manufacture and history of this textile are asserted."
     ],
     "reading": [
       "The green cloth carries an image of a royal achievement. Compare that arrangement with a banner of arms, in which the shield's design extends across the rectangular cloth itself. The difference affects what a description should include: here we have the textile support and an achievement placed upon it. Describing those two levels gives another reader a way to follow the object even before we settle its technical classification. It also prevents the colour of the surrounding cloth from silently becoming a tincture inside the royal shield.",
-      "A museum title identifying royal arms does not date every component to one sovereign or occasion. The arms, textile, pole, embroidery, and accessories each need their own evidence. The visible green ground is also the colour of the banner support, not necessarily a tincture of the shield inside the central composition."
+      "The royal arms visible on the cloth provide a chronological test independent of the catalogue's broad description. The post-1801 quartering and electoral inescutcheon are not consistent with an unaltered eighteenth-century armorial composition; the object might have been produced or altered later, or the catalogue's date may refer to another feature. That discrepancy should be investigated rather than silently resolved. The pole, embroidery and surrounding textile still require their own dating evidence."
     ],
     "exercise": "Write one description of the complete flag and another of its central achievement. Explain which colours belong to the support and which appear within the arms. Then list the evidence needed to argue for a particular ceremonial use.",
-    "discussion": "A strong answer distinguishes the cloth’s outer field from the armorial field and preserves the probable origin. It avoids treating fringe, pole, tassels, and embroidered arms as interchangeable components of a blazon, while recognizing their importance to the object’s use.",
+    "discussion": "A strong answer separates the cloth's green outer field from the heraldic quarterings and explicitly records their post-1801 visual structure. It treats the tension with the catalogue's '1700s' dating as an unresolved chronology problem, not proof that the museum or image is necessarily wrong.",
     "research": "Compare a documented royal standard with this embroidered display. Record whether each reproduces a shield’s divisions across the entire cloth or places an achievement within another field. Use dated inventories or images to test functional names rather than choosing them by appearance alone.",
     "catalogueTitle": "Banner with Royal Coat of Arms of Great Britain",
     "date": "1700s",
@@ -1540,10 +1540,10 @@
     "question": "What does the name explain—and what does it leave open?",
     "observations": [
       "A large animal-bearing shield and helmet stand beside a woman in a long gown and elaborate hat. Smaller scenes occupy the top and lower border.",
-      "The achievement is visibly only part of the panel. The figure’s dress, surrounding events, and lettering need separate descriptions before they can be connected to a named patron."
+      "The inscription “Heirich Bodmer zuo Baden” is painted on the panel. It supplies a visibly documented name, while the attribution of surrounding human figures and small narrative scenes still requires separate evidence."
     ],
     "reading": [
-      "Cleveland's identification gives us a name associated with the achievement. The window also contains a woman and other scenes, and those features have not all been identified by the same evidence. It would be easy to let the named arms make the whole window feel biographically settled. Instead, ask what connects each figure or episode with Bodmer. An inscription might establish one relationship, an inventory another. Keeping those connections separate lets the window support an account of patronage or social use without inventing a life story for every figure.",
+      "Cleveland's identification gives us a name associated with the achievement. The window also contains a woman and other scenes, and those features have not all been identified by the same evidence. It would be easy to let the named arms make the whole window feel biographically settled. Instead, ask what connects each figure or episode with Bodmer. The painted inscription names Heirich Bodmer zuo Baden; it gives us one identification on the object, although an inventory or contemporary commission would still be needed to assign particular surrounding figures or scenes to his biography. Keeping those connections separate lets the window support an account of patronage or social use without inventing a life story for every figure.",
       "Windows can be social objects as well as heraldic ones. Their arrangement may connect identity with conduct, patronage, or a setting of exchange. Those are useful lines of inquiry, but they need inscriptions, inventories, or specialist catalogues. A named shield should not become permission to write an unsupported life story for everything around it."
     ],
     "exercise": "Make one list of features within the achievement and another of the surrounding narrative. Write a claim ledger that names Bodmer only where the catalogue supports the connection. Propose a source for one of the remaining biographical questions.",
@@ -1711,15 +1711,15 @@
     "lesson": "the-visual-language",
     "question": "Is a shield-shaped cartouche enough?",
     "observations": [
-      "A cylindrical white teapot carries a blue-and-gold shield-shaped cartouche containing intertwined letters. A small ornament sits above, while blue patterns encircle the lid and upper body.",
-      "The central letters are not a conventional field of ordinary shapes and charges. The surrounding frame borrows the visual language of an achievement without supplying a securely identified coat."
+      "Blue-and-gold ornament frames a shield-shaped cartouche on the teapot. The museum catalogues the intertwined initials as “JS”, which identifies the lettering without identifying its owner.",
+      "A bird-shaped device above the cartouche resembles the position of a heraldic crest, but the object's monogram JS and its decorative frame do not independently establish an armorial grant or the name of a customer. The shield-like frame and bird require description as separate visual elements."
     ],
     "reading": [
-      "The shield-shaped frame makes the initials look like an established identifying device. But the contents still matter: initials can mark a customer's identity without forming a hereditary coat of arms. That gives us two tasks. Describe the letters and framing as they survive, then seek the service or commission that could connect them to a purchaser. The catalogue's Chinese production and possible English or American market describe the route the object may have taken. Expanding the monogram into a familiar name would supply the missing destination by guesswork.",
+      "The shield-shaped frame makes the initials look like an established identifying device. But the contents still matter: initials can mark a customer's identity without forming a hereditary coat of arms. That gives us two tasks. Record the museum's reading of the initials as JS and describe the surrounding armorial-style frame, then seek the service or commission that could connect them to a purchaser. The catalogue's Chinese production and possible English or American market describe the route the object may have taken. Expanding the monogram into a familiar name would supply the missing destination by guesswork.",
       "Production and consumption are separate places here too. The catalogue’s Chinese attribution and Western-market description connect a maker’s material tradition with a customer’s identity vocabulary. A recognizable set of initials would still need a provenance or documented service before it could identify an individual purchaser."
     ],
     "exercise": "Describe the initials without expanding them into a name. Compare this cartouche with a plate carrying documented family arms. Explain what each image supplies that the other lacks, and how an original order or surviving companion piece could change your conclusion.",
-    "discussion": "A strong answer recognizes the monogram and armorial-style framing without supplying a family coat. It preserves both possible markets, the approximate date, and the distinction between the place of manufacture and the identity of an unknown customer.",
+    "discussion": "A strong answer reads the initials as JS, as supplied by the museum, but does not expand them into an unsupported personal name or family arms. Manufacture in China and probable Western markets are separate pieces of the object's history.",
     "research": "Locate another piece from a documented export-porcelain service with matching initials or decoration. Record its provenance, inscriptions, and any original order. Distinguish a match in ornamental style from evidence that the vessels belonged to the same commissioned service.",
     "studyType": "Monogram in armorial-style framing; bearer not identified",
     "catalogueTitle": "Teapot",
@@ -1742,7 +1742,7 @@
       "Early modern",
       "Modern"
     ],
-    "alt": "A cylindrical white teapot carries a blue-and-gold shield-shaped cartouche containing intertwined letters. A small ornament sits above, while blue patterns encircle the lid and upper body.",
+    "alt": "A cylindrical white teapot carries a blue-and-gold shield-shaped cartouche containing intertwined letters. A bird-shaped, crest-like ornament stands above, while blue patterns encircle the lid and upper body.",
     "catalogue": "The museum titles the object Teapot, dates it around 1775–1800, and catalogues it as Chinese export porcelain for English or American markets. The consulted record does not name a patron or identify the letters. This study therefore treats the decoration as monogrammed and armorial in style rather than assigning an invented bearer. [1]",
     "claims": [
       {
@@ -1897,7 +1897,7 @@
     "imageRights": "Public domain",
     "rightsUrl": "https://commons.wikimedia.org/wiki/File:St._George%27s_Chapel_LOC_24206236434.jpg",
     "imageAttribution": "Bain News Service / Library of Congress",
-    "imageRightsNote": "The Commons file identifies the Bain photograph as public domain and reproduces the Library of Congress advisory: no known restrictions on publication. This is not a CC0 licence from the chapel.",
+    "imageRightsNote": "The Commons file identifies the Bain photograph as public domain and reproduces the Library of Congress advisory: no known restrictions on publication. This is not a CC0 licence from the chapel. The photographic licence addresses this particular image, not automatically every contemporary embroidered banner or other underlying work. The installation and change of its banners must be checked under relevant copyright and freedom-of-panorama rules before broader reuse.",
     "imageRecordUrl": "https://commons.wikimedia.org/wiki/File:St._George%27s_Chapel_LOC_24206236434.jpg",
     "lesson": "heraldry-in-public-life",
     "periods": [
@@ -1974,7 +1974,7 @@
     "imageRights": "Public domain",
     "rightsUrl": "https://commons.wikimedia.org/wiki/File:St_George%27s_Chapel_Windsor_Castle_(41181845160).jpg",
     "imageAttribution": "Photo by Serendigity",
-    "imageRightsNote": "The author marked the Flickr photograph public domain; the Commons file records a PD-author-FlickrPDM release and a passed licence review. The public-domain status concerns this photograph, not an armorial entitlement.",
+    "imageRightsNote": "The author marked the Flickr photograph public domain; the Commons file records a PD-author-FlickrPDM release and a passed licence review. The public-domain status concerns this photograph, not an armorial entitlement. The photographic licence addresses this particular image, not automatically every contemporary embroidered banner or other underlying work. The installation and change of its banners must be checked under relevant copyright and freedom-of-panorama rules before broader reuse.",
     "imageRecordUrl": "https://commons.wikimedia.org/wiki/File:St_George%27s_Chapel_Windsor_Castle_(41181845160).jpg",
     "lesson": "heraldry-in-public-life",
     "periods": [
@@ -2055,7 +2055,7 @@
     "imageRights": "CC BY-SA 3.0",
     "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
     "imageAttribution": "Photo by DAVID ILIFF",
-    "imageRightsNote": "Photograph and this resized copy are distributed under CC BY-SA 3.0. Credit the photographer, link the licence, indicate changes, and apply the same or a compatible licence to adaptations. Resized without cropping or recolouring.",
+    "imageRightsNote": "Photograph and this resized copy are distributed under CC BY-SA 3.0. Credit the photographer, link the licence, indicate changes, and apply the same or a compatible licence to adaptations. Resized without cropping or recolouring. The photographic licence addresses this particular image, not automatically every contemporary embroidered banner or other underlying work. The installation and change of its banners must be checked under relevant copyright and freedom-of-panorama rules before broader reuse.",
     "imageRecordUrl": "https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_Chapel_of_St_Michael_%26_St_George,_London_UK_-_Diliff.jpg",
     "lesson": "heraldry-in-public-life",
     "periods": [
@@ -2113,9 +2113,9 @@
   },
   {
     "id": "stowe-armorial",
-    "title": "726 quarterings, one ceiling",
+    "title": "726 armorial bearings in a library",
     "catalogueTitle": "The Heraldic Achievements of the Grenville, Temple Nugent, and Chandos Families",
-    "summary": "The Stowe Armorial turns accumulated ancestry into an architectural spectacle. Its 726 quarterings invite a closer look at what marshalling can communicate, and what it takes to substantiate the relationships.",
+    "summary": "The Stowe Armorial turns accumulated ancestry into an architectural-scale display. The catalogue's 726 armorial bearings invite study of whether and how individual devices are marshalled, and what it would take to substantiate the relationships.",
     "date": "Painting: 1806; Photograph: undated reproduction",
     "culture": "British · Stowe House",
     "material": "Architectural display",
@@ -2129,7 +2129,7 @@
     "imageRights": "Public domain",
     "rightsUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
     "imageAttribution": "P Sonnard (catalogue attribution); digital reproduction via Wikimedia Commons",
-    "imageRightsNote": "The individual Commons record marks this reproduction of the historic painting as public domain. Its source-generated preview is reproduced without local cropping or recolouring. The rights statement concerns the reproduction; it does not certify entitlement to each quartering.",
+    "imageRightsNote": "The individual Commons record marks this reproduction of the historic painting as public domain. Its source-generated preview is reproduced without local cropping or recolouring. The rights statement concerns the reproduction; it does not certify entitlement to any depicted bearing.",
     "imageRecordUrl": "https://commons.wikimedia.org/wiki/File:Stowe_Armorial,_Ceiling_of_Gothic_Library,_Stowe_House,_Buckinghamshire.png",
     "lesson": "marshalling",
     "periods": [
@@ -2143,8 +2143,8 @@
     ],
     "catalogue": "Stowe House dates the painting to 1806, attributes it to P Sonnard, and records oil on parchment and a diameter of 132 cm. Catalogue number SS.51 identifies the work displayed in the Gothic Library. The institutional account describes 726 armorial bearings associated with the Temple, Nugent, Brydges, Chandos, and Grenville families. [1]",
     "reading": [
-      "Marshalling lets several armorial identities occupy one composition. Here that capacity has become the subject of the picture. A viewer first encounters an accumulation: a repeated grid whose small parts make the circle look almost impossibly comprehensive. The effect depends on the relationship between the individual quartering and the whole. An isolated compartment would present one design. Hundreds arranged together present the possession of an extensive genealogical past as something a visitor can see.",
-      "That visual argument carries several research questions. Which quarterings were selected, in what order, and on what genealogical basis? A familiar lion is a beginning for identification, but a pedigree has to explain why that lion belongs within this particular assemblage. Counting painted compartments cannot answer the question. Repeated designs, variant representations, and claims transmitted through different lines can all matter; the catalogue’s total should not be silently converted into 726 independently verified ancestors or distinct families.",
+      "Marshalling lets several armorial identities occupy one composition. Here that capacity has become the subject of the picture. A viewer first encounters an accumulation: a repeated grid whose small parts make the circle look almost impossibly comprehensive. The effect depends on the relationship between the individual armorial bearing and the whole. An isolated compartment would present one design. Hundreds arranged together present the possession of an extensive genealogical past as something a visitor can see.",
+      "That visual argument carries several research questions. Which armorial bearings were selected, in what order, and on what genealogical basis? A familiar lion is a beginning for identification, but a pedigree has to explain why that lion belongs within this particular assemblage. Counting painted compartments cannot answer the question. Repeated designs, variant representations, and claims transmitted through different lines can all matter; the catalogue’s total should not be silently converted into 726 independently verified ancestors or distinct families.",
       "The architectural setting changes how the armory is read. A visitor looking upward in a library encounters a concentrated statement of ancestry rather than a practical identification mark on a shield. The circle has to hold the room at a distance, while the smaller designs reward examination in a reproduction. We can therefore evaluate two kinds of success: the painting’s power as a display and the documentary support for its genealogical argument. The first is visible here. Investigating the second requires evidence beyond this preview.",
       "Try the same problem at a smaller scale. Put four invented coats into one quartered shield, then expand the composition to sixteen. With each addition, the opportunity to tell a longer family story grows while the space available to each design shrinks. Stowe takes that tradeoff to an extraordinary extent. Its abundance teaches something practical about marshalling: a composition can preserve many relationships even when recognition at a glance ceases to be its main job."
     ],
@@ -2167,7 +2167,7 @@
     ],
     "exercise": "Choose a group of four adjacent compartments. Record only features you can actually distinguish, then list what would be needed to identify the bearers and explain their inclusion. Separately explain how the whole circle communicates accumulation without asking a viewer to identify every compartment.",
     "discussion": "A good answer keeps observation, attribution, and pedigree separate. It may describe an arrangement confidently while leaving tiny charges unresolved. It also explains the visual mechanism: repeated compartments turn genealogical extent into a dense architectural display. A stronger identification needs a keyed inventory and the relevant descent evidence.",
-    "research": "Seek a numbered or keyed account of the quarterings, and trace one selected inclusion through a documented pedigree. Compare its place within this circle with the simpler marshalling exercises in the Academy.",
+    "research": "Seek a numbered or keyed account of the recorded armorial bearings, and trace one selected inclusion through a documented pedigree. Compare its place within this circle with the simpler marshalling exercises in the Academy.",
     "image": "/images/objects/stowe-armorial.png",
     "imageSource": "https://upload.wikimedia.org/wikipedia/commons/9/97/Stowe_Armorial%2C_Ceiling_of_Gothic_Library%2C_Stowe_House%2C_Buckinghamshire.png",
     "imageNote": "The source-generated preview preserves the whole circular composition. Follow the enlargement link for finer detail; the reproduction’s capture date is not established.",
@@ -2197,7 +2197,7 @@
     "imageRights": "Public domain",
     "rightsUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
     "imageAttribution": "Myrabella / Wikimedia Commons / CC0",
-    "imageRightsNote": "The individual file record dedicates Myrabella’s 2013 photograph under CC0 and records the historic embroidery as public domain. This is that separately licensed photograph, not an extraction from the museum’s restricted 2017 digital panorama. A source-generated preview is reproduced without local cropping or recolouring.",
+    "imageRightsNote": "The individual file record dedicates Myrabella’s 2013 photograph under CC0 and records the historic embroidery as public domain. This is that separately licensed photograph, not an extraction from the museum’s restricted 2017 digital panorama. A source-generated preview is reproduced without local cropping or recolouring. The licensing statement depends on the individual photograph by Myrabella; it is not a grant of permission by the Bayeux museum for its independently produced panoramas or new photography.",
     "imageRecordUrl": "https://commons.wikimedia.org/wiki/File:Bayeux_Tapestry_scene51_Battle_of_Hastings_Norman_knights_and_archers.jpg",
     "lesson": "the-visual-language",
     "periods": [

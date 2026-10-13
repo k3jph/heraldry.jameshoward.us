@@ -112,7 +112,7 @@ The civic use of a complete achievement also cautions against treating helmets a
 
 ## Two Tallinn flags answer different design questions
 
-The March **2023** statutory witness distinguishes the striped city flag from a heraldic flag displaying the crowned lions on yellow. The striped flag alternates three blue and three white bands; the armorial flag uses the lion design.[^ee-tallinn-statute] One municipal identity therefore includes both a banded textile and a banner carrying armorial charges.
+Tallinn's **1996 city statute**, consulted in a **2023 consolidated version**, distinguishes the striped city flag from a heraldic flag displaying the crowned lions on yellow. The consolidation date is not the statute's original enactment date. The striped flag alternates three blue and three white bands; the armorial flag uses the lion design.[^ee-tallinn-statute] One municipal identity therefore includes both a banded textile and a banner carrying armorial charges.
 
 To compare them, translate each into operations. The striped flag divides the whole cloth into equal horizontal bands. The heraldic flag treats the cloth as a field carrying three recognizable figures. Reconstructing one from the other would require adding or removing information. Their association within the city’s symbol system is an institutional fact, not a visual equivalence.
 

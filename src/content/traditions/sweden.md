@@ -30,6 +30,12 @@ level: "Advanced undergraduate / graduate"
   </ol>
 </nav>
 
+## The 1982 statute says which lion occupies which quarter
+
+**Act 1982:268 of 29 April 1982**, the [Swedish Law on the National Arms](https://rkrattsbaser.gov.se/sfst?bet=1982%3A268), defines two state coats. In the **greater arms**, a blue shield is quarterly by a gold cross with outward-curved arms. Quarters **one and four** contain three open golden crowns arranged two over one; quarters **two and three** show a crowned golden lion over three diagonal silver streams. Its central dynastic inescutcheon is divided between the **House of Vasa** and **House of Bernadotte**. The first contains a golden sheaf over a multicoloured diagonal division; the other includes a bridge, eagle and the Big Dipper. The greater shield's supporters, orders and mantle are described separately in the act.
+
+The **lesser arms** use three golden crowns, two over one, on blue beneath a royal crown. The difference is not one of size alone; the two forms encode different amounts of dynastic and state information. Section 2 of the Act is therefore a primary source for the greater design, while section 3 specifies the smaller one. The text should be compared with the [Swedish National Archives' official models](https://riksarkivet.se/arkivera-och-forvalta/heraldik-och-statssymboler/stora-riksvapnet), not left as an unnamed design problem.
+
 ## Whose authority is it?
 
 In Sweden, the [Riksarkivet](https://riksarkivet.se/arkivera-och-forvalta/heraldik-och-statssymboler), or National Archives, has identifiable responsibilities for state heraldry and public symbols. Its explanation of *Heraldik och statssymboler* presents a system concerned with the representation of state authorities, the use of official emblems, municipal heraldry and related national-symbol conventions. That institutional specificity should be preserved.

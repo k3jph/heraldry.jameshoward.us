@@ -4,8 +4,8 @@ description: "Read papal arms, hats and tassels, the 1969 instruction, and Vatic
 region: "Catholic heraldry"
 languages: ["en", "la", "it"]
 track: "Ecclesiastical heraldry"
-period: "Medieval period–present"
-sourceIds: ["cath-leo-xiv", "cath-benedict-xvi", "cath-ut-sive", "cath-1967-schedule", "cath-vatican-law-2023", "cath-cupich", "cath-swiss-guard-flag", "cath-vacant-see-coin-2026"]
+period: "Medieval ecclesiastical display to the 2026 Vatican law"
+sourceIds: ["cath-leo-xiv", "cath-benedict-xvi", "cath-ut-sive", "cath-1967-schedule", "cath-vatican-law-2026", "cath-vatican-law-2023", "cath-cupich", "cath-swiss-guard-flag", "cath-vacant-see-coin-2026"]
 level: "Advanced undergraduate / graduate"
 ---
 
@@ -30,6 +30,12 @@ level: "Advanced undergraduate / graduate"
     <li><a href="#graduate-project-one-career-several-achievements">Graduate project: one career, several achievements</a></li>
   </ol>
 </nav>
+
+## English schedule and Catholic directive are different authorities
+
+The **College of Arms' 1967 schedule of ecclesiastical hats** is evidence of **English heraldic administrative practice**, not a decree governing the entire Roman Catholic Church. The Holy See's separate instruction ***Ut sive sollicite*** of **31 March 1969**, published in *Acta Apostolicae Sedis* 61 (1969), deals with clerical garments, titles and insignia, including simplification of external ornaments. Its relevant provisions need to be read as ecclesiastical norms within their own authority and historical context.
+
+This removes an easy but serious category error. A London herald's recommendation and a Roman Secretariat of State instruction may influence the same visual subject without enjoying the same jurisdiction. Their relationship is a history of overlapping artistic conventions and distinct institutional rules. The text should say whose normative source is being quoted before using it to explain the mitre, pastoral staff or galero in another country's achievement.
 
 ## Begin with a named pope’s shield
 
@@ -79,9 +85,9 @@ A change in a pope’s personal achievement also does not automatically replace 
 
 ## The State’s arms have their own legal text
 
-Article 23 of the Vatican City State’s 2023 Fundamental Law distinguishes the flag, arms, and seal and refers to annexed models. Article 24 replaces the 2000 Fundamental Law and gives commencement on 7 June 2023.[^state] A State emblem is therefore defined through its own documentary act, separate from an explanation of a pope’s chosen personal arms.
+The [Fundamental Law of 31 July 2026](https://www.vatican.va/content/leo-xiv/it/motu_proprio/documents/20260731-legge-fondamentale-scv.html), article **24**, defines Vatican City State's flag, coat of arms and seal, with separate models in annexes A, B and C. Article **25** expressly replaces the Fundamental Law of 13 May 2023 and provides for immediate commencement.[^state] The 2023 text, which described the emblems in article 23, remains a historical version. Neither statute makes the State's armorial symbols identical to the reigning pope's personal achievement.
 
-The annexes matter because a legal specification can rely on a graphic model. A text-only catalogue should retain the annex reference rather than assuming the verbal summary includes every relevant feature. Comparing the 2000 and 2023 witnesses requires the actual versions and models. A still-accessible explanatory page referring to the older law is a historical witness, not sufficient evidence that the older law remains current.
+The annexes matter because a legal specification can rely on a graphic model. A text-only catalogue should retain the annex reference rather than assuming the verbal summary includes every relevant feature. Comparing the 2000, 2023 and 2026 witnesses requires the actual versions and annexed models. A still-accessible explanatory page referring to the older law is a historical witness, not sufficient evidence that the older law remains current.
 
 The seal introduces a further distinction. A central emblem and encircling words can identify an authenticating instrument rather than a general armorial display. Preserve the legend and object type when cataloguing it. The same familiar devices can participate in a personal achievement, State arms, flag, and seal; the document and context identify which relationship is present.
 
@@ -153,7 +159,7 @@ Compare the vacancy image with a papal personal achievement and the Vatican Stat
 
 ## State emblems and personal papal arms continue on different clocks
 
-Benedict XVI's use of a mitre and pallium, Leo XIV's personal shield and the Vatican State's statutory emblems demonstrate different kinds of change. The papal cases are named achievements with attributed explanations. The State model is governed by its own legal text and annexes.[^cath-benedict-xvi][^cath-leo-xiv][^cath-vatican-law-2023]
+Benedict XVI's use of a mitre and pallium, Leo XIV's personal shield and the Vatican State's statutory emblems demonstrate different kinds of change. The papal cases are named achievements with attributed explanations. The State model is governed by its own legal text and annexes.[^cath-benedict-xvi][^cath-leo-xiv][^cath-vatican-law-2026]
 
 A pope's personal design should not be substituted into every flag or seal that carries the State's institutional emblem. Conversely, the keys and tiara of a State model do not establish that a later pope used the tiara above his own shield. Identify the bearer and governing model before treating a difference as an inconsistency.
 
@@ -188,7 +194,7 @@ A second route examines one corporate or State emblem across a legal revision. R
 [^schedule]: College of Arms, [Ecclesiastical Hats: Roman Catholic Church](https://www.college-of-arms.gov.uk/resources/ecclesiastical-hats-roman-catholic-church), schedule approved 23 February 1967; institutional newsletter also identifies the associated Earl Marshal’s Warrant of 17 July 1967. Indexed text consulted where direct access was intermittent.
 [^instruction]: Secretariat of State, instruction of 31 March 1969, [AAS 61 (1969), pp. 334–340](https://www.vatican.va/archive/aas/documents/AAS-61-1969-ocr.pdf), §28, p. 339. Latin passage examined; original English synopsis here.
 [^benedict]: Holy See, [The Coat of Arms of His Holiness Benedict XVI](https://www.vatican.va/content/benedict-xvi/en/elezione/documents/stemma-benedict-xvi.html).
-[^state]: Holy See, [Legge Fondamentale dello Stato della Città del Vaticano, 13 May 2023](https://www.vatican.va/content/francesco/it/motu_proprio/documents/20230513-legge-fond-scv.html), arts. 23–24. Sources consulted 11 October 2026; official artwork remains linked rather than reproduced.
+[^state]: Holy See, [*Legge Fondamentale dello Stato della Città del Vaticano*, 31 July 2026](https://www.vatican.va/content/leo-xiv/it/motu_proprio/documents/20260731-legge-fondamentale-scv.html), arts. 24–25 and annexes A–C. The preceding [13 May 2023 law](https://www.vatican.va/content/francesco/it/motu_proprio/documents/20230513-legge-fond-scv.html), arts. 23–24, is historical, not current. Official artwork remains linked, not reproduced.
 
 [^cath-1967-schedule]: College of Arms, [Ecclesiastical Hats: Roman Catholic Church](https://www.college-of-arms.gov.uk/resources/ecclesiastical-hats-roman-catholic-church). Consulted 11 October 2026. Original English editorial synthesis; consult the linked record for close reading.
 
@@ -205,3 +211,5 @@ A second route examines one corporate or State emblem across a legal revision. R
 [^cath-vacant-see-coin-2026]: Governorate of Vatican City State, 4 February 2026, [New numismatic issues, year 2025, of the Governorate of the Vatican City State](https://www.vaticanstate.va/en/component/content/article/new-numismatic-issues-year-2025-of-the-governorate-of-the-vatican-city-state.html?Itemid=216&catid=50). Consulted 11 October 2026. Original English editorial synthesis; consult the linked record for close reading.
 
 [^cath-vatican-law-2023]: Holy See, [Legge Fondamentale dello Stato della Città del Vaticano, 13 maggio 2023](https://www.vatican.va/content/francesco/it/motu_proprio/documents/20230513-legge-fond-scv.html). Consulted 11 October 2026. Original English editorial synthesis; consult the linked record for close reading.
+
+[^cath-vatican-law-2026]: Holy See, [*Legge Fondamentale dello Stato della Città del Vaticano*, 31 July 2026](https://www.vatican.va/content/leo-xiv/it/motu_proprio/documents/20260731-legge-fondamentale-scv.html), arts. 24–25, annexes A–C. Checked against the official law on 12 October 2026; English explanation is editorial.

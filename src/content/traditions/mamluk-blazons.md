@@ -29,6 +29,12 @@ level: "Advanced undergraduate / graduate"
   </ol>
 </nav>
 
+## The founding literature and the Arabic vocabulary
+
+L. A. Mayer's ***Saracenic Heraldry*** (Oxford, **1933**) remains a foundational work on armorial devices and identifying signs in Mamluk and related Islamic material. Its classification and historical premises need critical reassessment alongside current object scholarship, but it cannot simply be absent from a chapter proposing to explain the field. The Arabic ***rank*** (رنك), used for heraldic or office insignia in this context, is the vocabulary from which English scholarship often begins. Epigraphic versions can identify a ruler or official directly through writing, while other *runūk* use cups, polo sticks and other devices.
+
+The substantive classification matters more than imposing a single genealogical model. A Mamluk cup may be an official's device, can remain associated with a family, and may appear on different material supports. Inscriptions can name an office or patron where a pictorial device does not. The [Metropolitan Museum's Mamluk objects](https://www.metmuseum.org/art/collection/search/446502) provide dated examples, while Mayer offers an influential historiographical model to test, rather than a substitute for a catalogue or modern specialist analysis.
+
 ## A cup on a stand identifies more than a drink
 
 The Met’s tray stand 91.1.601, dated after 1342, carries an inlaid cup emblem and an inscription naming Husain, son of Qawsun. The museum connects the cup with Qawsun’s office as cupbearer and explains its continued use by his sons.[^stand] One object therefore brings office and family into the same account. The cup’s function as an emblem cannot be explained solely by the practical use of the vessel it depicts.
@@ -112,7 +118,7 @@ The Met dates Qawsun’s glass lamp 17.190.991 to about 1329–1335. Its name-be
 
 Set it beside the tray stand associated with Husain, Qawsun’s son. The two objects enter a family-centered research sequence through their names and the cited institutional accounts. The comparison is richer than simply finding cups on two surfaces. It can follow a patron’s public commission and a later use associated with his son, then ask which identifying relationships remain stable.
 
-The material audiences differ. A stand holding a tray participates in presentation and service. A hanging lamp participates in an architectural interior. The emblem’s visibility depends on placement, scale and lighting in each setting. A photograph on a white museum background removes much of that encounter. The catalogue’s suggested destination helps restore context while leaving precise installation unresolved.
+The material audiences differ. A stand holding a tray participates in presentation and service. A hanging lamp participates in an architectural interior. The **inscription** on Qawsun's lamp and the **cup emblem** on his son's tray stand communicate through different signs. The lamp's cited catalogue does not identify a cup or a blazon on that glass; we should not supply one from the patron's known badge. The legibility of each form depends on placement, scale and lighting. A photograph on a white museum background removes much of that encounter. The catalogue’s suggested destination helps restore context while leaving precise installation unresolved.
 
 This is also where the family question becomes historically interesting. The earlier office relationship can contribute prestige that later relatives continue to display. We should investigate that documented sequence rather than forcing it into either a purely personal appointment badge or a fully standardized European system of hereditary arms. The surviving objects may reveal a relationship that cuts across those convenient categories.
 

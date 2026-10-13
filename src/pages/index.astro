@@ -9,6 +9,8 @@ import { getCollection } from 'astro:content';
 import { chapterReadMinutes } from '../lib/foundation.js';
 import worldSources from '../data/world-sources.json';
 import {featuredObjectStudies as objects} from '../lib/objects.js';
+import objectRecords from '../data/objects.json';
+const objectCount=objectRecords.length;
 import ObjectCredit from '../components/ObjectCredit.astro';
 import ObjectImage from '../components/ObjectImage.astro';
 const worldCount=(await getCollection('traditions')).length;
@@ -39,6 +41,7 @@ const cards=[
       </div>
     </div>
   </section>
+  <div class="wrap" style="margin-top:26px;margin-bottom:26px"><div class="notice-box"><strong>Research and teaching drafts.</strong><p>The site’s original explanations and source synopses are undergoing independent specialist review. Published institutional records and object catalogues remain the authority for consequential legal, genealogical or historical claims. Corrections are documented in our <a href="/editorial-policy/">editorial policy</a>.</p></div></div>
   <div class="stat-strip">
     <div class="wrap stat-grid">
       <div class="stat"><span class="stat-number">12</span><span class="stat-label">Course<br/>units</span></div>
@@ -84,13 +87,13 @@ const cards=[
   </section>
   <section class="section section-toned" id="objects">
     <div class="wrap">
-      <div class="rule-heading"><div><p class="eyebrow"><span class="star">✦</span> The material evidence</p><h2 class="section-title">Read the arms<br/>on the object.</h2></div><div><p>The same design can appear on armour, glass, or cloth, but those objects preserve different evidence. A coin can state a royal claim; a chapel photograph can record a display on a particular day. These 35 studies work through what we can see, what the sources establish, and what we still need to investigate.</p><a href="/objects/" class="text-link">Enter the object-study collection ↗</a><p><a href="/transcription-desk/" class="text-link">Read and annotate a manuscript ↗</a></p></div></div>
+      <div class="rule-heading"><div><p class="eyebrow"><span class="star">✦</span> The material evidence</p><h2 class="section-title">Read the arms<br/>on the object.</h2></div><div><p>The same design can appear on armour, glass, or cloth, but those objects preserve different evidence. A coin can state a royal claim; a chapel photograph can record a display on a particular day. These {objectCount} studies work through what we can see, what the sources establish, and what we still need to investigate.</p><a href="/objects/" class="text-link">Enter the object-study collection ↗</a><p><a href="/transcription-desk/" class="text-link">Read and annotate a manuscript ↗</a></p></div></div>
       <div class="home-objects">{objects.map(object=><article><a href={'/objects/'+object.id+'/'}><div><ObjectImage object={object}/></div><span class="smallcaps">{object.culture} · {object.date}</span><h3>{object.title}</h3>{'studyType' in object&&<p class="caption">{object.studyType}</p>}<span class="text-link">Investigate the object ↗</span></a><ObjectCredit object={object}/></article>)}</div>
     </div>
   </section>
   <section class="section section-toned">
     <div class="wrap">
-      <div class="rule-heading"><div><p class="eyebrow"><span class="star">✦</span> The introductory course</p><h2 class="section-title">The academy.</h2></div><div><p>Start in the twelfth century. Finish by researching and designing a defensible original armorial study.</p><a class="text-link" href="/academy/">View the full curriculum ↗</a></div></div>
+      <div class="rule-heading"><div><p class="eyebrow"><span class="star">✦</span> The introductory course</p><h2 class="section-title">The academy.</h2></div><div><p>Begin with surviving armorial witnesses and the twelfth-century emergence of hereditary armory. Finish by researching and designing a defensible original armorial study.</p><a class="text-link" href="/academy/">View the full curriculum ↗</a></div></div>
       <div class="module-grid">
         {lessons.slice(0,6).map(lesson => <a class="card module-card" href={'/academy/'+lesson.slug+'/'}><div class="module-top"><span class="module-number">{String(lesson.number).padStart(2,'0')}</span><span class="module-duration">About {lessonMinutes(lesson.slug)} min reading</span></div><h3>{lesson.title}</h3><p>{lesson.description}</p><div class="module-foot"><span>{lesson.eyebrow}</span><span aria-hidden="true">↗</span></div></a>)}
       </div>

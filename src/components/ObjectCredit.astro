@@ -1,5 +1,12 @@
 ---
 const {object}=Astro.props;
+const photographer=object.imageAttribution || object.photographer || '';
+const hasCredit=Boolean(photographer);
 ---
-<p class="caption object-credit">{object.imageAttribution||object.credit} · <a href={object.rightsUrl}>{object.imageRights}</a>. Resized without cropping or recolouring.</p>
+<p class="caption object-credit">
+  <span>{hasCredit?'Photograph / reproduction attribution: ':'Photograph rights: '}{photographer||'See linked source record'}</span>
+  · <a href={object.rightsUrl} target="_blank" rel="noopener noreferrer">{object.imageRights}</a>.
+  {object.credit&&<span> <strong>Object acquisition credit:</strong> {object.credit}.</span>}
+  <span> The photograph licence does not by itself establish permission to reproduce any separately protected underlying artwork.</span>
+</p>
 <style>.object-credit{font-size:.72rem;line-height:1.5}.object-credit a{text-decoration:underline}</style>

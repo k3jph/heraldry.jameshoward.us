@@ -1,5 +1,6 @@
 ---
 import Base from '../../layouts/Base.astro';
+import CommonsExamples from '../../components/CommonsExamples.astro';
 import {getCollection,render} from 'astro:content';
 import worldSources from '../../data/world-sources.json';
 import parallelReadings from '../../data/parallel-readings.json';
@@ -15,24 +16,25 @@ const minutes=chapterReadMinutes(entry.body);
 const related=worldSources.filter(source=>entry.data.sourceIds.includes(source.id));
 const translations=parallelReadings.filter(reading=>entry.data.sourceIds.includes(reading.sourceId));
 const bibliography=related.map(source=>({name:source.titleOriginal,description:source.englishSynopsis,author:source.holding,url:source.url}));
-const schema={'@context':'https://schema.org','@type':'LearningResource',name:entry.data.title,description:entry.data.description,inLanguage:'en',educationalLevel:entry.data.level,learningResourceType:'Comparative research chapter',isAccessibleForFree:true,author:{'@type':'Person',name:'James P. Howard, II'},citation:bibliography.map(b=>b.url)};
+const schema={'@context':'https://schema.org','@type':'LearningResource',name:entry.data.title,description:entry.data.description,inLanguage:'en',educationalLevel:'Independent source-linked research reading',learningResourceType:'Comparative research chapter',isAccessibleForFree:true,author:{'@type':'Person',name:'James P. Howard, II'},citation:bibliography.map(b=>b.url)};
 ---
 <Base title={entry.data.title} description={entry.data.description}>
   <script type="application/ld+json" set:html={JSON.stringify(schema)}/>
   <section class="page-intro">
     <div class="wrap page-intro-inner">
       <nav class="breadcrumbs" aria-label="Breadcrumbs"><a href="/">Home</a><span>›</span><a href="/traditions/">World traditions</a><span>›</span>{entry.data.region}</nav>
-      <p class="eyebrow"><span class="star">✦</span> {entry.data.track} · {entry.data.level}</p>
+      <p class="eyebrow"><span class="star">✦</span> {entry.data.track} · Source-linked research reading</p>
       <h1 class="display-serif" style="max-width:1170px">{entry.data.title}</h1>
       <p class="page-intro-description">{entry.data.description}</p>
       <p class="caption" style="margin-top:18px">{words.toLocaleString('en-US')} words · About {minutes} minutes of reading. Allow additional time for workshops and source consultation.</p>
-      <div class="international-metrics" style="margin:30px 0 0;max-width:970px"><span><strong>{entry.data.languages.join(', ')}</strong> source languages</span><span><strong>{related.length}</strong> catalogued sources</span><span><strong>{entry.data.period}</strong> historical focus</span></div>
+      <div class="international-metrics" style="margin:30px 0 0;max-width:970px"><span><strong>{entry.data.languages.join(', ')}</strong> consulted source languages</span><span><strong>{related.length}</strong> catalogued sources</span><span><strong>{entry.data.period}</strong> historical focus</span></div>
     </div>
   </section>
   <div class="wrap world-article-shell">
     <article class="world-article">
-      <p class="eyebrow"><span class="star">✦</span> A substantive research chapter</p>
+      <p class="eyebrow"><span class="star">✦</span> A source-linked research reading</p>
       <Content/>
+      <CommonsExamples regionId={entry.id} limit={3} title="Compare the visible achievements"/>
       <div class="notice-box" style="margin-top:48px"><strong>Academic honesty is part of the syllabus.</strong><p>These essays are original English-language syntheses with visible archival and institutional citations. They have not been independently reviewed by regional specialists. Readers should check consequential assertions against the linked source language and current law.</p></div>
       <div style="display:flex;gap:12px;flex-wrap:wrap;margin-top:25px">{translations.length>0&&<a href={"/translation-lab/#translation-"+translations[0].id} class="btn btn-line">Translate a source in this chapter ↗</a>}<a href="/traditions/" class="btn btn-dark">All regional chapters ↗</a><a href="/seminars/" class="btn btn-line">Graduate seminars ↗</a></div>
     </article>

@@ -4,7 +4,7 @@ description: "Follow Portuguese heraldry from the 1509 armorial through historic
 region: "Portugal"
 languages: ["pt"]
 track: "Comparative traditions"
-period: "Late medieval and early sixteenth century"
+period: "Medieval and sixteenth-century manuscripts through contemporary public arms"
 sourceIds: ["pt-armeiro", "pt-vasco", "pt-national-symbols", "pt-civic-law", "pt-lisbon-arms", "pt-sintra-arms", "pt-evora-stone", "pt-lumiar", "pt-lagos-police"]
 level: "Advanced undergraduate / graduate"
 ---
@@ -30,13 +30,19 @@ level: "Advanced undergraduate / graduate"
   </ol>
 </nav>
 
+## Another sixteenth-century manuscript and the republican break
+
+António Godinho's ***Livro da Nobreza e Perfeiçam das Armas*** belongs beside the *Livro do Armeiro-Mor* as another major Portuguese armorial manuscript. The [Torre do Tombo's documentary dossier](https://antt.dglab.gov.pt/wp-content/uploads/sites/17/2025/02/vasco-da-gama-doc.pdf) supplies a useful starting point for comparing the two works' production and custody. Neither should be assigned a definitive illuminator or provenance simply by borrowing information from the other. The manuscripts are evidence of historical armorial culture, not modern royal grants to every same-named family.
+
+Portugal became a republic in **1910**, ending the monarchy's armorial and nobiliary institutional context. Historical personal arms remained recognizable and could continue in private practice, but that does not imply the old monarchical machinery survives as a republican state-granting office. Modern Portuguese civic heraldry has a distinct legislative framework and should not be confused with present-day claims to noble status or inheritance. An archival book preserves earlier art and administration without re-enacting them.
+
 ## A book that can actually be located
 
-The Portuguese *Livro do Armeiro-Mor*, compiled and illuminated in **1509** during the reign of Manuel I, gives us a dated manuscript through which to investigate Portuguese heraldry. The national archive, the [Torre do Tombo](https://antt.dglab.gov.pt/), identifies the historical manuscript with the royal papers, *Casa Real, Cartório da Nobreza, livro 19*. Once we have a specific catalogue identification, a heraldic image ceases to be an anonymous web decoration and becomes a historical object capable of citation.
+The Portuguese *Livro do Armeiro-Mor*, produced in **1509** during the reign of Manuel I, gives us a dated manuscript through which to investigate Portuguese heraldry. The national archive, the [Torre do Tombo](https://antt.dglab.gov.pt/), identifies the historical manuscript with the royal papers, *Casa Real, Cartório da Nobreza, livro 19*. Once we have a specific catalogue identification, a heraldic image ceases to be an anonymous web decoration and becomes a historical object capable of citation.
 
 The manuscript is also a reminder that armorial books were created for particular projects. An illustrated compilation is a deliberate selection, produced in a courtly and political environment. Its page order, inclusion of particular bearers, treatment of titles and incorporation of non-Portuguese material may tell us as much about the compiler's ambitions as any single shield.
 
-The Torre do Tombo's archival descriptions place the work in the early sixteenth century, not in a vague 'medieval European heraldry' without dates. The named artist João do Cró, also encountered as João du Cros, has to be distinguished from a later editorial publisher who produced a facsimile or scholarly explanation. A manuscript's creation, archival custody and modern reproduction are different events.
+The [Torre do Tombo's documentary list](https://antt.dglab.gov.pt/wp-content/uploads/sites/17/2025/02/vasco-da-gama-doc.pdf) identifies **João do Cró (João du Cros)** as the *armeiro-mor* and places his arms beside his signature; it does **not** identify him as the illuminator. The list reports that **António Caetano de Sousa attributed the illuminations to Mestre Arryet**. That is an historical attribution, not a signed identification of the painter. The same record says the codex previously belonged to **King D. Carlos's private library** and now identifies it in the Torre do Tombo's *Casa Real, Cartório da Nobreza, livro 19*. The compiler's office, the contested artistic attribution, the book's earlier provenance and its present archival custody are four different facts. Conflating them makes a manuscript appear better documented than it is.
 
 ## The shield and the rest of the page
 

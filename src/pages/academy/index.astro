@@ -12,9 +12,9 @@ const curriculum=lessons.map(lesson=>{
 });
 const totalMinutes=curriculum.reduce((t,l)=>t+l.minutes,0);
 const totalWords=chapters.reduce((total,chapter)=>total+chapterWordCount(chapter.body),0);
-const schema={'@context':'https://schema.org','@type':'Course',name:'An introduction to heraldry',description:'Independent twelve-unit heraldry course with self-assessment and practical exercises.',provider:{'@type':'Person',name:'James P. Howard, II',url:'https://jameshoward.us/'},isAccessibleForFree:true,inLanguage:'en',educationalLevel:'Introductory undergraduate / self-paced',hasCourseInstance:{'@type':'CourseInstance',courseMode:'online',courseWorkload:'Self-paced'}};
+const schema={'@context':'https://schema.org','@type':'Course',name:'An introduction to heraldry',description:'Independent twelve-unit heraldry course with self-assessment and practical exercises.',provider:{'@type':'Person',name:'James P. Howard, II',url:'https://jameshoward.us/'},isAccessibleForFree:true,inLanguage:'en',educationalLevel:'Self-paced introductory foundation',hasCourseInstance:{'@type':'CourseInstance',courseMode:'online',courseWorkload:'Self-paced'}};
 ---
-<Base title="The Academy" description="A twelve-unit, university-style introduction to heraldic history, tinctures, geometry, blazon, cadency, marshalling, law, and original design.">
+<Base title="The Academy" description="A twelve-unit, independently developed introduction to heraldic history, tinctures, geometry, blazon, cadency, marshalling, law, and original design.">
   <script type="application/ld+json" set:html={JSON.stringify(schema)} />
   <PageIntro eyebrow="The foundation course" title="The academy." description="Twelve expanded readings, with worked examples, documentary workshops, source notes, and guided introductions. Learn to read the design and test the claims made about it."/>
   <section class="section">

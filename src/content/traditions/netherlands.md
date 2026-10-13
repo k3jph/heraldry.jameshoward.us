@@ -28,6 +28,12 @@ level: "Advanced undergraduate / graduate"
   </ol>
 </nav>
 
+## Delft councillors offer a real corporate comparison
+
+The [Rijksmuseum's Delft civic armorial print](https://id.rijksmuseum.nl/200219427) shows personal armorial identities associated with a collective urban political body. Its named councillors, their shields and the production of the printed ensemble are an historical alternative to inventing three merging towns with a wheel, castle and lion. The council's assembly creates a relationship among people and offices without inventing a brand-new hereditary coat for the city.
+
+The Dutch **Hoge Raad van Adel** distinguishes public coats granted by royal decree from noble arms and private family-armorial practice. A dated Delft print does not itself become a modern grant. The comparison can teach the same design-versus-authority distinction by identifying a real public institution and its participating individuals rather than assuming the merger procedure in advance.
+
 ## A Dutch office with multiple responsibilities
 
 The [Hoge Raad van Adel](https://www.hogeraadvanadel.nl/) describes responsibilities concerning noble arms and the arms of public bodies. A noble armorial record and a municipal grant may therefore lead us to the same institution while answering different questions. The Council also distinguishes those functions from the wider use of non-noble family arms. We need to identify the bearer and the act before explaining what the institution’s involvement establishes; its name on a source is the beginning of that inquiry.

@@ -29,6 +29,12 @@ level: "Advanced undergraduate / graduate"
   </ol>
 </nav>
 
+## The 1995 Council of State opinion has an outcome
+
+The Spanish **Consejo de Estado opinion 2437/1995**, already cited in this chapter, must be read as an administrative decision rather than a textbook definition of the *Cronista de Armas*. The opinion **did not accept the requested recognition** in the form submitted. It distinguishes former heraldic certification functions from modern regional procedures involving municipal insignia and does not establish that every historian or private armorial certifier exercises a continuing Crown office. Its reasoning matters because the outcome demonstrates what the institution would and would not authorize, not merely the vocabulary in which a claim was made.
+
+The position of a *Cronista de Armas* in any present-day Spanish territory depends on the actual applicable regional instruments, not on an unqualified survival of an office from the former monarchy. Castilian and Leonese examples, Aragonese crests and Catalan civic arms must be read in their own places and periods. The council opinion identifies a legal limit; it does not make heraldry throughout Spain into a unified present-day granting system.
+
 ## Follow the region and the kind of act
 
 A Spanish municipal notice can tell us who approved an emblem and which description was adopted. To explain why that authority acted, we have to locate the notice within its region’s administrative process. Modern autonomous-community government adds that institutional question to older differences among Castilian, Catalan, Navarrese, and other Iberian traditions. Their texts, languages, and material histories give us separate trails to follow. A national label helps locate the subject, but the particular act and region determine the next source we need.

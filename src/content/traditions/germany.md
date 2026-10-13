@@ -4,7 +4,7 @@ description: "German armory through burgher families, complete achievements, cou
 region: "German-speaking Europe"
 languages: ["de"]
 track: "Comparative traditions"
-period: "Late medieval to contemporary"
+period: "Late medieval armory through contemporary private and public practice"
 sourceIds: ["de-dwr", "de-berliner", "de-siebmacher-burgher", "de-siebmacher-index", "de-hamburg", "de-berlin-text", "de-federal-description", "de-eagle-history"]
 level: "Advanced undergraduate / graduate"
 ---
@@ -29,6 +29,12 @@ level: "Advanced undergraduate / graduate"
     <li><a href="#selected-german-language-source-portals">Selected German-language source portals</a></li>
   </ol>
 </nav>
+
+## A German family coat need not originate in a state grant
+
+In German-speaking private armory, a family may **assume** arms through established usage without obtaining an English-style royal patent. The relevant protection is often discussed in connection with **§ 12 of the German Civil Code (BGB)**, concerning the right to a name, applied analogically to armorial identification. The [HEROLD Deutsche Wappenrolle statute, § 13(I)](https://herold-verein.de/heraldik/die-deutsche-wappenrolle-dwr/) expressly states that entry in the DWR **has no constitutive legal effect** (*keine rechtsbegründende Wirkung*). A record of arms can be excellent evidence of an attributed family's use while not being the juridical act creating the right.
+
+This distinction should change how we teach the institution. A German citizen need not first obtain a title of nobility, and registration by a private armorial association is not a state grant. At the same time, self-assumption is not permission to appropriate another family's identifying design. The account must follow documented use, the registered scope of descent and applicable private law instead of assuming that every registered coat is either a Crown grant or mere decoration.
 
 ## Begin with the plurality
 

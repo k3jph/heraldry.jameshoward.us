@@ -5,6 +5,12 @@ updated: '2026-10-10'
 status: 'Expanded teaching draft; specialist review pending'
 ---
 
+## How Scottish bordures do the work of difference
+
+Scottish practice frequently uses a **bordure**, an ordinary around the edge of the shield, as a means of recording a cadet line's difference. Its tincture, division or charges may vary between branches in a particular matriculation. In the [Court of the Lord Lyon's system](https://www.courtofthelordlyon.scot/coats%20of%20arms.htm), the actual matriculation and its blazon determine the recorded result. A chart of stylized borders cannot grant a person the right to a particular difference, or reconstruct the complete family history without documents. In heraldic terminology the ordinary is a *bordure*; calling it a 'border' in explanatory prose should not obscure the distinction from a mere artistic outline.
+
+Contrast this with two other settings. In English heraldic manuals the small **label, crescent and subsequent marks** form a recognizable conventional sequence, although actual use is more complicated than a birth-order calculator. In Polish–Lithuanian practice an armorial *herb* may be associated with a broader set of families, so an English nine-mark algorithm has no basis merely because several surnames use a related design. Even within western Europe, French brisures and German variations must be established from their actual family and regional witnesses. An accurate caption describes the sign first and explains its genealogical function only after the relevant tradition has been identified.
+
 ## Related does not necessarily mean identical
 
 Cadency concerns the differentiation of related armorial bearings. A difference may indicate a branch, a person, or a relationship under a particular convention. It is not simply a decorative sticker added to make a familiar shield look new. The first question is which system and period you are studying.[^history]

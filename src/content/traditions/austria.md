@@ -27,6 +27,12 @@ level: "Advanced undergraduate / graduate"
   </ol>
 </nav>
 
+## What abolition left in place
+
+The Austrian **Adelsaufhebungsgesetz of 3 April 1919** and its implementing rules removed formal privileges of nobility and addressed the use of family armorial bearings, including arms termed *bürgerliche Wappen*. These provisions should be read in contrast with the republic's continuing **public heraldry**. The [1984 Wappengesetz](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000782) defines federal arms and their official use; municipal and provincial symbols also survived the constitutional break.
+
+The result is not that heraldic objects suddenly ceased to exist in 1919. Historical coats remained in archives, on buildings, in museums and as evidence of their bearers' past identities. The legal restrictions upon present use, the preservation of inherited objects, and state authorization of public emblems are distinct questions. An old armorial drawing is still evidence of an older practice, even when it is no longer a contemporary entitlement under republican law.
+
 ## A provision that cannot be waved away
 
 Austria’s 1919 abolition of nobility requires its own heraldic discussion. The implementing provision expressly includes the right to bear family arms, including arms it characterizes as incorrectly called bourgeois.[^at-1919][^at-implementation] An account borrowed from a neighboring country’s voluntary family-armorial practice would miss an unusually consequential part of the Austrian settlement.
@@ -69,7 +75,7 @@ Further work should build dated corpora of municipal adoption records and imperi
 
 ## The republican eagle carries a social argument
 
-The Austrian eagle is not merely an imperial bird with its second head removed. The Military Academy’s account of the 1945 instrument explains the hammer, sickle, and mural crown through workers, farmers, and the bourgeoisie, and connects the broken chains with regained independence.[^at-republic-eagle] These meanings belong to the particular Austrian composition and its documentary explanation. They should be read before an observer imports the significance of a hammer and sickle from another state.
+The Austrian eagle is not merely an imperial bird with its second head removed. The **8 May 1919** law already placed the hammer, sickle and mural crown alongside the republican eagle, representing workers, farmers and the bourgeoisie. The **1945** addition was the broken chain, signifying release from Nazi rule and regained independence. The Military Academy’s account describes the later official composition and its symbolism; it should not be used to date every component to 1945.[^at-republic-eagle] These meanings belong to the particular Austrian composition and its documentary explanation. They should be read before an observer imports the significance of a hammer and sickle from another state.
 
 The arrangement matters. Separate attributes held by an eagle, a crown on its head, a shield on its body, and a chain around its feet occupy different relationships. A list of ingredients conceals those relationships and can make the design sound like a random assembly of political symbols. The composition joins a recognizable identifying animal with attributes that make a stated account of social cooperation and political recovery.
 

@@ -29,6 +29,12 @@ level: "Advanced undergraduate / graduate"
   </ol>
 </nav>
 
+## Dates of empire, republic and federal symbol law
+
+The transition from insurgent symbols to a national eagle can be placed on a real chronology. Insurgent armies and revolutionary governments used the eagle and other emblems before independence. The **First Mexican Empire in 1822** adopted an imperial composition; after the fall of the empire the **republican decree of 1823** revised the national eagle and its accompanying devices. These are political and armorial changes associated with identifiable constitutional moments, not merely interchangeable paintings of the same bird. The [Archivo General de la Nación](https://www.gob.mx/agn) and the contemporary statutory records should be consulted to identify particular dated acts, while avoiding the claim that every early insurgent seal was itself an official national coat of arms.
+
+The [Law on the National Coat of Arms, Flag and Anthem published 8 February 1984](https://sidof.segob.gob.mx/notas/docFuente/4652786) defines the modern federal device and its permitted use. **Article 2** specifies the eagle's pose, serpent, cactus, support and other features; **article 55** supplies an enforcement context within that legislation. Its detailed prose demonstrates why an eagle with a snake is not an adequate blazon of an authorized national rendering. The 1822 and 1823 acts establish historical transformations; the 1984 law is the modern statutory witness. The chapter's workshop must compare those three distinct stages rather than leave the dates for the reader to guess.
+
 ## Texcoco complicates the origin story
 
 The Archivo General de la Nación’s account includes a 1786 Texcoco arms witness combining Hispanic and pre-Hispanic elements.[^mx-archive] That case gives colonial heraldry a local and institutional setting. It cannot be adequately explained as Europeans arriving with coats of arms while everyone else waited to be illustrated.

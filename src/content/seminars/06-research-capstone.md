@@ -7,6 +7,19 @@ sourceIds: ["fr-bnf-armorial","nl-hra-adellijk","pl-herbarze","jp-ndl-kamon"]
 level: "Graduate capstone"
 ---
 
+## Research literature and an accessible starting corpus
+
+The scholarship below is not another collection of institutional homepages. It supplies arguments about the use, transmission and interpretation of heraldic and material evidence. Read the work's thesis and method before building an argument against or with it. Some publishers limit full-text access; the linked bibliographic record remains an identifiable citation, not a claim that we have supplied the entire book.
+
+1. Marcus Meer, *Heraldry in Urban Society — Visual Culture and Communication in Late Medieval England and Germany* (Oxford University Press, 2024), [doi:10.1093/oso/9780198910275.001.0001](https://doi.org/10.1093/oso/9780198910275.001.0001).
+2. Andrea Mattiello, “Art and female agency in late Byzantium,” *Byzantine and Modern Greek Studies* 48, no. 1 (2024): 100–119, [doi:10.1017/byz.2023.25](https://doi.org/10.1017/byz.2023.25).
+3. John Alexander McEwan, “Reflectance Transformation Imaging and the Future of Medieval Sigillography,” *History Compass* 16, no. 9 (2018), e12477, [doi:10.1111/hic3.12477](https://doi.org/10.1111/hic3.12477).
+
+A feasible capstone corpus begins with **three related witnesses**, not an unspecified national archive. Select one sequence from the [comparative object notebook](/objects/compare/), an attributed [regional institutional chapter](/traditions/), or a [two-folio transcription study](/transcription-desk/collation/). Meer offers a historical comparative argument, Mattiello a model of agency inferred from heterogeneous evidence, and McEwan an account of how imaging constrains interpretation. The student must explain which methodological model fits the corpus and which could produce a different conclusion.
+
+**Language expectations.** Language competence follows the corpus. In English-only cases, original-language work is optional; with German, Greek, Latin, French or other sources, retain the original terms and identify who produced any translation. Specialist review remains necessary for claims beyond the student's linguistic competence.
+
+
 ## The purpose is a contribution to knowledge
 
 A research capstone should leave another scholar with something they can use. That might be a corrected reading of an inscription, a documented account of one armorial dispute, or a dataset whose source relationships can be retraced. The contribution becomes defensible when the project shows what was previously unresolved, what evidence it examined, and why the result changes our understanding. A carefully edited short source can do that work without an elaborate illustration or a large corpus.

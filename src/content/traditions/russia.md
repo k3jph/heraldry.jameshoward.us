@@ -30,6 +30,12 @@ level: "Advanced undergraduate / graduate"
   </ol>
 </nav>
 
+## The offices behind imperial and modern records
+
+An imperial Russian noble family entered an administrative armorial history, not merely a printed page. The *Obshchii gerbovnik* was compiled within the imperial system of noble recognition and heraldic administration, involving the Senate's heraldic department. In the nineteenth century, the **1857 heraldic reform associated with Bernhard von Köhne** transformed conventions for the design and description of imperial arms. A late-imperial drawing may consequently follow different conventions from an earlier recording even when the family identity remains recognizable. That is why the date of the image and the date of its underlying claim cannot be collapsed.
+
+The modern institution answers a different problem. **Presidential Decree No. 403 of 21 March 1996** established the [State Heraldic Register of the Russian Federation](https://www.consultant.ru/document/cons_doc_LAW_66780/283a9a6ca9bccaf61ec6f888a4e6c0f995f0c40f/), with its administration entrusted to the **Heraldic Council under the President**. The decree concerns systematic registration of official symbols and distinctive signs; it does not retroactively authenticate every private family's armorial claims in the imperial books. Read an individual printed plate against the noble-family records, then read a modern municipal registration against the decree. They document different bearers and different legal acts.
+
 ## Start with the record, not the eagle legend
 
 The Russian tradition needs a substantial account of its own: state imagery, imperial noble-family records, territorial and civic arms, and later political transformations do different work. An eagle supplies a recognizable connection with other traditions, but it cannot explain how a noble family entered an imperial armorial or how a city’s design was described in an administrative act.

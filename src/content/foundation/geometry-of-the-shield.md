@@ -5,6 +5,12 @@ updated: '2026-10-10'
 status: 'Expanded teaching draft; specialist review pending'
 ---
 
+## Geometry that the reader can name
+
+A **pale** is a vertical band, a **fess** a horizontal one, a **bend** a diagonal band, a **chevron** two sloping arms meeting toward chief, and a **saltire** an X-shaped figure. A **chief** may designate either the shield's upper region or a separate horizontal ordinary along the top. These are figures *placed on* a field. In contrast, **per pale**, **per fess** and other divisions partition the field itself. We need the distinction before deciding whether an apparent change in a drawing alters the arms.
+
+An **ordinary** is a major conventional geometric charge. Some manuals call smaller or related figures *subordinaries*, but the boundary is a teaching classification and varies among authors. A small shield placed upon another is an **inescutcheon**. Its legal or dynastic role cannot be inferred from size alone. When the vocabulary follows the geometry in this order, the student has something concrete to see before memorizing the name.
+
 ## The shield has a viewpoint
 
 Before learning the shapes, settle the directions. Heraldic **dexter** is the bearer's right, which appears on the viewer's left. **Sinister** is the bearer's left, appearing on the viewer's right. The upper area is **chief** and the lower area is **base**. These terms make a composition describable without depending on where the reader is standing.[^map]
@@ -92,7 +98,7 @@ A seal matrix introduces a further transformation. The working face of a matrix 
 
 Document both sides of this problem. “The photographed matrix shows the animal facing the viewer's right” is an observation about that photograph. “The impression would show it facing the viewer's left” is a reconstruction contingent on the image not having been independently reversed. An actual impression can test the reconstruction. Geometry becomes historical evidence when the transformation is known; it becomes a source of error when the transformation is silently assumed.
 
-The National Records of Scotland's terminology guide and the Lyon Court's worked blazon both supply the bearer-based viewpoint.[^institutional-map] They are useful institutional anchors for the convention. A student should still describe the inspected object's position. Knowing the convention is necessary; recognizing the evidence to which it applies is a separate skill.
+The bearer-based viewpoint is the customary frame of heraldic terminology. The National Records of Scotland's general coat-of-arms guide and the Lyon Court's worked blazon give **institutional context**, but the former should not be cited as a textual statement of this particular directional convention.[^institutional-map] A student should still describe the inspected object's position. Knowing the convention is necessary; recognizing the evidence to which it applies is a separate skill.
 
 ## Nine regions are a reading aid, not nine little boxes
 
@@ -238,7 +244,7 @@ The drawings must preserve the bearer's viewpoint. The fess should be an ordinar
 [^patterns]: Fox-Davies, chapter VII, p. 97 onward; chapter IX, pp. 106–157. Preserve a source's specified number of pieces.
 [^lines]: Fox-Davies, chapter VII, pp. 90–98, and chapter IX. The historical manual provides comparative drawings; object-specific identification still requires the witness.
 [^irht-geometry]: Institut de recherche et d'histoire des textes, CNRS, [*Des armoiries et des livres — Héraldique*](https://lorfevre.irht.cnrs.fr/heraldique.php), “Partitions et pièces.” Original French technical guide; the limited term comparison is an original English synthesis, not a complete translation. Consulted 10 October 2026.
-[^institutional-map]: National Records of Scotland, [*Coat of Arms*, terminology](https://www.nrscotland.gov.uk/learning-and-events/research-guides/coat-of-arms/?section=terminology); Court of the Lord Lyon, [*Blazoning*](https://courtofthelordlyon.scot/blazoning.htm). Institutional terminology and a worked example; consulted 10 October 2026.
+[^institutional-map]: National Records of Scotland, [*Coat of Arms*, terminology](https://www.nrscotland.gov.uk/learning-and-events/research-guides/coat-of-arms/?section=terminology); Court of the Lord Lyon, [*Blazoning*](https://courtofthelordlyon.scot/blazoning.htm). Institutional context and a worked blazon; the bearer's-view convention is standard heraldic terminology and is not claimed as a verbatim statement of the NRS page. Consulted 10 October 2026.
 [^reddaway]: College of Arms, [*January 2022 Newsletter*, no. 67](https://www.college-of-arms.gov.uk/news-grants/newsletter/item/194-january-2022-newsletter-no-67), Sir David Norman Reddaway, grant 1 December 2021, Grants 183/331. Institutional publication of a specific grant; no artwork reproduced. Consulted 10 October 2026.
 [^goebel]: Governor General of Canada, [*Richard James Goebel*](https://www.gg.ca/en/heraldry/public-register/project/3626), grant 15 July 2024, VIII, 288, shield blazon. No artwork reproduced; original structural analysis. Consulted 10 October 2026.
 [^molndal]: Riksarkivet, [*Protokoll, Riksarkivets heraldiska nämnd*, 1 February 2017](https://riksarkivet.se/Media/pdf-filer/HNProtokoll170201.pdf), Mölndal discussion. Swedish institutional minutes, specifically the missing sickle, unfamiliar division line, and absent bounding line in the proposed drawing. Original English synthesis, not a full reviewed translation or a statement of current municipal branding. Consulted 10 October 2026.

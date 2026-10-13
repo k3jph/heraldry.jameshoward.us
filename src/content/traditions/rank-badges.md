@@ -28,6 +28,12 @@ level: "Advanced undergraduate / graduate"
   </ol>
 </nav>
 
+## Rank badges have names and an institutional starting point
+
+A Chinese **buzi** (補子), also called a **xiongbei** (胸背) in relevant contexts, is a rank badge displayed on official dress. The Chinese court developed systems of animal insignia for civilian and military rank under the **Ming dynasty**, with regulations associated with the **Hongwu reign**, including the **1391** rank-insignia prescriptions. Later Ming and Qing orders altered the relationship of species, number and precedence. The English phrase 'rank badge' is a functional translation, not a warrant to treat all embroidered squares as the same object.
+
+This historical dating helps explain the workshop's Qing tiger and bear examples. A tiger's rank value under one dynasty cannot automatically be projected backward or forward to another. The badge's animal, stitching technique, clothing position and source period all have to be identified before assigning it to a court rank. The [Metropolitan Museum's rank-badge catalogue](https://www.metmuseum.org/art/collection/search/60545) is an object-specific witness that should be read alongside, rather than substituted for, dynastic regulations.
+
 ## The tiger’s rank depends on the dynasty
 
 The Met’s eighteenth-century Chinese tiger badge belongs to the Qing period. Its account explains that a tiger denoted the third military rank under the Ming and the fourth under the Qing.[^tiger] The same recognizable animal therefore supplies a different status reading in different institutional contexts. Identifying the creature is the beginning of interpretation; identifying the applicable convention completes another necessary step.
@@ -139,7 +145,7 @@ This is a useful comparison with [Catholic ecclesiastical heraldry](/traditions/
 
 The Korean sequence already discussed here makes the comparative problem explicit. The Met records a Joseon system that changed over time and was standardized in 1871 around cranes for civil officials and tigers for military officials.[^korea] A Chinese rank table cannot simply be carried across the border because its animal names seem familiar.
 
-A code is a relationship maintained through institutions. Two systems can select the same creature while organizing its number, companions or position differently. To compare them, first identify the unit carrying the classification. Is the decisive feature the species alone, a pair of animals, a combination with a plant or another prescribed arrangement? That question directs attention to the complete Korean badge instead of treating its second crane as optional artistic balance.
+A code is a relationship maintained through institutions. Two systems can select the same creature while organizing its number, companions or position differently. To compare them, first identify the unit carrying the classification. Is the decisive feature the species alone, a pair of animals, a combination with a plant or another prescribed arrangement? That question directs attention to the complete Korean badge instead of inventing a second crane that the photograph of accession 53.60.15 does not show.
 
 It also helps distinguish cross-cultural borrowing from unchanged transmission. Adoption of an insignia system can create a local sequence of reforms, extensions and conventions. The borrowing is historically significant, but so are the later decisions. The strongest comparison follows both the transmitted structure and the locally established changes. “Derived from China” is a starting proposition to investigate, not a complete explanation of several centuries of Korean use.
 

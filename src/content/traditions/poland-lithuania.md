@@ -30,6 +30,12 @@ level: "Advanced undergraduate / graduate"
   </ol>
 </nav>
 
+## A named adoption at Horodło
+
+The **2 October 1413** act of fraternization was not merely a hypothetical arrangement in which forty-seven anonymous families exchanged devices. The [Orbis Lituaniae documentary account](https://www.ldkistorija.lt/fraternisation-in-horodlo-adopted-coats-of-arms-and-the-real-policy/) identifies, among others, **Jonas Goštautas** as receiving the **Habdank (Abdank)** arms from **Jokub of Rogoźno**, a Polish nobleman. It also names **Kristinas Astikas** receiving the **Trąby**, or Three Horns, arms associated with **Mikołaj Trąba**, archbishop of Gniezno. These cases give the political action identifiable participants and a named heraldic sign.
+
+The adoption brought these Lithuanian nobles into a stated symbolic kinship and political relationship. That does not prove biological descent from the Polish donors; indeed, the distinction is what makes the episode so useful. An invented “Jan of Riverford” is no longer needed to demonstrate why a name under a shared *herb* is not a complete genealogy. The dated adoption and its named participants make the same argument with considerably stronger evidence.
+
 ## A heraldic family need not share a modern surname
 
 A Polish armorial can group several noble families under one named *herb*. The name identifies the arms, so an index entry may connect a family to a shared armorial identity rather than assign it an exclusive design. The term *ród herbowy*, often rendered “heraldic clan,” describes this kind of grouping. To use the record, we have to distinguish the named coat, the families associated with it, and any separately documented genealogical relationships. Otherwise a database can turn a shared armorial name into a descent claim the source never established.
@@ -88,7 +94,7 @@ For a comparative drawing, keep crescent and star fixed while changing their rel
 
 ## Tarnów’s seal connects a person with a corporate identity
 
-Krzysztof Moskal’s study, published by Tarnów’s municipal library, discusses an early city seal showing Spycimir with a sword and Leliwa shield, accompanied by a Madonna-and-Child image and heraldic helmet-and-crest elements.[^pl-tarnow-seal] The seal’s composition includes a person, a civic issuer and several forms of identification. Cropping it to the shield would remove much of the argument the object makes.
+The municipal library publishes **Krzysztof Moskal's historical study of the lords of Tarnów**. The review could not locate in the linked *text* a description of the early civic seal showing Spycimir with sword, Leliwa shield, Madonna and Child, and helmet-and-crest elements. That reconstruction must therefore be treated as **unverified pending an identified catalogue image or a precise page reference**, not as words directly present in Moskal's account.[^pl-tarnow-seal] The seal’s composition includes a person, a civic issuer and several forms of identification. Cropping it to the shield would remove much of the argument the object makes.
 
 The figure’s arms can identify the represented founder without making the whole seal his personal signet. The legend and documentary attachment help establish the seal’s issuer and use. This is precisely the distinction between depicted identity and issuing authority. A civic institution can represent its relationship with a founder through his figure and arms.
 

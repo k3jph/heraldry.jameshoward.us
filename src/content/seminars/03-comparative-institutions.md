@@ -7,6 +7,18 @@ sourceIds: ["be-vl-decree","de-dwr","nl-hra-gemeente","cz-rekos","it-acs"]
 level: "Graduate methods"
 ---
 
+## Research literature and an accessible starting corpus
+
+The scholarship below is not another collection of institutional homepages. It supplies arguments about the use, transmission and interpretation of heraldic and material evidence. Read the work's thesis and method before building an argument against or with it. Some publishers limit full-text access; the linked bibliographic record remains an identifiable citation, not a claim that we have supplied the entire book.
+
+1. Marcus Meer, *Heraldry in Urban Society — Visual Culture and Communication in Late Medieval England and Germany* (Oxford University Press, 2024), [doi:10.1093/oso/9780198910275.001.0001](https://doi.org/10.1093/oso/9780198910275.001.0001).
+2. Noel Cox, “The Law of Arms of Ireland — A Lingering Question of Authority,” [author-hosted legal history study](https://cambrianchambers.com/wp-content/uploads/2015/11/the-law-of-arms-of-ireland-e28093-a-lingering-question-of-authority.pdf).
+
+Compare the [German DWR's non-constitutive entry provision](https://herold-verein.de/heraldik/die-deutsche-wappenrolle-dwr/) with the [Scottish Lyon Court](https://www.courtofthelordlyon.scot/about%20us.htm), [Irish statutory framework](https://www.irishstatutebook.ie/eli/1997/act/11/section/13/enacted/en/html) and [Swedish municipal-armorial statute](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-1970498-om-skydd-for-vapen-och-vissa-andra_sfs-1970-498/). They make a bounded comparative corpus. Cox provides a legal disagreement that should be attributed, not silently resolved; Meer shows institutional symbolism outside national heraldic colleges.
+
+**Language expectations.** The core comparison can be conducted from cited English translations and the precise original German and Swedish statutory passages. A strong legal conclusion requires checking the operative original provisions, including amendments and commencement dates.
+
+
 ## Do not write 'the law of arms' without a jurisdiction
 
 A historian working with English grants, Scottish matriculations, French royal armorial registration, Dutch municipal decrees, contemporary German voluntary registers and Flemish legislation confronts a classification problem before considering any coat of arms. These institutions have different actors, functions, records and legal effects. One cannot infer the effect of one from the vocabulary of another.

@@ -5,6 +5,12 @@ updated: '2026-10-10'
 status: 'Expanded teaching draft; specialist review pending'
 ---
 
+## A small working vocabulary before the first objects
+
+A **witness** is a particular surviving or documented manifestation of the evidence, such as a seal impression, manuscript page, catalogue photograph or later copy. A **witness inventory** identifies each such item by institution, date, locator and relationship to the claim being investigated. Reading a witness **diplomatically** means reproducing its actual letters and abbreviations rather than silently modernizing them; a **normalized** reading supplies editorial changes explicitly. These ideas belong near the beginning of the course, since the Dering Roll and its copies are not interchangeable images of one abstract shield.
+
+The common field terms also need names. A **fess** is a horizontal band, a **pale** a vertical band, a **bend** a diagonal band, and a **chevron** two sloped arms meeting like an inverted V. **Per pale** means the field is divided vertically, unlike placing a pale on an undivided field. A **bordure** is an ordinary around the shield's edge; a **mullet** is a star-shaped charge, and a **roundel** a circular one. **Dexter** and **sinister** refer to the bearer's right and left, which are reversed from the spectator's viewpoint. The Academy teaches their full formal treatment later. Here they let us describe what a document actually contains without using loose substitutes.
+
 ## A picture that can survive being redrawn
 
 Imagine that three artists have been asked to draw the same coat of arms. One paints it on parchment. Another carves it above a doorway. A third needs an image small enough to fit on a phone. The lions will not have identical faces. The shield will not have identical proportions. One version may have elaborate shading while another has none. Yet we should still be able to recognize the same arms. This is the first thing to understand about heraldry: identity need not depend on copying an image pixel for pixel.
@@ -193,7 +199,7 @@ The component dates are separate catalogue assertions. Neither automatically sup
 
 ### Exercise 4: a translation changes one number
 
-Compare the German and English e-codices summaries for AG 2760. Record the conflicting ordinal for the missing part, with each language and access date. Write a provisional note that informs the reader without deciding which wording is correct. Identify the physical or documentary evidence that would settle the numbering.
+Compare the German and English e-codices summaries for AG 2760. Record the conflicting ordinal for the missing part, with each language and access date. The English e-codices summary's own internal sequence supports a **provisional preference** for one of its ordinal readings; readers should state which reading agrees with the other numbered sections and which leaves an unexplained gap. This is an internal-consistency test, not a decision that the German description is necessarily wrong. Write a provisional note that identifies that evidence and also states that the actual codicological arrangement or earlier catalogue description would be needed to resolve the discrepancy definitively. Identify the physical or documentary evidence that would settle the numbering.
 
 <details>
 <summary>Answer discussion: uncertainty should have an address</summary>
