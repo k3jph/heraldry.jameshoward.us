@@ -28,6 +28,12 @@ level: "Advanced undergraduate / graduate"
   </ol>
 </nav>
 
+## Rank badges have names and an institutional starting point
+
+A Chinese **buzi** (補子), also called a **xiongbei** (胸背) in relevant contexts, is a rank badge displayed on official dress. The Chinese court developed systems of animal insignia for civilian and military rank under the **Ming dynasty**, with regulations associated with the **Hongwu reign**, including the **1391** rank-insignia prescriptions. Later Ming and Qing orders altered the relationship of species, number and precedence. The English phrase 'rank badge' is a functional translation, not a warrant to treat all embroidered squares as the same object.
+
+This historical dating helps explain the workshop's Qing tiger and bear examples. A tiger's rank value under one dynasty cannot automatically be projected backward or forward to another. The badge's animal, stitching technique, clothing position and source period all have to be identified before assigning it to a court rank. The [Metropolitan Museum's rank-badge catalogue](https://www.metmuseum.org/art/collection/search/60545) is an object-specific witness that should be read alongside, rather than substituted for, dynastic regulations.
+
 ## The tiger’s rank depends on the dynasty
 
 The Met’s eighteenth-century Chinese tiger badge belongs to the Qing period. Its account explains that a tiger denoted the third military rank under the Ming and the fourth under the Qing.[^tiger] The same recognizable animal therefore supplies a different status reading in different institutional contexts. Identifying the creature is the beginning of interpretation; identifying the applicable convention completes another necessary step.
