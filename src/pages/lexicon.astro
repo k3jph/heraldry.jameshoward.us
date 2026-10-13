@@ -17,6 +17,7 @@ const searchFor=(entry:(typeof glossary)[number])=>[entry.term,entry.category,en
   <PageIntro eyebrow="The reference desk" title="The lexicon." description={glossary.length+" entries across "+names.length+" subjects, including "+linkedTerms+" with links to documentary examples. From the geometry of a shield to international source records."}/>
   <section class="section">
     <div class="wrap">
+      <div class="notice-box" style="margin-bottom:26px"><strong>Research status.</strong><p>The lexicon contains original editorial definitions, some linked to examples, and is undergoing independent specialist review. Entries without source links are vocabulary orientations, not verified historical attestations. Check disputed terms against the relevant jurisdiction and primary record.</p></div>
       <div class="lexicon-top"><label class="smallcaps" for="lexicon-search">Search by term, definition or subject</label><span class="smallcaps" id="lexicon-count" aria-live="polite">{glossary.length} of {glossary.length} entries</span></div>
       <input id="lexicon-search" class="search-input" type="search" placeholder="Try ‘martlet’, ‘fitchy’, ‘Wappen’, ‘Polish’…" autocomplete="off" aria-label="Search heraldic terminology"/>
       <p class="caption">Tip: press / to search. Accents are optional. Each entry has a permanent link; searches can be bookmarked.</p>
