@@ -110,10 +110,6 @@
         "english": "principles of design"
       },
       {
-        "term": "Wappenannahme",
-        "english": "adoption of arms"
-      },
-      {
         "term": "Satzung",
         "english": "statute"
       }
@@ -370,8 +366,8 @@
         "english": "quarters/sections"
       },
       {
-        "term": "mazornado",
-        "english": "masoned (variant spelling in blazon)"
+        "term": "mazonado",
+        "english": "masoned, as used in the cited Spanish blazon"
       },
       {
         "term": "sinople",
@@ -439,7 +435,8 @@
         "term": "Cartório da Nobreza",
         "english": "nobility papers"
       }
-    ]
+    ],
+    "titleStatus": "archive document's printed heading, distinct from title of manuscript described"
   },
   {
     "reviewStatus": "editorially synthesized; independent specialist review pending",
@@ -3480,7 +3477,17 @@
     ],
     "accessed": "2026-10-11",
     "reviewStatus": "editorially synthesized; independent specialist review pending",
-    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied.",
+    "authors": [
+      "Andrea Mattiello"
+    ],
+    "containerTitle": "Byzantine and Modern Greek Studies",
+    "publicationYear": 2024,
+    "volume": "48",
+    "issue": "1",
+    "pages": "100–119",
+    "doi": "10.1017/byz.2023.25",
+    "recordType": "journal-article"
   },
   {
     "id": "gr-emblem",
@@ -4011,7 +4018,7 @@
     "id": "is-decree",
     "area": "Iceland",
     "language": "is",
-    "holding": "Alþingi, decree no. 35 of 17 June 1944",
+    "holding": "President of Iceland; decree published in the Alþingi statutory database",
     "titleOriginal": "Forsetaúrskurður um skjaldarmerki Íslands",
     "titleEnglish": "Presidential decree on the coat of arms of Iceland",
     "url": "https://www.althingi.is/lagas/154c/1944035.html",
@@ -8093,16 +8100,7 @@
     "kind": "association registration procedure",
     "authority": "heraldic association",
     "englishSynopsis": "Association describes registration of private arms following review and public announcement, distinguishes preliminary from final approval, and expressly states that it records rather than grants arms. It excludes official public arms and claimed noble arms from this process. This provides a separate contemporary setting alongside state heraldry and noble collections.",
-    "glossary": [
-      {
-        "term": "kungörelse",
-        "english": "public announcement"
-      },
-      {
-        "term": "registerintyg",
-        "english": "registration certificate"
-      }
-    ],
+    "glossary": [],
     "accessed": "2026-10-11",
     "reviewStatus": "editorially synthesized; independent specialist review pending",
     "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
@@ -9305,7 +9303,8 @@
     ],
     "accessed": "2026-10-11",
     "reviewStatus": "editorially synthesized; independent specialist review pending",
-    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied.",
+    "titleStatus": "institutional webpage heading; verify against page heading before treating as bibliographic title"
   },
   {
     "id": "pl-tarnow-history",
@@ -9530,7 +9529,13 @@
     ],
     "accessed": "2026-10-11",
     "reviewStatus": "editorially synthesized; independent specialist review pending",
-    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied.",
+    "authors": [
+      "Георгій Шаповалов",
+      "Олександр Бєлов"
+    ],
+    "containerTitle": "Zaporizhzhia Historical Review",
+    "recordType": "journal-article"
   },
   {
     "id": "ru-titulyarnik-edition",
@@ -9580,7 +9585,15 @@
     ],
     "accessed": "2026-10-11",
     "reviewStatus": "editorially synthesized; independent specialist review pending",
-    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied.",
+    "authors": [
+      "Е. В. Пчелов"
+    ],
+    "containerTitle": "Вестник архивиста",
+    "publicationYear": 2021,
+    "issue": "3",
+    "pages": "665–674",
+    "recordType": "journal-article"
   },
   {
     "id": "ru-beaker",
@@ -9740,7 +9753,7 @@
     "id": "cz-moravian-colours",
     "area": "Czech Republic",
     "language": "cs",
-    "holding": "Ministry of the Interior of the Czech Republic",
+    "holding": "Ministry of the Interior, archived 2013 article by Ivan Štarha",
     "titleOriginal": "Historie, moravské barvy a moravská vlajka",
     "titleEnglish": "History, Moravian colours and the Moravian flag",
     "url": "https://mv.gov.cz/volby/clanek/historie-moravske-barvy-a-moravska-vlajka.aspx",
@@ -9755,15 +9768,14 @@
       {
         "term": "stavové",
         "english": "estates"
-      },
-      {
-        "term": "polepšení",
-        "english": "augmentation"
       }
     ],
     "accessed": "2026-10-11",
     "reviewStatus": "editorially synthesized; independent specialist review pending",
-    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied.",
+    "authors": [
+      "Ivan Štarha"
+    ]
   },
   {
     "id": "cz-brno-statute",
@@ -12802,7 +12814,8 @@
     ],
     "accessed": "2026-10-11",
     "reviewStatus": "editorially synthesized; independent specialist review pending",
-    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied.",
+    "titleStatus": "editorial descriptive catalogue label; accession and collection record are authoritative"
   },
   {
     "id": "adinkra-anagnost-2025",
@@ -13506,7 +13519,8 @@
     ],
     "accessed": "2026-10-11",
     "reviewStatus": "editorially synthesized; independent specialist review pending",
-    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied."
+    "reproductionPolicy": "Link and original English synopsis only. No full-text reproduction or image licensing implied.",
+    "titleStatus": "editorial descriptive catalogue label, not verified as original manuscript title"
   },
   {
     "id": "ott-jewish-firman",
