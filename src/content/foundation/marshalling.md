@@ -5,6 +5,14 @@ updated: '2026-10-10'
 status: 'Expanded teaching draft; specialist review pending'
 ---
 
+## The conventional English arrangements in one place
+
+There is a specific convention behind the marital impalement mentioned below. In the familiar English practice, a husband bears his own arms on the **dexter** (bearer's right, viewer's left) half of the shield and his wife's arms on the **sinister** half. The resulting design need not preserve the proportions of two independent shield drawings. These rules identify the intended relationship only when the source supplies the necessary marital context; a vertically divided shield can have other meanings. An officeholder, notably a bishop, can also impale personal arms with arms of office or see, following the applicable ecclesiastical tradition. That is not itself a marriage.
+
+An **escutcheon of pretence** is a small shield placed over the husband's arms in certain English marital arrangements when the wife is a heraldic heiress; its function differs from placing her entire coat on the sinister half. Children entitled through an heiress might later combine arms by quartering, typically placing the paternal arms in the first and fourth quarters and the maternal arms in the second and third in a simple two-coat case. The order of quarters expresses pedigree and precedence, but actual complex achievements demand verification against the descent and the arms' applicable law. Arms displayed on a **lozenge** also require their own visual reading: the outer shape does not make the contents an ordinary heater shield. Our [Halewyn object study](/objects/halewyn-ghistele-enamel/) makes the distinction visible.
+
+These are English teaching conventions rather than a single law of armorial descent for every jurisdiction. The [College of Arms' official guidance](https://www.college-of-arms.gov.uk/resources/the-law-of-arms) is the relevant starting point for its particular legal framework. A modern Canadian grant, a Scottish matriculation and a continental historical panel can embody different inheritance and display practices.
+
 ## Several designs can make one statement
 
 **Marshalling** brings armorial bearings together in a display. It can express relationships involving marriage, descent, office, sovereignty, or other claims. The composition is therefore not just a decorative arrangement of attractive shields. Its structure can make a statement that needs documentary interpretation.[^marshalling]
