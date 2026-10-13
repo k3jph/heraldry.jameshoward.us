@@ -4,7 +4,7 @@ description: "French armory in practice: blazon, dynastic difference, the 1696 r
 region: "France"
 languages: ["fr"]
 track: "Comparative traditions"
-period: "Medieval period–French Revolution, with archival afterlives"
+period: "Medieval origins to contemporary republican and historical records"
 sourceIds: ["fr-bnf-armorial", "fr-bnf-catalogue", "fr-imperial-registers", "fr-dupuch", "fr-simon-1812", "fr-seal", "fr-fasces"]
 level: "Advanced undergraduate / graduate"
 ---
