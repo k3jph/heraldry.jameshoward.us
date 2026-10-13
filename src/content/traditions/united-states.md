@@ -33,6 +33,12 @@ level: "Advanced undergraduate / graduate"
   </ol>
 </nav>
 
+## The Institute of Heraldry has an actual enabling history
+
+The United States Army's heraldic administration can be connected to named federal instruments rather than inferred from what an agency homepage fails to mention. **Public Law 85-263 of 1957** authorized heraldic services for specified federal and military users. **32 CFR Part 507** regulates the manufacture and sale of military decorations, medals, badges, insignia and related designs, while **4 U.S.C. §§ 41–42** concern the national arms and seal. These statutes and regulations describe separate official contexts. The [Institute of Heraldry](https://tioh.army.mil/) does not thereby become a federal College of Arms for every privately borne family shield.
+
+United States law supplies no general federal right protecting a private family's heraldic bearings **as such**. Specific artwork and uses may engage copyright, trademark, unfair-competition or other laws, and an identifiable individual might inherit foreign-granted arms under another jurisdiction's rules. Those separate legal pathways are not a comprehensive national heraldic grant. The difference explains why military unit insignia can have very precise federal approvals while personal American assumption of arms remains a plural practice.
+
 ## Start with the eagle, then ask who is in charge
 
 The National Archives dates congressional adoption of the Great Seal to 20 June 1782. Its account describes a design process involving several committees, Charles Thomson, and William Barton, and distinguishes the authenticating obverse from the reverse that appears on currency but is not used as a seal.[^seal] The United States began its national armorial identity through a deliberate political act. A republic had a use for heraldic composition even while rejecting a monarchy.
