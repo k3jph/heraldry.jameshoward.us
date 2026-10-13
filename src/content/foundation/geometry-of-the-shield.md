@@ -5,6 +5,12 @@ updated: '2026-10-10'
 status: 'Expanded teaching draft; specialist review pending'
 ---
 
+## Geometry that the reader can name
+
+A **pale** is a vertical band, a **fess** a horizontal one, a **bend** a diagonal band, a **chevron** two sloping arms meeting toward chief, and a **saltire** an X-shaped figure. A **chief** may designate either the shield's upper region or a separate horizontal ordinary along the top. These are figures *placed on* a field. In contrast, **per pale**, **per fess** and other divisions partition the field itself. We need the distinction before deciding whether an apparent change in a drawing alters the arms.
+
+An **ordinary** is a major conventional geometric charge. Some manuals call smaller or related figures *subordinaries*, but the boundary is a teaching classification and varies among authors. A small shield placed upon another is an **inescutcheon**. Its legal or dynastic role cannot be inferred from size alone. When the vocabulary follows the geometry in this order, the student has something concrete to see before memorizing the name.
+
 ## The shield has a viewpoint
 
 Before learning the shapes, settle the directions. Heraldic **dexter** is the bearer's right, which appears on the viewer's left. **Sinister** is the bearer's left, appearing on the viewer's right. The upper area is **chief** and the lower area is **base**. These terms make a composition describable without depending on where the reader is standing.[^map]
