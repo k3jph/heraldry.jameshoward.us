@@ -28,6 +28,12 @@ level: "Advanced undergraduate / graduate"
   </ol>
 </nav>
 
+## The 2024 royal resolution is a four-part specification
+
+The current Danish royal arms were adopted by **royal resolution of 20 December 2024** and introduced publicly on **1 January 2025**. The [Royal House's own description](https://www.kongehuset.dk/en/the-monarchy-in-denmark/the-royal-symbols/the-royal-coat-of-arms/) names the exact arrangement: a Dannebrog cross quarters the shield; **Denmark's three crowned blue lions and nine hearts appear in the first quarter**, the **Faroe Islands' ram in the second**, **Greenland's polar bear in the third**, and **Southern Jutland's two lions in the fourth**. The Oldenburg bars occupy the central inescutcheon. The royal lion charges are commonly depicted **passant**. The insignia of the orders of the Elephant and Dannebrog surround the shield, accompanied by the traditional supporters and pavilion.
+
+The previous royal arms had a different collection and order of fields. The official [announcement of the changes](https://www.kongehuset.dk/en/news/establishment-of-new-royal-coat-of-arms) identifies why the Faroe Islands and Greenland received separate quarters and why the former Three Crowns device was removed. Without naming this new ordering, a reader cannot tell whether an object depicts the pre-2025 or post-2024 composition. The field order thus helps date the represented royal identity, subject to the usual qualification that later art can copy an earlier achievement.
+
 ## The simple shield and the larger achievement
 
 Denmark’s state shield bears three crowned blue lions and nine red hearts on gold. Rigsarkivet’s 2025 guidance explains both the components and the possibility of redrawing the arms within heraldic principles.[^dk-guide] That simple shield needs to be distinguished from the larger royal achievement, whose internal arrangement has changed through dated decisions.
