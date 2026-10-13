@@ -30,6 +30,12 @@ level: "Advanced undergraduate / graduate"
   </ol>
 </nav>
 
+## Another sixteenth-century manuscript and the republican break
+
+António Godinho's ***Livro da Nobreza e Perfeiçam das Armas*** belongs beside the *Livro do Armeiro-Mor* as another major Portuguese armorial manuscript. The [Torre do Tombo's documentary dossier](https://antt.dglab.gov.pt/wp-content/uploads/sites/17/2025/02/vasco-da-gama-doc.pdf) supplies a useful starting point for comparing the two works' production and custody. Neither should be assigned a definitive illuminator or provenance simply by borrowing information from the other. The manuscripts are evidence of historical armorial culture, not modern royal grants to every same-named family.
+
+Portugal became a republic in **1910**, ending the monarchy's armorial and nobiliary institutional context. Historical personal arms remained recognizable and could continue in private practice, but that does not imply the old monarchical machinery survives as a republican state-granting office. Modern Portuguese civic heraldry has a distinct legislative framework and should not be confused with present-day claims to noble status or inheritance. An archival book preserves earlier art and administration without re-enacting them.
+
 ## A book that can actually be located
 
 The Portuguese *Livro do Armeiro-Mor*, produced in **1509** during the reign of Manuel I, gives us a dated manuscript through which to investigate Portuguese heraldry. The national archive, the [Torre do Tombo](https://antt.dglab.gov.pt/), identifies the historical manuscript with the royal papers, *Casa Real, Cartório da Nobreza, livro 19*. Once we have a specific catalogue identification, a heraldic image ceases to be an anonymous web decoration and becomes a historical object capable of citation.
