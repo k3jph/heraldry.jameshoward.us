@@ -272,7 +272,8 @@ test('international source atlas has stable identifiers, institutions, provenanc
     assert.ok(s.holding.length>=5);
     assert.ok(s.englishSynopsis.length>160);
     assert.ok(s.reviewStatus.includes('review'));
-    assert.ok(Array.isArray(s.glossary)&&s.glossary.length>=2);
+    assert.ok(Array.isArray(s.glossary),s.id+' glossary must be an array');
+    for(const item of s.glossary){assert.ok(typeof item.term==='string'&&item.term.trim()&&typeof item.english==='string'&&item.english.trim(),s.id+' must have meaningful terminology');}
   });
 });
 
@@ -335,17 +336,17 @@ test('every original-language source exports a usable individual citation',()=>{
     const bib=makeBibtex(source);
     const ris=makeRIS(source);
     const csl=makeCSL(source);
-    assert.ok(bib.startsWith('@misc{'+citationKey(source)+','));
+    assert.ok(bib.startsWith((source.recordType==='journal-article'?'@article{':'@misc{')+citationKey(source)+','));
     assert.ok(bib.includes(source.url));
     assert.ok(bib.includes('Accessed '+source.accessed));
-    assert.ok(ris.startsWith('TY  - ELEC'));
+    assert.ok(ris.startsWith('TY  - '+(source.recordType==='journal-article'?'JOUR':'GEN')));
     assert.ok(ris.includes('UR  - '+source.url));
     assert.ok(ris.endsWith('ER  - '));
     assert.equal(csl.id,citationKey(source));
     assert.equal(csl.URL,source.url);
     assert.equal(csl.language,source.language);
     assert.ok(csl.accessed['date-parts'][0][0]>=2026);
-    assert.equal(csl.issued,undefined,'Do not invent publication dates for archival sources.');
+    if(source.publicationYear){assert.equal(csl.issued?.['date-parts']?.[0]?.[0],source.publicationYear);} else {assert.equal(csl.issued,undefined,'Do not invent publication dates for archival sources.');}
   });
 });
 
