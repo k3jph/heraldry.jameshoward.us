@@ -28,6 +28,12 @@ level: "Advanced undergraduate / graduate"
   </ol>
 </nav>
 
+## The 1817 textile and a later attribution
+
+The important early British collecting witness is connected to **Thomas Edward Bowdich's 1817 mission to Asante**. The **British Museum's account** warns that the identification of an early cloth as *adinkra* is connected with an **1845** attribution, rather than securely documented by Bowdich himself in 1817. The object can therefore witness early nineteenth-century cloth and collecting practices without proving that every later category name was already used in precisely the same way at the time of acquisition.
+
+This is a positive example of source criticism, not grounds for excluding the object. The textile, the collector's movements, the later description and subsequent scholarship each have their own dates. Their disagreement may tell us something about the history of the name and the classification of Akan material culture. A reliable chapter must retain the British Museum's qualification rather than force the textile into a neat origin story.
+
 ## Begin with a cloth, not a dictionary
 
 A diagram of a symbol is easy to circulate. A cloth is harder to summarize. It has dimensions, seams, repeated impressions, a pattern of divisions, and a history of wear. Once we reduce it to a row of isolated icons, we have already discarded some of the evidence that tells us how its signs worked together.
