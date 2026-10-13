@@ -4,7 +4,7 @@ description: "Study Canadian authority, children’s succession and differences,
 region: "Canada"
 languages: ["en"]
 track: "Global and postcolonial heraldry"
-period: "Seventeenth century–present"
+period: "Colonial armory and pre-1988 grants to contemporary Canadian authority"
 sourceIds: ["ca-authority", "ca-authority-arms", "ca-irniq", "ca-whitehorse", "ca-correctional-buff", "ca-cadency-society", "ca-register-portal", "ca-authority-faq", "ca-crabtree", "ca-metlej", "ca-pride-citation", "ca-supreme-court-badges", "ca-william-rose-registration"]
 level: "Advanced undergraduate / graduate"
 ---
