@@ -28,6 +28,12 @@ level: "Advanced undergraduate / graduate"
   </ol>
 </nav>
 
+## Sydney's Latin motto belongs in the reading
+
+The University of Sydney's [institutional account](https://www.sydney.edu.au/about-us/our-story/our-motto-and-coat-of-arms.html) records arms granted on **14 May 1857**, negotiated through the Kings of Arms in London, and the motto ***Sidere mens eadem mutato***. The university renders it, among other possibilities, as **“The stars change, the mind remains the same.”** The point of quoting the Latin is not that it has an incontestable one-to-one English translation. The institution itself offers alternative renderings, including “The same learning under new stars.” The syntax and historical context deserve discussion rather than a single unmarked paraphrase.
+
+The shield's formal design also does real work. In its arms an open book is placed upon a blue cross charged with eight-pointed gold stars, with a golden lion passant guardant in a red chief. The correspondence between familiar European academic charges and a southern-sky allusion is part of the armorial commission. The motto's claim of intellectual continuity under changed stars gives the designer's cross and stars a verbal counterpart without proving that the stars were adopted for one exclusive symbolic reason.
+
 ## Australian armorial jurisdiction is a real dispute
 
 Australia's Commonwealth and state symbols are the result of named royal instruments, and private armory has a different administrative history. The [College of Arms](https://www.college-of-arms.gov.uk/About/11.htm) in London has historically granted arms to Australian applicants under its jurisdiction. It is misleading to describe that activity as though Australia possessed its own continuously functioning college of arms. Nor is it adequate to infer the extent of the College's **present** remit from the nationality of the applicant alone. Competing accounts of inherited Crown heraldic authority, post-Federation sovereignty and the legal force of English armorial procedure need to be attributed to their proponents and examined against actual Australian instruments.
