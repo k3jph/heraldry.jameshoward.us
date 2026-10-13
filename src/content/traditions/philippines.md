@@ -29,6 +29,12 @@ level: "Advanced undergraduate / graduate"
   </ol>
 </nav>
 
+## Two statutes establish the administrative framework
+
+The Philippines' **Commonwealth Act No. 602 of 1940** created the Philippines Heraldry Committee, establishing a formal setting for national and government symbols. Later legislation did not leave heraldic administration to artistic custom alone. **Republic Act No. 8491 of 12 February 1998**, the **Flag and Heraldic Code**, addresses government heraldic items in **sections 46 and 50**. The [Supreme Court's statutory text](https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/4626) is an appropriate witness for the enacted wording.
+
+These sections govern different operations. Section 46 provides for purchasing prescribed heraldic items from authorized manufacturers, while section 50's function must be read from the enacted text rather than inferred from the preceding section. A claim that a government office's emblem is authorized requires the relevant designation or approval, not merely a later emblematic illustration.
+
 ## Heraldry is an administrative subject here
 
 Republic Act 8491, the 1998 Flag and Heraldic Code, treats the national arms, Great Seal and other governmental heraldic devices in separate provisions.[^ph-code] This is a strong reason to give the Philippines its own chapter. The tradition includes a defined public administrative system, not merely a national shield borrowed from an introductory world atlas.
