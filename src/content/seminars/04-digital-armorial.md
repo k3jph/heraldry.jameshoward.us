@@ -7,6 +7,17 @@ sourceIds: ["fr-bnf-armorial","se-riksregister","cz-rekos","pl-herbarze"]
 level: "Graduate methods"
 ---
 
+## Digital method needs historical scholarship
+
+John Alexander McEwan, “Reflectance Transformation Imaging and the Future of Medieval Sigillography,” *History Compass* 16, no. 9 (2018), e12477, [doi:10.1111/hic3.12477](https://doi.org/10.1111/hic3.12477). His account distinguishes an improved photographic witness from an independently established historical claim.
+
+Marcus Meer, *Heraldry in Urban Society — Visual Culture and Communication in Late Medieval England and Germany* (Oxford University Press, 2024), [doi:10.1093/oso/9780198910275.001.0001](https://doi.org/10.1093/oso/9780198910275.001.0001). The book develops the relationships among people, heraldic signs and media that a structured database must preserve.
+
+Begin with two documented [source-atlas entries](/source-atlas/) and the corresponding [object-study records](/objects/). Model at least the object, bearer's claim, design, depicted instance, original date, photographic date and authority; an unknown date must stay unknown. Publish a small CSV and a paragraph explaining which interpretation would be destroyed by flattening the two witnesses into a single database row.
+
+**Language expectations.** The two methodological works are in English. Original-language knowledge is needed only for any historic text the student purports to translate rather than catalogue as unverified.
+
+
 ## The data model is already an historical argument
 
 Suppose we put hundreds of shields into a database with three columns: family name, design, and URL. A search now returns a convincing picture beside a familiar name. What relationship did we record? Perhaps a manuscript attributes the design to one named person; perhaps the URL points only to a later illustration. The three columns give us nowhere to distinguish those possibilities or to record a disputed attribution. The apparent simplicity of the model has made a historical decision before the researcher has examined the evidence.
