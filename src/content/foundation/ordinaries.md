@@ -5,6 +5,10 @@ updated: '2026-10-10'
 status: 'Expanded teaching draft; specialist review pending'
 ---
 
+## What subordinaries means in this course
+
+**Subordinaries** are conventionally named geometric charges that many manuals distinguish from major ordinaries, such as an **inescutcheon**, **canton**, **orle** or **flanch**. The category is not a universal legal hierarchy, and historically important differences between heraldic manuals remain. An **inescutcheon** is a smaller shield drawn upon or within a larger one; an **orle** resembles a narrow internal border following the outline of the shield; a **canton** occupies a small corner region. These definitions identify visible forms before any genealogical or institutional meaning is added. A small shield may indicate an escutcheon of pretence, dynastic claim or another feature, but that interpretation needs the actual blazon and context.
+
 ## Geometry becomes vocabulary
 
 An ordinary is a conventional geometric charge. The useful first set includes the **fess**, **pale**, **bend**, **chevron**, **cross**, and **saltire**. A fess is a horizontal band, a pale a vertical band, and a bend a diagonal band from dexter chief to sinister base. A chevron uses two sloping arms meeting above; a cross combines vertical and horizontal arms; a saltire uses diagonal arms.[^shapes]
