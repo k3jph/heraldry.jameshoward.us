@@ -4,7 +4,7 @@ description: "German armory through burgher families, complete achievements, cou
 region: "German-speaking Europe"
 languages: ["de"]
 track: "Comparative traditions"
-period: "Late medieval to contemporary"
+period: "Late medieval armory through contemporary private and public practice"
 sourceIds: ["de-dwr", "de-berliner", "de-siebmacher-burgher", "de-siebmacher-index", "de-hamburg", "de-berlin-text", "de-federal-description", "de-eagle-history"]
 level: "Advanced undergraduate / graduate"
 ---
