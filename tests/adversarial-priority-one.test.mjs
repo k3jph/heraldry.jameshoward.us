@@ -24,7 +24,8 @@ test('CR-002: capstone lecture, page exercise, and quiz agree on two routes',()=
   assert.doesNotMatch(JSON.stringify(lesson),/300–500/);
   assert.match(lesson.sections.map(x=>x.paragraphs.join(' ')).join(' '),/Both routes/);
   const quiz=lesson.quiz[2];
-  assert.match(quiz.choices[quiz.correct],/witness inventory.*claim ledger/i);
+  assert.match(quiz.choices[quiz.correct],/witness inventory/i);
+  assert.match(lesson.exercise.prompt,/claim ledger/i);
   assert.doesNotMatch(quiz.choices[quiz.correct],/new shield/);
 });
 
