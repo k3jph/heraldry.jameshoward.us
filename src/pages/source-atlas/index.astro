@@ -9,11 +9,11 @@ const languageLabels:Record<string,string>={fr:'French',de:'German',nl:'Dutch',s
 const nonEnglish=sorted.filter(s=>s.language!=='en').length;
 const languages=[...new Set(sorted.map(s=>s.language))].sort((a,b)=>(languageLabels[a]||a).localeCompare(languageLabels[b]||b,'en'));
 ---
-<Base title="International Source Atlas" description="A searchable atlas of mixed primary documents, institutional portals and secondary scholarship, with English and non-English entries, with original English synopses and bilingual terminology.">
-  <PageIntro eyebrow="Read the world in its own words" title="The source atlas." description="Original-language documents, archival guides, statutes and research literature from around the world. Every entry links to its source, gives an English analysis, and preserves vocabulary you would otherwise have to guess."/>
+<Base title="International Source Atlas" description="A searchable atlas of primary records, institutional guides and scholarship in English and other languages, with editorial synopses and bibliographic exports.">
+  <PageIntro eyebrow="Read the world in its own words" title="The source atlas." description="A mixed collection of archival documents, institutional guides, statutes and scholarship, including records already published in English. Each entry gives a source locator and an attributed English editorial synopsis."/>
   <section class="section">
     <div class="wrap">
-      <div class="notice-box"><strong>What each source note provides.</strong><p>A catalogue can help you find an object; a statute can record a legal decision. The source notes explain which kind of evidence each document supplies and preserve its original title, language, institution, and link. Our English synopses summarize that evidence. Reproducing a complete text or translation requires its own verified rights.</p></div>
+      <div class="notice-box"><strong>What each source note provides.</strong><p>A catalogue can help you find an object; a statute can record a legal decision. The source notes explain which kind of evidence each document supplies and record its title or clearly marked editorial label, language, custodian and link. Our English synopses summarize that evidence. Reproducing a complete text or translation requires its own verified rights.</p></div>
       <div class="atlas-export-bar">
         <div><strong>Keep the references with your work.</strong><p>Download all references, or copy a single source directly from its dossier. Access dates are cited without inventing publication years.</p></div>
         <div class="atlas-export-links">
@@ -34,13 +34,13 @@ const languages=[...new Set(sorted.map(s=>s.language))].sort((a,b)=>(languageLab
       <div class="atlas-grid">
         {sorted.map(source=><article class="atlas-card" id={'source-'+source.id} data-lang={source.language} data-region={source.area} data-text={(source.titleOriginal+' '+source.titleEnglish+' '+source.holding+' '+source.englishSynopsis+' '+source.glossary.map(t=>t.term+' '+t.english).join(' ')).toLowerCase()}>
           <div class="atlas-top"><span class="atlas-language">{source.language.toUpperCase()}</span><span class="smallcaps">{source.area}</span></div>
-          <h2 lang={source.language}>{source.titleOriginal}</h2><p class="atlas-translation">{source.titleEnglish}</p>
+          <h2 lang={source.language}>{source.titleOriginal}</h2>{source.titleStatus&&<p class="caption"><strong>Title status:</strong> {source.titleStatus}</p>}<p class="atlas-translation">{source.titleEnglish}</p>
           <p class="atlas-holding">{source.holding} · {source.kind}</p>
           <div class="atlas-summary"><h3>English editorial synopsis</h3><p>{source.englishSynopsis}</p></div>
-          <div class="atlas-glossary"><h3>Source-language vocabulary</h3><dl>{source.glossary.map(t=><div><dt lang={source.language}>{t.term}</dt><dd>{t.english}</dd></div>)}</dl></div>
+          {source.glossary.length>0&&<div class="atlas-glossary"><h3>{source.language==='en'?'Editorial glossary notes':'Source-language vocabulary'}</h3><dl>{source.glossary.map(t=><div><dt lang={source.language}>{t.term}</dt><dd>{t.english}</dd></div>)}</dl></div>}
           <p class="atlas-provenance"><strong>Evidence class:</strong> {source.authority}. <strong>Rights:</strong> metadata and original synopsis only. <strong>Review:</strong> editorial research note, specialist review pending.</p>
           <div class="citation-buttons" aria-label={'Citation formats for '+source.titleOriginal}><button class="chip" type="button" data-copy-source={source.id} data-citation-format="bibtex">Copy BibTeX</button><button class="chip" type="button" data-copy-source={source.id} data-citation-format="ris">Copy RIS</button><button class="chip" type="button" data-copy-source={source.id} data-citation-format="csl">Copy CSL JSON</button></div>
-          <div style="display:grid;gap:9px"><a href={source.url} class="btn btn-dark" target="_blank" rel="noopener noreferrer">Read original source ↗</a>{readings.some(r=>r.sourceId===source.id)&&<a href={'/translation-lab/#translation-'+readings.find(r=>r.sourceId===source.id)?.id} class="btn btn-line">Try a short parallel translation ↗</a>}</div>
+          <div style="display:grid;gap:9px"><a href={source.url} class="btn btn-dark" target="_blank" rel="noopener noreferrer">Open cited source ↗</a>{readings.some(r=>r.sourceId===source.id)&&<a href={'/translation-lab/#translation-'+readings.find(r=>r.sourceId===source.id)?.id} class="btn btn-line">Try a short parallel translation ↗</a>}</div>
         </article>)}
         <p class="empty-state" id="atlas-empty" hidden>No matching documents. Clear a filter or try a broader term.</p>
       </div>
