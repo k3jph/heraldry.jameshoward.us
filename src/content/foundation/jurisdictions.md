@@ -5,6 +5,14 @@ updated: '2026-10-10'
 status: 'Expanded teaching draft; specialist review pending'
 ---
 
+## Named institutions and the limits of their authority
+
+For England and Wales the **Earl Marshal**, a Great Officer of State, oversees the College of Arms' heraldic functions under the Crown. The historic **Court of Chivalry**, associated with the Earl Marshal, is not simply another county court; its notable modern proceedings include the **Manchester Corporation case of 1954**. These institutional particulars matter because an individual herald's opinion, an issued patent and a court judgment are different legal acts. The [College of Arms](https://www.college-of-arms.gov.uk/About/11.htm) explains the grant and descent procedures within its own jurisdiction.
+
+Scotland has an expressly different statutory route. The **Lyon King of Arms Act 1672** established the continuing Public Register of All Arms and Bearings in Scotland. The [Court of the Lord Lyon](https://www.courtofthelordlyon.scot/about%20us.htm) is a Scottish legal and heraldic institution, and its **Procurator Fiscal** considers prosecution concerning unlawful use of arms. A new grant, a matriculation of a cadet's arms and an enforcement proceeding are distinguishable acts. The statutory history should be stated before asserting which individual might be entitled to which design.
+
+The United States supplies a third model. The **United States Army Institute of Heraldry** develops and controls particular military and federal insignia within an official administrative remit, not all privately borne personal arms in the United States. [The Institute](https://tioh.army.mil/) and the official sources governing Army heraldic practice are therefore meaningful authorities for unit arms, whereas an individual's privately assumed or inherited arms may have no equivalent federal grant. The institutional comparison is useful because the scope of each office is part of the answer.
+
 ## Begin with a place, a date, and a kind of claim
 
 “Is this coat of arms legal?” is not yet a well-formed research question. Which place? Which date? Which person or institution? Which use? Are we asking about a new grant, inherited arms, registration, reproduction of an image, or a claim to a particular external ornament? Each question can lead to different evidence.
