@@ -4,7 +4,7 @@ description: "Read armorial grants through the Hungarian National Archives: Huny
 region: "Hungary"
 languages: ["hu", "en"]
 track: "Comparative traditions"
-period: "1326–1918, with detailed cases from 1453 and 1634–1815"
+period: "Medieval kingdom through contemporary republic"
 sourceIds: ["hu-armalis-db", "hu-hunyadi-1453", "hu-arany-1634", "hu-fundamental-law-2020", "hu-coronation-mantle", "hu-kossuth-study", "hu-illuminated-chronicle-study"]
 level: "Advanced undergraduate / graduate"
 ---
