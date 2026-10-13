@@ -30,6 +30,12 @@ level: "Advanced undergraduate / graduate"
   </ol>
 </nav>
 
+## The approval route changed in 2018
+
+Norwegian municipal arms were for many decades approved by **royal resolution** (*kongelig resolusjon*). That historical pathway changed with the 2018 reforms to local-government and public-symbol practice. The present task of a municipality is to establish its heraldic arms in the locally competent process and comply with registration or legal conditions that apply to public signs. An old royal resolution is a witness to the earlier arrangement, not a mandatory contemporary template.
+
+Hallvard **Trætteberg's** twentieth-century design principles emphasized simplicity, a small number of distinctive elements and legibility at different sizes. This is a historically influential approach to Norwegian civic heraldry, not a universal law governing every medieval armorial composition. The municipal examples need both the historical adoption date and the actual procedural rule in force when the design was approved.
+
 ## One lion can serve several records
 
 Norway’s crowned lion carries an axe. The Armed Forces’ historical explanation connects the axe with St Olav and identifies the medieval development and the 1937 resolution behind the familiar state description.[^no-military] The figure is immediately recognizable, but recognizing it is only the first step in identifying a particular object.
