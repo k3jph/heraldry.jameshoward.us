@@ -30,6 +30,12 @@ level: "Advanced undergraduate / graduate"
   </ol>
 </nav>
 
+## An imperial emblem has a different legal position
+
+Japan's emblem history extends beyond a general category called *kamon*. The **chrysanthemum** has been associated with the imperial house, while the **paulownia** became an important governmental symbol. Their status cannot be inferred from their popularity in commercial decoration. The Japanese [Trademark Act](https://www.japaneselawtranslation.go.jp/en/laws/view/2678/en), article 4(1)(i), places the imperial chrysanthemum crest among prohibited trademark matter. This is a precise **trademark registration restriction**, not a complete statute granting exclusive ownership of every conceivable chrysanthemum design or every family emblem.
+
+Family and household use developed through changing court, warrior and civilian practices. Specialist accounts distinguish inherited or regular household emblems (*jōmon*) from alternative designs (*kaemon*), though the terminology and prevalence must be established for a specific period. The National Diet Library's historical guides and early modern illustrated collections are appropriate sources for studying actual use. The literature includes prewar systematic treatments such as **Numata's 1926 work**; its individual bibliographic identity requires confirmation before assigning a fuller title. Rather than defining who can use all kamon by analogy with British personal grants, students should identify the emblem, period, bearer, intended use and the actual rule, if any, governing that use. Japan's imperial-trademark protection is a concrete case where the distinction becomes legally consequential.
+
 ## Begin with the category problem
 
 A family-associated emblem on clothing, an object, or a banner gives us something we can compare with an armorial display. The comparison begins with the function of identification. Japanese *kamon* (家紋), however, developed within their own political, material, and artistic traditions. To explain a particular example, we need Japanese terms and evidence about its use. Calling it a “Japanese coat of arms” may help introduce the visual analogy, but it cannot supply the history or institutional relationships that the analogy leaves unresolved.
