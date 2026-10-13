@@ -1,6 +1,7 @@
 ---
 import Base from '../../layouts/Base.astro';
 import Shield from '../../components/Shield.astro';
+import AchievementDiagram from '../../components/AchievementDiagram.astro';
 import lessons from '../../data/course.json';
 import { blazon } from '../../lib/heraldry.js';
 import { getCollection, render } from 'astro:content';
@@ -42,6 +43,7 @@ const next=lessons[index+1];
       <div class="notice-box" style="display:flex;align-items:center;justify-content:space-between;gap:20px;flex-wrap:wrap;margin-bottom:32px"><div><strong>Start with a guided introduction.</strong><p>The shorter presentation introduces the unit. Continue here for the expanded reading, source notes, and documentary workshop.</p></div><a class="btn btn-dark" href={'/lecture/'+lesson.slug+'/'}>Enter the lecture hall ↗</a></div>
       <div class="lesson-outcomes"><h2>After this lesson, you should be able to…</h2><ul>{lesson.objectives.map(goal=><li>{goal}</li>)}</ul></div>
       <div class="lesson-visual"><div><p class="eyebrow"><span class="star">✦</span> The teaching example</p><p>{blazon(lesson.example)}</p><small>Original teaching illustration · not a grant or register entry.</small></div><Shield design={lesson.example} id={'lesson-'+lesson.number}/></div>
+      {lesson.slug==='anatomy-of-arms'&&<AchievementDiagram />}
       <nav class="chapter-toc" aria-label="In this chapter"><h2>In this chapter</h2><ol>{chapterHeadings.map(heading=><li><a href={'#'+heading.slug}>{heading.text}</a></li>)}</ol></nav>
       <div class="chapter-status"><p><strong>{chapter.data.status}.</strong> Updated <time datetime={chapter.data.updated}>{chapter.data.updated}</time>. Sources and constructed examples are identified in the text.</p></div>
       <div class="foundation-chapter"><Content /></div>
