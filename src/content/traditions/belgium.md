@@ -29,6 +29,12 @@ level: "Advanced undergraduate / graduate"
   </ol>
 </nav>
 
+## The French Community has its own private-arms decree
+
+The **12 May 2004 decree** of Belgium's French Community expressly provides for registration of the arms of individuals and family associations not belonging to the Kingdom's nobility. The [French Community Parliament's legislative dossier](https://www.pfwb.be/documents-parlementaires/document-decccf-000373931) identifies the act. Its **article 2** defines arms and identifies the **Conseil d'Héraldique et de Vexillologie**, while **article 4** assigns that Council an advisory role concerning armorial registration. Registration is applied for through the Community government; the statutory act cannot be described as a certificate issued by a single national Belgian College of Arms.
+
+The distinction becomes more important once the text is dated. The **2009 amendment** changed how article 6 describes the family group benefiting from registration, replacing reference to relatives and relations by marriage with **direct descendants**. A researcher reading an older decree alongside a later register entry must therefore identify the operative version of the text. The Flemish legislation forms another framework again; the existence of two different Community procedures is not itself a constitutional inconsistency.
+
 ## One country contains several institutional settings
 
 The French Community’s heritage service offers heraldic registration for individuals and family associations as well as cities and communes.[^be-french] That practice belongs beside the existing [Flanders chapter](/traditions/flanders/), not underneath it as though one community’s procedure governed the whole country.
