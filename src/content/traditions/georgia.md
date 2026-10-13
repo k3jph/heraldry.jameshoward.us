@@ -4,7 +4,7 @@ description: "Read full and small arms, the Georgian heraldic department, and a 
 region: "Georgia"
 languages: ["en"]
 track: "Comparative traditions"
-period: "Historical antecedents–present"
+period: "Medieval state and civic symbolism to contemporary Georgian law"
 sourceIds: ["ge-department", "ge-symbol-law", "ge-use-law", "ge-history-2023", "ge-state-description"]
 level: "Advanced undergraduate / graduate"
 ---
