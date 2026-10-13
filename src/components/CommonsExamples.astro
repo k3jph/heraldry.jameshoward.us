@@ -1,0 +1,50 @@
+---
+import commons from '../data/commons-examples.json';
+const {studyId=null,regionId=null,all=false,limit=3,title='Compare the real examples'}=Astro.props;
+const selected=all?commons:commons.filter(item=>(studyId&&item.studies.includes(studyId))||(regionId&&item.regions.includes(regionId)));
+const images=all?selected:selected.slice(0,limit);
+---
+{images.length>0&&<section class="commons-study" aria-label="Illustrated examples from Wikimedia Commons">
+  <div class="commons-study-intro"><p class="eyebrow"><span class="star">✦</span> Visually documented examples</p><h2>{title}</h2><p>These are identified Commons files, not anonymous decoration. The captions distinguish an historical image from a modern artist's interpretation and preserve the file's own credit and licence.</p></div>
+  <div class:list={['commons-examples',all&&'commons-all']}>
+    {images.map(example=><figure class="commons-example" id={'commons-'+example.id}>
+      <a class="commons-image" href={example.sourcePage} target="_blank" rel="noopener noreferrer" aria-label={'View original file and attribution for '+example.title}>
+        <img src={example.imageUrl} alt={example.alt} loading="lazy" decoding="async" width="750" height="750" referrerpolicy="no-referrer"/>
+      </a>
+      <figcaption>
+        <span class="commons-type">{example.visualKind}</span>
+        <h3>{example.title}</h3>
+        <p>{example.explanation}</p>
+        <p class="commons-credit">
+          <strong>Artwork:</strong> {example.artist} · {example.date}. <a href={example.sourcePage} target="_blank" rel="noopener noreferrer">Original file and history ↗</a>
+          · <a href={example.licenseUrl} target="_blank" rel="noopener noreferrer">{example.license} ↗</a>
+          <span class="commons-change">{example.changes}.</span>
+        </p>
+        {all&&<p class="commons-rights">{example.rightsNote}</p>}
+      </figcaption>
+    </figure>)}
+  </div>
+  {!all&&<p class="commons-more"><a href="/achievement/gallery/" class="text-link">Open the complete attributed Commons example gallery ↗</a></p>}
+  {all&&<div class="notice-box" style="margin-top:30px"><strong>A free image is not a free entitlement to bear the arms.</strong><p>Creative Commons and public-domain statements concern the graphic file. Royal arms, registered arms, trademarks and other emblems can have separate legal restrictions. We reproduce these files for identified comparative teaching purposes, not to claim the bearer's identity or authorization. A reproduction may need further rights review when the underlying artwork is separately protected.</p></div>}
+</section>}
+<style>
+.commons-study{margin:32px 0 38px}
+.commons-study-intro{border-top:1px solid var(--line);padding-top:23px;margin-bottom:17px}
+.commons-study-intro h2{font:500 clamp(1.45rem,2.7vw,2.05rem)/1.22 var(--serif);margin:5px 0 12px}
+.commons-study-intro>p:last-child{color:var(--muted);font-size:.86rem;line-height:1.65;max-width:750px}
+.commons-examples{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}
+.commons-example{margin:0;background:var(--white);border:1px solid var(--line);min-width:0;display:flex;flex-direction:column}
+.commons-image{background:#f5f0e8;display:grid;place-items:center;padding:14px;aspect-ratio:1.12;overflow:hidden}
+.commons-image img{height:100%;width:100%;max-height:270px;object-fit:contain}
+.commons-example figcaption{padding:17px 19px 21px;flex:1}
+.commons-type{font-size:.69rem;font-weight:700;letter-spacing:.07em;text-transform:uppercase;color:var(--red)}
+.commons-example h3{font:500 1.35rem/1.2 var(--serif);margin:8px 0 10px}
+.commons-example figcaption>p{font-size:.85rem;line-height:1.65;margin:0 0 12px}
+.commons-example .commons-credit,.commons-example .commons-rights{font-size:.73rem;color:var(--muted);border-top:1px solid var(--line);padding-top:10px}
+.commons-example .commons-credit a{color:var(--ink);text-decoration:underline;text-underline-offset:2px}
+.commons-change{display:block}
+.commons-more{text-align:right;margin:14px 0 0;font-size:.85rem}
+.commons-all{grid-template-columns:repeat(3,minmax(0,1fr))}
+@media(max-width:1000px){.commons-all{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:580px){.commons-examples,.commons-all{grid-template-columns:1fr}.commons-image{aspect-ratio:1.3}.commons-image img{max-height:280px}}
+</style>
