@@ -110,5 +110,113 @@
     "url": "https://www.theheraldrysociety.com/articles/the-herald-painter/",
     "description": "An artist's discussion of historical and contemporary techniques for reproducing heraldic arms in monochrome.",
     "type": "Practitioner essay"
+  },
+  {
+    "group": "Official authorities",
+    "title": "Ireland — Office of the Chief Herald",
+    "jurisdiction": "Ireland",
+    "url": "https://www.nli.ie/office-chief-herald",
+    "description": "Grants and records administered within the National Library of Ireland's modern framework.",
+    "type": "Official institution / governing instrument",
+    "chapter": "/traditions/ireland/"
+  },
+  {
+    "group": "Official authorities",
+    "title": "South Africa — Bureau of Heraldry",
+    "jurisdiction": "South Africa",
+    "url": "https://www.nationalarchives.gov.za/frequently-asked-questions",
+    "description": "Official registration and evidence concerning state and personal arms.",
+    "type": "Official institution / governing instrument",
+    "chapter": "/traditions/south-africa/"
+  },
+  {
+    "group": "Official authorities",
+    "title": "Kenya — College of Arms",
+    "jurisdiction": "Kenya",
+    "url": "https://www.statelaw.go.ke/services-to-the-public/coat-of-arms-and-blazens/",
+    "description": "Statutory heraldic services under Kenya's College of Arms Act, distinct from the English College.",
+    "type": "Official institution / governing instrument",
+    "chapter": "/traditions/kenya/"
+  },
+  {
+    "group": "Official authorities",
+    "title": "Malta — Chief Herald of Arms",
+    "jurisdiction": "Malta",
+    "url": "https://heritagemalta.mt/subsidiaries/heraldry/",
+    "description": "Contemporary Maltese grants and registrations under the Cultural Heritage Act framework.",
+    "type": "Official institution / governing instrument",
+    "chapter": "/traditions/malta/"
+  },
+  {
+    "group": "Official authorities",
+    "title": "Flanders — Heraldic regulation",
+    "jurisdiction": "Flanders",
+    "url": "https://codex.vlaanderen.be/Portals/Codex/documenten/1006070.html",
+    "description": "The Flemish legal framework for personal and institutional arms; distinguish decrees from voluntary associations.",
+    "type": "Official institution / governing instrument",
+    "chapter": "/traditions/flanders/"
+  },
+  {
+    "group": "Official authorities",
+    "title": "Netherlands — Hoge Raad van Adel",
+    "jurisdiction": "Netherlands",
+    "url": "https://www.hogeraadvanadel.nl/heraldiek/adellijke-wapens",
+    "description": "Noble and public heraldic administrative functions, not automatic oversight of all private family arms.",
+    "type": "Official institution / governing instrument",
+    "chapter": "/traditions/netherlands/"
+  },
+  {
+    "group": "Official authorities",
+    "title": "Sweden — Riksarkivet",
+    "jurisdiction": "Sweden",
+    "url": "https://riksarkivet.se/arkivera-och-forvalta/heraldik-och-statssymboler",
+    "description": "State heraldic advice and public-symbol records; municipal registration has its own PRV procedure.",
+    "type": "Official institution / governing instrument",
+    "chapter": "/traditions/sweden/"
+  },
+  {
+    "group": "Official authorities",
+    "title": "Philippines — National Historical Commission",
+    "jurisdiction": "Philippines",
+    "url": "https://memory.nhcp.gov.ph/",
+    "description": "Public heraldic registry and official design work in the national administrative setting.",
+    "type": "Official institution / governing instrument",
+    "chapter": "/traditions/philippines/"
+  },
+  {
+    "group": "Official authorities",
+    "title": "New Zealand — Herald of Arms Extraordinary",
+    "jurisdiction": "New Zealand",
+    "url": "https://www.mch.govt.nz/our-work/flags-anthems-and-emblems/coat-arms",
+    "description": "Institution established in 1978, with liaison to the College of Arms in London.",
+    "type": "Official institution / governing instrument",
+    "chapter": "/traditions/new-zealand/"
+  },
+  {
+    "group": "Official authorities",
+    "title": "Georgia — Department of State Symbols and Heraldry",
+    "jurisdiction": "Georgia",
+    "url": "https://www.heraldika.ge/?lng=eng",
+    "description": "Institutional guidance for national and civic emblems in Georgia.",
+    "type": "Official institution / governing instrument",
+    "chapter": "/traditions/georgia/"
+  },
+  {
+    "group": "Official authorities",
+    "title": "Czechia — Parliamentary Civic Register",
+    "jurisdiction": "Czechia",
+    "url": "https://www.rekos.psp.cz/",
+    "description": "REKOS records official municipal arms and flags and their parliamentary decisions.",
+    "type": "Official institution / governing instrument",
+    "chapter": "/traditions/czechia/"
+  },
+  {
+    "group": "Official authorities",
+    "title": "Russia — State Heraldic Register",
+    "jurisdiction": "Russia",
+    "url": "https://www.consultant.ru/document/cons_doc_LAW_29674/",
+    "description": "Federal heraldic registration through the presidential administrative framework.",
+    "type": "Official institution / governing instrument",
+    "chapter": "/traditions/russia/"
   }
 ]
