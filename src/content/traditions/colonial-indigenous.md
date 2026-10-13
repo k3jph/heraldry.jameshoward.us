@@ -29,6 +29,12 @@ level: "Advanced undergraduate / graduate"
   </ol>
 </nav>
 
+## Imperial choice in the Delhi banners
+
+The 1877 Indian princely banners make the distinction between representation and participation concrete. The armorial series was designed by **Robert Taylor of the Bengal Civil Service** and published in the official ***Princely Armoury***. David F. Phillips's [historical account](https://www.flagheritagefoundation.org/pdfs/emblems-of-the-indian-states.pdf), pp. 9–10, associates acceptance of these imperial banners with subordination to British authority. The British heraldic forms expressed an administration's view of the princely states, even when the motifs referred to particular places or dynasties.
+
+This evidence should not be converted into the opposite extreme, an assumption that every indigenous sign was invented in London. The dossier has to separate **the selection of motifs**, **the format in which Taylor composed them**, **the conditions of ceremonial presentation**, and **any documented participation of the ruler or court**. The preserved watercolours may record the selected image but cannot, by themselves, establish a prince's consent to every detail. The political asymmetry is known; the degree of local agency has to be investigated case by case.
+
 ## Representation and participation are different evidence
 
 A design can include Indigenous people, objects or imagery while the people represented have little control over its adoption. Another design can emerge through a named bearer’s choices within a heraldic institution. The visible presence of local material does not distinguish those mechanisms by itself.
