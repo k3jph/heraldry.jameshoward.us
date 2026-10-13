@@ -30,6 +30,12 @@ level: "Advanced undergraduate / graduate"
   </ol>
 </nav>
 
+## The house mark sometimes enters a shield
+
+A ***Hausmarke*** may be a geometric mark associated with a household, merchant or property, appearing on objects and in local records. It is often a separate system of identity, but some historical arms **incorporate a house mark as a charge within an actual heraldic shield**. The physical shape of the mark does not settle its legal or social function. A sign carved over a doorway and the same sign recorded on a shield might have different contemporary statuses, even if their graphic construction is similar.
+
+That gives us an explicit limit on the phrase “identity without a coat of arms.” A merchant mark can exist without armory; it can also become part of armory. The [Vasa Museum's inventory of historic marks](https://www.vasamuseet.se/en/exhibitions/marks-of-the-vasa) offers one material approach, while German and Dutch armorial evidence supplies another. Students should first identify the object, date, inscription and bearer, then test whether the mark is serving as a free-standing sign or an armorial charge. Neither category should be imposed on every instance.
+
 ## Identity does not need a shield
 
 A set of joined strokes can identify a user without resembling a coat of arms. It can be cut into an object, engraved on a ring, or placed on a trade token. The simple form is useful because it can travel between materials. Its function still needs to be established separately in each setting.
