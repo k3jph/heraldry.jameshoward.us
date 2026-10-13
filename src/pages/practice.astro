@@ -12,7 +12,7 @@ import showcase from '../data/showcase.json';
         <div class="practice-show">
           <div style="display:flex;width:100%;justify-content:space-between;align-items:center;gap:12px"><span class="smallcaps" style="color:var(--gold-light)">Study the shield carefully</span><span class="smallcaps" id="practice-round">Round 1 / 10</span></div>
           <div class="shield-illustration" id="practice-shield"><Shield design={showcase[0].design} id="practice-initial"/></div>
-          <p style="color:#b6c8c7;font-size:.75rem;text-align:center">All illustrations are original classroom designs. No official bearings are reproduced.</p>
+          <p style="color:#b6c8c7;font-size:.75rem;text-align:center">These classroom compositions may coincide with historical or official arms. The simple red cross on silver is also the cross of St George.</p>
         </div>
         <div class="practice-info">
           <div class="practice-score"><span id="practice-score">Score · 0</span><span id="practice-best">Personal best · —</span></div>
@@ -50,7 +50,17 @@ import showcase from '../data/showcase.json';
     const render=()=>{
       answered=false;
       const item=order[index];
-      if(shield)shield.innerHTML=armsSVG(item.design,'practice-'+index);
+      if(shield){
+        shield.innerHTML=armsSVG(item.design,'practice-'+index);
+        // The full blazon is the answer to this visual quiz. A generated
+        // SVG accessible name must not reveal the answer before selection.
+        const figure=shield.querySelector('svg');
+        if(figure){
+          figure.setAttribute('role','img');
+          figure.setAttribute('aria-label','Shield image for practice round '+(index+1)+'. This visual assessment does not provide its complete text description before submission.');
+          figure.querySelectorAll('title,desc').forEach(node=>node.remove());
+        }
+      }
       if(roundText)roundText.textContent='Round '+(index+1)+' / '+order.length;
       if(scoreText)scoreText.textContent='Score · '+score;
       if(bestText)bestText.textContent='Personal best · '+getBest();
