@@ -29,6 +29,12 @@ level: "Advanced undergraduate / graduate"
   </ol>
 </nav>
 
+## Dates and words establish different public bearers
+
+Jamaica's historic arms were granted in **1661**, an act commonly recorded as **1661/62** because of Old Style and New Style dating conventions. The official motto became **“Out of Many, One People”** in **1962**, replacing an earlier colonial motto; the change belongs to the independence-era history of public identity rather than the original grant. The [National Library of Jamaica's symbols account](https://nlj.gov.jm/jamaica-national-symbols/) is an appropriate institutional source for the sequence.
+
+Argentina's national emblem became associated with the **Assembly of the Year XIII in 1813**. The familiar clasped hands, pike, liberty cap, rising sun and wreath express a republican visual vocabulary. That does not make every surviving early seal impression an official national adoption instrument; the relevant Assembly records and later legal practices must be distinguished. Colombia's present arms use a **condor above the shield**, while the chapter's early New Granada sandstone object **lacks that later figure**. Supplying the feature rather than leaving it abstract makes visible both change over time and the limits of assuming every 'national arms' reproduction depicts the same version.
+
 ## Republics do not share one recipe
 
 [Mexico](/traditions/mexico/), [Brazil](/traditions/brazil/) and [Argentina](/traditions/argentina/) have their own chapters. Chile, Peru, Colombia and Jamaica extend the comparison through four different arrangements of historical reference, natural resources and public identity. The shared presence of a shield does not establish a common adoption process or one regional rule for private armory.
