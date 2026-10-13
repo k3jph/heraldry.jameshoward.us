@@ -4,7 +4,7 @@ description: "Investigate kamon across banners, armour, helmet ornaments, sword 
 region: "Japan"
 languages: ["ja", "en"]
 track: "Comparative emblem systems"
-period: "Classical court culture–modern practice"
+period: "Court and warrior traditions to contemporary Japan"
 sourceIds: ["jp-ndl-kamon", "jp-met-nobori", "jp-loc-sumiyoshi", "jp-met-sashimono", "jp-met-maidate", "jp-met-okabe-armour", "jp-met-yoshiro-tsuba", "jp-tokyo-four-diamonds"]
 level: "Advanced undergraduate / graduate"
 ---
