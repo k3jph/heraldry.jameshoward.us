@@ -1,5 +1,6 @@
 ---
 import Base from '../../layouts/Base.astro';
+import CommonsExamples from '../../components/CommonsExamples.astro';
 import {getCollection,render} from 'astro:content';
 import worldSources from '../../data/world-sources.json';
 import parallelReadings from '../../data/parallel-readings.json';
@@ -33,6 +34,7 @@ const schema={'@context':'https://schema.org','@type':'LearningResource',name:en
     <article class="world-article">
       <p class="eyebrow"><span class="star">✦</span> A source-linked research reading</p>
       <Content/>
+      <CommonsExamples regionId={entry.id} limit={3} title="Compare the visible achievements"/>
       <div class="notice-box" style="margin-top:48px"><strong>Academic honesty is part of the syllabus.</strong><p>These essays are original English-language syntheses with visible archival and institutional citations. They have not been independently reviewed by regional specialists. Readers should check consequential assertions against the linked source language and current law.</p></div>
       <div style="display:flex;gap:12px;flex-wrap:wrap;margin-top:25px">{translations.length>0&&<a href={"/translation-lab/#translation-"+translations[0].id} class="btn btn-line">Translate a source in this chapter ↗</a>}<a href="/traditions/" class="btn btn-dark">All regional chapters ↗</a><a href="/seminars/" class="btn btn-line">Graduate seminars ↗</a></div>
     </article>
