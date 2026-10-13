@@ -29,6 +29,12 @@ level: "Advanced undergraduate / graduate"
   </ol>
 </nav>
 
+## Article 10 and the approval of local arms
+
+Romania's framework does more than prescribe hatching of the national emblem. **Article 10 of Law No. 102/1992** provides for the arms of counties, municipalities, towns and communes through a specific approval mechanism. A local proposal and design are not themselves national legislation; the formal approval occurs by **government decision** on the proper local-administrative route, with the competent specialist heraldic review described in implementing practice.
+
+The category of bearer matters. The national golden eagle is governed by the statute and its annex, while a county device has its own record and official approval. Even a shared motif such as the aurochs head cannot substitute for tracing the particular act that established the local emblem. The same source may illustrate two very different public authority relationships.
+
 ## This is a blazon with the force of a statute
 
 A black-and-white reproduction of Romania’s state arms has to communicate tinctures that the ink cannot show directly. The familiar heraldic solution is to substitute dots and lines for colours. Here, however, the choice of patterns also appears in national legislation. We can investigate how a visual convention becomes a prescribed method for reproducing one official emblem, and what that prescription leaves an artist or software system still to resolve.
