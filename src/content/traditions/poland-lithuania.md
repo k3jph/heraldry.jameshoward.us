@@ -30,6 +30,12 @@ level: "Advanced undergraduate / graduate"
   </ol>
 </nav>
 
+## A named adoption at Horodło
+
+The **2 October 1413** act of fraternization was not merely a hypothetical arrangement in which forty-seven anonymous families exchanged devices. The [Orbis Lituaniae documentary account](https://www.ldkistorija.lt/fraternisation-in-horodlo-adopted-coats-of-arms-and-the-real-policy/) identifies, among others, **Jonas Goštautas** as receiving the **Habdank (Abdank)** arms from **Jokub of Rogoźno**, a Polish nobleman. It also names **Kristinas Astikas** receiving the **Trąby**, or Three Horns, arms associated with **Mikołaj Trąba**, archbishop of Gniezno. These cases give the political action identifiable participants and a named heraldic sign.
+
+The adoption brought these Lithuanian nobles into a stated symbolic kinship and political relationship. That does not prove biological descent from the Polish donors; indeed, the distinction is what makes the episode so useful. An invented “Jan of Riverford” is no longer needed to demonstrate why a name under a shared *herb* is not a complete genealogy. The dated adoption and its named participants make the same argument with considerably stronger evidence.
+
 ## A heraldic family need not share a modern surname
 
 A Polish armorial can group several noble families under one named *herb*. The name identifies the arms, so an index entry may connect a family to a shared armorial identity rather than assign it an exclusive design. The term *ród herbowy*, often rendered “heraldic clan,” describes this kind of grouping. To use the record, we have to distinguish the named coat, the families associated with it, and any separately documented genealogical relationships. Otherwise a database can turn a shared armorial name into a descent claim the source never established.
