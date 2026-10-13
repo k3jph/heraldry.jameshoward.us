@@ -30,6 +30,11 @@
     "definition": "Back to back, especially of a pair of animals or birds."
   },
   {
+    "term": "adinkra",
+    "category": "Comparative",
+    "definition": "An Akan system of visual symbols associated with sayings, histories and social meaning, particularly in textiles and related media; not automatically equivalent to European heraldry."
+  },
+  {
     "term": "affronté",
     "category": "Language",
     "definition": "Facing the viewer directly rather than shown in profile."
@@ -67,7 +72,7 @@
   {
     "term": "armas parlantes",
     "category": "Comparative",
-    "definition": "Spanish and Portuguese expression for canting arms."
+    "definition": "Spanish term for canting arms, referring to a pun or verbal allusion to the bearer's name. Portuguese normally uses *armas falantes*."
   },
   {
     "term": "armed",
@@ -82,7 +87,7 @@
   {
     "term": "armiger",
     "category": "People",
-    "definition": "An individual or institution entitled to bear a particular coat of arms under the relevant tradition."
+    "definition": "A person, family, or institution associated with the use of arms; entitlement and inheritance require inquiry into the governing heraldic tradition and evidence."
   },
   {
     "term": "armoiries",
@@ -262,7 +267,7 @@
   {
     "term": "bezant",
     "category": "Charges",
-    "definition": "A bezant is a roundel shown Or (gold); like other roundels, its name conveys its tincture."
+    "definition": "In conventional English blazon, a roundel Or (gold). Other systems may name roundels by their tincture instead of using the specialized English vocabulary."
   },
   {
     "term": "billet",
@@ -295,6 +300,11 @@
     "definition": "A light sky-blue tincture used in some modern British and Commonwealth armory."
   },
   {
+    "term": "Bleu Céleste",
+    "category": "Tinctures",
+    "definition": "A light sky-blue tincture recognized in some heraldic vocabularies; not identical to every rendering of Azure."
+  },
+  {
     "term": "boar",
     "category": "Charges",
     "definition": "A wild pig used as a heraldic animal charge."
@@ -313,6 +323,11 @@
     "term": "brasão",
     "category": "Comparative",
     "definition": "Portuguese term for a coat of arms."
+  },
+  {
+    "term": "Buff",
+    "category": "Tinctures",
+    "definition": "A named buff-coloured tincture occurring in certain modern Canadian and United States military heraldic contexts; its exact formal use is source-specific."
   },
   {
     "term": "Bürgerwappen",
@@ -447,7 +462,7 @@
   {
     "term": "coat of arms",
     "category": "Anatomy",
-    "definition": "A heraldic design belonging to an armiger; strictly distinguished from a crest alone."
+    "definition": "A heraldic design identifying a bearer or claimed bearer, represented by a blazon or emblazonment; whether a particular person is legally or customarily entitled to bear it is a separate question."
   },
   {
     "term": "cockatrice",
@@ -472,7 +487,7 @@
   {
     "term": "College of Arms",
     "category": "Institutions",
-    "definition": "The English corporation of heralds responsible for arms and records in its jurisdiction."
+    "definition": "Name shared by distinct institutions, including the English College of Arms in London and Kenya's statutory College of Arms. Their jurisdictions and functions are not interchangeable."
   },
   {
     "term": "compartment",
@@ -503,6 +518,11 @@
     "term": "contourny",
     "category": "Language",
     "definition": "Facing sinister instead of the direction conventionally expected."
+  },
+  {
+    "term": "Copper",
+    "category": "Tinctures",
+    "definition": "A named copper-coloured tincture used in some modern heraldic grants, including Canadian arms; do not treat it as universally recognized or assume its position in a metal/colour rule without checking the design."
   },
   {
     "term": "coronet",
@@ -547,7 +567,7 @@
   {
     "term": "counterseal",
     "category": "History",
-    "definition": "A seal impression on the reverse of a document or principal seal."
+    "definition": "A separate seal impressed on the back of a principal seal or attached arrangement; it is not necessarily on the reverse of the written document itself."
   },
   {
     "term": "couped",
@@ -1030,6 +1050,11 @@
     "definition": "An equine charge represented in various attitudes."
   },
   {
+    "term": "house mark",
+    "category": "Comparative",
+    "definition": "A geometric personal, household or merchant sign sometimes used on seals, property or trade objects, with particular contexts of ownership and transmission."
+  },
+  {
     "term": "illuminated manuscript",
     "category": "Research",
     "definition": "A manuscript embellished with painting, ornamental work or precious metals."
@@ -1207,7 +1232,7 @@
   {
     "term": "martlet",
     "category": "Charges",
-    "definition": "A stylized heraldic bird, commonly depicted without feet."
+    "definition": "A heraldic bird conventionally represented without visible feet in many European traditions. Some drawings vary; the term is not a species-level zoological identification."
   },
   {
     "term": "mascle",
@@ -1247,7 +1272,7 @@
   {
     "term": "metal",
     "category": "Tinctures",
-    "definition": "A class of tinctures comprising Or and Argent."
+    "definition": "A heraldic class conventionally comprising Or and Argent. Some modern granting authorities also recognize additional named tinctures such as Copper or Buff, whose role must be evaluated in their own compositions."
   },
   {
     "term": "millrind",
@@ -1287,7 +1312,7 @@
   {
     "term": "naissant",
     "category": "Language",
-    "definition": "Emerging partly into view above a line or another figure."
+    "definition": "Rising or emerging from behind an ordinary or division, with the upper part of a charge visible. Distinguish from issuant, which can describe a charge issuing from a line or other feature."
   },
   {
     "term": "nebuly",
@@ -1525,9 +1550,19 @@
     "definition": "Rearing up; a common attitude of a lion and some other beasts."
   },
   {
+    "term": "rank badge",
+    "category": "Comparative",
+    "definition": "An insignia signifying an office or rank, notably embroidered East Asian civil and military badges; species, count, period and local rules matter."
+  },
+  {
     "term": "recto",
     "category": "Research",
     "definition": "The front side of a manuscript leaf, often abbreviated 'r'."
+  },
+  {
+    "term": "red ochre",
+    "category": "Tinctures",
+    "definition": "A named earthy red used in modern armorial practice, including South African descriptions; consult the particular grant for its role."
   },
   {
     "term": "regardant",
@@ -1627,7 +1662,7 @@
   {
     "term": "seax",
     "category": "Charges",
-    "definition": "A single-edged knife or short sword, notably found in certain English civic arms."
+    "definition": "A single-edged blade or short sword, often associated with Saxon material culture and certain civic achievements; its distinctive curved knife form should not be confused with a generic sword."
   },
   {
     "term": "seeded",
@@ -1765,6 +1800,11 @@
     "definition": "An armorial garment worn by a herald to signify the sovereign or office represented."
   },
   {
+    "term": "tamga",
+    "category": "Comparative",
+    "definition": "A mark or sign used in various Eurasian systems of identity, authority or ownership. Its history should not be collapsed into the hereditary western coat-of-arms system."
+  },
+  {
     "term": "tankard",
     "category": "Charges",
     "definition": "A handled drinking vessel shown as a heraldic charge, sometimes employed in canting arms."
@@ -1815,6 +1855,11 @@
     "definition": "A narrow border set inside the field and following the outline of the shield."
   },
   {
+    "term": "tughra",
+    "category": "Comparative",
+    "definition": "A highly structured Ottoman calligraphic insignia naming a ruler and carrying formulaic strokes and curves; used in official and other contexts."
+  },
+  {
     "term": "undy",
     "category": "Geometry",
     "definition": "A traditional alternative term for a gently waving heraldic partition line."
@@ -1842,7 +1887,7 @@
   {
     "term": "vair en point",
     "category": "Tinctures",
-    "definition": "A variant of vair with bell-shaped pieces aligned point to point."
+    "definition": "A rearrangement of the pieces of vair in which neighboring rows are aligned differently from ordinary vair; compare the tips and bases in the actual depiction rather than assuming point-to-point alignment."
   },
   {
     "term": "vair in pale",
