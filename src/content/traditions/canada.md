@@ -33,6 +33,12 @@ level: "Advanced undergraduate / graduate"
   </ol>
 </nav>
 
+## A dated Canadian founding act
+
+The Canadian Heraldic Authority was established by **letters patent issued on 4 June 1988** under the authority of the Governor General acting for the Crown. This was an institutional change, not the beginning of heraldry in Canada. Before 1988 Canadians obtained or inherited arms through other heraldic authorities, notably the College of Arms and the Court of the Lord Lyon, and armorial traditions were also expressed outside those grant systems. The [Canadian Heraldic Authority](https://www.gg.ca/en/heraldry/canadian-heraldic-authority) now provides an official Canadian procedure for granting, registering and recording arms, flags and badges.
+
+The distinction improves the interpretation of a **Canadian registration** of an older grant. The new Canadian record may document the continued use of an already established armorial identity without pretending that the 1988 office issued the original letters patent. The founder's date, the date of a family grant, and the date of its Canadian registration can all be different, and each tells us something different about the authority of the record.
+
 ## A blank shield on a maple leaf
 
 The Canadian Heraldic Authority’s own arms place a small blank shield on a red maple leaf, all on a silver field. The register dates the grant to 15 January 1994 and explains the blank shield as heraldry to be created and recorded for Canadians.[^authority-arms] That is an unusually direct institutional statement: the design identifies an office whose work includes making new identifying designs.
