@@ -29,6 +29,12 @@ level: "Advanced undergraduate / graduate"
   </ol>
 </nav>
 
+## A changed approval route
+
+The procedure for approving Croatian local arms has undergone statutory amendment. The **2004 amendment published as Narodne novine 68/2004** shifted the allocation of the approval role within the Croatian administrative system. An account that describes a present-day municipal approval without this transition risks assigning powers to the wrong institution for an earlier instrument. A city resolution, the relevant state's approval and the published armorial design are different administrative objects.
+
+For comparisons involving Croatia, the original law, **NN 68/2004**, and subsequent consolidated legislation should be checked in that order. A municipal image alone cannot establish which official body approved the arms; nor should a later consolidation date be mistaken for the date the approval power first changed. This distinction is useful whenever we compare national and subnational heraldic administration.
+
 ## A public body's heraldry is a matter of administrative law
 
 A county, city or municipality can be a heraldic bearer without being a hereditary family. Croatia's modern legal framework gives that proposition practical consequences. The [2001 Act on Local and Regional Self-Government](https://narodne-novine.nn.hr/clanci/sluzbeni/2001_04_33_569.html) allows these public bodies to use a *grb* (coat of arms) and *zastava* (flag). Its Article 10 addresses approval procedures and the relationship of those symbols to local statutes or specific decisions.
