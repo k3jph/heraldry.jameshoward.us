@@ -32,6 +32,14 @@ level: "Advanced undergraduate / graduate"
   </ol>
 </nav>
 
+## The succession of the office has dates and a disputed interval
+
+The Ulster King of Arms exercised Crown heraldic functions in Ireland until the reorganization of **1943**, when the office of Chief Herald of Ireland took over functions within the Irish State and the College of Arms in London received the former Ulster office's Northern Ireland work. The office and archive had survived independence in a way that cannot be compressed into a single transfer on the date of the new flag. That institutional succession is relevant when a modern researcher's evidence includes a nineteenth-century Ulster grant and a later Irish confirmation.
+
+The statutory question needs an equally exact date. **Section 13 of the National Cultural Institutions Act 1997** provides an express framework for the Chief Herald's functions, but the order commencing the relevant Part II provisions is [S.I. No. 218/2005](https://www.irishstatutebook.ie/eli/2005/si/218/made/en/print), effective **3 May 2005**. Legal historian [Noel Cox](https://cambrianchambers.com/wp-content/uploads/2015/11/the-law-of-arms-of-ireland-e28093-a-lingering-question-of-authority.pdf) has questioned the statutory basis for heraldic grants made between **1943 and 2005**. That is an attributed argument about authority, not a judicial finding that every grant in the interval was void. It belongs beside the statutory chronology because it explains why the commencement date is more than clerical trivia.
+
+The Chief Herald's past courtesy recognition of some **Chiefs of the Name** is another practice whose administrative history must be separated from modern armorial grants. An identified register entry may show that a claim was considered or recorded; the source must still establish what recognition meant and whether it remains operative.
+
 ## A register continues across a change of government
 
 The National Library of Ireland’s register catalogue for *Grants and Confirmations of Arms*, volume Q, begins in 1943. Its first folio concerns descendants of John H. McCaffrey, including Robert R. McCaffrey in Boston. Another early entry records arms for County Dublin County Council.[^register] Within a single volume, we encounter family descent, the diaspora, and a public corporate bearer. This is a useful introduction to the range of work hidden by the phrase “Irish family crest.”
