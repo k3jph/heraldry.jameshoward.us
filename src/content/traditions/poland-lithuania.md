@@ -94,7 +94,7 @@ For a comparative drawing, keep crescent and star fixed while changing their rel
 
 ## Tarnów’s seal connects a person with a corporate identity
 
-Krzysztof Moskal’s study, published by Tarnów’s municipal library, discusses an early city seal showing Spycimir with a sword and Leliwa shield, accompanied by a Madonna-and-Child image and heraldic helmet-and-crest elements.[^pl-tarnow-seal] The seal’s composition includes a person, a civic issuer and several forms of identification. Cropping it to the shield would remove much of the argument the object makes.
+The municipal library publishes **Krzysztof Moskal's historical study of the lords of Tarnów**. The review could not locate in the linked *text* a description of the early civic seal showing Spycimir with sword, Leliwa shield, Madonna and Child, and helmet-and-crest elements. That reconstruction must therefore be treated as **unverified pending an identified catalogue image or a precise page reference**, not as words directly present in Moskal's account.[^pl-tarnow-seal] The seal’s composition includes a person, a civic issuer and several forms of identification. Cropping it to the shield would remove much of the argument the object makes.
 
 The figure’s arms can identify the represented founder without making the whole seal his personal signet. The legend and documentary attachment help establish the seal’s issuer and use. This is precisely the distinction between depicted identity and issuing authority. A civic institution can represent its relationship with a founder through his figure and arms.
 
