@@ -29,6 +29,12 @@ level: "Advanced undergraduate / graduate"
   </ol>
 </nav>
 
+## Officeholders are not a random sample of participation
+
+Several Canadian examples of consultation and culturally specific charges occur in grants to **viceregal officeholders**. Their participation in the administrative apparatus and access to the Canadian Heraldic Authority make these an unusual sample, not a population-level measure of Indigenous peoples' agency in heraldic design. Even a grant that credits a particular artist or Indigenous contributor establishes the collaboration in that **one design**, not a general policy of co-design for all armigers.
+
+The [Surrey Police Service's register entry](https://www.gg.ca/en/heraldry/public-register/project/3366), for instance, credits a gift by Semiahmoo First Nation artist Leslie Wells in a civic institutional context rather than a vice-regal personal grant. The comparison makes the denominator visible. A specific, credited artistic collaboration is strong evidence of that collaboration; it is not proof that every design using Indigenous imagery was developed under equivalent conditions. The community's own account and the grant's institutional record must be considered together.
+
 ## Imperial choice in the Delhi banners
 
 The 1877 Indian princely banners make the distinction between representation and participation concrete. The armorial series was designed by **Robert Taylor of the Bengal Civil Service** and published in the official ***Princely Armoury***. David F. Phillips's [historical account](https://www.flagheritagefoundation.org/pdfs/emblems-of-the-indian-states.pdf), pp. 9–10, associates acceptance of these imperial banners with subordination to British authority. The British heraldic forms expressed an administration's view of the princely states, even when the motifs referred to particular places or dynasties.
