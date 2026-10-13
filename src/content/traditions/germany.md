@@ -30,6 +30,12 @@ level: "Advanced undergraduate / graduate"
   </ol>
 </nav>
 
+## A German family coat need not originate in a state grant
+
+In German-speaking private armory, a family may **assume** arms through established usage without obtaining an English-style royal patent. The relevant protection is often discussed in connection with **§ 12 of the German Civil Code (BGB)**, concerning the right to a name, applied analogically to armorial identification. The [HEROLD Deutsche Wappenrolle statute, § 13(I)](https://herold-verein.de/heraldik/die-deutsche-wappenrolle-dwr/) expressly states that entry in the DWR **has no constitutive legal effect** (*keine rechtsbegründende Wirkung*). A record of arms can be excellent evidence of an attributed family's use while not being the juridical act creating the right.
+
+This distinction should change how we teach the institution. A German citizen need not first obtain a title of nobility, and registration by a private armorial association is not a state grant. At the same time, self-assumption is not permission to appropriate another family's identifying design. The account must follow documented use, the registered scope of descent and applicable private law instead of assuming that every registered coat is either a Crown grant or mere decoration.
+
 ## Begin with the plurality
 
 A German-language armorial tells us the language in which its compiler worked. It does not, by that fact alone, identify the authority governing every bearer it includes. The territories of the Holy Roman Empire contained intersecting imperial, territorial, ecclesiastical, urban, noble, and private practices. Swiss and Austrian contexts complicate the map further. Begin with the compiler, place, and period, then establish what kind of armorial use the document records. The linguistic connection helps us find sources; the institutional connection explains what they can establish.
