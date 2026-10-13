@@ -15,7 +15,7 @@ const readings=[
   <section class="section">
     <div class="wrap">
       <div class="notice-box" style="margin-bottom:55px"><strong>An editorial principle.</strong><p>Official heraldic authorities are primary sources for their own jurisdictions. Educational societies, books and digital archives are invaluable, but their statements and holdings are not interchangeable with a grant or official register entry.</p></div>
-      {groups.map(group=><section class="resource-group"><p class="eyebrow"><span class="star">✦</span> Annotated directory</p><h2>{group}</h2><div class="resource-list">{resources.filter(item=>item.group===group).map(item=><article class="resource-card"><div class="smallcaps" style="color:var(--red)">{item.type} · {item.jurisdiction}</div><h3>{item.title}</h3><p>{item.description}</p><a href={item.url} target="_blank" rel="noopener noreferrer">Visit source ↗</a></article>)}</div></section>)}
+      {groups.map(group=><section class="resource-group"><p class="eyebrow"><span class="star">✦</span> Annotated directory</p><h2>{group}</h2><div class="resource-list">{resources.filter(item=>item.group===group).map(item=><article class="resource-card"><div class="smallcaps" style="color:var(--red)">{item.type} · {item.jurisdiction}</div><h3>{item.title}</h3><p>{item.description}</p><a href={item.url} target="_blank" rel="noopener noreferrer">Visit source ↗</a>{item.chapter&&<a href={item.chapter} class="text-link" style="margin-left:16px">Read regional study ↗</a>}</article>)}</div></section>)}
     </div>
   </section>
   <section class="section section-toned">
