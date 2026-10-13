@@ -66,23 +66,23 @@
         "question": "Why may two drawings with different artistic styles represent the same arms?",
         "choices": [
           "Every heraldic drawing is legally interchangeable",
-          "The blazon defines elements that can be rendered in different styles",
           "Medieval artists did not use colour",
+          "The blazon defines elements that can be rendered in different styles",
           "A motto replaces the shield"
         ],
-        "correct": 1,
+        "correct": 2,
         "explanation": "The blazon describes the armorial identity; exact illustration style is often flexible."
       },
       {
-        "question": "Does sharing a surname establish an entitlement to someone's coat of arms?",
+        "question": "A later copy of the Dering Roll names a bearer whose shield also appears in an earlier witness. What makes the attribution defensible?",
         "choices": [
-          "Always",
-          "Only on weekends",
-          "No; the right depends on applicable law and documented descent or grant",
-          "Yes, if the design appears online"
+          "A shared picture proves the two documents were produced at the same time.",
+          "The later copy cancels the earlier document's attribution because it is more legible.",
+          "The surname on either copy transfers the arms to every person using that name.",
+          "Agreement of the image and identified bearer can be weighed with each witness's provenance and dating."
         ],
-        "correct": 2,
-        "explanation": "Heraldic entitlement is not automatically surname-wide."
+        "correct": 3,
+        "explanation": "A dated, located witness connects a design and a named bearer. A second depiction can strengthen an attribution without becoming an independent grant."
       }
     ],
     "reading": [
@@ -158,35 +158,35 @@
       {
         "question": "Which part most directly bears the coat of arms?",
         "choices": [
-          "The shield",
           "The compartment",
           "The motto scroll",
+          "The shield",
           "The helmet alone"
         ],
-        "correct": 0,
+        "correct": 2,
         "explanation": "The shield bears the essential armorial design."
       },
       {
         "question": "In heraldic terminology, the crest is:",
         "choices": [
           "A decorative border on the shield",
-          "The device atop the helm",
           "An alternative name for the entire achievement",
-          "Always a crown"
+          "Always a crown",
+          "The device atop the helm"
         ],
-        "correct": 1,
+        "correct": 3,
         "explanation": "A crest is a specific component placed over the helm."
       },
       {
-        "question": "Can anyone add supporters and assume they are part of granted arms?",
+        "question": "On the Halewyn enamel, angels flank an armorial lozenge. Which conclusion follows from the visible scene?",
         "choices": [
-          "Yes, universally",
-          "Yes, if the supporter is a lion",
-          "No; rules and entitlement differ by jurisdiction",
-          "Only if the shield is red"
+          "The plaque depicts angels presenting arms, but any supporter entitlement needs separate evidence.",
+          "The angels are a formally granted pair of hereditary supporters.",
+          "The lozenge must be a traditional heater-shaped shield.",
+          "The lozenge proves that the two families had identical arms."
         ],
-        "correct": 2,
-        "explanation": "Supporters are jurisdiction- and entitlement-sensitive."
+        "correct": 0,
+        "explanation": "Narrative figures may present arms without becoming blazoned supporters. The lozenge and inescutcheon must also be described accurately."
       }
     ],
     "reading": [
@@ -273,34 +273,34 @@
         "question": "Which are the traditional metals?",
         "choices": [
           "Azure and Vert",
-          "Or and Argent",
           "Gules and Sable",
-          "Purpure and Azure"
+          "Purpure and Azure",
+          "Or and Argent"
         ],
-        "correct": 1,
+        "correct": 3,
         "explanation": "Or and Argent represent gold and silver (often yellow and white)."
       },
       {
         "question": "What does 'Gules' denote?",
         "choices": [
+          "Red",
           "Green",
           "Purple",
-          "Red",
           "Black"
         ],
-        "correct": 2,
+        "correct": 0,
         "explanation": "Gules is the heraldic name for red, one of the principal colours."
       },
       {
-        "question": "Is the simple colour-on-colour warning sufficient to declare arms legally invalid everywhere?",
+        "question": "Whitehorse uses Copper, and parts of an Argent-and-Azure bar lie against its field. What should a study of tincture categories examine?",
         "choices": [
-          "Yes",
-          "No, legal rules and heraldic exceptions require more context",
-          "Only for Azure",
-          "Only for contemporary grants"
+          "Only whether Copper looks metallic on a computer monitor.",
+          "The actual touching surfaces in the blazon, including Argent next to Copper and Azure beside the other portions.",
+          "Only the crest, since the field cannot convey tincture relationships.",
+          "A fixed international rule assigning every novel tincture to the same class."
         ],
         "correct": 1,
-        "explanation": "It is an introductory design heuristic, not a legal or comprehensive heraldic test."
+        "explanation": "A novel tincture needs all of its immediate backgrounds checked. The Whitehorse blazon complicates a simplistic metal-versus-colour argument."
       }
     ],
     "reading": [
@@ -387,35 +387,35 @@
       {
         "question": "Dexter refers to:",
         "choices": [
-          "The viewer's right",
           "The bearer's right",
+          "The viewer's right",
           "The top of the shield",
           "The lower left corner"
         ],
-        "correct": 1,
+        "correct": 0,
         "explanation": "Heraldic orientation is taken from the bearer, facing outward."
       },
       {
         "question": "'Per fess' divides the field:",
         "choices": [
-          "Horizontally",
           "Vertically",
+          "Horizontally",
           "Diagonally",
           "Into eight triangles"
         ],
-        "correct": 0,
+        "correct": 1,
         "explanation": "Per fess is a horizontal division."
       },
       {
-        "question": "Does quartering always prove four known grandparents' coats of arms?",
+        "question": "A small star appears on the viewer's left of a shield. A catalogue calls its location 'dexter'. What interpretation fits heraldic orientation?",
         "choices": [
-          "Yes",
-          "No; the significance of quartering depends on legal and historical context",
-          "Only in Scotland",
-          "Only on square shields"
+          "The catalogue contradicts the photograph because dexter means the viewer's right.",
+          "The star occupies the lower part of the field in all depictions.",
+          "Dexter means the bearer's right, which appears on the viewer's left.",
+          "The term dexter only applies to a shield held in the right hand."
         ],
-        "correct": 1,
-        "explanation": "Armorial quartering is not interchangeable with a four-grandparent genealogy chart."
+        "correct": 2,
+        "explanation": "Orientation is conventionally described from the armiger's perspective rather than the viewer's."
       }
     ],
     "reading": [
@@ -490,37 +490,37 @@
     },
     "quiz": [
       {
-        "question": "Which is a horizontal band charged on the field?",
+        "question": "Which ordinary is a broad horizontal band placed upon a field?",
         "choices": [
-          "A fess",
           "A pale",
+          "A fess",
           "A bend",
           "A saltire"
         ],
-        "correct": 0,
-        "explanation": "The fess is the principal horizontal ordinary."
+        "correct": 1,
+        "explanation": "A fess is an ordinary occupying a broad horizontal strip, not the division of the field itself."
       },
       {
         "question": "Which blazon specifies a divided field?",
         "choices": [
           "Or, a fess Azure",
-          "Per fess Or and Azure",
           "Azure, a chief Or",
+          "Per fess Or and Azure",
           "Gules, a pale Argent"
         ],
-        "correct": 1,
+        "correct": 2,
         "explanation": "The word 'per' signals a division of the field."
       },
       {
-        "question": "Which shape is a diagonal X?",
+        "question": "A drawing shows a horizontal gold band across a red field. Which blazon preserves the distinction between a fess and a divided field?",
         "choices": [
-          "Chief",
-          "Chevron",
-          "Saltire",
-          "Pale"
+          "Per fess Gules and Or describes any gold stripe.",
+          "Or, a pale Gules and Gules, a fess Or describe the same charge.",
+          "A chief Or is interchangeable with a fess Or because both are horizontal.",
+          "Gules, a fess Or describes a gold ordinary on red; per fess Gules and Or describes two fields divided horizontally."
         ],
-        "correct": 2,
-        "explanation": "A saltire is a diagonal cross."
+        "correct": 3,
+        "explanation": "A fess is a horizontal ordinary placed on a field; per fess partitions the field into two tinctured areas."
       }
     ],
     "reading": [
@@ -598,34 +598,34 @@
         "question": "What is a martlet?",
         "choices": [
           "A type of shield",
-          "A conventional heraldic bird, often shown without feet",
           "A golden helmet",
+          "A conventional heraldic bird, often shown without feet",
           "A broad diagonal band"
         ],
-        "correct": 1,
+        "correct": 2,
         "explanation": "The martlet is a recognizable traditional heraldic bird charge."
       },
       {
         "question": "A lion 'rampant' is generally:",
         "choices": [
           "Walking",
-          "Rearing upright",
           "Lying down",
-          "Looking backward"
+          "Looking backward",
+          "Rearing upright"
         ],
-        "correct": 1,
+        "correct": 3,
         "explanation": "Rampant describes a lion rearing, commonly on one hind leg."
       },
       {
-        "question": "What best establishes why a charge was chosen?",
+        "question": "A manuscript bird looks like a martlet but has an indistinct foot. What is the responsible identification?",
         "choices": [
-          "An unsourced universal symbolism chart",
-          "The evidence in a relevant grant and historical documentation",
-          "The bearer's surname alone",
-          "The charge's colour on a website"
+          "Treat 'martlet' as a plausible heraldic identification and compare the blazon and other dated depictions.",
+          "Reject the martlet immediately because every historical artist used the same silhouette.",
+          "Conclude the bird must represent a particular modern species.",
+          "Infer the bearer's birth order from the bird alone."
         ],
-        "correct": 1,
-        "explanation": "Contemporary and primary records make far stronger claims about intent than universalized symbolism lists."
+        "correct": 0,
+        "explanation": "The conventionally footless martlet has variable historic renderings. Its identification and genealogical meaning need other evidence."
       }
     ],
     "reading": [
@@ -704,34 +704,34 @@
         "question": "What is the usual first element of a simple English-language blazon?",
         "choices": [
           "The motto",
-          "The field",
           "The artist's name",
-          "The helmet"
+          "The helmet",
+          "The field"
         ],
-        "correct": 1,
+        "correct": 3,
         "explanation": "The field and its tincture or division generally come first."
       },
       {
         "question": "What is the difference between 'on a fess' and 'between' charges?",
         "choices": [
-          "None",
           "On a fess places charges on the band; between places charges in the surrounding field",
+          "None",
           "One is Scottish and the other illegal",
           "Only the tincture changes"
         ],
-        "correct": 1,
+        "correct": 0,
         "explanation": "Those prepositions specify placement and thus change the arms."
       },
       {
-        "question": "Can a basic online blazon generator establish a legal right to arms?",
+        "question": "An English blazon says 'a fess Or between three roses Argent'. Which explanation preserves the charge relationship?",
         "choices": [
-          "Yes, after export",
-          "No",
-          "Yes, once it uses the correct shade of Azure",
-          "Only if the shield contains a lion"
+          "The roses lie on the fess, exactly as if the blazon said 'on a fess'.",
+          "The roses belong in the surrounding field, while the fess occupies the band between them.",
+          "The fess is an inescutcheon and the roses are external ornaments.",
+          "The words describe only the tincture of a field divided per fess."
         ],
         "correct": 1,
-        "explanation": "A design and its description do not constitute a legal grant or proof of entitlement."
+        "explanation": "'Between' positions charges in the field around an ordinary; 'on' places them on it. The decoder must not substitute one for the other."
       }
     ],
     "reading": [
@@ -807,35 +807,35 @@
       {
         "question": "What is cadency concerned with?",
         "choices": [
-          "The speed of a procession",
           "Distinguishing armorial bearers within a family",
+          "The speed of a procession",
           "Mixing red and blue ink",
           "Choosing the shape of a shield"
         ],
-        "correct": 1,
+        "correct": 0,
         "explanation": "Cadency marks or differences can distinguish family members and branches."
       },
       {
-        "question": "Which conventional English cadency mark is associated with a fourth son?",
+        "question": "A Scottish branch claims a bordure as its difference. Which action best tests that attribution?",
         "choices": [
-          "Label",
-          "Martlet",
-          "Crescent",
-          "Mullet"
+          "Apply the English fourth-son mark automatically.",
+          "Check a Lyon matriculation and the branch's documented pedigree.",
+          "Look for the same coloured border on an unrelated shield.",
+          "Infer the branch from the surname printed under the illustration."
         ],
         "correct": 1,
-        "explanation": "The traditional sequence associates a martlet with the fourth son."
+        "explanation": "In Scotland a branch difference depends on the documented matriculation and genealogy rather than an English birth-order mnemonic."
       },
       {
-        "question": "What is a Scottish matriculation?",
+        "question": "A Scottish cadet shield has a differenced bordure. What evidence is needed before assigning it to a particular descendant?",
         "choices": [
-          "An online ancestry subscription",
-          "A formal registration of arms, often differentiated for a descendant",
-          "A university course",
-          "A decorative border"
+          "The colour of the bordure alone gives an exact universally prescribed birth order.",
+          "The English sequence of crescent, mullet and martlet used unchanged.",
+          "A Scottish matriculation or other relevant record connecting that form with the proposed bearer.",
+          "A modern owner's shared surname and choice of shield shape."
         ],
-        "correct": 1,
-        "explanation": "Matriculation is a legal and documentary process administered by the Court of the Lord Lyon."
+        "correct": 2,
+        "explanation": "The recorded Scottish bordure difference requires a documentary connection to an individual or branch; it is not a mechanical translation of the English chart."
       }
     ],
     "reading": [
@@ -928,24 +928,24 @@
       {
         "question": "What does impalement commonly do?",
         "choices": [
-          "Places arms side by side in one shield",
           "Erases one field",
           "Adds a motto",
+          "Places arms side by side in one shield",
           "Turns a shield upside down"
         ],
-        "correct": 0,
+        "correct": 2,
         "explanation": "Impalement commonly combines arms side by side."
       },
       {
-        "question": "Does finding ancestral arms automatically establish a right to quarter them?",
+        "question": "The Halewyn–Van Ghistele enamel shows two coats impaled on a lozenge. What additional evidence would justify naming a specific marriage?",
         "choices": [
-          "Yes",
-          "No, specific legal and genealogical conditions matter",
-          "Only if the design has four tinctures",
-          "Only if the surname matches"
+          "The mere presence of a vertical division in the enamel.",
+          "The two angels in the surrounding narrative scene.",
+          "The lozenge's decorative outline regardless of provenance.",
+          "A documentary record connecting the two identified families through the proposed spouses."
         ],
-        "correct": 1,
-        "explanation": "Quartering and entitlement depend on rules and proved inheritance, not collecting family names."
+        "correct": 3,
+        "explanation": "The museum identifies the combined coats, but identifying spouses or a patron requires a documentary connection beyond the geometry of impalement."
       }
     ],
     "reading": [
@@ -1023,11 +1023,11 @@
         "question": "Which institution is Scotland's official heraldic authority?",
         "choices": [
           "The College of Arms",
-          "The Court of the Lord Lyon",
           "The Smithsonian",
+          "The Court of the Lord Lyon",
           "The International Olympic Committee"
         ],
-        "correct": 1,
+        "correct": 2,
         "explanation": "The Court of the Lord Lyon administers Scottish heraldic grants and matriculations."
       },
       {
@@ -1035,22 +1035,22 @@
         "choices": [
           "1066",
           "1484",
-          "1988",
-          "2019"
+          "2019",
+          "1988"
         ],
-        "correct": 2,
+        "correct": 3,
         "explanation": "Canada's modern Heraldic Authority was created in 1988."
       },
       {
-        "question": "Does the United States operate a single federal office equivalent to the College of Arms for all personal arms?",
+        "question": "A Kenya College of Arms register and a London College of Arms grant use similar institutional language. Which comparison is valid?",
         "choices": [
-          "Yes",
-          "No",
-          "Only in Maryland",
-          "Only for genealogists"
+          "Each act must be read under its own statute, office, date and territorial remit.",
+          "They are the same corporate institution because their names match.",
+          "The English College automatically grants all Kenyan municipal arms.",
+          "The more detailed drawing determines which country's law applies."
         ],
-        "correct": 1,
-        "explanation": "There is no equivalent nationwide federal authority for personal grants."
+        "correct": 0,
+        "explanation": "Kenya's statutory College and England's College of Arms have different institutional origins and functions; matching names cannot substitute for legal identification."
       }
     ],
     "reading": [
@@ -1138,34 +1138,34 @@
         "question": "Which can legitimately bear arms in many heraldic traditions?",
         "choices": [
           "Only medieval knights",
-          "Individuals and corporate bodies",
           "Only hereditary monarchs",
-          "Only military officers"
+          "Only military officers",
+          "Individuals and corporate bodies"
         ],
-        "correct": 1,
+        "correct": 3,
         "explanation": "Heraldry has long included civic, ecclesiastical, and corporate armigers."
       },
       {
         "question": "Is every institutional logo automatically a coat of arms?",
         "choices": [
-          "Yes",
           "No",
+          "Yes",
           "Only if it contains a shield",
           "Only if it uses blue"
         ],
-        "correct": 1,
+        "correct": 0,
         "explanation": "Heraldic identity and modern branding overlap but are not identical."
       },
       {
-        "question": "A historical coat of arms can provide evidence about:",
+        "question": "A state reproduces an older coat of arms as a modern institutional logo. What can be concluded from the shared design?",
         "choices": [
-          "Institutional identity and political history",
-          "The identity of every resident in a town",
-          "A person's annual income",
-          "The artist's exact Pantone chart"
+          "Every new logo is automatically the official historical coat of arms.",
+          "The shared motif establishes historical continuity of visual identity, but the logo's permissions and official standing require their own records.",
+          "The change of medium destroys any possible relationship between the designs.",
+          "The state grants private ownership of the old arms to the logo designer."
         ],
-        "correct": 0,
-        "explanation": "Arms are historical objects and sources about organizational or personal identity."
+        "correct": 1,
+        "explanation": "A reused motif can provide evidence of visual continuity but does not by itself establish identical administrative authorization for a modern logo."
       }
     ],
     "reading": [
@@ -1241,15 +1241,15 @@
     },
     "quiz": [
       {
-        "question": "Which is generally strongest evidence of an historic grant of arms?",
+        "question": "A printed armorial and a later family website give the same coat to a named ancestor. Which evidentiary step is still essential?",
         "choices": [
-          "A surname-keyed merchandise listing",
-          "An official grant or register record",
-          "An unsourced family tree",
-          "A modern decorative painting"
+          "Checking that the armorial actually identifies the ancestor, and that any claimed descent is documented.",
+          "Counting how many internet pages reproduce the same image.",
+          "Choosing the newer illustration because it has more visible tinctures.",
+          "Treating the surname as proof that all same-named families share the grant."
         ],
-        "correct": 1,
-        "explanation": "Primary official records are usually the strongest starting point for entitlement and identity questions."
+        "correct": 0,
+        "explanation": "A printed armorial can support identification of a historical bearer, but a present entitlement requires the appropriate connecting evidence."
       },
       {
         "question": "What does an SVG exported from the Atelier establish?",
@@ -1263,15 +1263,15 @@
         "explanation": "The design tool is educational, not a heraldic authority."
       },
       {
-        "question": "Which deliverables belong to both capstone routes?",
+        "question": "A museum catalogue identifies a coat of arms, but the image is too small to read all of its charges. What makes a defensible capstone claim?",
         "choices": [
-          "A new shield and personal crest, whether or not one is in the evidence",
-          "A located source or documented design framework, a witness inventory, a claim ledger and explicit limitations",
-          "Proof that the applicant has inherited the arms",
-          "An SVG exported from the Atelier"
+          "A full blazon reconstructed from what the motif probably meant.",
+          "An unidentified family's genealogy inferred from the catalogue's date.",
+          "A witness inventory noting the named catalogue attribution, observed details and unresolved parts before drawing conclusions.",
+          "A statement that a published museum image establishes armorial entitlement."
         ],
-        "correct": 1,
-        "explanation": "Both routes demand a source-grounded 1,200–1,800-word argument, witness inventory, claim ledger and limitations. Only the design route requires creating a new armorial proposal."
+        "correct": 2,
+        "explanation": "The capstone separates the museum's attribution from direct observations and preserves uncertainties through a witness inventory and claim ledger."
       }
     ],
     "reading": [
