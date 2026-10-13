@@ -142,7 +142,7 @@ Finally, write a short account explaining how an error could become established 
 1. [Poslanecká sněmovna, REKOS](https://www.rekos.psp.cz/) — parliamentary overview and administrative procedure.
 2. [REKOS, *Vyhledání symbolu*](https://rekos.psp.cz/vyhledani-symbolu) — searchable database.
 
-**Research frontier:** the Bohemian Crown lands, Moravian and Silesian armorial traditions, noble and urban heraldry before 1918, the interwar Czechoslovak state and differences within contemporary Slovakia.
+**Further comparative work:** the Bohemian Crown lands, Moravian and Silesian armorial traditions, noble and urban heraldry before 1918, the interwar Czechoslovak state, and the separately governed Slovak public-armorial tradition, already introduced in the [Slovakia chapter](/traditions/slovakia/).
 
 <aside class="editorial-notice" aria-label="Editorial note">
 <p><strong>Editorial status:</strong> Original English synthesis supported by linked sources. Scope and interpretive assumptions are explicit. Specialist and, where relevant, community review remain to be completed.</p>
