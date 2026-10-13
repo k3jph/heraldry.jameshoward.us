@@ -28,6 +28,12 @@ level: "Advanced undergraduate / graduate"
   </ol>
 </nav>
 
+## Competing scholarly models of imperial insignia
+
+Calling Byzantine imperial signs “heraldry” makes an historical and terminological argument, not merely a visual observation. **Pseudo-Kodinos's fourteenth-century ceremonial account** describes court insignia and display within a structured hierarchy of office. Meanwhile the **Palaiologan cross with four firesteel-like devices** shows a configuration later incorporated into Balkan and Serbian armorial histories. The recurrence of an identifiable sign under a dynasty is evidence of an identity system, but its transmission through ceremonial dress, banners and architecture does not alone establish western-style hereditary blazon and grants.
+
+The counterposition is equally important. Western European heraldic terminology can help us describe the shield-shaped images visible in some late Byzantine and post-Byzantine contexts. Scholars who treat these as signs of heraldic influence must still explain **which particular institutions, dated objects and encounters** carried it. The Byzantine scholarly problem is not decided by calling a double-headed eagle a coat of arms, or by declaring every shield-bearing motif non-heraldic in advance. The chapter should retain this competing interpretation as a testable historical hypothesis.
+
 ## An eagle with a changing job
 
 The Metropolitan Museum’s late-fourteenth-century eagle embroidery, accession 12.104.1, was once presented as a military banner. Its current catalogue calls it an altar cloth or podea, a textile hung below an icon, and connects its inscription with a claimant to ecclesiastical authority.[^byz-podea] The same object has therefore supported different accounts of what the eagle was doing. That is a better starting point for Byzantine heraldry than selecting an attractive modern flag and declaring the problem solved.
