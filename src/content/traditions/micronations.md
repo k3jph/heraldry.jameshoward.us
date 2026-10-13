@@ -32,6 +32,8 @@ level: "Advanced undergraduate / graduate"
   </ol>
 </nav>
 
+> **Author interest.** The author has participated in micronational heraldic institutions, including work associated with Westarctica. This personal experience is not evidence of international recognition or legal sovereignty; institutional claims here are assessed from their documented sources.
+
 ## An emblem can help make a community visible
 
 Molossia’s national-symbols page describes greater and lesser arms using blue, white, and green bars, a rampant mustang, a sunburst, crown, and plumes. It explains the crown through the community’s earlier kingdom identity.[^symbols] That is a concrete armorial composition accompanied by an account of historical continuity. Whether an outside State recognizes Molossia is a separate question from whether its community uses identifying arms.
