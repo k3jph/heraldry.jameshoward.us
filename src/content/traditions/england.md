@@ -31,6 +31,12 @@ level: "Advanced undergraduate / graduate"
   </ol>
 </nav>
 
+## The Dering Roll gives us named English witnesses
+
+The [British Library catalogue for Add Roll 77720](https://searcharchives.bl.uk/catalog/032-002170730) describes **324 shields on four parchment pieces, arranged in 54 rows of six**. It names the roll's Kent and Sussex orientation and includes **fifteen sheriffs of Kent and four constables of Dover Castle**. A missing or erased inscription is recorded at five particular positions. These facts allow an exercise with real witness units: one shield, its name or absent name, its position in a row, and the manuscript's provenance. The image and name do not by themselves verify every connection to later genealogies.
+
+For an English documentary example, take the arms labelled in the Roll's earlier rows and compare the original hand against one of the later copies listed by the British Library. The library identifies **eleven later witnesses**, including the sixteenth-century Queen's College manuscript. This is stronger than a fifth invented council-merger scenario because the student has actual evidence of copying, naming, omission and change. The English case teaches why a heraldic identity can persist across copies while particular visual details and attributions remain open.
+
 ## Start with a roll, not a surname
 
 A medieval roll of arms makes heraldry look deceptively straightforward. Shields appear in rows, names accompany them, and a modern reader can imagine using the result as a directory. The Dering Roll, dated approximately 1270–1280, presents 324 shields. The College of Arms relates it to people owing service to the Constable of Dover Castle.[^dering] That setting gives the arrangement a purpose: it brings identifiable people into a political and military relationship. We should begin with that relationship before treating the shields as ornaments floating free of their bearers.
