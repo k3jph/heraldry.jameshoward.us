@@ -1,6 +1,7 @@
 ---
 import Base from '../../layouts/Base.astro';
 import Shield from '../../components/Shield.astro';
+import AchievementDiagram from '../../components/AchievementDiagram.astro';
 import lessons from '../../data/course.json';
 import {blazon} from '../../lib/heraldry.js';
 export function getStaticPaths(){
@@ -26,7 +27,7 @@ const next=lessons[lesson.number]||null;
           <div class="lecture-visual">
             <span class="smallcaps" style="color:var(--gold-light)">The Heraldry Project · Illustrated lecture</span>
             <div class="lecture-decoration" aria-hidden="true">✣</div>
-            <div id="lecture-art" class="shield-illustration"><Shield design={lesson.example} id={'lecture-'+lesson.slug}/></div>
+            <div id="lecture-art" class="shield-illustration">{lesson.slug==='anatomy-of-arms'?<AchievementDiagram />:<Shield design={lesson.example} id={'lecture-'+lesson.slug}/>}</div>
             <div class="lecture-art-footer"><span id="lecture-art-label">Shield study · {blazon(lesson.example)}</span><span>{String(lesson.number).padStart(2,'0')} / 12</span></div>
           </div>
           <div class="lecture-text">
@@ -52,7 +53,7 @@ const next=lessons[lesson.number]||null;
           </div>
         </aside>
       </div>
-      <div class="notice-box" style="margin-top:23px"><strong>A guided introduction to the expanded chapter.</strong><p>The slides introduce one concept at a time using the teaching illustrations. The Academy reading then works through documentary examples and gives you the sources needed to check them. If you prefer to listen, the narration uses your browser’s speech-synthesis service.</p><a href={'/academy/'+lesson.slug+'/'} class="text-link">Read the expanded chapter ↗</a></div>
+      <div class="notice-box" style="margin-top:23px"><strong>A guided introduction to the expanded chapter.</strong><p>The guided lecture introduces one concept at a time. The anatomy unit supplies an illustrated complete achievement; other lessons may use simpler shield studies. The Academy reading then works through documentary examples and gives you the sources needed to check them. If you prefer to listen, the narration uses your browser’s speech-synthesis service.</p><a href={'/academy/'+lesson.slug+'/'} class="text-link">Read the expanded chapter ↗</a></div>
     </div>
   </section>
   <section class="section section-dark" style="padding:70px 0">
