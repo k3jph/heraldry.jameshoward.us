@@ -4,7 +4,7 @@ description: "Danish heraldry through lions and hearts, the revised royal achiev
 region: "Denmark"
 languages: ["da", "en"]
 track: "Comparative traditions"
-period: "Medieval period–present"
+period: "Medieval royal seals to the 2024 royal resolution and 2025 usage"
 sourceIds: ["dk-public", "dk-guide", "dk-royal-2025", "dk-royal-composition", "dk-copenhagen-1661", "dk-copenhagen-commercial"]
 level: "Advanced undergraduate / graduate"
 ---
