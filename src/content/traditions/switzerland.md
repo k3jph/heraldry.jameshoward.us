@@ -29,6 +29,12 @@ level: "Advanced undergraduate / graduate"
   </ol>
 </nav>
 
+## Public arms have a federal legal framework
+
+The Swiss **Federal Act on the Protection of the Swiss Coat of Arms and Other Public Signs of 21 June 2013** (*Wappenschutzgesetz*, SR 232.21), in force from **1 January 2017**, protects official public symbols. Its legal categories encompass federal, cantonal and communal arms and certain other public signs, with rules on their use and confusion with private marks. The [Swiss government legislation portal](https://www.fedlex.admin.ch/eli/cc/2015/613/en) is the controlling text.
+
+This law concerns *public* arms. It does not convert the early Zürich armorial roll into a federal register of private family arms, or impose an English grant procedure on every family in Switzerland. A historical family shield, a cantonal flag and a contemporary commercial logo raise different questions. The statute gives the public-emblem case an answer that a purely artistic comparison would miss.
+
 ## A cantonal collection is not a national grant office
 
 The State Archives of Bern offers a family-armorial collection organized through families’ places of origin. Its guidance disclaims liability and states that arms cannot be officially registered or legally protected in the setting it describes.[^ch-bern] A record in this collection is consequently not the same institutional act as a grant by a heraldic authority.
