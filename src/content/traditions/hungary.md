@@ -29,6 +29,12 @@ level: "Advanced undergraduate / graduate"
   </ol>
 </nav>
 
+## Armalist nobility and county publication
+
+A charter granting nobility or a coat of arms could be issued under the Hungarian Crown and recorded in the administration of a **county**. Such **armalist** grants (*armális*, from Latin *litterae armales*) often conveyed noble standing and a specified coat while requiring examination of local publication, verification and descendants' status. The grant's text, public proclamation or county record, and later use of the arms are not simply three copies of one administrative act.
+
+The [Hungarian National Archives' study of John Hunyadi's 1453 augmentation](https://mnl.gov.hu/mnl/ol/hirek/hunyadi_janos_cimerbovitese) shows why a dated charter is stronger evidence than a modern image. The royal instrument altered a specific armorial design, while later editions and family histories may transmit its imagery. The reader should distinguish a medieval augmentation, the administrative procedure governing a different early modern armorial grant, and the constitutional status of nobility after the end of the monarchy.
+
 ## A kingdom of charters, not just illustrations
 
 Hungarian armorial history can be investigated through the [National Archives' *címereslevél* database](https://aol.mnl.gov.hu/adatbazis/cimereslevel-adatbazis/informacio). The Hungarian term *címereslevél* can be rendered 'armorial letter' or 'charter of arms'; the common term *armális* derives from Latin *litterae armales*. Such documents can record not only what the coat of arms looked like, but who granted it, to whom, in what social context and under what procedural conditions. They may bear a seal, inscriptions, a pictorial coat, and signs of later handling. The archives present their surviving holdings as documents for **diplomatics, paleography, sigillography, law, genealogy and visual history**, not merely decoration.
