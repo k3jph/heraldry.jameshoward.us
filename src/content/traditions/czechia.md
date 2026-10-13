@@ -27,6 +27,12 @@ level: "Advanced undergraduate / graduate"
   </ol>
 </nav>
 
+## Municipal arms and a specific parliamentary officer
+
+**Section 34a of Act No. 128/2000 Sb., on municipalities**, specifies the approval mechanism. The **Speaker of the Chamber of Deputies** may grant or change a municipal coat of arms or flag on a municipality's application. The operative [Czech legislation in the e-Sbírka](https://e-sbirka.gov.cz/sb/2000/128) is the appropriate authority, while the parliamentary [REKOS register](https://www.rekos.psp.cz/) records the results. The application, Speaker's act and database record are distinguishable documentary events.
+
+Czechoslovakia's republic abolished noble titles and the inherited legal privileges associated with the previous state in **1918**. A historical armorial patent nevertheless remains an archival source rather than disappearing with the nobiliary status it once reflected. Modern Czech municipal grants have their own statutory basis; they must not be explained as a continuation of the Habsburg personal nobility system. The separate Slovak municipal and register regime is covered in the [Slovakia study](/traditions/slovakia/), not a missing territory awaiting a Czech administrator.
+
 ## The ordinary municipal coat is historically interesting
 
 A municipal coat identifies a public body whose elected officers can change while the institution continues. That makes the [Czech Parliament's REKOS register](https://www.rekos.psp.cz/) useful for studying both visual identity and administration. Its records connect coats and flags to named municipalities and, where applicable, dated authorizations. We can follow a design into the procedure that established its official use, then ask how that act relates to older local imagery. The picture becomes an entry into an institutional history.
